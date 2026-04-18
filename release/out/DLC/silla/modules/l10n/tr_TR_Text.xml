@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_SILLA1" Language="tr_TR">
+      <Text>Seorabeol</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA10" Language="tr_TR">
+      <Text>Bulsa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA11" Language="tr_TR">
+      <Text>Anya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA12" Language="tr_TR">
+      <Text>Ballo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA13" Language="tr_TR">
+      <Text>Mioyama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA14" Language="tr_TR">
+      <Text>Gosunsi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA15" Language="tr_TR">
+      <Text>Juseon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA16" Language="tr_TR">
+      <Text>Andong</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA17" Language="tr_TR">
+      <Text>Gijeo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA18" Language="tr_TR">
+      <Text>Geochilsan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA19" Language="tr_TR">
+      <Text>Jinhae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA2" Language="tr_TR">
+      <Text>Daegu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA20" Language="tr_TR">
+      <Text>Pohang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA21" Language="tr_TR">
+      <Text>Yeongdeok</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA22" Language="tr_TR">
+      <Text>Cheongsong</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA23" Language="tr_TR">
+      <Text>Uiseong</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA24" Language="tr_TR">
+      <Text>Gyeongsan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA25" Language="tr_TR">
+      <Text>Miryang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA26" Language="tr_TR">
+      <Text>Changnyeong</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA27" Language="tr_TR">
+      <Text>Gumi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA28" Language="tr_TR">
+      <Text>Gulja</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA29" Language="tr_TR">
+      <Text>Iseo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA3" Language="tr_TR">
+      <Text>Yeodam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA30" Language="tr_TR">
+      <Text>Chuhwa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA4" Language="tr_TR">
+      <Text>Ulsan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA5" Language="tr_TR">
+      <Text>Horo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA6" Language="tr_TR">
+      <Text>Gamno</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA7" Language="tr_TR">
+      <Text>Yeomhae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA8" Language="tr_TR">
+      <Text>Geun-gi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SILLA9" Language="tr_TR">
+      <Text>Dongno</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_1" Language="tr_TR">
+      <Text>Garam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_10" Language="tr_TR">
+      <Text>Mira</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_2" Language="tr_TR">
+      <Text>Geuru</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_3" Language="tr_TR">
+      <Text>Naro</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_4" Language="tr_TR">
+      <Text>Nana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_5" Language="tr_TR">
+      <Text>Narae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_6" Language="tr_TR">
+      <Text>Noeul</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_7" Language="tr_TR">
+      <Text>Dal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_8" Language="tr_TR">
+      <Text>Miru</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_FEMALE_9" Language="tr_TR">
+      <Text>Baram</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_1" Language="tr_TR">
+      <Text>Makdong</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_10" Language="tr_TR">
+      <Text>Doti</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_2" Language="tr_TR">
+      <Text>Tanae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_3" Language="tr_TR">
+      <Text>Olmadae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_4" Language="tr_TR">
+      <Text>Omadi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_5" Language="tr_TR">
+      <Text>Omadae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_6" Language="tr_TR">
+      <Text>Omangdi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_7" Language="tr_TR">
+      <Text>Omidi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_8" Language="tr_TR">
+      <Text>Jyagadung</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SILLA_MALE_9" Language="tr_TR">
+      <Text>Madin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SILLA_ADJECTIVE" Language="tr_TR">
+      <Text>Silla</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SILLA_FULLNAME" Language="tr_TR">
+      <Text>Silla İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SILLA_NAME" Language="tr_TR">
+      <Text>Silla</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_16_MAJOR_SILLA_NAME" Language="tr_TR">
+      <Text>Wanggeom-seong</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_16_MINOR_SILLA_NAME" Language="tr_TR">
+      <Text>Gojoseon</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_LECTURE_HALL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kore tapınak mimarisinde, farklı işlevlere sahip bağımsız binalar yer alırdı: rahiplerin yemek yediği ve uyuduğu salonlar, belirli heykellerin bulunduğu salonlar ve tabii ki rahiplerin sutraları çalıştığı ders salonu. Ders salonları genellikle tapınak içindeki en etkileyici yapılar olmasa da, çok önemli bir amaca hizmet ederler. Budizm'in gelişimi ve incelenmesi, Silla'nın ayırt edici bir özelliğiydi – yeni din, onu uluslararası meşruiyet kaynağı olarak benimseyen monarşiler ile eski haklarına bir tehdit olarak reddeden soylular arasında hassas bir konumdaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_PAGODA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Pagoda, çoğu Budist tapınağının merkezi unsurudur. Tapınağın sahip olduğu en kutsal nesneleri barındırır: Buda'nın veya ünlü rahiplerin kalıntıları ve diğer hazineler. Ejderha Tapınağı'nın pagodası özellikle olağanüstüydü. 250 fitten fazla yüksekliğe sahip olduğu bildirilen ahşap bir yapıydı ve bu da onu Doğu Asya'daki en yüksek yapı ve o dönemde dünyadaki en yüksek ahşap yapı yapıyordu. Bugün geriye sadece temel taşları kalmıştır, ancak bunlar da oldukça etkileyicidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kore'nin Üç Krallığı, MS 1. binyılda yarımadada bulunan, kültürel açıdan benzer bir dizi devletti. Bunlardan Silla hem en eskisi hem de Çin etkisinden en uzak olanıydı, ancak Üç Krallığın her biri, güçlü bir hükümdar ve aristokrasiye sahip, militarize bir toplum ve merkezi bir yönetim sistemini paylaşıyordu. Üç Krallığın ilk yıllarında, her güç, seçici ittifaklar ve zamanlaması iyi yapılmış hamlelerle diğerlerini dengelemeye çalıştı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Silla'nın bu erken döneminde, toplumun tüm üyelerinin soylarına bağlı olarak belirli bir konuma sahip olduğu "kemik rütbesi" sistemi, tepesinde bir kral veya kraliçe bulunan hiyerarşik bir aristokrasiye yol açtı. Budizm Üç Krallık'a girmiş olsa da, Silla en geleneksel krallıktı ve Kore şamanik geleneklerini merkezinde tuttu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Ancak haritanın kenarlarında her zaman başka güçler vardı. Silla, Çin'in Tang hanedanıyla ittifak kurdu ve MS 7. yüzyılda diğer iki krallığı boyun eğdirdi. Ancak Tang'ın yardımı bir bedel karşılığında geldi – Tang, Kore'nin her yerine Çin kolonileri kurmaya çalıştı ve Silla, kısa süre sonra bu istilaları püskürtmek için eski rakipleriyle birlikte savaşmak zorunda kaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Yarımadayı birleştiren Silla, onu korumakla karşı karşıya kaldı. İlk adım, artık Seorabeol (“başkent” olarak adlandırılan ve sonraki yıllarda “Seul”e kısaltılan, ancak günümüz şehri Silla başkenti ile aynı olmayan) başkentten yayılan kraliyet mutlakiyetçiliğinin güçlendirilmesiydi. Soylular Konseyi’nin yetkisi önemli ölçüde kısıtlandı ve topraklar, kişinin ailesine değil, başkente karşı konumuna bağlı hale geldi; dolayısıyla kişinin konumunu korumak, merkezi yatıştırmayı gerektiriyordu. Başkentten uzaklaşan aile ağacının dalları, yetkilerinin – ve gelirlerinin – azaldığını gördü ve bu durum içlerinde öfke biriktirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Silla toplumu ayrıca ticaret, özellikle de ipek ticareti etrafında örgütlenmişti. Ticaret, hem siyasi bir araç hem de gelir kaynağı olarak Silla'da önemliydi. İpek Yolu, Silla'yı diğer bölgelerle açıkça birbirine bağlıyordu – bir Bizans saç tokası, Konstantinopolis'ten Silla'ya sadece altı ayda ulaşabilirdi ve Müslüman alimler ve hatta sürgüne gönderilmiş bir İran prensi Silla'da yaşıyor ve eğitim görüyordu. Nitekim İslam, Kore'de ilk kez Silla döneminde ortaya çıktı, ancak daha sonra zayıfladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SILLA_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Ancak çatlaklar oluşmaya başlamıştı. Yerel soyluların bastırılması, gerçekten izole bir yerde işe yarayabilirdi, ancak bu soylular ticaretle zenginleşmeye başladıklarında, merkezi devlete meydan okumak için kullandıkları bir güç kazandılar. İç savaşla parçalanan Silla, MS 10. yüzyılda Goryeo devletine teslim oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_JINGOL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Seonggol, yani “kutsal kemik” altındaki kemik rütbe sisteminde, jingol (“gerçek kemik”) krallık hariç olmak üzere resmi pozisyonları ifade ediyordu. Burada da aileler hiyerarşide kendilerine ayrılan yeri koruyordu. Seonggol sisteminin sona ermesinden sonra jingol sistemi kaldı ve daha sonraki Silla kraliyet ailesi bu rütbelerden çıktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_JINGOL_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Silla'nın çöküşüyle birlikte, bu tür bir rütbesi olmayanlar, güç kazanmak için genellikle Budizm ve Konfüçyüsçülük gibi yeni dinlere yöneldiler; bu, Goryeo'nun yolunu açacak olan Kore toplumundaki bir değişimi işaret ediyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_KOLP_UM_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Silla'nın "kemik rütbe sistemi" olan kolp’um, Silla toplumunun her üyesini hiyerarşik bir rütbeye yerleştirmeye hizmet ediyordu. Bu rütbeler, kimin krallığa uygun olduğunu, kimin resmi bir unvan alabileceğini ve kimin bu pozisyonlardan men edileceğini belirliyordu. Silla'nın genişlemesinden sonra, bu sistem başkentin eyaletler üzerindeki hakimiyetini de sağlamlaştırdı, çünkü eyalet sakinleri – eskiden soylu olanlardan bile – Silla yönetiminde yer almaya uygun değildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_SAMGUK_SAGI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Samguk Sagi, Kore'nin "Üç Krallık Tarihi"dir ve Silla, Goguryeo ve Baekje arasındaki gerilimleri anlatır. Daha sonra, Goryeo döneminde derlenmiştir, ancak bu dönemle ilgili bilgilerin çoğunun temelini oluşturmuştur: hükümdarların, savaşların ve fetihlerin listeleri ile çeşitli devletlerin bürokratik yapısının açıklaması.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_SEONGGOL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kemik rütbe sistemi, Silla'da iktidarı somutlaştırmaya hizmet ederek, başkentteki merkezle bağlantılı ailelerin ülkenin geri kalanı üzerinde hakimiyet kurmasını sağladı. Bu rütbelerin en yükseği, krallığa uygun olanları işaret eden bir unvan olan seonggol, yani "kutsal kemik" idi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_SILLA_SEONGGOL_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ancak bu, erken dönem Silla'nın bir özelliğiydi. Kraliçe Jindeok'un hükümdarlığından sonra, seonggol sistemi kullanımdan kalktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_DRAGON_TEMPLE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Budizm, MS 4. yüzyıl civarında Kore'ye ulaştı ve Silla için önemli bir siyasi araç – ve tartışma konusu – haline geldi. Klan tanrılarının tapınmasına odaklanan Kore animizmi, elit iktidarın geliştirilmesinde merkezi bir rol oynamıştı. Ancak güçlü soylu aileler, tek bir ailenin tümü üzerinde üstünlük kurmayı amaçlayan merkezi bir monarşi için bir engel teşkil ediyordu; bu nedenle Silla hükümdarları Budist dinini benimsedi ve başkentte devasa tapınakların (Korece'de sachal) inşasını destekledi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_DRAGON_TEMPLE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bunların en önemlisi Ejderha Tapınağı, Hwangnyonsa idi. Bu, dokuz katlı büyük bir pagodaydı ve o dönemde Doğu Asya'daki en büyük yapıydı. Hwangnyonsa'dan, kraliyetin yönlendirdiği yeni bir Budizm, krallığın her yerine yönetildi ve yayıldı. Budizm, kraliyetle olan bağlantısı nedeniyle Kore'de tartışmalı bir konu olarak kaldı; en belirgin şekilde, Konfüçyüsçülük ve onun bilgin-yönetici sınıfı lehine, geç Joseon döneminde bastırıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_HWARANG_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şövalyelik kurallarıyla birbirine bağlı olan ve savaş kadar şiir ve sanata da önem veren aristokrat gençlerden oluşan hwarang grubu, günümüze kadar Silla döneminin romantizmi ve güzelliğinin sembolü haline gelmiştir. Bir hwarang, Konfüçyüsçü ve Budist öğretileri, krala ve aileye hizmet, arkadaşlara karşı cesaret ve sadakat ile merhametin bilgeliğini vurgulayan beş emir olan sesok o-kye'yi izlerdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_HWARANG_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Hwarang'ın askeri rolü, Silla'nın birleşmesinden sonra azaldı ve Silla'nın çöküşünden sonra tarihsel kayıtlardan büyük ölçüde kayboldu. Joseon döneminde resmen dağıldılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SANGDAEDEUNG_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Silla'da sangdaedeung makamı, gerçek monarşi dışında en yüksek rütbelerden biriydi ve jingol rütbeleri arasında en yükseğiydi (en azından taht jingollere açılana kadar). Bu memur, Hwabaek Konseyi'ne başkanlık ederdi ve krallığı etkileyen önemli konularda kararlar alırdı.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LECTURE_HALL_NAME" Language="tr_TR">
+      <Text>Konferans Salonu</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PAGODA_NAME" Language="tr_TR">
+      <Text>Pagoda</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_DRAGON_TEMPLE_NAME" Language="tr_TR">
+      <Text>Sachal</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_GEUMHO_RIVER_NAME" Language="tr_TR">
+      <Text>Geumho Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_HWANG_RIVER_NAME" Language="tr_TR">
+      <Text>Hwang Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_NAM_RIVER_NAME" Language="tr_TR">
+      <Text>Nam Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_NAMHAN_RIVER_NAME" Language="tr_TR">
+      <Text>Namhan Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SEOMJIN_RIVER_NAME" Language="tr_TR">
+      <Text>Seomjin Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BAEKDU_MOUNTAIN_NAME" Language="tr_TR">
+      <Text>Baekdu Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CH_UGA_RYONG_NAME" Language="tr_TR">
+      <Text>Ch'uga-ryong</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_GEOMEUN_OREUM_NAME" Language="tr_TR">
+      <Text>Geomeun Oreum</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_ULLEUNGDO_NAME" Language="tr_TR">
+      <Text>Ulleungdo</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_YONGNUNI_OREUM_NAME" Language="tr_TR">
+      <Text>Yongnuni Oreum</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JINGOL_NAME" Language="tr_TR">
+      <Text>Jingol</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KOLP_UM_NAME" Language="tr_TR">
+      <Text>Kolp'um</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAMGUK_SAGI_NAME" Language="tr_TR">
+      <Text>Samguk Sagi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEONGGOL_NAME" Language="tr_TR">
+      <Text>Seonggol</Text>
+    </Replace>
+    <Replace Tag="LOC_11054A_COMPLETION" Language="tr_TR">
+      <Text>Bir lord, bir asilzade tarafından kendisine hediye edilen minik bir arazinin tapusunu inceler. Asilzade, bu aşağılayıcı teklif için büyük bir minnettarlık gösterisi bekleyerek sırıtmaktadır. Hiyerarşide kendisinin daha altta olduğunu bilen lord, sözlerine dikkat eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11054A_STORYTITLE" Language="tr_TR">
+      <Text>Güç Hamlesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11054B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11054B_NAME" Language="tr_TR">
+      <Text>Çiftçiler iş yükünün azalmasına sevineceklerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11054C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11054C_NAME" Language="tr_TR">
+      <Text>Çok daha fazla arazi boşa gidecekti.</Text>
+    </Replace>
+    <Replace Tag="LOC_11055A_COMPLETION" Language="tr_TR">
+      <Text>Altın takılar takan ve ginseng kokan bir aristokrat, sahip olduğu geniş araziyi hayranlıkla seyrediyor. Ufukta, tıpkı kendisi gibi kraliyet ailesi tarafından kendilerine verilen arazilerde komşuları tarafından işlenen tarlalar görünüyor. Mülkiyet güç demektir ve aristokrat daha fazlasını istiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11055A_STORYTITLE" Language="tr_TR">
+      <Text>Toprakların Efendisi</Text>
+    </Replace>
+    <Replace Tag="LOC_11055B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}'teki Gıda Binalarında{2_capital}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11055B_NAME" Language="tr_TR">
+      <Text>Araziyi zorla ele geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11055C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}'teki Gıda Binalarında{2_capital}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11055C_NAME" Language="tr_TR">
+      <Text>Aileye gelin olarak girin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11056A_COMPLETION" Language="tr_TR">
+      <Text>Bir sürü genç adam, emir bekleyerek hareketsiz duruyor. Aristokrasiden doğan bu yeni Hwarang sınıfı, savaşmak, korumak ve inançlarını yaymak için şövalyelik yemini eder. Düşman ordusunun yaklaşan tehdidi, savaş hazırlıklarını sınar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11056A_STORYTITLE" Language="tr_TR">
+      <Text>Hwarang</Text>
+    </Replace>
+    <Replace Tag="LOC_11056B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11056B_NAME" Language="tr_TR">
+      <Text>Onları dağ eğitimine gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11056C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11056C_NAME" Language="tr_TR">
+      <Text>En güçlü olanı komutan yap.</Text>
+    </Replace>
+    <Replace Tag="LOC_11057A_COMPLETION" Language="tr_TR">
+      <Text>Müzik sesinin giderek yükselmesiyle, dansçılar yazarın söylediği her kelimeye eşlik ederek hareket ederler. Her kıtaya şarkı ve dans eşlik eder ve bir umut hikayesi anlatılır. Son satırı söylerken, sesi yankılanır ve tiyatroda yankılanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11057A_STORYTITLE" Language="tr_TR">
+      <Text>Hyangga</Text>
+    </Replace>
+    <Replace Tag="LOC_11057B_DESCRIPTION" Language="tr_TR">
+      <Text>Kültür Binalarında{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11057B_NAME" Language="tr_TR">
+      <Text>Daha fazla eser sipariş edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11057C_DESCRIPTION" Language="tr_TR">
+      <Text>Altın Binalarda{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11057C_NAME" Language="tr_TR">
+      <Text>Yerel bir turu destekleyin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11058A_COMPLETION" Language="tr_TR">
+      <Text>Yabancı bir tüccar, satılık birkaç altın eşyaya göz atarak tüccarın tezgahına yaklaşır. Değerli metaller cildinden yansıyarak ona ruhani bir ışıltı katar. Tezgahında satmak üzere evine muhteşem bir şey götürmesi gerekir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11058A_STORYTITLE" Language="tr_TR">
+      <Text>Parlayan Her Şey</Text>
+    </Replace>
+    <Replace Tag="LOC_11058B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11058B_NAME" Language="tr_TR">
+      <Text>Güzelliği ortaya çıkaran altın aksesuarlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11058C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11058C_NAME" Language="tr_TR">
+      <Text>Zenginliği sergileyen altın kemerler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11059A_COMPLETION" Language="tr_TR">
+      <Text>Genç ahır görevlileri hamile bir kısrağa bakıyor. Kısrağın toynaklarıyla uğraşırken, bir gök gürültüsü hepsini ürkütür. İki adam berrak gökyüzüne bakar; bu bir işaret olabilir mi?</Text>
+    </Replace>
+    <Replace Tag="LOC_11059A_STORYTITLE" Language="tr_TR">
+      <Text>Gizemli Mesaj</Text>
+    </Replace>
+    <Replace Tag="LOC_11059B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11059B_NAME" Language="tr_TR">
+      <Text>Bu, yeni keşiflere öncülük edecek bir çocuğun doğduğunu işaret ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11059C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11059C_NAME" Language="tr_TR">
+      <Text>Bu, refah getirecek bir çocuğun doğduğu anlamına geliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11060A_COMPLETION" Language="tr_TR">
+      <Text>Zaman değişti ve ölüleri defnetmenin yeni bir yolu ortaya çıktı. Çiçek desenleriyle süslenmiş ve yeşil sırla kaplanmış minik bir küp, fırında pişirilmeyi bekliyor. Uzaklardan bir çan sesi geliyor, bu ses...</Text>
+    </Replace>
+    <Replace Tag="LOC_11060A_STORYTITLE" Language="tr_TR">
+      <Text>İlahi Bir Hazine</Text>
+    </Replace>
+    <Replace Tag="LOC_11060B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11060B_NAME" Language="tr_TR">
+      <Text>Prosperity.</Text>
+    </Replace>
+    <Replace Tag="LOC_11060C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11060C_NAME" Language="tr_TR">
+      <Text>Unity.</Text>
+    </Replace>
+    <Replace Tag="LOC_11062A_COMPLETION" Language="tr_TR">
+      <Text>Toprak hakları ve evlilik beklentileri konusunda gerginlik artarken, hükümdarlar ve aristokratlar çatışıyor. Hanedanlar iktidar için mücadele ederken, sıradan halk zenginlerin elinde acı çekiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11062A_STORYTITLE" Language="tr_TR">
+      <Text>Kimse Kazanmaz</Text>
+    </Replace>
+    <Replace Tag="LOC_11062B_DESCRIPTION" Language="tr_TR">
+      <Text>Altın Binalarda{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11062B_NAME" Language="tr_TR">
+      <Text>Çalışmak, sıradan insanlara bir anlam kazandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11062C_DESCRIPTION" Language="tr_TR">
+      <Text>Mutluluk Binalarında{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11062C_NAME" Language="tr_TR">
+      <Text>Halk, küçük konforlar sağlandığında verimli çalışır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11063A_COMPLETION" Language="tr_TR">
+      <Text>Silla'da kargaşa yayılırken, incelikli tartışmalara yer kalmaz. Kimin nasıl yönetmesi gerektiğine dair anlaşmazlıklar ancak savaş alanında çözülebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11063A_STORYTITLE" Language="tr_TR">
+      <Text>İç Çatışma</Text>
+    </Replace>
+    <Replace Tag="LOC_11063B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11063B_NAME" Language="tr_TR">
+      <Text>Sert bir tutum, her türlü ayaklanmayı bastırabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11063C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşim Yerlerine{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11063C_NAME" Language="tr_TR">
+      <Text>Bunlar yavruların mızmızlanmalarıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_12009A_COMPLETION" Language="tr_TR">
+      <Text>Silla'nın başkentinde dolaşan Dr. Rizal, kendini bir kraliyet alayının ortasında bulur. Bir muhafız onu uzaklaştırmaya çalışırken, bir adamın muhteşem altın ve yeşim taçından yansıyan güneş ışığını fark eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_12009A_STORYTITLE" Language="tr_TR">
+      <Text>İyi Doktor, Diz Çökmüş</Text>
+    </Replace>
+    <Replace Tag="LOC_12009B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12009B_NAME" Language="tr_TR">
+      <Text>Böylesine gösterişli kıyafetlere sahip olan bu insanlar, refah içinde yaşıyor olmalı.</Text>
+    </Replace>
+    <Replace Tag="LOC_12009C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12009C_NAME" Language="tr_TR">
+      <Text>O tacın içinde muazzam bir güç yatıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HWARANG_CULTURE_DESCRIPTION" Language="tr_TR">
+      <Text>Yenilen Birimin [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nün %25'ine eşit [icon:YIELD_CULTURE] Kültür kazan.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HWARANG_CULTURE_PREVIEW" Language="tr_TR">
+      <Text>Yenilen Birimin [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücünün[/TIP] %25'i kadar Kültür kazan.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LECTURE_HALL_DESCRIPTION" Language="tr_TR">
+      <Text>Silla [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Kültür Binası[/TIP]. +3 [icon:YIELD_CULTURE] Kültür. +1[icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP]. +1 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Kaynak Kapasitesi[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'de [icon:CITY_UNIMPROVED] [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Engebeli Arazi[/TIP] üzerine yerleştirilirse.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LECTURE_HALL_TOOLTIP" Language="tr_TR">
+      <Text>[B]Etki:[/B] +1 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Kaynak Kapasitesi[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde [icon:CITY_UNIMPROVED] [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Engebeli Arazi[/TIP] üzerine yerleştirilirse. [N]Silla [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PAGODA_DESCRIPTION" Language="tr_TR">
+      <Text>Silla [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Mutluluk Binası[/TIP]. +3 [icon:YIELD_HAPPINESS] Mutluluk. +1[icon:YIELD_DIPLOMACY] Etki Doğal Harikalar, Dağlar ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için komşuluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PAGODA_TOOLTIP" Language="tr_TR">
+      <Text>Silla [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JINGOL_AUTHOR" Language="tr_TR">
+      <Text>Şövalye Kipa'ya Övgü</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JINGOL_QUOTE" Language="tr_TR">
+      <Text>"Ah, Hwarang, sen donu tanımayan yüksek çam dalısın."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KOLP_UM_AUTHOR" Language="tr_TR">
+      <Text>Kyunyeo</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KOLP_UM_QUOTE" Language="tr_TR">
+      <Text>"Dolunayın altında aydınlanmanın meyvesiyle olgunlaşan sonbahar tarlası ne kadar da muhteşem."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAMGUK_SAGI_AUTHOR" Language="tr_TR">
+      <Text>Samguk Sagi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAMGUK_SAGI_QUOTE" Language="tr_TR">
+      <Text>"Üçüncü ayda, güneydoğuda bir kuyruklu yıldız belirdi ve bir ejderha Yangsan Dağı'nın üzerinden uçtu."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEONGGOL_AUTHOR" Language="tr_TR">
+      <Text>Samguk Yusa</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEONGGOL_QUOTE" Language="tr_TR">
+      <Text>"Üç Krallığın kurucularının ilahi kökenlere sahip olması hiç de şaşırtıcı değildir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SILLA_DESCRIPTION" Language="tr_TR">
+      <Text>Kaynaklardan +1 [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_INTRO_SILLA" Language="tr_TR">
+      <Text>Kargaşanın üstesinden gelen Silla, üç krallığın ilki olarak ortaya çıkıyor. Kurnazlık ve zarafetle, en büyüğü olsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_SILLA" Language="tr_TR">
+      <Text>Tapınak çanı Kore'nin dört bir yanında çınlar ve Silla buna yanıt verir. Saraylarında seonggol'lar lüks bir yaşam sürerler; zanaatkarların ellerine, şairlerin fırçalarına ve askerlerin adımlarına ilham verirler. Şimdi Silla'ya rehberlik edin ve karanlık bir dünyaya aydınlık bir el uzatın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_SILLA" Language="tr_TR">
+      <Text>İttifaklar, Silla'nın stratejisinin anahtarıdır, bu yüzden bu ilişkileri dostane tutun ve Girişimler üzerindeki Etkinizi akıllıca yönetin.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SILLA_COMPLETE_EMILE_BELL_DESC" Language="tr_TR">
+      <Text>Silla olarak, Emile Bell'i tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SILLA_COMPLETE_EMILE_BELL_NAME" Language="tr_TR">
+      <Text>Emile Bell</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SILLA_LEGACY_PATH_ECONOMIC_DESC" Language="tr_TR">
+      <Text>Silla olarak, bir Ekonomik Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SILLA_LEGACY_PATH_ECONOMIC_NAME" Language="tr_TR">
+      <Text>Silla Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_SILLA_DESCRIPTION" Language="tr_TR">
+      <Text>+30%[icon:YIELD_PRODUCTION] Silla'nın ilişkili [icon:WONDER] Harikası olmasından elde edilen üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_JINGOL_RESOURCE_CAP_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Kasabalarda[/TIP] +1 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Kaynak Kapasitesi[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_JINGOL_TRADE_ROUTE_RANGE_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerlerine[/TIP] +5 [icon:TRADE_ROUTE] Kara [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Ticaret Yolu Menzili[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KOLP_U_ALLIANCE_ROUTE_GOLD_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:PLAYER_RELATIONSHIP_ALLIANCE] [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]İttifak[/TIP] kurduğunuzda, her iki Lider de diğer Liderin [icon:TRADE_ROUTE] Başkentinden ücretsiz bir [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] alırlar (menzilden bağımsız olarak, ancak okyanus üzerinden değil); bu [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolları[/TIP] [icon:PLAYER_RELATIONSHIP_ALLIANCE] [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]İttifak[/TIP] sona erdiğinde ortadan kalkmaz ve bu Medeniyetle olan [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] limitinize dahil edilmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KOLP_U_CULTURE_KILLS_HWARANG_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:UNIT_HWARANG] Hwarang ile bir düşman Birimini yendiğinizde, yenilen Birimin [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nün %25'i kadar [icon:YIELD_CULTURE] Kültür kazanırsınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TRADE_ROUTE_TERMINATED_MESSAGE" Language="tr_TR">
+      <Text>Ticaret Yolu Sonlandırıldı</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_DRAGON_TEMPLE_DESCRIPTION" Language="tr_TR">
+      <Text>Silla [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Eşsiz Mahalle[/TIP]. Aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde Konferans Salonu ve Pagoda inşa edilerek oluşturulur. Bu [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynak[/TIP]'a atanan her [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynak[/TIP] için +1 [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehir[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_DRAGON_TEMPLE_TOOLTIP" Language="tr_TR">
+      <Text>+1 [icon:YIELD_GOLD] Altın, bu [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehre[/TIP] atanan her [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynak[/TIP] için.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BEOPSEONG_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:RADIAL_RESOURCES] [icon:YIELD_HAPPINESS] Mutluluk [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynaklar[/TIP] üzerinde [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Kasabalar[/TIP]'da [icon:YIELD_HAPPINESS] Mutluluk [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Bina[/TIP] ile.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SEORABEOL_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_GOLD] Altın ve +1 [icon:YIELD_DIPLOMACY] Etki [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynaklar[/TIP] üzerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_STRATEGIC_ALLIES_DESCRIPTION" Language="tr_TR">
+      <Text>Sizinle [icon:PLAYER_RELATIONSHIP_ALLIANCE] [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]Müttefikleriniz[/TIP] arasındaki tüm [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolları[/TIP], yolun [icon:YIELD_FOOD] [TIP:LOC_PEDIA_CONCEPTS_TRADE_INCOME_TOOLTIP]Ticaret Geliri[/TIP] kadar [icon:YIELD_FOOD] Gıda ve [icon:YIELD_PRODUCTION] Üretim sağlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_THE_GOLDEN_ROAD_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_SCIENCE] İthal edilen her [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynak[/TIP] için Bilim.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SILLA_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+1[icon:YIELD_CULTURE] Kültür[/B] [icon:RADIAL_RESOURCES] [B]Kaynaklar[/B] üzerinde. [LI][B]+30%[icon:YIELD_PRODUCTION] Üretim [/B] [B]Emile Bell[/B]'in inşası için. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SILLA_ABILITY_NAME" Language="tr_TR">
+      <Text>Maripgan</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_AQ_SILLA_NAME" Language="tr_TR">
+      <Text>Silla Sivil Toplumu</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HWARANG_2_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye Silla Özel [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. +1 [icon:Action_Move] Hareket ve +3 [icon:Action_Ranged] Bombardıman Gücü'ne sahiptir. Bir [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP] olarak sayılır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HWARANG_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Silla Benzersiz [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. +1 [icon:Action_Move] Hareket ve +3 [icon:Action_Ranged] Bombardıman Gücü vardır. [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP] olarak sayılır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HWARANG_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 1 Silla Özel [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. +1 [icon:Action_Move] Hareket ve +3 [icon:Action_Ranged] Bombardıman Gücü vardır. Bir [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP] olarak sayılır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SANGDAEDEUNG_DESCRIPTION" Language="tr_TR">
+      <Text>Silla'ya özgü bir tüccar. Bir [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] oluşturduğunuzda, Lider ile mevcut İlişki Seviyesi için +5 [icon:YIELD_GOLD] Altın kazanırsınız (Standart Hızda, Şehir Devletleri için geçerli değildir). En az 5 [icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_MACHIAVELLI_SILLA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Silla[/B], [B]Machiavelli[/B]'yi stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_SILLA_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Silla[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TRADE_ROUTE_TERMINATED_DUE_TO_ALLIANCE_SUMMARY" Language="tr_TR">
+      <Text>{1_LeaderName} ile kurduğunuz ittifak, başkentleriniz arasında ücretsiz Ticaret Yolları sağlar. Oradaki önceki Ticaret Yolu iptal edildi ve onu başlatan Tüccar şu anda başkentinizde.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TRADE_ROUTE_TERMINATED_SUMMARY" Language="tr_TR">
+      <Text>{1_LeaderName} ile olan ittifakınız sona erdi. Başkentleriniz arasındaki ücretsiz Ticaret Yolları kaldırıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BEOPSEONG_NAME" Language="tr_TR">
+      <Text>Beopseong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SEORABEOL_NAME" Language="tr_TR">
+      <Text>Seorabeol</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_STRATEGIC_ALLIES_NAME" Language="tr_TR">
+      <Text>Stratejik Müttefikler</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_THE_GOLDEN_ROAD_NAME" Language="tr_TR">
+      <Text>Altın Yol</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HWARANG_NAME" Language="tr_TR">
+      <Text>Hwarang</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SANGDAEDEUNG_NAME" Language="tr_TR">
+      <Text>Sangdaedeung</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

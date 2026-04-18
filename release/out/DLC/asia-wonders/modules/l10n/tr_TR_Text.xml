@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_GRAND_BAZAAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>15. yüzyılda Osmanlı İmparatorluğu’nun büyümesi, bedestenlerin, yani kapalı çarşıların inşasına da yansıyarak ekonomisinin genişlemesine yol açmıştır. Başlangıçta tekstil satışına yönelik olan bu kapalı pazarlar, değerli malların gece boyunca güvenli bir şekilde depolanmasını sağladı ve kısa sürede ürün yelpazesini genişleterek çok çeşitli lüks eşyaları da kapsar hale geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_GRAND_BAZAAR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>İmparatorluğun başkenti olan İstanbul, Bizanslılardan ele geçirildikten sonraki on yıllarda merkezinde iki bedesten kazandı. Birbirine bitişik olarak inşa edilen İç Bedesten ve Sandal Bedesten, kısa sürede açık hava pazarlarıyla çevrildi ve tek bir büyük ticaret alanı olan Kapalı Çarşı'yı oluşturdu. Birçok ticaret yolunun kesişme noktasında yer alan çarşı, binlerce dükkanda olağanüstü ve benzersiz bir çeşitlilikte küresel ürün yelpazesine sahipti; bu da Avrupa pazarlarını gölgede bırakarak dünyanın dört bir yanından ziyaretçileri çekiyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_GRAND_BAZAAR_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Kapalıçarşı, halen aktif bir pazar olarak varlığını sürdürmekte ve dünyanın en çok ziyaret edilen turistik yerlerinden biridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_MAUSOLEUM_AT_HALICARNASSUS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Antik dünyanın Yedi Harikası'ndan biri olan Halikarnas Mozolesi, MÖ 353-351 yıllarında Batı Anadolu'daki Karya hükümdarı Mausolus için inşa edilmiş bir mezardı. O dönemin en yetenekli Yunan mimarları ve heykeltıraşları tarafından tasarlanan ve süslenen bu muhteşem yapı, ayrıntılı kabartmalar, yüzlerce heykel ve tepesinde Mausolus ile eşi (ve kız kardeşi) Artemisia'nın heykellerinin bulunduğu dört atlı bir savaş arabası ile övünürdü. "Mausoleum" kelimesi, Mausolus ve mezarından gelmektedir. Yapı Orta Çağ'a kadar ayakta kalmış, ancak muhtemelen bir deprem sonucu MS 11. ve 15. yüzyıllar arasında yıkılmıştır; ancak bazı parçaları günümüze ulaşmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_UBUDIAH_MOSQUE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kuran'daki ubudiah ilkesi, Müslümanlara yalnızca ilahi güce teslim olmalarını emreder ve Ubudiah Camii'nin inşasına rehberlik eden de bu ilkedir. İslam, 12. yüzyılda Güneydoğu Asya'ya geldi ve Malay dünyası genelinde küresel bağlantıları olan yeni bir sultanlıklar zincirinin temelini oluşturdu. Bunlardan, şu anda Malezya'da bulunan Perak sultanlığı, 19. ve 20. yüzyılın başlarında İngiliz egemenliği altında bile olsa, önem ve zenginlik kazandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_UBUDIAH_MOSQUE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Burada Sultan İdris Şah I, hastalığından kurtulduğu için şükran amacıyla bir cami inşa ettirmiştir. 1917'de tamamlanan cami, İtalyan mermerinden yapılmış olup, Güney Asya tarzında altın kubbelerle taçlandırılmıştır (ancak bir İngiliz mimar tarafından tasarlanmıştır). Savaş ve iki fil arasındaki kavga inşaatı geciktirmiş olsa da, cami bugün hala Kuala Kangsar ve Perak'ın bir sembolü olmaya devam etmekte ve Perak'taki Müslüman topluluğa aktif bir cami olarak hizmet vermektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_WAT_XIENG_THONG_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Güneydoğu Asya'daki bazı Theravada Budist tapınakları topluluk okulları ve toplanma yerleri olarak hizmet verirken, diğerleri kraliyet hükümdarlığının ihtişamını vurgulamak için inşa edilmiştir. Laos'un Lan Xang ("bir milyon fil") krallığının eski başkenti Luang Phrabang'da bulunan Wat Xieng Thong, bu ikinci gruba dahildir. Tapınak, Lan Xang'ın gücünün doruk noktasında, işgalci Birmanya ordularına karşı savunmanın ardından ve Ayutthaya (Siam) orduları üzerinde bir başka zafer kazanılmadan önce, 1560 civarında Laos Kralı Setthathirath tarafından inşa edilmiştir. Geniş, teleskopik çatısı ona zarafet ve şıklık katar; Mekong ve Nam Khan nehirleri üzerindeki manzarası ise tapınağa özel bir yer verir – efsaneye göre, bu nehirler burayı kutsayan naga ruhlarının yuvasıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_GRAND_BAZAAR_NAME" Language="tr_TR">
+      <Text>Büyük Çarşı</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_MAUSOLEUM_AT_HALICARNASSUS_NAME" Language="tr_TR">
+      <Text>Halikarnas'taki Anıt Mezarlık</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_UBUDIAH_MOSQUE_NAME" Language="tr_TR">
+      <Text>Ubudiah Camii</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_WAT_XIENG_THONG_NAME" Language="tr_TR">
+      <Text>Wat Xieng Thong</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_GRAND_BAZAAR" Language="tr_TR">
+      <Text>James Elroy Flecker</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_MAUSOLEUM_AT_HALICARNASSUS" Language="tr_TR">
+      <Text>Samosata'lı Lucian</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_UBUDIAH_MOSQUE" Language="tr_TR">
+      <Text>Hamzah Fansuri</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_WAT_XIENG_THONG" Language="tr_TR">
+      <Text>Kurbağa Kral Efsanesi</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_GRAND_BAZAAR" Language="tr_TR">
+      <Text>"Samarkand'a giden altın yolu takip ediyoruz."</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_MAUSOLEUM_AT_HALICARNASSUS" Language="tr_TR">
+      <Text>"Halikarnas'ta üzerimde devasa bir mezar yatıyor, o kadar büyük ve o kadar zarif ki, başka hiçbir gölge onunla boy ölçüşemez."</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_UBUDIAH_MOSQUE" Language="tr_TR">
+      <Text>"Unutma ve unutma, tüccar çocuğu – arzuların savaşın düşmanlarıdır."</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_WAT_XIENG_THONG" Language="tr_TR">
+      <Text>"Yağmur mevsimine göre yağsın ve kurbağalar tarlalarda ötsün."</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_GRAND_BAZAAR_DESCRIPTION" Language="tr_TR">
+      <Text>+2[icon:YIELD_GOLD] Altın. +2 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Kaynak Kapasitesi[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde. +3 [icon:YIELD_GOLD] Altın [icon:HOMELAND] [TIP:LOC_PEDIA_CONCEPTS_HOMELANDS_TOOLTIP]Vatanlar[/TIP] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_RESOURCES_TOOLTIP]Hazine Kaynakları[/TIP]. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Ebedi[/TIP]. [TIP:LOC_PEDIA_CONCEPTS_HOMELANDS_TOOLTIP]Vatanlar[/TIP] içindeki bir [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP]'nin yanına yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_GRAND_BAZAAR_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Kaynak Kapasitesi[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde. +3 [icon:YIELD_GOLD] Altın [icon:HOMELAND] [TIP:LOC_PEDIA_CONCEPTS_HOMELANDS_TOOLTIP]Vatanlar[/TIP] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_RESOURCES_TOOLTIP]Hazine Kaynakları[/TIP].[N][TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP]'nin yanına, [TIP:LOC_PEDIA_CONCEPTS_HOMELANDS_TOOLTIP]Vatanlar[/TIP]'da yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_MAUSOLEUM_AT_HALICARNASSUS_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:YIELD_PRODUCTION] Üretim. Her [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP] ilk kez yok edildiğinde, %25 [icon:Action_Heal] HP'ye sahip olduğunuz en yakın [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yeri[/TIP]'nde %25 [icon:Action_Heal] HP ile yeniden ortaya çıkar. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Yaşlanmaz[/TIP]. [TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]Düz Arazi[/TIP] üzerine ve Kıyı'ya bitişik olarak yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_MAUSOLEUM_AT_HALICARNASSUS_TOOLTIP" Language="tr_TR">
+      <Text>Her [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP] ilk kez yok edildiğinde, sahip olduğunuz en yakın [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yeri[/TIP]'nde %25 [icon:Action_Heal] HP ile yeniden doğar.[N]Düz Araziye [TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]Düz Araziye[/TIP] ve Kıyıya bitişik bir yere yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_UBUDIAH_MOSQUE_DESCRIPTION" Language="tr_TR">
+      <Text>+4[icon:YIELD_HAPPINESS] Mutluluk. Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'deki [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]İyileştirmeler[/TIP]'de %50 Verim Artışı. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Zamansız[/TIP]. Islak Araziye yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_UBUDIAH_MOSQUE_TOOLTIP" Language="tr_TR">
+      <Text>Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]deki [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Geliştirmeler[/TIP]de %50 Verim Artışı. [N]Islak Araziye yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_WAT_XIENG_THONG_DESCRIPTION" Language="tr_TR">
+      <Text>+2[icon:YIELD_CULTURE] Kültür. Her [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eser[/TIP] elde ettiğinizde +200 [icon:YIELD_GOLD] Altın (Oyun Hızına Göre Değişir). [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Zamansız[/TIP]. Bir Nehir'in yanına yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_WAT_XIENG_THONG_TOOLTIP" Language="tr_TR">
+      <Text>[icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eser[/TIP] elde ettiğiniz her seferinde +200 [icon:YIELD_GOLD] Altın (Oyun Hızına Göre Değişir).[N]Bir nehrin yanına yerleştirilmelidir.</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

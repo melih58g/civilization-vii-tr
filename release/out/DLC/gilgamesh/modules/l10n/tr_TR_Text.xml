@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sümer şehir devleti Uruk'un kralı Gılgamış, bugün bildiğimiz şekliyle var olmamıştı. Yine de, günümüze ulaşan en eski destanın kahramanı olarak son derece etkili bir figür olmaya devam ediyor. Bu hikaye parçalar halinde mevcut olsa da, ilk kez kile basıldığından bu yana dört bin yılı aşkın bir süredir derin bir şekilde özdeşleşilebilen kibir, kahramanlık, kayıp ve kederin dokunaklı öyküsünü anlatıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Gılgamış Destanı, özellikle de daha sonraki Akadca versiyonu, kibirli kralın zulmünün tanrıların öfkesini nasıl kışkırttığını ve tanrıların Gılgamış'ın baş belası olması için vahşi bir adam olan Enkidu'yu gönderdiğini anlatır. Ancak Gılgamış ve Enkidu, birbirlerine karşı güçlerini sınadıktan sonra yakın arkadaş olurlar ve Sümer topraklarında canavarları yenmek için yola çıkarlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Gılgamış'ın gücü – ve belki de gür sakalı – tanrıça İştar'ın dikkatini çeker. Gılgamış, İştar'ın eski sevgililerinin talihsiz kaderini düşünürsek akıllıca bir hareketle, onun duygularına karşılık vermez ve aşağılanmış tanrıça, iki dostu saldırması için Gök Boğası'nı gönderir. Ancak Gılgamış ve Enkidu boğayı yenerler ve Enkidu, boğanın bacağını tanrıçaya fırlatarak hakaretine bir de hakaret ekler ve tanrıçanın kişisel kırgınlığını tanrıların otoritesine karşı bir suç haline getirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Tanrılar buna karşılık Enkidu'ya ölümcül bir hastalık gönderir. İki dost kaderlerine hayıflanır, kendilerini bu noktaya getiren tüm insanları ve olayları lanetler; Enkidu sonunda hayata veda ettiğinde, Gilgamesh'in dostunun ölümü üzerine duyduğu keder günümüze kadar yankılanır: eski düşmanını yanındaki baltaya, sırtındaki cüppeye çağırır ve toprağın tüm insanlarını ve hayvanlarını ağlamaya davet eder. Vahşi adamın ölümünden sonra, Gılgamış kendi ölümlülüğünden dehşete kapılır ve yaşam iksirini bulmak için sonuçsuz bir arayışa çıkar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Bu destanı, Sümer döneminden Babil ve daha sonraki Akad dönemlerine kadar uzanan bir dizi tablet sayesinde biliyoruz – burada sunulan, Akad dilinde yazılmış Gılgamış destanıdır. En önemli buluntu, M.Ö. 7. yüzyıl Asur kralı Ashurbanipal'ın kütüphanesinde M.S. 1853'te destanın keşfedilmesidir. Ashurbanipal'ın destanı muhafaza etmiş olması, hikayenin kalıcılığının bir kanıtıdır: Ashurbanipal'ın versiyonu, günümüze ulaşan en eski kopyadan bin yıldan fazla bir süre sonra yazılmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Gılgamış gerçek miydi? Sümer kral listelerinde MÖ 2900 civarında Uruklu bir Gılgamış'tan bahsedilmektedir, ancak kahraman Gılgamış ile herhangi bir tarihi şahsiyet arasında başka bir bağlantı yoktur. O dönemde Uruk, bugünkü Irak'ta bir şehir devletiydi ve altın çağının sonlarına doğru giderek huzursuzlaşan bir toprak parçasını yönetiyordu. O, çok farklı bir dünyada, şehirlerin az olduğu ve devlet kontrolü dışındaki geniş arazilerin – vahşi insanlar ve orman canavarlarının – bulunduğu bir dünyada, kent yaşamının kalesi olmuştu. Yine de, onun sesi hâlâ bize sesleniyor ve insanlığın yeryüzündeki zamanının kısa olduğunu, aramızdaki en güçlülerin bile düşeceğini söylüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Gel, Enkidu! Yeni bir fetih bizi bekliyor!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Ölüm, yatağımın bulunduğu eve gelir; öyleyse ölüm, ayaklarımın gittiği yere de takip eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_AI_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Ben de öleyim ve toprağa dönüşeyim mi? Uzanayım ve bir daha asla kalkmayayım mı?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Ben Gılgamış'ım, sedir canavarının katili, cennetin boğasının yok edicisi, gür sakallı ve en iyi dost.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Ben Gilgamesh, sedir canavarının katili, cennetin boğasının yok edicisi, gür sakallı ve en iyi dostum.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Ben Gilgamesh, sedir canavarının katili, cennetin boğasının yok edicisi, gür sakallı ve en iyi dostum.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_GILGAMESH" Language="tr_TR">
+      <Text>El ele vereceğiz ve bu iş hallolacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_GILGAMESH" Language="tr_TR">
+      <Text>Anlaşman küllü bir tadı var.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAIN_CHAR_SELECT_LEADER_GILGAMESH_ANY" Language="tr_TR">
+      <Text>Bu diğerleri kral olduklarını iddia ediyorlar. Aralarından hangisi benim tanrısal yapımı, lapis sakalımı, parıldayan gözlerimi sahiplenebilir?</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300B_NAME" Language="tr_TR">
+      <Text>Yeni ufuklar, yeni yüzler, yeni deneyimler evin sıkıcılığından uzaklaştırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300C_NAME" Language="tr_TR">
+      <Text>Savaş davulları, bronz çanların çınlaması.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300D_NAME" Language="tr_TR">
+      <Text>Kalem ve kil tablet, kütüphanenin sessizliği çağırıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301B_NAME" Language="tr_TR">
+      <Text>Başka bir lider arayın – sadece onlar bu görevin üstesinden gelebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301C_NAME" Language="tr_TR">
+      <Text>Bir ayna alın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302B_NAME" Language="tr_TR">
+      <Text>Harikaları ve belki de efsanevi canavarları bulmak için devriyeler gönderin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302C_NAME" Language="tr_TR">
+      <Text>Efsanelerdeki destansı savaşları canlandırmak için bir tiyatro inşa et.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303B_NAME" Language="tr_TR">
+      <Text>Bir dost.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303C_NAME" Language="tr_TR">
+      <Text>Bir düşman.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304B_NAME" Language="tr_TR">
+      <Text>Dostluğu derinleştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304C_NAME" Language="tr_TR">
+      <Text>Bir evcil hayvan sahiplenin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305B_NAME" Language="tr_TR">
+      <Text>Yeni, daha fazla, daha iyi harikalar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306B_NAME" Language="tr_TR">
+      <Text>Krala büyük bir yangının hikayesini gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306C_NAME" Language="tr_TR">
+      <Text>Daha fazla hikaye anlatıcısı yetiştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307B_NAME" Language="tr_TR">
+      <Text>Tanrıları eve geri getirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308B_NAME" Language="tr_TR">
+      <Text>Dostluk, karşılıklı mücadeleden doğar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308C_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308D_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308E_NAME" Language="tr_TR">
+      <Text>Dostluk, karşılıklı mücadeleden doğar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309B_NAME" Language="tr_TR">
+      <Text>Çeliğe karşı eti gönderin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309C_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309D_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GILGAMESH_NAME" Language="tr_TR">
+      <Text>Gilgamesh</Text>
+    </Replace>
+    <Replace Tag="LOC_10145A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış'ın sarayı, efsanevi canavarların ganimetleriyle süslenmiştir: bir anzu'nun tüyü, bir akrep adamın pençesi. Ama şimdi, Gılgamış Pers Ölümsüzleri'ni duymuştur. Duvarında onların kalkanlarından biri için yer açmıştır bile.</Text>
+    </Replace>
+    <Replace Tag="LOC_10145A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış'ın Savaş Ganimetleri</Text>
+    </Replace>
+    <Replace Tag="LOC_10145C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Piyade Birimleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_10145C_NAME" Language="tr_TR">
+      <Text>Zafer, kahraman olmak isteyenlere değil, stratejistlere aittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10146A_COMPLETION" Language="tr_TR">
+      <Text>Ölümsüz, meğer öyle değilmiş.</Text>
+    </Replace>
+    <Replace Tag="LOC_10146A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10146A_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Ölümsüz Birimini yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_10146A_NAME" Language="tr_TR">
+      <Text>Onu ele geçirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10146A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış'ın Savaş Ganimetleri</Text>
+    </Replace>
+    <Replace Tag="LOC_10147A_COMPLETION" Language="tr_TR">
+      <Text>Tiamat'ın dişi. Humbaba'nın sakalından bir tutam. Ölümsüz'ün kalkanı. Gılgamış bunlara bakarak çatışmanın heyecanını hatırlar. Şimdi, Abbasi memlüklerini duyar – söylendiğine göre dünyanın en büyük süvarileri. Ve başka bir çatışmayı düşünür.</Text>
+    </Replace>
+    <Replace Tag="LOC_10147A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış'ın Savaş Ganimetleri II</Text>
+    </Replace>
+    <Replace Tag="LOC_10147C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kasabalardaki Askeri Birimler.</Text>
+    </Replace>
+    <Replace Tag="LOC_10147C_NAME" Language="tr_TR">
+      <Text>Ödüllere değil, zafere odaklan.</Text>
+    </Replace>
+    <Replace Tag="LOC_10148A_COMPLETION" Language="tr_TR">
+      <Text>Savaş çığlıkları ve Memlüklerin yere düştüğünde çıkan gümbürtü! Gılgamış bunları hayal eder ve galerisine bakar. At zırhı ışığı yakalar ve kırmızı renkte parıldar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10148A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10148A_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Memlük Birimini Yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_10148A_NAME" Language="tr_TR">
+      <Text>At zırhı galeriye güzel bir katkı olur.</Text>
+    </Replace>
+    <Replace Tag="LOC_10148A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış II'nin Savaş Ganimetleri</Text>
+    </Replace>
+    <Replace Tag="LOC_10149A_COMPLETION" Language="tr_TR">
+      <Text>Savaşlar eskisi gibi değil. Eskiden savaşçılar birbirlerine saldırır, kaslarını gerer, tozun içinde boğuşurken terleri vücutlarından akardı. Şimdi ise bir çatlak, bir duman bulutu ve büyük bir adamın düşüşü var. Ama o tüfek sesinde ölümün özü var ve Gilgamesh onu elde edecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_10149A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış III'ün Savaş Ganimetleri</Text>
+    </Replace>
+    <Replace Tag="LOC_10149C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Hava Birimleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_10149C_NAME" Language="tr_TR">
+      <Text>Bu çılgınlığa son verin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10150A_COMPLETION" Language="tr_TR">
+      <Text>Bir sepoyun tüfeği, seri üretilmiş bir ateşli silahtır; yıpranmıştır, yıllar boyunca elden ele dolaştığı için dipçiği parlaktır. Mühendislik harikası değildir. Ama zaferi temsil eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_10150A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10150A_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Sepoy Birimini yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_10150A_NAME" Language="tr_TR">
+      <Text>Bir Sepoy tüfeği ele geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10150A_STORYTITLE" Language="tr_TR">
+      <Text>Gılgamış III'ün Savaş Ganimetleri</Text>
+    </Replace>
+    <Replace Tag="LOC_10151A_COMPLETION" Language="tr_TR">
+      <Text>Kütüphane yanarken, her taraftan tabletler yağar, tarih taş zeminde toza dönüşür. Küller soğurken, yazıcılar kalanları toplar ve şehir tapınağına bırakır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10151A_STORYTITLE" Language="tr_TR">
+      <Text>Tabletlerin Düşüşü</Text>
+    </Replace>
+    <Replace Tag="LOC_10151B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10151B_NAME" Language="tr_TR">
+      <Text>Rahipler, kaybolanları yeniden oluşturmak için ellerinden geleni yaparlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10151C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10151C_NAME" Language="tr_TR">
+      <Text>Rahipler bunları ölenlerin anısına bırakırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10152A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış bir kahramandır, general değildir. Teke tek savaşmayı tercih eder ve krallık kavramı, bir sürüyü yöneten bir çoban gibidir. Ancak komutasındaki Asur askerleri ona seslenir, savaş miğferini takmasını ve ziggurat'tan onlara seslenmesini isterler.</Text>
+    </Replace>
+    <Replace Tag="LOC_10152A_STORYTITLE" Language="tr_TR">
+      <Text>Savaşçı ve Çoban</Text>
+    </Replace>
+    <Replace Tag="LOC_10152B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kasabalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_10152B_NAME" Language="tr_TR">
+      <Text>Onları reddedin. Gılgamış bir çoban-kraldır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10152C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Komutanlara.</Text>
+    </Replace>
+    <Replace Tag="LOC_10152C_NAME" Language="tr_TR">
+      <Text>İstediklerini verin. Savaşçı-kral olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_10153A_COMPLETION" Language="tr_TR">
+      <Text>İhanet. Gilgamesh'in bir zamanlar yakın arkadaşı olan biri, ona karşı ordular topladı. Saray, çakışan taşların ve kırılan çömleklerin sesleriyle dolu. İhanet. Gilgamesh unutamıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_10153A_STORYTITLE" Language="tr_TR">
+      <Text>En Derin Yara</Text>
+    </Replace>
+    <Replace Tag="LOC_10153B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10153B_NAME" Language="tr_TR">
+      <Text>Affedemez de.</Text>
+    </Replace>
+    <Replace Tag="LOC_10153C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +1 Savaş Desteği.</Text>
+    </Replace>
+    <Replace Tag="LOC_10153C_NAME" Language="tr_TR">
+      <Text>Ama affedebilir. Borç ödendiğinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_10154A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış aynada kendine bakıyor, sakalına yağ sürüyor ve onu pazılarına, sonra trisepslerine, göğüs kaslarına, deltoidlerine ve karın kaslarına sürüyor. Tekrar bakıyor, onaylayarak. Sonra bir düşünce: "Bu diğer hükümdar," diye endişeleniyor, "hala daha mı güçlüler?"</Text>
+    </Replace>
+    <Replace Tag="LOC_10154A_STORYTITLE" Language="tr_TR">
+      <Text>Hiç ağırlık kaldırıyor musun?</Text>
+    </Replace>
+    <Replace Tag="LOC_10154C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kültür Binaları.</Text>
+    </Replace>
+    <Replace Tag="LOC_10154C_NAME" Language="tr_TR">
+      <Text>Belki daha güçlüdürler. Ama asla bu kadar yakışıklı olamazlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10155A_COMPLETION" Language="tr_TR">
+      <Text>Demirden sırt kasları. Bronzdan karın kasları. Gılgamış, saraylılarına yüksek kaliteli bir demir külçesini göğsünden sektirmeleri için meydan okur.</Text>
+    </Replace>
+    <Replace Tag="LOC_10155A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Askeri Binalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_10155A_IMPERATIVE" Language="tr_TR">
+      <Text>2 Askeri Özellik daha kazan.</Text>
+    </Replace>
+    <Replace Tag="LOC_10155A_NAME" Language="tr_TR">
+      <Text>Never!</Text>
+    </Replace>
+    <Replace Tag="LOC_10155A_STORYTITLE" Language="tr_TR">
+      <Text>Hala ağırlık kaldırıyor musun?</Text>
+    </Replace>
+    <Replace Tag="LOC_10156A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış yarışmalardan bıkmıştır. Yönetimi, gücü ve sakalının diğerlerinden üstün olduğunu bilir. Öyleyse dünya ona ne gibi bir yenilik sunabilir?</Text>
+    </Replace>
+    <Replace Tag="LOC_10156A_STORYTITLE" Language="tr_TR">
+      <Text>Diğer Tüm Kralları Aşmak</Text>
+    </Replace>
+    <Replace Tag="LOC_10156C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10156C_NAME" Language="tr_TR">
+      <Text>Uyanıklık ve çalışkanlık, büyüklüğe götürür.</Text>
+    </Replace>
+    <Replace Tag="LOC_10157A_COMPLETION" Language="tr_TR">
+      <Text>Diğerleri çabalayabilir. Onlar yarı tanrı değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10157A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_10157A_IMPERATIVE" Language="tr_TR">
+      <Text>10 tur daha (ardışık olmayan) boyunca tur başına en fazla [icon:YIELD_DIPLOMACY] Etkiye sahip olun. Bu görev süresince tüm Yerleşim Yerlerinde -2 [icon:YIELD_PRODUCTION] Üretim, [icon:YIELD_SCIENCE] Bilim ve [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_10157A_NAME" Language="tr_TR">
+      <Text>Tatile çık. O yine de en büyük kral olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_10157A_STORYTITLE" Language="tr_TR">
+      <Text>Diğer Tüm Kralları Geride Bırakmak</Text>
+    </Replace>
+    <Replace Tag="LOC_10157G_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}. Aktif görev için cezalar kaldırıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_10157G_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_10158A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış, elçilerinin yabancı topraklardaki tanrıların tapınımı hakkında bildirdiklerini dikkatle dinler ve sunağa döner. Orada, kilden yapılmış dünyanın yaratıcılarının yüzleri vardır – ama ona göre onlar, kendi akrabalarıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10158A_STORYTITLE" Language="tr_TR">
+      <Text>Ona İbadet Bilgisi Verildi</Text>
+    </Replace>
+    <Replace Tag="LOC_10158B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10158B_NAME" Language="tr_TR">
+      <Text>Başkalarının tarzında ibadet et.</Text>
+    </Replace>
+    <Replace Tag="LOC_10158C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10158C_NAME" Language="tr_TR">
+      <Text>Kendi tarzında ibadet et.</Text>
+    </Replace>
+    <Replace Tag="LOC_10159A_COMPLETION" Language="tr_TR">
+      <Text>Başka biri – BAŞKA BİRİ – Gilgamesh'in inşa etmeye çalıştığı şeyi tamamladı. Günlerini inşaat çukurunda geçiriyor, büyük taş tuğlaları elle yerleştirmek için çabalıyor. Bu çabası sonuçsuz kalıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_10159A_STORYTITLE" Language="tr_TR">
+      <Text>En Yüksek Ziggurat</Text>
+    </Replace>
+    <Replace Tag="LOC_10159B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10159B_NAME" Language="tr_TR">
+      <Text>Gılgamış başka bir şey inşa edecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_10159C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Süvari Birimleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_10159C_NAME" Language="tr_TR">
+      <Text>Gılgamış mucizesine kavuşacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış'ın sarayı büyüdükçe, görevleri ve sıkıntıları da artar. Büyük kral, başı dik, tebaasına bağırıp öfke nöbetlerine kapılarak taş zeminlerde bir boğa gibi dolaşır. Bir şeyler yapılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300A_STORYTITLE" Language="tr_TR">
+      <Text>Saraydaki Boğa</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300B_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış dünyayı gördü, sırlarını ortaya çıkardı... ama yine de gücüne layık bir düşman arzuluyor. Ya da belki bir dost.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300B_IMPERATIVE" Language="tr_TR">
+      <Text>3 Keşif daha etkinleştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300B_STORYTITLE" Language="tr_TR">
+      <Text>Saraydaki Boğa</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300C_COMPLETION" Language="tr_TR">
+      <Text>Ok yağmuru altında, korkudan ter içinde - dostluklar işte burada kurulur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Süvari.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300C_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Şehir Devleti üzerinde Asker Toplama eylemini kullanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300C_STORYTITLE" Language="tr_TR">
+      <Text>Saraydaki Boğa</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1300D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış yarışmaları sever. Generalleriyle güreşir, yazmanlarıyla Ur oyununu oynar. Ancak her konuda kendisine eşit – ya da kendisinin kendiyle ilgili görüşüne eşit – bir arkadaş arzulamaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301A_STORYTITLE" Language="tr_TR">
+      <Text>Ibru</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301B_COMPLETION" Language="tr_TR">
+      <Text>Farklı topraklarda yaşasalar da, Gılgamış kendisine "ibru" – dost – diyebileceği birini bulmuştur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301B_IMPERATIVE" Language="tr_TR">
+      <Text>Başka bir medeniyetle ittifak kurun.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301B_STORYTITLE" Language="tr_TR">
+      <Text>Ibru</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1301C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak tüm Yerleşim Yerlerinde {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302A_COMPLETION" Language="tr_TR">
+      <Text>Öküz, sarayın avlusunda sersemlemiş bir halde yatıyor, beklenmedik bir yumruktan sersemlemiş. Savaş her zaman mevcut olsa da, Gilgamesh canavarlarla ve canavarlarla güreşmek istiyor, bu da hayvancılıkla uğraşanları büyük ölçüde endişelendiriyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302A_STORYTITLE" Language="tr_TR">
+      <Text>Humbaba</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302B_COMPLETION" Language="tr_TR">
+      <Text>Hiç canavar çıkmadı, ancak Gılgamış bu arayışın kendisinden büyülenmiş durumda; haritaları inceleyip yeni keşif gezileri planlıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302B_IMPERATIVE" Language="tr_TR">
+      <Text>3 Kuşatma Birimini yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302B_STORYTITLE" Language="tr_TR">
+      <Text>Humbaba</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1302C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303A_COMPLETION" Language="tr_TR">
+      <Text>Huysuz kral Gilgamesh, zihnini gelecekten uzak tutamaz. Hareketsiz bir su kabına bakarak tanrılardan gelecekle ilgili bir işaret göstermelerini ister. Sonunda bir şekil belirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303A_STORYTITLE" Language="tr_TR">
+      <Text>Kralların İlki</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1303C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304A_COMPLETION" Language="tr_TR">
+      <Text>Sarayda tek başına olsa bile, Gılgamış en yakın arkadaşı olan ibru'sunun ne yaptığını merak eder. Stratejik hamleler planlarken, müttefikinin de aynısını yapıp yapmayacağını generaline sorar. Ağır bir kaya gördüğünde, ibru'sunun onu kaldırabilir mi diye merak eder. Güçlü bir öküz gördüğünde, ibru'sunun onun güreşmesini izlemek ister mi diye merak eder. Dikkat, takıntıya dönüşmüştür.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304A_STORYTITLE" Language="tr_TR">
+      <Text>Yoklukta Olan Dost</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304B_COMPLETION" Language="tr_TR">
+      <Text>İki başkent arasında gidip gelen diplomatik kurye, sarayda tanınan bir kişidir; her sabah Gilgamesh'in mesajını bekler, sonra da varış noktasına doğru uzun yolculuğa çıkar. Keşke mesajları geri getirecek benzer bir kurye de olsaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304B_IMPERATIVE" Language="tr_TR">
+      <Text>Müttefiklerle, destek alın veya onların 5 Çabayı desteklemesini sağlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304B_STORYTITLE" Language="tr_TR">
+      <Text>Yoklukta Olan Arkadaş</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1304C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305A_COMPLETION" Language="tr_TR">
+      <Text>Gilgamesh'in arkadaşlar hakkında bildiği tek bir şey varsa, o da birlikte mücadele ettikleridir. Ancak ibru'su uzakta olduğu için ilhamdan yoksundur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305A_STORYTITLE" Language="tr_TR">
+      <Text>Rekabetçi Obelisk Ölçümleri</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305B_COMPLETION" Language="tr_TR">
+      <Text>Ziyaretçiler Gilgamesh'in şehirlerine hayran kalır. Gilgamesh umursamaz – o sadece tek bir yanıt bekler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305B_DESCRIPTION" Language="tr_TR">
+      <Text>Kültür Binalarında{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305B_IMPERATIVE" Language="tr_TR">
+      <Text>Toplam 3 Keşif Harikası inşa edin ve kontrol edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1305B_STORYTITLE" Language="tr_TR">
+      <Text>Rekabetçi Obelisk Ölçümleri</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306A_COMPLETION" Language="tr_TR">
+      <Text>Devlet meseleleri Gilgamesh'in zihnini meşgul ediyor. Komutanlarından askeri güçle ilgili hikayeler topluyor, sonra da gıyaben. Yıkım ne kadar büyükse, o kadar iyi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306A_STORYTITLE" Language="tr_TR">
+      <Text>Vekaleten Kahramanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306B_COMPLETION" Language="tr_TR">
+      <Text>Kral, savaşçıların raporunu dinlemek için öne eğilir, gözlerinde mangalların ışığı parıldar. Hayran olduğu şey strateji değil, alevlerdeki ilkel güçtür.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Komutanlara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306B_IMPERATIVE" Language="tr_TR">
+      <Text>20 karo yağmalayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306B_STORYTITLE" Language="tr_TR">
+      <Text>Vekil Kahramanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1306C_DESCRIPTION" Language="tr_TR">
+      <Text>Keşif Birimlerine{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307A_COMPLETION" Language="tr_TR">
+      <Text>Gılgamış, uzak diyarlardaki tapınakların tasvirlerinden dehşete kapılır. Tanrılar - kendi soyundan gelenler - hakkında yanlış isimlerle anıldıklarını, yanlış şekilde tapındıklarını duyar. Geceleri rüyalarında, onu kendilerini kurtarması için yalvaran soydaşlarının sesleri yankılanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307A_STORYTITLE" Language="tr_TR">
+      <Text>Aileyi Eve Getirmek</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307B_COMPLETION" Language="tr_TR">
+      <Text>Tanrılar doğru isimlerle anılır ve doğru yiyecekleri yerler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307B_IMPERATIVE" Language="tr_TR">
+      <Text>Başka bir medeniyetten bir Kutsal Şehir ele geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1307B_STORYTITLE" Language="tr_TR">
+      <Text>Aileyi Eve Getirmek</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308A_COMPLETION" Language="tr_TR">
+      <Text>İdeolojiler, bir ibru'nun el sıkışmasına kıyasla hiçbir şeydir. Yine de Gılgamış'ın halkı bir ideoloji arıyor ve bir ideolojiye sahip olacak. Ancak hiçbir felsefe kitabı dostluğun ötesine geçemez.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308A_STORYTITLE" Language="tr_TR">
+      <Text>Sözlerden Öte Dostluk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308B_IMPERATIVE" Language="tr_TR">
+      <Text>Tam olarak 1 müttefikiniz olsun. Bu müttefiki destekleyin veya onun 10 çabayı desteklemesini sağlayın. Daha fazla müttefik edinmek veya bu müttefiki kaybetmek görevi sonlandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308B_STORYTITLE" Language="tr_TR">
+      <Text>Sözlerden Öte Dostluk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya girin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308E_COMPLETION" Language="tr_TR">
+      <Text>El ele, Gılgamış ve ibru'su dünyaya karşı dururlar. Çatışmanın alevleri yükseldikçe, bir dostun sevgisi de onunla birlikte yükselir. Zafer ya da yenilgi, bunların önemi yoktur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308E_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308E_IMPERATIVE" Language="tr_TR">
+      <Text>Tam olarak 1 Müttefikiniz olsun. Bu Müttefiki destekleyin veya bu Müttefik 10 Çabayı desteklesin. Daha fazla müttefik edinmek veya bu Müttefiki kaybetmek görevi sonlandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1308E_STORYTITLE" Language="tr_TR">
+      <Text>Sözlerden Öte Dostluk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309A_COMPLETION" Language="tr_TR">
+      <Text>Canavarlar yoktur. Canavarlar yoktur. Dünyanın tüm çağlarında Gilgamesh, gücünü aşabilecek bir düşman bulmak için mücadele etmiştir – ama kara gemisinde, o düşman ortaya çıkmıştır. Çelik ve duman, demir ve ateş. Bir canavar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309A_STORYTITLE" Language="tr_TR">
+      <Text>Çelik Canavar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309B_COMPLETION" Language="tr_TR">
+      <Text>Onlar ejderha değildir. Anzu kuşu değildir. Selvi canavarı değildir. Ama onlar canavardır ve savaş alanında iç organları deşilmiş, dumanlar içinde yatmaktadırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309B_IMPERATIVE" Language="tr_TR">
+      <Text>Piyade ile 10 Süvari Birimini yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309B_STORYTITLE" Language="tr_TR">
+      <Text>Çelik Canavar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1309D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya katıl.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_GILGAMESH_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Girişimleri başlatmak veya desteklemek için +%25 İlişki. Yaptırımları başlatmak veya girişimleri reddetmek için -%25 İlişki.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_GILGAMESH_L1_NAME" Language="tr_TR">
+      <Text>Diplomatik Özellik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_GILGAMESH_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Bölgelere karşı tüm Birimlerin Savaş Gücü +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_GILGAMESH_L2_NAME" Language="tr_TR">
+      <Text>Militarist Özellik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_GILGAMESH_NAME" Language="tr_TR">
+      <Text>Gılgamış Rozeti 1</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_GILGAMESH_P_NAME" Language="tr_TR">
+      <Text>Gılgamış Rozeti 2</Text>
+    </Replace>
+    <Replace Tag="LOC_BANNER_GILGAMESH_NAME" Language="tr_TR">
+      <Text>Gılgamış Afişi</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_GILGAMESH_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağda, Deniz Birimlerinizin Savaş Gücünden %2 düşürerek %15 [icon:YIELD_DIPLOMACY] Nüfuz kazanırsınız</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_GILGAMESH_1_NAME" Language="tr_TR">
+      <Text>Gılgamış Keşif Efsanesi Diplomatik</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_GILGAMESH_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağda, Deniz Birimlerinizin Savaş Gücü +3 olur, bunun karşılığında [icon:YIELD_DIPLOMACY] Etkiniz %10 azalır</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_GILGAMESH_2_NAME" Language="tr_TR">
+      <Text>Gılgamış Keşif Efsanesi Askeri</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_GILGAMESH_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağda, Hava Birimlerinizin Savaş Gücünden %2 düşürerek %15 [icon:YIELD_DIPLOMACY] Etki kazanırsınız</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_GILGAMESH_1_NAME" Language="tr_TR">
+      <Text>Gılgamış Modern Efsane Diplomatik</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_GILGAMESH_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağda, %10 Etki [icon:YIELD_DIPLOMACY] kaybı karşılığında Hava Birimlerinizin Savaş Gücü +3 olur</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_GILGAMESH_2_NAME" Language="tr_TR">
+      <Text>Gılgamış Modern Efsane Militarist</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_AGENDA_ALLY_OF_ENKIDU_DESC" Language="tr_TR">
+      <Text>En çok Girişimi başlatan veya destekleyen Lideri sever. Başka biriyle İttifak halinde olan Liderleri sevmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_AGENDA_ALLY_OF_ENKIDU_NAME" Language="tr_TR">
+      <Text>Enkidu'nun müttefiki</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GILGAMESH_DESCRIPTION" Language="tr_TR">
+      <Text>Tek bir İttifak'ta olduğunda +2 [icon:WAR_SUPPORT] Savaş Desteği. Askeri Birimlerinden biri bir düşman Birimini yendiğinde, yenilen Birimin [icon:NAR_REW_COMBAT] Savaş Gücünün %50'si kadar [icon:YIELD_DIPLOMACY] Etki kazanırsın. Tüm temel Girişimler otomatik olarak açılır. Müttefiklerle yapılan Girişimler, aynı anda belirli bir türden yalnızca bir Girişimin aktif olabileceği sınırına dahil edilmez. Müttefikler, Girişimlerinizi ücretsiz olarak destekleyebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_LEADER_INTRO_TEXT_GILGAMESH" Language="tr_TR">
+      <Text>Hiç kimse hayatı senden daha çok sevmez, Gılgamış, kahramanların ilki ve dostların en iyisi. Sedir koruları kahkahalarınla titriyor, Dicle gözyaşlarınla taşıyor ve düşmanların senin yaklaşmanla titriyor. Yeni bir meydan okuma seni bekliyor – gel şimdi ve destanına yeni bir dize ekle.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MAGIC_PLANT_DESCRIPTION" Language="tr_TR">
+      <Text>Ölümsüzlüğün anahtarı.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MAGIC_PLANT_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Dostça selamlar, ilişkiyi %100 artırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MAGIC_PLANT_NAME" Language="tr_TR">
+      <Text>Sihirli Bitki</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MAGIC_PLANT_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Gilgamesh seviye 2'de açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MIKKU_DESCRIPTION" Language="tr_TR">
+      <Text>Inanna'nın hediyesi.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MIKKU_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Tam olarak bir Müttefikiniz varken tüm Yerleşimlerde +1 [icon:YIELD_DIPLOMACY] Etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MIKKU_NAME" Language="tr_TR">
+      <Text>Mikku</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_MIKKU_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Gilgamesh seviye 9'da açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_PUKKU_DESCRIPTION" Language="tr_TR">
+      <Text>Bir kez sevildi, bir kez kaybedildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_PUKKU_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_HAPPINESS] Tam olarak bir Müttefikiniz varken tüm Yerleşim Yerlerinde Mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_PUKKU_NAME" Language="tr_TR">
+      <Text>Pukku</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_GILGAMESH_PUKKU_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Gilgamesh seviye 5'te açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Antik Çağ'ı iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlama 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Antik Çağ'ı üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamla 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Antik Çağ'ı tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Keşif Çağı'nı iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Keşif Çağı'nı üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Keşif Çağı'nı tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Modern Çağı iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Çağ Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Modern Çağı üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_3_NAME" Language="tr_TR">
+      <Text>Modern Çağ Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Modern Çağı tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_AGE_COMPLETED_MODERN_NAME" Language="tr_TR">
+      <Text>Modern Tamamlama</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Antik Dünya Harikaları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Dünyanın Harikaları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Antik Dünya Harikaları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Dünyanın Harikaları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Antik Dünya Harikaları Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Dünyanın Harikaları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Toshakhana Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Toshakhana 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Toshakhana Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Toshakhana 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Toshakhana Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Toshakhana</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Coğrafya Derneği Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Coğrafya Derneği 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Coğrafya Derneği Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Coğrafya Derneği 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Coğrafya Derneği Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_CULTURE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Coğrafya Derneği</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İpek Yolları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>İpek Yolları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İpek Yolları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>İpek Yolları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İpek Yolları Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>İpek Yolları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Hazine Filosu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Hazine Filosu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Hazine Filosu Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Hazine Filosu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Demiryolu Patronu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Demiryolu Magnatı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Demiryolu Patronu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Demiryolu Tycoon 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Demiryolu Tycoon Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_ECONOMIC_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Demiryolu Tycoon</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, tek bir Antik Çağ'da 2 Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Çift Miras, Antik Çağ</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, tek bir Keşif Çağı'nda 2 Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Çift Miras, Keşif</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, tek bir Modern Çağ'da 2 Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_FLAWLESS_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>İkili Miraslar, Modern</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Pax Imperatoria Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Pax Imperatoria Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Pax Imperatoria Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Non Sufficit Orbis Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Non Sufficit Orbis Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Non Sufficit Orbis Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İdeoloji Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Ideology 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İdeoloji Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Ideology 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, İdeoloji Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_MILITARY_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Ideology</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_1_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, en az 1 Miras Yolu Dönüm Noktasına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_1_NAME" Language="tr_TR">
+      <Text>Oyun 1</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, en az 2 Miras Yolu Dönüm Noktasına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_2_NAME" Language="tr_TR">
+      <Text>Oyun 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, en az 3 Miras Yolu Dönüm Noktasına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_PLAY_GAMES_3_NAME" Language="tr_TR">
+      <Text>3. Oyunu Oynayın</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Gilgamesh olarak, en iyi arkadaşını bulmak için bir görevi tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Ibru</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif dönemindeki Gilgamesh olarak, dostça bir takıntıyı takip etmek için bir görevi tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Yok Olan Arkadaş</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_MODERN_DESC" Language="tr_TR">
+      <Text>Modern dönemde Gilgamesh olarak, el ele tutuşmak için bir görevi tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_A_MODERN_NAME" Language="tr_TR">
+      <Text>Sözlerden Öte Dostluk</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Gilgamesh olarak, efsaneleri aramak için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Humbaba</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif'te Gilgamesh olarak, bir fetih öyküsü anlatmak için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Aileyi Eve Getirmek</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_MODERN_DESC" Language="tr_TR">
+      <Text>Modern'da Gilgamesh olarak, bir canavarı öldürme görevini tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_QUEST_B_MODERN_NAME" Language="tr_TR">
+      <Text>Çelik Canavar</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Büyük Kütüphane Miras Yolunu iki kez tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Büyük Kütüphane Miras Yolu'nu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Büyük Kütüphane Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Aydınlanma Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Aydınlanma 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Aydınlanma Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Aydınlanma 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Aydınlanma Miras Yolu'nu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Enlightenment</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Uzay Yarışı Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak, Uzay Yarışı Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Gilgamesh olarak Uzay Yarışı Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GILGAMESH_SCIENCE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_GILGAMESH_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Efsane Kilidini Aç. +%25 [icon:RELATIONSHIP] Çabaları başlatma veya destekleme [icon:ENDEAVOR] Çabalarından kaynaklanan ilişki. -%25 [icon:RELATIONSHIP] Yaptırımları başlatma [icon:SANCTIONS] veya Çabaları reddetme [icon:ENDEAVOR] Çabalarından kaynaklanan ilişki.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GILGAMESH_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Efsane Kilidi Aç. Tüm Birimlerin [icon:NAR_REW_COMBAT] Tahkimatlı Bölgelere karşı Savaş Gücü +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROFILE_TITLE_GILGAMESH" Language="tr_TR">
+      <Text>Bir Zamanlar Ölümlü, İki Kez İlahi</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_EXPLORATION_1_DESCRIPTION" Language="tr_TR">
+      <Text>Gılgamış olarak, yeni bir Keşif Miras Kartına erişin:[n]                 +%15 Etki, Deniz Birimleri için -2 Savaş Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_EXPLORATION_1_NAME" Language="tr_TR">
+      <Text>Keşif Diplomatik Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_EXPLORATION_2_DESCRIPTION" Language="tr_TR">
+      <Text>Gılgamış olarak, yeni bir Keşif Miras Kartına erişin:[n]                 Deniz Birimleriniz için +3 Savaş Gücü, %10 Etki Azalması</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_MODERN_1_DESCRIPTION" Language="tr_TR">
+      <Text>Gilgamesh olarak, yeni bir Modern Miras Kartına erişin:[n]                 +%15 Etki, Hava Birimleri için -2 Savaş Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_MODERN_1_NAME" Language="tr_TR">
+      <Text>Modern Diplomatik Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_MODERN_2_DESCRIPTION" Language="tr_TR">
+      <Text>Gilgamesh olarak yeni bir Modern Miras Kartına erişin:[n]                 Hava Birimleriniz için +3 Savaş Gücü, %10 Etki Azalması</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_GILGAMESH_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_TITLE_GILGAMESH_NAME" Language="tr_TR">
+      <Text>Bir Zamanlar Ölümlü, İki Kez İlahi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Tek bir İttifak'ta olduğunda +2 [B][icon:WAR_SUPPORT] Savaş Desteği[/B]. 				[LI]Askeri Birimlerinizden biri bir düşman Birimini yendiğinde, yenilen Birimin [icon:NAR_REW_COMBAT] Savaş Gücünün %50'si kadar [B][icon:YIELD_DIPLOMACY] Etki[/B] kazanırsınız.                  [LI]Tüm temel Girişimler otomatik olarak açılır. Müttefiklerle yapılan Girişimler, aynı anda belirli bir türden yalnızca bir Girişimin aktif olabileceği sınırına dahil edilmez. Müttefikler, Girişimlerinizi ücretsiz olarak destekleyebilir. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_ABILITY_NAME" Language="tr_TR">
+      <Text>Bir Kez Ölümlü, İki Kez İlahi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_ABBASID_TOOLTIP" Language="tr_TR">
+      <Text>[B]Gılgamış[/B], [B]Abbasiler[/B] ile aynı kıtadan geliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_ASSYRIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Gılgamış[/B], [B]Asur[/B] ile aynı kıtadan geliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_CHOLA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Chola[/B], [B]Gılgamış[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Gılgamış[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_FRENCH_EMPIRE_TOOLTIP" Language="tr_TR">
+      <Text>[B]Fransız İmparatorluğu[/B], [B]Gılgamış[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_NORMAN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Normanlar[/B], [B]Gilgamesh[/B]'i stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Gilgamesh[/B], [B]Osmanlılar[/B] ile aynı kıtadan geliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_PERSIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Gilgamesh[/B], [B]Ahameniş Pers İmparatorluğu[/B] ile aynı kıtadandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GILGAMESH_QAJAR_TOOLTIP" Language="tr_TR">
+      <Text>[B]Gılgamış[/B], [B]Kaçar İranı[/B] ile aynı kıtadandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GILGAMESH_L2_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Value} Efsane Askeri Özellik</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

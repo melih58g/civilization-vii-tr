@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_PAGE_FEATURE_MACHAPUCHARE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Nepal Himalayaları'nın Annapurna sıradağlarından yukarı doğru uzanan neredeyse dikey bir kaya düzlemi olan Machapuchare'ye hiç tırmanılmamıştır. Everest yüksekliğinde olmasa da, sadece 22.000 fitin üzerinde durur ve nispeten alçak bir araziden yükselir, bu da ona çarpıcı bir profil kazandırır. Belki de bu yüzden, hem yayla Tibet grupları hem de onu tanrı Şiva'nın meskeni olduğunu iddia eden Nepal halkı tarafından etrafında yaşayan halklar tarafından kutsal sayılmasının nedenidir. Bu nedenlerden dolayı, Nepal hükümeti yamaçlar için tırmanma izinleri verme konusunda son derece isteksizdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_FEATURE_MOUNT_FUJI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Japonya'nın ana adası Honshu'nun merkezinde büyük, aktif bir yanardağ olan Fuji Dağı, pürüzsüz bir koni şeklinde yükselir ve yılın büyük bir bölümünde karla kaplıdır. Güzelliği sayesinde binlerce yıldır adaların bir sembolü olmuştur, Hokusai'nin ahşap baskılarını, Basho'nun şiirlerini süslemiş ve önemli bir Şinto ibadet ve hac yeri olmaya devam etmektedir. Zirvesinde bir tapınak bulunur ve yamaçları hem dini hem de rekreasyonel yürüyüşler için bir yerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_FEATURE_MOUNT_FUJI_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Fuji Dağı, kültürel etkisi nedeniyle 2013 yılında Dünya Mirası Listesi'ne girdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_FEATURE_VIHREN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bulgaristan'ın güneybatı köşesinde, Pirin dağları aşağıdaki vadilerden keskin bir şekilde yükselir. Kalplerinde, sıradağların en yüksek dağı ve Balkanlar'ın üçüncü en yüksek dağı olan Vihren bulunur. 2.914 metrede, piramidal zirve karst topoğrafyasının çarpıcı bir örneğidir; tabanında Avrupa'nın en güneydeki buzulu olan Snezhnika buzulu bulunur. Pirin dağlarının Slav fırtına tanrısı Perun ile uzun süredir devam eden bir ilişkisinin ardından Vihren'in adı "kasırga" anlamına gelir. Bugün dağcılar için popüler bir destinasyon olmaya devam etmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_FEATURE_VINICUNCA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Peru And Dağları'nın derinliklerinde yedi renkli dağ olan Vinicunca bulunur. Parlak tonları çeşitli minerallerin karışımından kaynaklanır: kırmızı kilden pembe, kuvars ve marn'dan beyaz, limonit ve goetit'ten mor, demirden kırmızı, kloritten yeşil, magnezyumdan kahverengi ve kalkerli kumtaşından sarı. Vinicunca ancak 2013 yılında keşfedildi. Tarihsel olarak bir buzulun altında gizliydi, ancak Dünya'nın artan sıcaklıkları kalıcı karını eritti. O zamandan beri Peru'nun başlıca turistik yerlerinden biri haline geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MACHAPUCHARE_NAME" Language="tr_TR">
+      <Text>Machapuchare</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MOUNT_FUJI_NAME" Language="tr_TR">
+      <Text>Fuji Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VIHREN_NAME" Language="tr_TR">
+      <Text>Vihren</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VINICUNCA_NAME" Language="tr_TR">
+      <Text>Vinicunca</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MOUNT_VINSON_NAME" Language="tr_TR">
+      <Text>Vinson Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MACHAPUCHARE_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_CULTURE] Culture and +4 [icon:YIELD_PRODUCTION] Production per Age. +1[icon:YIELD_HAPPINESS] Happiness to [icon:CITY_RURAL] Improvements on Rough and Mountain Terrain in this Settlement.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MACHAPUCHARE_TOOLTIP" Language="tr_TR">
+      <Text>+1[icon:YIELD_HAPPINESS] Happiness to [icon:CITY_RURAL] Improvements on Rough and Mountain Terrain in this Settlement.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MOUNT_FUJI_DESCRIPTION" Language="tr_TR">
+      <Text>Çağ başına +2 [icon:YIELD_GOLD] Altın, [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_HAPPINESS] Mutluluk. Volkan karoları.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MOUNT_FUJI_TOOLTIP" Language="tr_TR">
+      <Text>Volkan karoları.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VIHREN_DESCRIPTION" Language="tr_TR">
+      <Text>Çağ başına +4 [icon:YIELD_FOOD] Yiyecek ve +2 [icon:YIELD_PRODUCTION] Üretim. Bu Çağda bir Doğal Afet size Verimlilik sağladığında, Çağ başına +1 [icon:YIELD_HAPPINESS] Mutluluk ve [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VIHREN_TOOLTIP" Language="tr_TR">
+      <Text>Bu Çağda bir Doğal Afet size Verimlilik sağladığında, Çağ başına +1 [icon:YIELD_HAPPINESS] Mutluluk ve [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VINICUNCA_DESCRIPTION" Language="tr_TR">
+      <Text>+2[icon:YIELD_PRODUCTION] Production,[icon:YIELD_HAPPINESS] Happiness, and[icon:YIELD_SCIENCE] Science per Age. +2 [icon:YIELD_CULTURE] Culture on [icon:CITY_RURAL] Improvements on adjacent tiles.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_VINICUNCA_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:YIELD_CULTURE] Culture on [icon:CITY_RURAL] Improvements on adjacent tiles.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_FEATURE_MACHAPUCHARE" Language="tr_TR">
+      <Text>Linga Purana</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_FEATURE_MOUNT_FUJI" Language="tr_TR">
+      <Text>Matsuo Bashō</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_FEATURE_VIHREN" Language="tr_TR">
+      <Text>Razumnik</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_FEATURE_VINICUNCA" Language="tr_TR">
+      <Text>Paçakuti</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_FEATURE_MACHAPUCHARE" Language="tr_TR">
+      <Text>Şiva işaretsizdir, renksiz, tatsız, kokusuzdur, sözün veya dokunuşun ötesindedir, niteliksiz, hareketsiz ve değişmezdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_FEATURE_MOUNT_FUJI" Language="tr_TR">
+      <Text>Büyülü bir dünyada, güneş başını Fuji'nin zirvesine çarpar.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_FEATURE_VIHREN" Language="tr_TR">
+      <Text>Yeryüzü dağlarla sıkıca tutulmuştur, böylece sular üzerinde sallanmaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_FEATURE_VINICUNCA" Language="tr_TR">
+      <Text>Ey Paçakamak! Gökte misin yoksa yeryüzünde mi? Bulutlarda mı yoksa derinliklerde mi?</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN1" Language="tr_TR">
+      <Text>Londra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN10" Language="tr_TR">
+      <Text>Stoke-upon-Trent</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN11" Language="tr_TR">
+      <Text>Newcastle</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN12" Language="tr_TR">
+      <Text>Plymouth</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN13" Language="tr_TR">
+      <Text>Portsmouth</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN14" Language="tr_TR">
+      <Text>Leicester</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN15" Language="tr_TR">
+      <Text>Sunderland</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN16" Language="tr_TR">
+      <Text>Nottingham</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN17" Language="tr_TR">
+      <Text>Oldham</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN18" Language="tr_TR">
+      <Text>Brighton</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN19" Language="tr_TR">
+      <Text>Bolton</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN2" Language="tr_TR">
+      <Text>Liverpool</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN20" Language="tr_TR">
+      <Text>Blackburn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN21" Language="tr_TR">
+      <Text>Preston</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN22" Language="tr_TR">
+      <Text>Norwich</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN23" Language="tr_TR">
+      <Text>Birkenhead</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN24" Language="tr_TR">
+      <Text>Huddersfield</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN25" Language="tr_TR">
+      <Text>Derby</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN26" Language="tr_TR">
+      <Text>Wolverhampton</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN27" Language="tr_TR">
+      <Text>Halifax</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN28" Language="tr_TR">
+      <Text>Rochdale</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN29" Language="tr_TR">
+      <Text>Gateshead</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN3" Language="tr_TR">
+      <Text>Birmingham</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN30" Language="tr_TR">
+      <Text>Southampton</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN4" Language="tr_TR">
+      <Text>Manchester</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN5" Language="tr_TR">
+      <Text>Leeds</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN6" Language="tr_TR">
+      <Text>Sheffield</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN7" Language="tr_TR">
+      <Text>Bristol</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN8" Language="tr_TR">
+      <Text>Bradford</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GREAT_BRITAIN9" Language="tr_TR">
+      <Text>Hull</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_1" Language="tr_TR">
+      <Text>Mary</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_10" Language="tr_TR">
+      <Text>Hannah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_2" Language="tr_TR">
+      <Text>Elizabeth</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_3" Language="tr_TR">
+      <Text>Sarah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_4" Language="tr_TR">
+      <Text>Margaret</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_5" Language="tr_TR">
+      <Text>Eliza</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_6" Language="tr_TR">
+      <Text>Ann</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_7" Language="tr_TR">
+      <Text>Ellen</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_8" Language="tr_TR">
+      <Text>Jane</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_FEMALE_9" Language="tr_TR">
+      <Text>Emma</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_1" Language="tr_TR">
+      <Text>William</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_10" Language="tr_TR">
+      <Text>Joseph</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_2" Language="tr_TR">
+      <Text>John</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_3" Language="tr_TR">
+      <Text>George</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_4" Language="tr_TR">
+      <Text>Thomas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_5" Language="tr_TR">
+      <Text>James</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_6" Language="tr_TR">
+      <Text>Robert</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_7" Language="tr_TR">
+      <Text>Henry</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_8" Language="tr_TR">
+      <Text>Edward</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GREAT_BRITAIN_MALE_9" Language="tr_TR">
+      <Text>Charles</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GREAT_BRITAIN_ADJECTIVE" Language="tr_TR">
+      <Text>İngiliz</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GREAT_BRITAIN_FULLNAME" Language="tr_TR">
+      <Text>Britanya İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GREAT_BRITAIN_NAME" Language="tr_TR">
+      <Text>Büyük Britanya</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_MANUFACTORY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sanayi Devrimi'nin bir sonucu olarak 19. yüzyılda İngiliz toplumunun yaşadığı tam dönüşüm abartılamaz. Önceki yüzyıllarda dokumacılık gibi bir faaliyet kırsalda büyük aile çiftliklerinde yapılırken, şimdi zengin bir yatırımcı eğirme ve bükme makineleri satın alırsa, herhangi bir ev sanayisini hızla geride bırakabilirdi. Bu makinelerin çelik ve kömüre ihtiyacı vardı ve bu nedenle bu endüstriler de yükselmeye başladı. Makinelerin çalıştırılması aynı zamanda, tercihen düşük ücretli ve vasıfsız bir işgücü gerektiriyordu, bu da insanları kırsaldan şehre toplu halde göç etmeye teşvik ediyordu. Bu işçilere ücret ödendiği ve çalışacak toprakları olmadığı için, çalıştıkları fabrikalar tarafından üretilen daha fazla metaya ihtiyaç duyuyorlardı. Ve bu makineler, büyük ölçüde Britanya'nın sömürgelerinden gelen giderek daha fazla hammaddeye ihtiyaç duydukça, sömürge kontrolü giderek sıkılaştı. Bu, işçilerden, sömürge tebaasından ve toprağın kendisinden alabildiğini sıkan ve devasa miktarlarda ürün ve kâr sağlayan bir sistemdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_MANUFACTORY_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Charles Dickens, bu sistem içindeki Britanya vatandaşlarının gündelik yaşamlarını kaydetti ve buna rağmen varlığını sürdüren insanlık kalıntılarına işaret etti. Friedrich Engels, acımasız aşırılıklarını kaydetti ve fabrika kasabalarındaki sağlık ve mutluluğun kırsaldakinden çok daha düşük olduğunu belirtti – ama tabii ki kırsal hızla yok oluyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_MANUFACTORY_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>İşte o zaman, imalathane: William Blake'in hayal gücündeki “karanlık Şeytani değirmen”. Duman ve buhar püskürtür ve toprağı yeniden şekillendirir, ama bir de ne kadar para kazandırabildiğine bakın!</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_ROYAL_EXCHANGE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Britanya İmparatorluğu borsa üzerine kurulmuştu; Britanya gücü ticaret ağları üzerinden yayılıyordu. Kraliyet Borsası, daha sonra Doğu Hindistan Şirketi'ne kraliyet beratı verecek olan Kraliçe I. Elizabeth tarafından 1571'de açıldı. Viktorya dönemine gelindiğinde, Britanya ticaret ağları çay, baharat, porselen ve kaliteli kumaşları dünyanın bir köşesinden diğerine taşıyor ve bunu yaparken sadece sömürgeleri değil, aynı zamanda Britanya orta sınıf yaşamını da yeniden şekillendiriyordu. Ve Kraliyet Borsası bu ağın sinir merkeziydi – yeni bir hükümdarın onaylanması gibi bildirilerin Borsa önünde halka duyurulması bir tesadüf değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_ROYAL_EXCHANGE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Binanın kendisi Elizabeth'inkiyle aynı değil. Borsa iki kez yandı ve mevcut bina 1844'te Kraliçe Victoria tarafından açıldı. Ancak bugün bir borsa değil, bir alışveriş merkezi – belki de bazı şeylerin hem nasıl değiştiğine hem de nasıl sabit kaldığına dair bir ifade.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>1800'de Birlik Yasası, İrlanda ve Büyük Britanya (zaten İskoçya, Galler ve İngiltere'nin bir birliğiydi) taçlarını birleştirerek Birleşik Krallık'ı oluşturdu. Bu, dünya sahnesinde endüstriyel bir güç olarak ortaya çıkan, Hindistan ve Afrika'daki sömürge mülkleri üzerinde egemenliği pekiştiren ve Avrupa siyasetinde güçlü bir oyuncu olarak kalan İkinci Britanya İmparatorluğu'nun çekirdeğiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Fransa'ya karşı yapılan savaşlar, Birleşik Krallık'ın erken tarihinde kilit rol oynadı. Bunlar, Birleşik Krallık monarşilerinin Fransa'yı varoluşsal bir tehdit olarak görmesi nedeniyle Fransız Devrimi'ne karşı tepkiler olarak başladı. Bu tehdit, Napolyon Bonapart'ın Fransız Cumhuriyeti'nin kontrolünü ele alması ve Birinci Fransız İmparatorluğu'nu kurarak bir Avrupa fetihleri dalgasına girişmesiyle evrildi. Napolyon'un yenilgisinden sonra Britanya kendi ayakları üzerinde durdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Avrupa harap olmuştu ama Britanya dokunulmamıştı (ve denizlerin tartışmasız hakimiydi) ve bu nedenle sömürgeciliğin sonraki döneminde kilit oyunculardan biri haline geldi. Bu sırada taç, yolsuzlukla sakatlanmış, kayıplarla boğuşan ve yerel çatışmaları kışkırtmakla giderek daha kötü bir üne sahip olan çeşitli ticaret şirketlerini devraldı. İngilizler sömürgelerinde köleliği kaldırmış ve ticaret şirketlerinin en kötü dürtülerini dizginlemiş olsa da, emperyalizm dalgası hala yükseliyordu. Asya'da İngilizler, Malay devleti Johor'da bir darbe düzenledi ve bu da İngilizlere Singapur üzerinde kontrol sağladı. Hindistan'da, Raj'ın farklı bölgelerindeki (Tipu Sultan'ınki en ünlülerinden biriydi) sürekli isyan tehdidine rağmen, Doğu Hindistan Şirketi'nin yerini doğrudan İngiliz yönetimi aldı. Bu iki koloni, Çin'e bir afyon boru hattı görevi gördü – Çinlilerin daha önce İngiliz mallarını küçümseyip sadece gümüş aradığı için Çinlilerin satın alacağı bir meta bulmak için kasıtlı bir İngiliz stratejisiydi. Bu, (Britanya'nın Hong Kong'u kazandığı) iki Afyon Savaşı'na yol açtı ve Çin pazarını açmaya zorladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Kısacası, İngilizler Londra'nın yararına dünya çapında bir sistem yarattı. Dünyadaki hemen hemen her kıtada İngiliz etkisi vardı (Güney Amerika büyük ölçüde hariç). Daha savaş eğilimli Fransızların aksine, İngilizler çeşitli egemenlik araçları kullandılar. Örneğin, borç kilit bir araç haline geldi; yöneticilerin mamul mal arzusundan yararlanan İngiliz tüccarlar, onları büyük borçlar biriktirmeye teşvik etti ve ardından bu borçlar, İngilizlerin mali durumu "yönetmesine" izin verilerek "ödenebilirdi". Malaya ve Mısır bu şekilde İngilizlerin eline geçti. Bu arada, Orta Asya, bölgenin hakimiyeti için Rusya'ya karşı stratejik bir rekabet olan "Büyük Oyun"un yeriydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>İlginç bir şekilde, Britanya Amerika Birleşik Devletleri ile başka bir savaşa – İç Savaş'a – girip girmemeyi tartıştı. Birleşik Krallık ekonomik olarak Güney'e daha yakındı, Güney pamuğuna bağımlıydı ve Kuzeydoğu'daki katı Püriten torunlarından çok Güney aristokrasisiyle daha rahattı. Ancak, Özgürlük Bildirgesi Güney'i desteklemenin köleliği desteklemek anlamına geldiğini vurguladı ve İngilizler bile o çizgiyi geçmeyecekti. En azından 1860'lara kadar geçmeyeceklerdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>İçeride Britanya, serbest ticaret ve mülkiyet haklarına odaklanarak liberal ekonomiyi simgeliyordu. Fransız Devrimi'nin hayaleti Britanya'yı rahatsız ediyordu, bu yüzden çeşitli partiler ya uzlaşmacı bir çizgi (Whig'ler) ya da düşmanca bir çizgi (Tory'ler) izleyerek popülizmi yatıştırmaya çalıştı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>19. yüzyılın ikinci yarısı Britanya'nın Viktorya dönemine ev sahipliği yaptı. Bu, sanayileşme, edebiyat, bilim ve felsefe zamanıydı, özünde bir İngiliz zamanıydı. Sanayileşme devraldıkça (William Blake'in "karanlık Şeytani değirmenleri"), İngiliz sanayi sınıfı gelişti. Birincisi, saatle düzenlenen fabrikalar ev yaşamının iş yaşamından ayrılmasına olanak tanıdı ve bu da beraberinde toplumsal cinsiyet rolleri getirdi. Bir diğer değişiklik de psikolojik ve diğer sosyal bilimlerin genişlemesiydi; 20. yüzyıl ırk ve cinsellik kavramları bu dönemden derinden etkilendi. Bu, buhar gücünün, Charles Dickens ve Sherlock Holmes'un, Brontë kardeşler ve Drakula'nın, Jeeves ve Wooster ve Friedrich Engels'in dünyasıydı; burada orta sınıf saygınlığı kodlanmış ve yüceltilmişti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_GREAT_BRITAIN_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Kısacası, Britanya İmparatorluğu'nun birden fazla yüzü vardı – içeride sanayi ve siyaset, dışarıda ise bariz emperyalizm. Durdurulamaz bir donanmaya, Britanya gücüyle garanti altına alınmış bir dünya düzenine ve her zaman mevcut olan toplumsal kargaşa tehdidine dayanan bir dönemdi. Çatışma her zaman arka planda gizleniyor gibiydi, ancak bu cesur yeni dünyada savaşın kökten farklı olacağı anlayışıyla. Ki öyle de oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_CHARTERED_COMPANIES_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sömürgecilikten bahsettiğimizde, dönemi genellikle bir bölgenin başka bir bölgedeki bir güç tarafından, bir üstünlük ideolojisiyle ve çıkarma amacıyla fethi olarak ifade ederiz. Ancak bu sadece kısmen doğrudur: sömürgeci girişimler büyük ölçüde yarı özel ticari girişimlerdi, taç tarafından kurulmuş ve bir berat verilmiş bir şirket tarafından kurulmuştu. Ticaret ve kâra odaklanma, bu tür kurumların amaçlarını vurgular – doğrudan imparatorluk fethinin aksine, bu girişimler para kazanmak için kurulmuştu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_CHARTERED_COMPANIES_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Doğu Hindistan Şirketi, belki de İngiliz imtiyazlı şirketlerinin en ünlüsü, modern dönemden çok önce kurulmuştu. Ancak EIC ve diğer şirketler operasyonlarına devam ettikçe, tekelci duruşları ve açgözlü uygulamaları (ve bunların yol açtığı direniş) Kraliyet'in müdahale etmesine neden oldu ve modern çağın imtiyazlı şirketleri kapsam olarak daha sınırlıydı ve devletin daha fazla müdahalesine tabiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_PAX_BRITANNICA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Napolyon'un düşüşüyle ​​Britanya denizlere hükmetti. İzleyen yüzyılda, başka hiçbir güç deniz yolları söz konusu olduğunda İngilizlere karşı önemli bir avantaj elde edemedi ve yüksek sömürgecilik çağı tam olarak etkili olduğundan, bu, tüm kıtalararası imparatorlukların İngiliz deniz gücüne tabi olduğu anlamına geliyordu. Bu çağa verilen Pax Britannica adı, tek bir imparatorluğun bir ticaret ve iletişim ağını kontrol ettiği, barışı beslediği… tek bir düzenli yönetim altında da olsa, başka yerlerdeki benzer koşulları yansıtır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_PAX_BRITANNICA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu egemenlik 19. yüzyılın sonuna kadar sürdü; Amerika Birleşik Devletleri, Japonya ve Almanya'nın yükselişi İngilizlere yeni rakipler çıkardı ve sonuçta 20. yüzyılda dağıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_SOCIETY_OF_ANTIQUARIES_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Modern çağ ilerledikçe, çeşitli imparatorluklar geçmişe ilgi duymaya başladı. Britanya'da, Antikacılar Derneği 1707'de, büyük ölçüde Britanya'nın tarihini, (yeni doğan) arkeologlar ve diğer bilgili insanlar arasında tartışmak için kuruldu. Bu kuruluşun gerekli ve yeni olması kolayca gözden kaçırılabilir; geçmiş hakkındaki bilgi ve geçmişin mutlaka ilginç bir şey olduğu fikri, birçok yerde olduğu gibi İngiltere'de her zaman mevcut olmamıştır ve dernek, Britanya'yı zamanla değiştiren güçlerin ve hikayelerin artan bir farkındalığını yansıtıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_SOCIETY_OF_ANTIQUARIES_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Dernek hala mevcuttur ve hem popüler hem de akademik çeşitli dergiler yayınlamaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_GREAT_BRITAIN_SPLENDID_ISOLATION_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Napolyon Savaşları ile 20. yüzyıl arasındaki dönemde, Britanya'nın politikası diğer güçlerle kalıcı ittifaklara girmekten kaçınmaktı. Britanya açısından bakıldığında, bu yaklaşım çok mantıklıydı: denizdeki güçleri sorgulanamazdı, ancak Avrupa potansiyel olarak karmaşık bir ittifaklar ve rekabetler yumağı olarak kalıyordu ve Manş Denizi herhangi bir doğrudan saldırıya karşı doğal bir engel oluşturuyordu. Oradan Britanya, gücünden emin bir şekilde, görkemli bir izolasyon içinde Avrupa'ya bakabilirdi, ancak yakın müttefiklerin eksikliği sonunda Britanya çıkarlarını standart diplomasiye geri döndürdü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_FINANCIAL_CENTRE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Britanya İmparatorluğu'nun hakimiyeti büyük ölçüde ekonomi ve ticarete dayanıyordu ve bu da metropolde önemli bir finansal altyapı gerektiriyordu. 19. yüzyılın ortalarına gelindiğinde Londra, dünyanın finans merkezi haline gelmişti ve küresel ticaretin yarısından fazlası İngiliz sterlini üzerinden gerçekleşiyordu. Üretim ve finans birbiriyle iç içe geçmişti: Kolonyal kaynakları mamul mallara dönüştüren Britanya fabrikaları, Royal Exchange tarafından desteklenen ticaret yollarından besleniyordu. Zirveye ulaştığında bu sistem, Britanyalıların borçların kaldıraç etkisiyle tek tek kolonilerin finansmanı üzerinde doğrudan kontrol sahibi olmalarını sağladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ANTIQUARIAN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Geçmişin hem şimdiki zamandan farklı hem de onunla bir bağlantısı olan bir yer olarak anlaşılması ve o geçmişten bilgi ve nesne toplama ilgisi, eski Mısır'dan Song dönemi Çin'ine kadar farklı yerlerde var olmuştur. Ancak Avrupa'daki Aydınlanma ve sonraki dönemler özellikle zengin bir zemin sağladı – Avrupalılar önce klasik tarihe daldılar; sonra, 18. yüzyıldaki milliyetçilik ve ulusal kökenlere olan takıntı sırasında, Avrupa tarih öncesine; ve son olarak, yüksek sömürgecilik döneminde, Avrupalılar yeni "mülklerinin" geçmişiyle kendilerini takıntı haline getirdiler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ANTIQUARIAN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Burada, Truva'yı kazan Heinrich Schliemann; Büyük Piramit'i inceleyen Flinders Petrie; Tutankamon'un mezarını açan Howard Carter ve diğerleri akla gelir. Bu keşifler, 19. yüzyılın sonlarında ve 20. yüzyılın başlarında Britanya'da antik dünyaya ait her şeye yönelik bir patlamayı körükledi. Antikacı figürü burada yatar: bir şeyler koleksiyoncusu ve geçmişe olan ilginin küratörü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_REVENGE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>20. yüzyılın ilk yıllarında, ordular mekanize savaşın yıkıcı potansiyelini benimsemeye başladıkça, dretnotlar denize indi. Bunlar büyük uzun menzilli toplara dayanan gemilerdi ve hem II. Dünya Savaşı'nda deniz savaşında hakim olacak hem de aynı çatışmada güçlerinin uçaklar tarafından geçildiğini göreceklerdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_REVENGE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>İngiliz savaş gemilerinin İntikam sınıfı, dört taret üzerine monte edilmiş sekiz adet 15 inçlik topa, geminin yanında bir ikincil bataryaya ve erken avcı ve keşif uçakları için platformlara sahipti. I. Dünya Savaşı'nda kısa bir süre savaştılar, ancak esas olarak savaş arası yıllarda hizmet gördüler; II. Dünya Savaşı'na gelindiğinde sonunda daha modern gemiler lehine aşamalı olarak kullanımdan kaldırıldılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_BATTERSEA_POWER_STATION_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>1929'da, Londra'nın Battersea semtinde, Thames'in kuzey kıyısında kömürle çalışan bir elektrik santralinin yapımına başlandı. Theo J. Halliday ve Giles Gilbert Scott (aynı zamanda Britanya'nın ünlü kırmızı telefon kulübesinden de sorumluydu) tarafından tasarlanan Art Deco yapı, tek bir binada iki elektrik santralini barındıracak şekilde tasarlandı. 1955'te tamamlandığında, Battersea Elektrik Santrali dünyanın en büyük tuğla binalarından biriydi. 101 metrelik bacalarından çıkan duman, II. Dünya Savaşı sırasında pilotlara yönlendirme sağladı ve bina Pink Floyd'un 1977 tarihli "Animals" albümünün kapağında yer aldı. Battersea Elektrik Santrali uzun süre çalışmadı – istasyonları 1975 ve 1983'te ayrı ayrı hizmet dışı bırakıldı. 30 yıldan fazla bir süre boş kaldıktan sonra, simge yapı yakın zamanda bir alışveriş ve konut merkezi olarak yeni bir hayata kavuştu.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_MANUFACTORY_NAME" Language="tr_TR">
+      <Text>İmalathane</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_EXCHANGE_NAME" Language="tr_TR">
+      <Text>Kraliyet Borsası</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_FINANCIAL_CENTRE_NAME" Language="tr_TR">
+      <Text>Finans Merkezi</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BATTERSEA_POWER_STATION_NAME" Language="tr_TR">
+      <Text>Battersea Güç İstasyonu</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_TAY_NAME" Language="tr_TR">
+      <Text>Tay Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_THAMES_NAME" Language="tr_TR">
+      <Text>Thames Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_WYE_NAME" Language="tr_TR">
+      <Text>Wye Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_ARTHUR_S_SEAT_NAME" Language="tr_TR">
+      <Text>Arthur'un Koltuğu</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BARROW_HILL_NAME" Language="tr_TR">
+      <Text>Barrow Tepesi</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BEN_NEVIS_NAME" Language="tr_TR">
+      <Text>Ben Nevis</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_HELVELLYN_NAME" Language="tr_TR">
+      <Text>Helvellyn</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MYNYDD_Y_DREF_NAME" Language="tr_TR">
+      <Text>Mynydd y Dref</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_THE_CHEVIOT_NAME" Language="tr_TR">
+      <Text>Cheviot</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHARTERED_COMPANIES_NAME" Language="tr_TR">
+      <Text>İmtiyazlı Şirketler</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PAX_BRITANNICA_NAME" Language="tr_TR">
+      <Text>Britanya Barışı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SOCIETY_OF_ANTIQUARIES_NAME" Language="tr_TR">
+      <Text>Antikacılar Derneği</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SPLENDID_ISOLATION_NAME" Language="tr_TR">
+      <Text>Muhteşem İzolasyon</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_ARTIFACT_CONTESTED_STATUE_NAME" Language="tr_TR">
+      <Text>Tartışmalı Heykel</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_ARTIFACT_KOH_I_NOOR_NAME" Language="tr_TR">
+      <Text>Koh-i-Noor</Text>
+    </Replace>
+    <Replace Tag="LOC_11010A_COMPLETION" Language="tr_TR">
+      <Text>Gözleri fal taşı gibi açılmış bir Kraliyet Hava Kuvvetleri Öğrencisi, kıdemli bir pilotun sınıflarına pervasız uçuşun riskleri hakkında ders verirken dinler. Dikkat etmeye çalışırlar, ancak pilotun yıpranmış Bristol F.2 Savaşçısı'na ve sayısız zafer işaretine göz atmaktan kendilerini alamazlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11010A_STORYTITLE" Language="tr_TR">
+      <Text>Hava Üstünlüğü</Text>
+    </Replace>
+    <Replace Tag="LOC_11010B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Hava Birimleri üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11010B_NAME" Language="tr_TR">
+      <Text>Potansiyel gözü pekleri ayıkla.</Text>
+    </Replace>
+    <Replace Tag="LOC_11010C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Hava Birimleri için.</Text>
+    </Replace>
+    <Replace Tag="LOC_11010C_NAME" Language="tr_TR">
+      <Text>Gözü pekleri teşvik et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11011A_COMPLETION" Language="tr_TR">
+      <Text>Uzayan vardiyalarda işçiler gizli el sıkışmaları ve imzalı dilekçeler değiş tokuş eder. Paslı dişlilerin gıcırtısının üzerinden bağırırlar, değirmenlerinin güvenlik koşullarını iyileştirebilecek bir sendika hayal ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11011A_STORYTITLE" Language="tr_TR">
+      <Text>Muhalefet Mırıltıları</Text>
+    </Replace>
+    <Replace Tag="LOC_11011B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11011B_NAME" Language="tr_TR">
+      <Text>Sendikalaşmalarına izin ver.</Text>
+    </Replace>
+    <Replace Tag="LOC_11011C_DESCRIPTION" Language="tr_TR">
+      <Text>Ücretsiz Fabrika alımı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11011C_NAME" Language="tr_TR">
+      <Text>Altyapıya öncelik ver.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012A_COMPLETION" Language="tr_TR">
+      <Text>Mum ışığıyla aydınlatılmış köşelerde, uzak bir koloninin yerli doğumlu vatandaşları İngiliz valisinin ağır elli boyunduruğu hakkında atıp tutar. İçten içe yanan kin bir isyanı ateşlemekle tehdit eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012A_STORYTITLE" Language="tr_TR">
+      <Text>Devrimci Ateş</Text>
+    </Replace>
+    <Replace Tag="LOC_11012B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012B_NAME" Language="tr_TR">
+      <Text>Kontrollü bir mesajla muhalefeti sustur</Text>
+    </Replace>
+    <Replace Tag="LOC_11012C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012C_NAME" Language="tr_TR">
+      <Text>Askeri güçle direnişi ez.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11012D_NAME" Language="tr_TR">
+      <Text>Şehrin kendi naibini atamasına izin ver.</Text>
+    </Replace>
+    <Replace Tag="LOC_11013A_COMPLETION" Language="tr_TR">
+      <Text>Yeni yağlanmış çizmeler ticari bir balina avcı gemisinin güvertesine güm diye basar. Bir zorla askere alma çetesi, zorla askere almayı talep eden emirleri sallar. Feryat güvertelerde yankılanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11013A_STORYTITLE" Language="tr_TR">
+      <Text>Zorla Askere Alma Çeteleri</Text>
+    </Replace>
+    <Replace Tag="LOC_11013B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Deniz Birimleri üzerine ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11013B_NAME" Language="tr_TR">
+      <Text>Emirlere uyulmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11013C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward} Deniz Birimleri üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11013C_NAME" Language="tr_TR">
+      <Text>Gemi sahiplerine tazminat ödenecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11014A_COMPLETION" Language="tr_TR">
+      <Text>Depoları satılmamış İngiliz yapımı mallarla dolduran denizaşırı ithalat selinden bıkan yerel dükkan sahipleri, Britanya'nın yolunu kaybettiğinden — ve halkın gurur duygusunu yitirdiğinden — şikayet eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11014A_STORYTITLE" Language="tr_TR">
+      <Text>Açık Limanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11014B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11014B_NAME" Language="tr_TR">
+      <Text>İthalata gümrük vergisi koy.</Text>
+    </Replace>
+    <Replace Tag="LOC_11014C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11014C_NAME" Language="tr_TR">
+      <Text>İngiliz mallarını dış pazarlara zorla sok.</Text>
+    </Replace>
+    <Replace Tag="LOC_11015A_COMPLETION" Language="tr_TR">
+      <Text>Britanya geliştikçe, giderek daha fazla genç erkek ve kadın onun kutsal kurumlarında bir yer için lobi yapar. Ancak elitler, ülkenin gelecekteki liderleri sıradan ayaktakımıyla karışmak zorunda kalırsa, çok geçmeden bir Oxford eğitiminin eskisi gibi bir anlam ifade etmeyeceğinden endişe eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11015A_STORYTITLE" Language="tr_TR">
+      <Text>Oxfordlular</Text>
+    </Replace>
+    <Replace Tag="LOC_11015B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşimlerde ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11015B_NAME" Language="tr_TR">
+      <Text>Gelenek nereden?</Text>
+    </Replace>
+    <Replace Tag="LOC_11015C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11015C_NAME" Language="tr_TR">
+      <Text>Britanya'nın gelecekteki liderleri her yerden gelebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11016A_COMPLETION" Language="tr_TR">
+      <Text>Yükselen kara fırınlar ileri geri eğilir, erimiş metal nehirleri püskürtür — Britanya'nın yeni Bessemer Süreci'nin çelik üretiminde devrim yarattığının kanıtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11016A_STORYTITLE" Language="tr_TR">
+      <Text>Çeliğin Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_11016B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Revenge üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11016B_NAME" Language="tr_TR">
+      <Text>Gemi üretimini artır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11016C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Revenge üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11016C_NAME" Language="tr_TR">
+      <Text>Top yapımını optimize et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11017A_COMPLETION" Language="tr_TR">
+      <Text>Bir tren bir konserve fabrikasının dışında takırdayarak durur ve birkaç işçi vagonlarını talaş içinde paketlenmiş konserve et kasalarıyla doldurmaya başlar — İngiliz lüksünün ve aşırılığının timsali.</Text>
+    </Replace>
+    <Replace Tag="LOC_11017A_STORYTITLE" Language="tr_TR">
+      <Text>Besin Zincirinin Zirvesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11017B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11017B_NAME" Language="tr_TR">
+      <Text>Acil durum gıda tayınlarını stokla.</Text>
+    </Replace>
+    <Replace Tag="LOC_11017C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11017C_NAME" Language="tr_TR">
+      <Text>Fazla gıda maddelerini ihraç et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11018A_COMPLETION" Language="tr_TR">
+      <Text>Bir sosyal reformcu bir fabrikanın önünde duruyor, yoldan geçenlerin ellerine broşürler tutuştururken kâr sunağında kurban edilen genç hayatlar hakkında vaaz veriyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11018A_STORYTITLE" Language="tr_TR">
+      <Text>Gençliğin Zorlukları</Text>
+    </Replace>
+    <Replace Tag="LOC_11018B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11018B_NAME" Language="tr_TR">
+      <Text>Çocuklar düzgün bir eğitimi hak ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11018C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11018C_NAME" Language="tr_TR">
+      <Text>Çalışkan çocuklar disiplinli yetişkinler olurlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2A_COMPLETION" Language="tr_TR">
+      <Text>Mughal topraklarındaki bir İngiliz antikacı, uzun süredir kayıp olduğu düşünülen bir elması ortaya çıkardı. Boyutu ve güzelliği eşsizdir. Mughal yetkilileri elmasın iadesini talep ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2A_STORYTITLE" Language="tr_TR">
+      <Text>Işık Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama bir Savaş başlat.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2B_NAME" Language="tr_TR">
+      <Text>Bir İngiliz tacını süslemeli.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama Eser iade edilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019_ALT2C_NAME" Language="tr_TR">
+      <Text>Babürlere aittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019A_COMPLETION" Language="tr_TR">
+      <Text>{1_OPPONENT_CIVILIZATION_ADJ} topraklarına yapılan bir keşif gezisi gizli bir kargoyla geri döner — {2_OWNER_EXPLORATION_CIVILIZATION_ADJ} tarihinde uzun süredir kayıp olduğu düşünülen çarpıcı bir heykel. Antikacı bunun bir müzeye ait olduğunu iddia eder, ancak {3_OPPONENT_CIVILIZATION_ADJ} elçileri tehditlerle desteklenen taleplerle derhal iadesini talep eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019A_STORYTITLE" Language="tr_TR">
+      <Text>Geçmişin Koruyucuları</Text>
+    </Replace>
+    <Replace Tag="LOC_11019B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama bir Savaş başlat.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019B_NAME" Language="tr_TR">
+      <Text>Britanya, dünya beğensin ya da beğenmesin, dünyanın mirasını koruyacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama Eser iade edilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019C_NAME" Language="tr_TR">
+      <Text>Eserleri özür dileyerek iade et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019D_DESCRIPTION" Language="tr_TR">
+      <Text>Eser kayboldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_11019D_NAME" Language="tr_TR">
+      <Text>Eserleri yok et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11068A_COMPLETION" Language="tr_TR">
+      <Text>Dünya daha karmaşık hale gelirken, İngiliz politikacılar diğer güçlerle ittifakları desteklemekte giderek daha isteksiz davranıyorlar. Büyük Britanya'nın güvenli bir mesafeyi koruyarak dış politika karmaşalarından uzak durması gerektiğini ilan ediyorlar, ancak bazıları dost eksikliğinin geri tepeceğinden endişe ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11068A_STORYTITLE" Language="tr_TR">
+      <Text>Diplomatik Kancalar</Text>
+    </Replace>
+    <Replace Tag="LOC_11068B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11068B_NAME" Language="tr_TR">
+      <Text>Büyük Britanya içsel güçle beslenir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11068C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11068C_NAME" Language="tr_TR">
+      <Text>Başarı için bir miktar sosyal yardım gereklidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12005A_COMPLETION" Language="tr_TR">
+      <Text>Sanayinin sisi, İngiliz başkentinin üzerinde bir duvak gibi asılı duruyor. Her şeyden çok, Rizal buradaki insanların çeşitliliğinden etkileniyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12005A_STORYTITLE" Language="tr_TR">
+      <Text>Büyük Britanya'daki İyi Doktor</Text>
+    </Replace>
+    <Replace Tag="LOC_12005B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12005B_NAME" Language="tr_TR">
+      <Text>Katı bir sınıf yapısına uyuyor gibi görünüyorlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_12005C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşimlerde.</Text>
+    </Replace>
+    <Replace Tag="LOC_12005C_NAME" Language="tr_TR">
+      <Text>İmparatorluğun her köşesinden geliyor gibi görünüyorlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_MANUFACTORY_DESCRIPTION" Language="tr_TR">
+      <Text>British [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Production Building[/TIP]. +9 [icon:YIELD_PRODUCTION] Production. +1 [icon:YIELD_PRODUCTION] Production Adjacency for [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resources[/TIP] and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP]. +1 [icon:YIELD_GOLD] Gold Adjacency for [TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]Navigable Rivers[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_MANUFACTORY_TOOLTIP" Language="tr_TR">
+      <Text>British [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_EXCHANGE_DESCRIPTION" Language="tr_TR">
+      <Text>British [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Gold Building[/TIP]. +9 [icon:YIELD_GOLD] Gold. +1 [icon:YIELD_GOLD] Gold Adjacency for [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Quarters[/TIP] and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_EXCHANGE_TOOLTIP" Language="tr_TR">
+      <Text>British [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHARTERED_COMPANIES_AUTHOR" Language="tr_TR">
+      <Text>Lord Byron</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHARTERED_COMPANIES_QUOTE" Language="tr_TR">
+      <Text>"Bilginin Güç olduğunu söylerler." Eskiden öyle düşünürdüm; ama şimdi "para" demek istediklerini biliyorum."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PAX_BRITANNICA_AUTHOR" Language="tr_TR">
+      <Text>Benjamin Disraeli</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PAX_BRITANNICA_QUOTE" Language="tr_TR">
+      <Text>"Artan imkanlar ve artan boş zaman, insanın iki uygarlaştırıcısıdır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SOCIETY_OF_ANTIQUARIES_AUTHOR" Language="tr_TR">
+      <Text>Howard Carter</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SOCIETY_OF_ANTIQUARIES_QUOTE" Language="tr_TR">
+      <Text>"Gözlerim ışığa alıştıkça odanın detayları ortaya çıktı. Garip hayvanlar, heykeller ve altın – her yerde altının parıltısı."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SPLENDID_ISOLATION_AUTHOR" Language="tr_TR">
+      <Text>Lord Salisbury</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SPLENDID_ISOLATION_QUOTE" Language="tr_TR">
+      <Text>"Savaş, uygun olup olmamasına göre haklı ya da haksızdır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GREAT_BRITAIN_DESCRIPTION" Language="tr_TR">
+      <Text />
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_GREAT_BRITAIN" Language="tr_TR">
+      <Text>Güneş, Büyük Britanya'nın engin imparatorluğunun üzerinde asla batmadı. Toprakları tüm kıtalara yayıldı, sömürge topraklarından hammaddeleri metropolün fabrikalarına yönlendirdi. Dış politika, ekonomik strateji, kapsamlı diplomasi ve savaş tehdidi yoluyla yürütüldü. İngiliz donanması denizlere hakim olurken, evde toplum endüstrinin patlamasıyla yeni bir düzen buldu. Pax Britannica altında dünya Britanya'nın liderliğini izledi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_GREAT_BRITAIN" Language="tr_TR">
+      <Text>Büyük Britanya, Doğu Hindistan Şirketi Geleneği ve Finans Merkezi Benzersiz Mahallesi'nden bol miktarda Altın elde ederek çok sayıda Kasaba'ya sahip olmayı sever. Bu Kasabaları, Şehirleriniz için Fabrika Kaynakları toplamak için kullanın!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INTRO_GREAT_BRITAIN" Language="tr_TR">
+      <Text>Kaos, düzenin yokluğudur ve dünyanın yapıya ihtiyacı vardır. Büyük Britanya yükselir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GREAT_BRITAIN_COMPLETE_BATTERSEA_POWER_STATION_DESC" Language="tr_TR">
+      <Text>Büyük Britanya olarak, Battersea Elektrik Santrali'ni tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GREAT_BRITAIN_COMPLETE_BATTERSEA_POWER_STATION_NAME" Language="tr_TR">
+      <Text>Battersea Elektrik Santrali</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GREAT_BRITAIN_LEGACY_PATH_ECONOMIC_DESC" Language="tr_TR">
+      <Text>Büyük Britanya olarak bir Ekonomik Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_GREAT_BRITAIN_LEGACY_PATH_ECONOMIC_NAME" Language="tr_TR">
+      <Text>Büyük Britanya Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CHARTERED_COMPANIES_PORT_RESOURCE_CAP_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Resource Capacity[/TIP] in [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlements[/TIP] with a Port.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_GREAT_BRITAIN_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Production from being Great Britain's associated [icon:WONDER] Wonder.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PAX_BRITANNICA_PRODUCTION_FACTORY_RESOURCES_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:YIELD_PRODUCTION] Production in [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlements[/TIP] for every [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_FACTORY_RESOURCES_TOOLTIP]Factory Resource[/TIP] assigned to them.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SOCIETY_OF_ANTIQUARIES_ENTER_FOREIGN_LANDS_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_ANTIQUARIAN] Antiquaries can enter other Civilizations’ borders without Open Borders.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SOCIETY_OF_ANTIQUARIES_MOVEMENT_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:Action_Move] Movement for [TIP:LOC_PEDIA_CONCEPTS_CIVILIAN_UNIT_TOOLTIP]Civilians[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for Units if you have positive or 0 [icon:YIELD_GOLD] Gold per turn at the start of the turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_FINANCIAL_CENTRE_DESCRIPTION" Language="tr_TR">
+      <Text>British [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Unique Quarter[/TIP]. Created by constructing the Manufactory and Royal Exchange in the same [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]District[/TIP]. +2 [icon:YIELD_GOLD] Gold and [icon:YIELD_SCIENCE] Science for every connected [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_FINANCIAL_CENTRE_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:YIELD_GOLD] Gold and [icon:YIELD_SCIENCE] Science for every connected [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_BATTERSEA_POWER_STATION" Language="tr_TR">
+      <Text>Susanna Clarke</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_BATTERSEA_POWER_STATION" Language="tr_TR">
+      <Text>Bir keresinde Battersea'yi hatırlayıp hatırlamadığımı sormuştun. Ve şimdi hatırlıyorum.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_EAST_INDIA_COMPANY_DESCRIPTION" Language="tr_TR">
+      <Text>+5 [icon:YIELD_GOLD] Gold in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_NO_ETERNAL_ALLIES_DESCRIPTION" Language="tr_TR">
+      <Text>+10% [icon:YIELD_FOOD] Food and [icon:YIELD_GOLD] Gold in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP], but -5% [icon:YIELD_GOLD] Gold in the [icon:NOTIFICATION_SELECT_CAPITAL] Capital for every [icon:PLAYER_RELATIONSHIP_ALLIANCE] [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]Alliance[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_PROCEEDINGS_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_CULTURE] Culture and [icon:YIELD_SCIENCE] Science in [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Cities[/TIP] with both a [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Great Work[/TIP] and a [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resource[/TIP] slotted.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_GREAT_BRITAIN_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+25%[icon:YIELD_GOLD] Gold[/B] towards purchasing [icon:CITY_BUILDING_LIST] [B]Buildings[/B] and [B]+25% [icon:YIELD_PRODUCTION] Production[/B] towards constructing [icon:CITY_BUILDING_LIST] [B]Buildings[/B].[LI]It costs [B]50% more[/B] to convert [icon:YIELD_TOWNS] [B]Towns[/B] into [icon:YIELD_CITIES] [B]Cities[/B].[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Battersea Power Station[/B].[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_GREAT_BRITAIN_ABILITY_NAME" Language="tr_TR">
+      <Text>Dünyanın Atölyesi</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_MO_GREAT_BRITAIN_NAME" Language="tr_TR">
+      <Text>Büyük Britanya Yurttaşlıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ANTIQUARIAN_DESCRIPTION" Language="tr_TR">
+      <Text>British Unique Explorer. +20 [icon:YIELD_CULTURE] Culture for every tile from your [icon:NOTIFICATION_SELECT_CAPITAL] Capital when you use Excavate Artifact.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_REVENGE_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 3 British Unique Heavy [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat, Ranged, and Bombard Strength[/TIP]. Enemy Units in tiles adjacent to the target take 25% of the total damage done to the target.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_REVENGE_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>British Unique Heavy [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat, Ranged, and Bombard Strength[/TIP]. Enemy Units in tiles adjacent to the target take 25% of the total damage done to the target.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_REVENGE_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 2 British Unique Heavy [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat, Ranged, and Bombard Strength[/TIP]. Enemy Units in tiles adjacent to the target take 25% of the total damage done to the target.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_FLEET_COMMANDERS_DESCRIPTION" Language="tr_TR">
+      <Text>İki [B]Filo Komutanına[/B] sahip olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_FLEET_COMMANDERS_GREAT_BRITAIN_NARRATIVE" Language="tr_TR">
+      <Text>“Ahşap bir duvar,” diye söz veriyor amiral, tersanedeki gemileri işaret ederek. Yeni deniz subayları sınıfı, yalnızca kara üzerinde değil, dalgalar üzerinde de uzanan yeni bir yönetim vizyonu önerdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_FLEET_COMMANDERS_GREAT_BRITAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Filo Komutanları[/B] [B]Büyük Britanya'nın[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_GREAT_BRITAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Ada Lovelace[/B] [B]İngilizdi[/B].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_GREAT_BRITAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Büyük Britanya[/B] [B]Benjamin Franklin[/B]'i stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_NORMAN_GREAT_BRITAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Normanlar[/B] [B]Büyük Britanya[/B]'nın öncü bir Medeniyetiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ROME_GREAT_BRITAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Roma [/B][B]Büyük Britanya[/B]'nın öncü bir Medeniyetiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BATTERSEA_POWER_STATION_DESCRIPTION" Language="tr_TR">
+      <Text>+4[icon:YIELD_PRODUCTION] Production. Receive a second [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP] each time you train a [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP] (But not Purchase). [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Ageless[/TIP]. Must be placed on land adjacent to Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BATTERSEA_POWER_STATION_TOOLTIP" Language="tr_TR">
+      <Text>Receive a second [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP] each time you train a [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Unit[/TIP].[N]Must be placed on land adjacent to Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Splendid Isolation</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_EAST_INDIA_COMPANY_NAME" Language="tr_TR">
+      <Text>Doğu Hindistan Şirketi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_NO_ETERNAL_ALLIES_NAME" Language="tr_TR">
+      <Text>Ebedi Müttefik Yok</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_PROCEEDINGS_NAME" Language="tr_TR">
+      <Text>Tutanaklar</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ANTIQUARIAN_NAME" Language="tr_TR">
+      <Text>Antikacı</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_REVENGE_NAME" Language="tr_TR">
+      <Text>İntikam</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

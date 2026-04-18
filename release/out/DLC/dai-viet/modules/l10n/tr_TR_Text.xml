@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET1" Language="tr_TR">
+      <Text>Thăng Long</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET10" Language="tr_TR">
+      <Text>Thái Nguyên</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET11" Language="tr_TR">
+      <Text>Bắc Ninh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET12" Language="tr_TR">
+      <Text>Đường Lâm</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET13" Language="tr_TR">
+      <Text>Chí Linh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET14" Language="tr_TR">
+      <Text>Xứ Đông</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET15" Language="tr_TR">
+      <Text>Quốc Oai</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET16" Language="tr_TR">
+      <Text>Từ Sơn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET17" Language="tr_TR">
+      <Text>Cao Bằng</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET18" Language="tr_TR">
+      <Text>Nghệ An</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET19" Language="tr_TR">
+      <Text>Xứ Đoài</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET2" Language="tr_TR">
+      <Text>Thái Bình</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET20" Language="tr_TR">
+      <Text>Việt Trì</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET21" Language="tr_TR">
+      <Text>Tam Đái</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET22" Language="tr_TR">
+      <Text>Châu Lạng</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET23" Language="tr_TR">
+      <Text>Tuyên Quang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET24" Language="tr_TR">
+      <Text>Hưng Yên</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET25" Language="tr_TR">
+      <Text>Yên Bái</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET26" Language="tr_TR">
+      <Text>Bảo Thắng</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET27" Language="tr_TR">
+      <Text>Quảng Trị</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET28" Language="tr_TR">
+      <Text>Hồng Lĩnh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET29" Language="tr_TR">
+      <Text>Châu Lý</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET3" Language="tr_TR">
+      <Text>Thanh Hóa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET30" Language="tr_TR">
+      <Text>Đỗ Động Giang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET4" Language="tr_TR">
+      <Text>Bắc Giang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET5" Language="tr_TR">
+      <Text>Đồng Hới</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET6" Language="tr_TR">
+      <Text>Hà Tĩnh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET7" Language="tr_TR">
+      <Text>Hải Phòng</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET8" Language="tr_TR">
+      <Text>Hội An</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DAI_VIET9" Language="tr_TR">
+      <Text>Hoa Lư</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_1" Language="tr_TR">
+      <Text>Nga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_10" Language="tr_TR">
+      <Text>Phượng</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_2" Language="tr_TR">
+      <Text>Minh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_3" Language="tr_TR">
+      <Text>Mai</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_4" Language="tr_TR">
+      <Text>Anh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_5" Language="tr_TR">
+      <Text>Giang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_6" Language="tr_TR">
+      <Text>Hạnh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_7" Language="tr_TR">
+      <Text>Hòa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_8" Language="tr_TR">
+      <Text>Thủy</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_FEMALE_9" Language="tr_TR">
+      <Text>Tuyến</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_1" Language="tr_TR">
+      <Text>Lĩnh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_10" Language="tr_TR">
+      <Text>Quang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_2" Language="tr_TR">
+      <Text>Liễn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_3" Language="tr_TR">
+      <Text>Hoàn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_4" Language="tr_TR">
+      <Text>Thánh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_5" Language="tr_TR">
+      <Text>Phật Mã</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_6" Language="tr_TR">
+      <Text>Dương</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_7" Language="tr_TR">
+      <Text>Hiếu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_8" Language="tr_TR">
+      <Text>Cường</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_DAI_VIET_MALE_9" Language="tr_TR">
+      <Text>Định</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_DAI_VIET_ADJECTIVE" Language="tr_TR">
+      <Text>Vietnamese</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_DAI_VIET_FULLNAME" Language="tr_TR">
+      <Text>Đại Việt İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_DAI_VIET_NAME" Language="tr_TR">
+      <Text>Đại Việt</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_10_MAJOR_DAI_VIET_NAME" Language="tr_TR">
+      <Text>Tidore</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_10_MINOR_DAI_VIET_NAME" Language="tr_TR">
+      <Text>Tidorese</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Güneydoğu Asya ve Doğu Asya dünyaları arasında sıkışmış olan Vietnam'ın tarihi, hem çatışmalar hem de karşılıklı bağlantılarla doludur. Erken tarihi, yerli krallıklar ve Han hakimiyeti ile şekillenmiştir, ancak 939 yılında Ngô Quyền, Güney Han'a karşı isyan ederek yeni bir dönemi ilan etmiştir. Ngô Quyền'in kendi ailesi ülkeyi yönetmeyecek ve bu ismin kullanılmaya başlanması için on yıllar geçecek olsa da, Đại Việt'in temelleri atılmıştı. Bundan sonraki yaklaşık bin yıl boyunca, Kızıl Nehir üzerindeki bugünkü Hanoi yakınlarındaki başkentinden Đại Việt, agresif genişleme dönemleri geçirdi, ancak aynı zamanda boyun eğme ve kayıplar da yaşadı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>1010 yılında, yeni krallığın ihtişamını tesis etmek isteyen Lý Thái Tổ, başkentin adını "yükselen ejderha" anlamına gelen Thăng Long olarak değiştirdi. Bu yükselen kanatlarla Đại Việt, yurt içinde bürokratik yönetimi genişletti, ancak aynı zamanda dışarıya da yayıldı – kuzeyde Çin şehirlerine, güneyde Chamların elindeki bölgelere ve batıda Laos ve Khmer topraklarına. Temelde, Đại Việt sarayı, hadımlar ve soylu aileler arasındaki siyasi entrikaların oluşturduğu karmaşık bir karışımdı: bürokratik ve liyakate dayalı iktidara öncelik veren, hem etnik azınlıkları bünyesine katan hem de imparatorluk kontrolünü dayatan bir rejim.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Ancak ejderhanın yükselişi, iki yüz yıl sonra kıtanın diğer ucundaki başka bir güç, Moğolistan tarafından tehdit edildi. Çin'deki Song Hanedanlığı'nı fethetmeyi planlayan Möngke Han, Đại Việt'ten haraç talep etti. Vietnamlılar bunu reddettiğinde, Thăng Long'u yağmaladı ve halkını katletti. Vietnamlılar daha sonra işgalcileri kovsa da, zayıflamış olan Đại Việt, üstünlüğü kabul etti ve böylece Đại Việt'in kuzey komşusunun haraç ödeyen bir devleti haline geldiği bir dönem başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Bu ara dönemde Vietnam toplumu değişmeye başladı. Çin'in asimilasyon stratejilerinin anahtarı, Vietnamlıları "uygarlaştırmaktı" – yani yerel halkı hem yüzeysel (örneğin dövme) hem de temel (örneğin Budizm'den Konfüçyüsçülüğe) geleneklerden uzaklaştırmaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Çin hakimiyeti yaklaşık iki yüz yıl sürdü ve 1418'deki Lê Lợi isyanında Đại Việt nihayet Çin hakimiyetinden kurtuldu. Gerilla savaşı kampanyasıyla Ming'den kontrolü ele geçiren yeni rejim, eski gelenekler ile Çin normları arasında, gelenek ile ateşli silahlar gibi yeni teknolojiler arasında bir kaynaşma sağladı. Bunlara ihtiyacı olacaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Takip eden yıllarda, bürokrasi genişledikçe ve devlet güçlendikçe, Đại Việt Asya'nın en eğitimli toplumlarından biri haline geldi. Meslekler genellikle devlet tarafından düzenleniyor ve denetleniyordu ve Đại Việt işçileri, Vietnam'ın iklimi ve sulu pirinç tarımına bağımlılığı göz önüne alındığında oldukça yararlı olan karmaşık sulama sistemleri inşa etmede üstünlük sağladı. Ancak, Champa ve Çin'deki rakiplerinden farklı olarak, Vietnam'ın devlet tarafından yönetilen sanayi ve tarıma bağımlılığı, İpek Yolu güzergâhlarında büyük ölçüde atlanmasına neden oldu ve lüks malların çoğu (altın ve gümüşün yanı sıra fildişi ve gergedan boynuzu gibi) yerel olarak ticareti yapıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_DAI_VIET_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Tüm imparatorluklar çöker. Bin yılın büyük bir bölümünde varlığını sürdürmesine rağmen, Đại Việt 1800'lerin ilk yıllarında iç çatışmaların kurbanı oldu. Ardından Vietnam İmparatorluğu ya da daha yaygın adıyla Nguyễn Hanedanlığı geldi, ancak Nguyễn Hanedanlığı, Paris'te planlanan ve çok uzaklardaki bir başka istiladan önce sadece birkaç on yıl sürmüştür.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_WATER_PUPPET_THEATER_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Vietnam tarihi sadece hanedanlıklar ve entrikalardan ibaret değildir; hem asil hem de halk gelenekleri vardır ve su kuklacılığı, halk gelenekleri arasında en belirgin olanlardan biridir. Su basmış bir pirinç tarlasının sağladığı düz sahneden yararlanan múa rối nước – su kuklacılığı – sanatçıları, perdelerin arkasından uzun sopalarla lake kaplı kuklaları hareket ettirirler. Bunlar genellikle kırsal kesimde, halk kahramanlarının (ve soytarıların) komik canlandırmalarıydı ve sıradan halkın lordlarının yaptıklarına yorum yapabileceği bir mercek görevi görüyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_DAI_VIET_CAM_QUAN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Đại Việt ordusu, profesyonel bir ordu ile daha standart bir askere alma sistemi arasında denge kuran bir orduydu. İlk durumda, barış zamanında askerler hazineye yük olurdu (ve daha da kötüsü, sıkılıp hırslanabilirdi), oysa ikinci durumda askerler, evlerindeki tarlaların bakıma ihtiyacı olduğunda savaşmak için yetersiz donanımlı ve motivasyonsuz olabilirdi. Bunun yerine, cấm quân'a vergiden muaf olarak çalışabilecekleri toprak verildi, ancak bunun karşılığında sürekli olarak savaş eğitimi alacakları ve savaş zamanı geldiğinde hazır olacakları şartı konuldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_DAI_VIET_CHU_NOM_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Đại Việt, Pali, Khmer, Sanskrit ve diğer dillerle çevrili olduğu için Vietnamca yazmak için yararlanabileceği yazı sistemleri konusunda bir sıkıntı yaşamıyordu. Ancak, zaman zaman Çin egemenliği altında yıllarca süren asimilasyonist politikaların ardından, Vietnamlı yazıcılar, Çince'den esinlenen ancak onunla aynı olmayan bir yazı sistemi olan chữ nôm'u yarattılar. Bu yazı sistemi, Klasik Çince ile birlikte varlığını sürdürdü ve Vietnamca'nın konuşma özelliklerini yakalamanın hayati önem taşıdığı şiir ve düzyazıda kullanıldı. Bu yazı sistemi, MS 13. yüzyıldan 20. yüzyıldaki Fransız sömürge işgaline kadar kullanıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_DAI_VIET_THANH_HOANG_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Đại Việt'teki din, Budizm, Taoizm, atalara tapınma ve Trưng Trắc dahil olmak üzere yerlere ve tarihi şahsiyetlere yönelik animist tapınmayı bir araya getiren bir karışımdı. Bu koruyucu tanrılar topluca thành hoàng olarak adlandırılır; bu isim, ruhlar gibi şehri koruyan surlara özel olarak atıfta bulunur. Bu ruhları onurlandırmak ve kasaba ile şehirleri korumak için düzenlenen törenler, bugün Vietnam'da hâlâ yapılmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_DAI_VIET_TU_DAN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Đại Việt'in benimsediği ve kendine uyarladığı Çin geleneklerinden biri, nüfusu yeteneklerine göre çeşitli kategorilere ayıran, sıralı meritokrasi sistemi olan tứ dân idi. Bu, doğru yönetimin herkesin kendisine en uygun rolde gelişmesini gerektiren Konfüçyüsçü bir sistemde özellikle anlamlıydı, ancak o dönemin Vietnam yaşamının bir özelliği olan klan ve soylu aileler sistemiyle pek uyuşmuyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIET_KIEU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Güneydoğu Asya'daki yerleşim yerlerinin genellikle yeni bir krallık arayışında olan bir prens tarafından kurulduğu iddia edilirdi. Bu, her yeni şehrin yeryüzünde cennetin bir modeli olması beklenen Hint topraklarının mandala siyasetiyle uyumluydu, ancak Vietnam'da da yeni yerleşim yerleri büyük kişilerin eylemlerine atfedilirdi. Burada, quận vương bu tür bir asili ifade eder ve quận vương'un kurduğu yerleşim yerleri de güzellik, incelik ve kültür merkezi yaratma arzusunu yansıtmak üzere tasarlanmıştır. Şehir ve kasabaların bu tür mitik kökenlerinin gerçek yerleşim sürecini yansıtıp yansıtmadığı tartışmaya açıktır, ancak burada önemli olan, insanların bir yere nasıl gelip onu işledikleri değil, daha ziyade merkezi devlet tarafından meşruiyet ve tanınırlık kazanmasına yol açan eylemdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VOI_CHIEN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Savaş filleri – Vietnamca'da voi chiến – Güneydoğu Asya'daki orduların vazgeçilmez bir parçasıydı. Ağır yükler taşırken bile şaşırtıcı bir zarafetle hareket edebilen bu hayvanlar, lojistikte hayati öneme sahipti ve savaşta korku salıyordu. Tonlarca deri ve etin üstüne binmiş, mızrak, kargı veya yaylarla donanmış fil sırtındaki savaşçılar, yüksek bir konumdan düşman hatlarının üstüne ve arkasına ulaşabilirdi ve hayvanın kendisi, deneyimli askerleri bile ezip geçmesi için kışkırtılabilirdi. Görünüşe göre süvariler, fil saldırılarına karşı özellikle savunmasızdı, çünkü atların, bir fil sürüsüyle karşı karşıya kaldıklarında saldırıyı sürdürebilmeleri için büyük bir disiplin ve eğitim gerekiyordu. Bu nedenle, onlar o dönemin tanklarıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VOI_CHIEN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ancak fil, sonuçta canlı bir varlıktır. Song Hanedanlığı'na karşı yapılan savaşlarda, güneydeki Cham'lara karşı elde ettikleri başarıdan cesaret alan Lý Thường Kiệt'in kuvvetleri, Çinlilere karşı savaş filleri kullanmıştır. Ancak Çin kuvvetleri, hayvanların hassas hortumlarına saldırmayı öğrenmiş ve bu sayede fillerin öfkelenip kendi kuvvetlerini ezip geçmelerini sağlamıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VOI_CHIEN_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Filler, taşıma kapasiteleri ve nispeten gizli hareket edebilme özellikleri nedeniyle Vietnam Savaşı'na kadar kullanıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_THANH_HUE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Đại Việt'in düşüşünden hemen sonra, 1803'te inşa edilmeye başlanan Huế imparatorluk kalesi, Nguyễn Hanedanlığı'nın en değerli hazinesi haline geldi ve Vietnam sarayının ihtişamının çarpıcı bir sembolü olmaya devam ediyor. Burası sadece imparatorluk sarayının değil, sarayı çevreleyen bürokratların (mandarinlerin) de yaşam alanlarını ve ofislerini barındırıyordu: lüks, sanat ve devlet gücünün bir simgesi. Bu şekilde, saray, Vietnam yönetiminin büyük bir kısmı gibi, Çin imparatorluk devletinin modeline göre inşa edilmiştir, ancak kendine özgü özellikleri de vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_THANH_HUE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ayrıca, Vietnam tarihinin büyük bir kısmı gibi, saray da savaşlarla dolu bir geçmişe sahiptir. Avrupa ve Amerikan işgalleri sırasında kale iki kez şiddetli çatışmalara sahne oldu: ilki 1947'de Việt Minh'in sarayı Fransızlara karşı savunduğu, ikincisi ise 1968'de Kuzey Vietnam Ordusu ve Việt Cộng'un sarayı Amerikalılara karşı savunduğu zamandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_WATER_PUPPET_THEATER_NAME" Language="tr_TR">
+      <Text>Su Kukla Tiyatrosu</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_THANH_HUE_NAME" Language="tr_TR">
+      <Text>Thành Huế</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SONG_CHU_NAME" Language="tr_TR">
+      <Text>Sông Chu</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SONG_DUONG_NAME" Language="tr_TR">
+      <Text>Sông Đuống</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SONG_GAM_NAME" Language="tr_TR">
+      <Text>Sông Gâm</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SONG_HONG_NAME" Language="tr_TR">
+      <Text>Hong Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SONG_LAM_NAME" Language="tr_TR">
+      <Text>Sông Lam</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BANG_MO_NAME" Language="tr_TR">
+      <Text>Bang Mo</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CHU_DANG_YA_NAME" Language="tr_TR">
+      <Text>Chu Dang Ya</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CU_LAO_RE_NAME" Language="tr_TR">
+      <Text>Cù-Lao Ré</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_DONG_NAI_NAME" Language="tr_TR">
+      <Text>Dong Nai</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_NAM_DONG_NAME" Language="tr_TR">
+      <Text>Nam Dong</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CAM_QUAN_NAME" Language="tr_TR">
+      <Text>Cấm Quân</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHU_NOM_NAME" Language="tr_TR">
+      <Text>Chữ Nôm</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THANH_HOANG_NAME" Language="tr_TR">
+      <Text>Thành Hoàng</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TU_DAN_NAME" Language="tr_TR">
+      <Text>Tứ Dân</Text>
+    </Replace>
+    <Replace Tag="LOC_11042A_COMPLETION" Language="tr_TR">
+      <Text>Beyaz bir fare yerleşimcileri önderlik eder, sonra hızla uzaklaşır. Yerleşimciler onu günlerce yoğun arazide takip eder. Fare ortadan kaybolduğunda, karşlarında bir kaynak ve yerden fışkıran berrak su vardır. Burası iyi bir şehir olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11042A_STORYTITLE" Language="tr_TR">
+      <Text>Ormanın Evcilleştirilmesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11042B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11042B_NAME" Language="tr_TR">
+      <Text>Yeni topraklara duyulan özlem, yeni göçmenleri harekete geçirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11042C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11042C_NAME" Language="tr_TR">
+      <Text>Yeni topraklar, yeni tehlikeler de getirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11043A_COMPLETION" Language="tr_TR">
+      <Text>Khmer barayları uzun zamandır halkı beslemiştir. Ancak Việt'lerin iktidara gelmesinden bu yana, bunların bakımına ilişkin kutsal görev ihmal edilmiştir. Çamur sızmış ve kurak mevsimde çıplak çamurdan oluşan düz alanlar ortaya çıkmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11043A_STORYTITLE" Language="tr_TR">
+      <Text>Khmer Krom</Text>
+    </Replace>
+    <Replace Tag="LOC_11043B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11043B_NAME" Language="tr_TR">
+      <Text>Drenaj sistemlerini yeni Việt standartlarına göre yeniden tasarlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11043C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11043C_NAME" Language="tr_TR">
+      <Text>Khmer rahiplerine eski ritüeli yerine getirmelerini sağlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11044A_COMPLETION" Language="tr_TR">
+      <Text>Weiyang Sarayı'nın kapıları açık, sonsuz salonları artık bir labirent haline gelmiş. Ancak saray boş değil. Artık, kırsal kesimden gelen göçmenler, bir zamanlar prenslerin başını yattığı yerlerde çocuklarını büyütüyor ve pazar satıcıları, bir zamanlar saraylıların fısıldaştığı yerlerde mallarını satıyor. Peki bu doğru mu?</Text>
+    </Replace>
+    <Replace Tag="LOC_11044A_STORYTITLE" Language="tr_TR">
+      <Text>Sonsuz Saray</Text>
+    </Replace>
+    <Replace Tag="LOC_11044B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11044B_NAME" Language="tr_TR">
+      <Text>Evet. Burası başlı başına bir şehir olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11044C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11044C_NAME" Language="tr_TR">
+      <Text>Hayır. Temizlenip yenilenecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11045A_COMPLETION" Language="tr_TR">
+      <Text>Yeni terfi eden komutanın sosyal becerileri eksik. Áo giao lĩnh'inin göğüs kısmı yırtılmış, yara izleriyle kaplı derisi ortaya çıkmış. Ama kimse bunu dile getirmiyor, o orada olmasa bile. Đại Việt'in düşmanları tarafından her yerde ve hiçbir yerde olduğu söylenen bu kişiye kimse cesaret edemiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11045A_STORYTITLE" Language="tr_TR">
+      <Text>Gerilla</Text>
+    </Replace>
+    <Replace Tag="LOC_11045B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Komutanlara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11045B_NAME" Language="tr_TR">
+      <Text>Yıldızı daha da parlayacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11045C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11045C_NAME" Language="tr_TR">
+      <Text>Savaşı yukarıdan yönetecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11046A_COMPLETION" Language="tr_TR">
+      <Text>Savaşın sonunda, Việt komutanı başkent yakınlarındaki gölde kürek çekiyor. Anlattığına göre, bir kaplumbağa su yüzüne çıkmış ve komutanın kılıcını istemiş — bu kılıç insan dünyasına ait değil, ilahi bir kılıçmış.</Text>
+    </Replace>
+    <Replace Tag="LOC_11046A_STORYTITLE" Language="tr_TR">
+      <Text>Geri Dönen Kılıç Gölü</Text>
+    </Replace>
+    <Replace Tag="LOC_11046B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} {2_capital}'daki Göl Arazisi'nde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11046B_NAME" Language="tr_TR">
+      <Text>Doğa, Việt'in ihtişamını kabul ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11046C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}'teki Göl Arazisi'nde{2_capital}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11046C_NAME" Language="tr_TR">
+      <Text>Savaş sona ermiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11047A_COMPLETION" Language="tr_TR">
+      <Text>Bilginler yazarken, güzel olmasına rağmen Vietnamca diline uymayan bir yazı kullanırlar. İlhamla, komşularına yönelirler. Orada kesinlikle bir şeyler öğrenebilirler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11047A_STORYTITLE" Language="tr_TR">
+      <Text>Chữ Nôm</Text>
+    </Replace>
+    <Replace Tag="LOC_11047B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11047B_NAME" Language="tr_TR">
+      <Text>Bilginler, başkalarının yazı sistemini temel alarak bir yazı sistemi tasarlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11047C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11047C_NAME" Language="tr_TR">
+      <Text>Bilginler kendi yazım tarzlarını sürdürürler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11048A_COMPLETION" Language="tr_TR">
+      <Text>Diplomatlar Yasak Şehir'de toplanır; {1_Religion} inananları Notre Dame'da ibadet eder ve Hue kalesi hepsini korur. Şairler sorar — Đại Việt, tanrıların lütfunu hak etmek için ne yaptı?</Text>
+    </Replace>
+    <Replace Tag="LOC_11048A_STORYTITLE" Language="tr_TR">
+      <Text>Văn Minh</Text>
+    </Replace>
+    <Replace Tag="LOC_11048B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11048B_NAME" Language="tr_TR">
+      <Text>Onları buraya getiren uzun bir tesadüfler zinciridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11048C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11048C_NAME" Language="tr_TR">
+      <Text>Bu kader.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049A_COMPLETION" Language="tr_TR">
+      <Text>Fethedilen şehrin üzerinde duman yükselirken, askerler şimdiden tartışmaya başlıyor — ganimetten pay alacaklar mı? Aynı zamanda, kendilerine ait topraklara sahip olmak için çaresiz olan soylu ailelerin varisleri saraya yalvarmaya başlıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049A_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Topraklar</Text>
+    </Replace>
+    <Replace Tag="LOC_11049B_DESCRIPTION" Language="tr_TR">
+      <Text>{2_story_city}'deki iyileştirmeler için{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049B_NAME" Language="tr_TR">
+      <Text>Toprak, onun için savaşanlara gider.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049C_DESCRIPTION" Language="tr_TR">
+      <Text>{2_story_city}'deki İyileştirmeler için{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049C_NAME" Language="tr_TR">
+      <Text>Topraklar soylu ailelere verilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049D_DESCRIPTION" Language="tr_TR">
+      <Text>{2_story_city}'deki iyileştirmeler için{1_reward}, ancak {3_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11049D_NAME" Language="tr_TR">
+      <Text>Topraklar, {1_STORY_CITY}'nin asıl vatandaşlarının elinde kalır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11050A_COMPLETION" Language="tr_TR">
+      <Text>Bir soylunun başkent yakınlarındaki gölde balık tuttuğu sırada sis çöküyor. Bir teknenin gölgesi beliriyor… ve bir kaplanın silueti! Hızlıca düşünen bir hizmetçi, hayvanı ağla yakalıyor ve hayvan saray mandarinine dönüşüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11050A_STORYTITLE" Language="tr_TR">
+      <Text>Kaplan</Text>
+    </Replace>
+    <Replace Tag="LOC_11050B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}'teki Göl Arazisi'nde{2_capital}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11050B_NAME" Language="tr_TR">
+      <Text>Mandarin'i büyücülükle yargıla.</Text>
+    </Replace>
+    <Replace Tag="LOC_11050C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11050C_NAME" Language="tr_TR">
+      <Text>Onu öğretim görevine geri gönderin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11051A_COMPLETION" Language="tr_TR">
+      <Text>Moğol işgal güçleri fethedilen şehre girer ve Việt halkı kapı ve pencerelerden onları ihtiyatla izler. Bu işgal ne kadar derinleşecek? Ne kadar sürecek? {1_Capital}'te, Việt liderleri kinlerini düşünür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11051A_STORYTITLE" Language="tr_TR">
+      <Text>Chiêu Quốc Vương</Text>
+    </Replace>
+    <Replace Tag="LOC_11051B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11051B_NAME" Language="tr_TR">
+      <Text>Halk yeterince acı çekti.</Text>
+    </Replace>
+    <Replace Tag="LOC_11051C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11051C_NAME" Language="tr_TR">
+      <Text>Asla unutma.</Text>
+    </Replace>
+    <Replace Tag="LOC_11052A_COMPLETION" Language="tr_TR">
+      <Text>Trung Trac'ın silueti pazarın ortasından geçerken, kılıcı vücudunun etrafında dönerken, sert ifadesi izleyenleri yerinde dondurur. Yüzü ise yaşlı bir kadının yüzüdür — bu, ruhunun Trung'un ruhuyla yer değiştirdiğini iddia eden bir medyumdur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11052A_STORYTITLE" Language="tr_TR">
+      <Text>Lên Đồng</Text>
+    </Replace>
+    <Replace Tag="LOC_11052B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} {2_capital}'te.</Text>
+    </Replace>
+    <Replace Tag="LOC_11052B_NAME" Language="tr_TR">
+      <Text>Bu isyan. Bu uygulamayı yasaklayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11052C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11052C_NAME" Language="tr_TR">
+      <Text>Bu bir onurdur. Bunun için bir yer bulun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11053A_COMPLETION" Language="tr_TR">
+      <Text>Küçük bir teknenin yola çıkması önemsiz görünebilir, ancak dünyaya ulaştığında rüzgarlar ve fırtınalar koparacaktır. [n] Kiều'nun Hikayesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11053A_STORYTITLE" Language="tr_TR">
+      <Text>Định Mệnh</Text>
+    </Replace>
+    <Replace Tag="LOC_11053B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11053B_NAME" Language="tr_TR">
+      <Text>Gemi askerleri taşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11053C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11053C_NAME" Language="tr_TR">
+      <Text>Gemi bilginleri taşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12008A_COMPLETION" Language="tr_TR">
+      <Text>Su basmış bir pirinç tarlasının kenarında duran Dr. Rizal, bir su kukla grubunun zorlu bir sahneyi prova etmesini izliyor. Kısa süre sonra, bambu çubukların ucunda bütün bir kuş sürüsü canlanıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12008A_STORYTITLE" Language="tr_TR">
+      <Text>İyi Doktor ve Su Kuklaları</Text>
+    </Replace>
+    <Replace Tag="LOC_12008B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşim Yerlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_12008B_NAME" Language="tr_TR">
+      <Text>Çiftçilerle uygulamaları hakkında konuşun.</Text>
+    </Replace>
+    <Replace Tag="LOC_12008C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12008C_NAME" Language="tr_TR">
+      <Text>Sanatçılarla eğitimleri hakkında konuşun.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_YIELDS_FROM_RANDOM_EVENT" Language="tr_TR">
+      <Text>Sel, Fırtına ve Volkanlardan Elde Edilen Verim</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CAM_QUAN_AUTHOR" Language="tr_TR">
+      <Text>Nam quốc sơn hà</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CAM_QUAN_QUOTE" Language="tr_TR">
+      <Text>"Parlayan kılıçlar sizi bambu parçalarına ayıracak!"</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHU_NOM_AUTHOR" Language="tr_TR">
+      <Text>Nguyễn Bỉnh Khiêm</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_CHU_NOM_QUOTE" Language="tr_TR">
+      <Text>"Hangi kapı servete, hangisi talihsizliğe açılır? Sonuç, insanlar tarafından belirlenir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THANH_HOANG_AUTHOR" Language="tr_TR">
+      <Text>Kiều'nun Hikayesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THANH_HOANG_QUOTE" Language="tr_TR">
+      <Text>"Lotüs solarken, krizantemler çiçek açar. Uzun hüzün, kısa günler – sonra kış bahara dönüşür."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TU_DAN_AUTHOR" Language="tr_TR">
+      <Text>Đặng Trần Côn</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TU_DAN_QUOTE" Language="tr_TR">
+      <Text>"Şöhrete giden yol, yüzlerce başarısızlık yolunun içindeki tek yoldur."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_DAI_VIET_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:Action_Fortify] Tahkimat Binası inşa ettiğinizde, yerleşim yerinin her [icon:YIELD_POPULATION] Kentsel Nüfusu için 25 [icon:YIELD_CULTURE] Kültür kazanırsınız (Oyun Hızına göre ölçeklenir).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_WATER_PUPPET_THEATER_DESCRIPTION" Language="tr_TR">
+      <Text>Đại Việt [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Eşsiz İyileştirme[/TIP]. +4 [icon:YIELD_FOOD] Gıda. [TIP:LOC_PEDIA_CONCEPTS_FLOODPLAINS_TOOLTIP]Taşkın Yatağı[/TIP] üzerine yerleştirilirse. Fırtına, Sel veya Volkanik Patlama bu [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Yerleşim[/TIP]e bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Çağ[/TIP]. Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'deki [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]İyileştirmeler[/TIP], [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölgeler[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde Sel tarafından yağmalanmaz. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Yaşlanmaz[/TIP]. Başka bir Su Kukla Tiyatrosu'na bitişik olmayan bir Nehir'in yanına yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_WATER_PUPPET_THEATER_TOOLTIP" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_FLOODPLAINS_TOOLTIP]Taşkın Yatağı[/TIP] üzerine yerleştirildiğinde +2 [icon:YIELD_HAPPINESS].[n][B]Etki:[/B] Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'e bu [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Çağ[/TIP]'da Fırtına, Sel veya Volkanik Patlama'nın Verimlilik sağladığı her sefer için +1 [icon:YIELD_CULTURE] Kültür. [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]İyileştirmeler[/TIP], [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölgeler[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde Sel tarafından yağmalanmazlar.[N]Başka bir Su Kukla Tiyatrosuna bitişik olmayan bir Nehre bitişik olarak yerleştirilmelidir.[N]Đại Việt [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Eşsiz İyileştirme[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_INTRO_DAI_VIET" Language="tr_TR">
+      <Text>Güç ve refah sayesinde, bu toprakların ruhları yakında Đại Việt efsanesine tanık olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_DAI_VIET" Language="tr_TR">
+      <Text>Savaş ve baskı gölgesinde, Đại Việt halkı güçlü kalır. Pirinç tarlalarında ya da fil sırtında emek veren Vietnam halkı, kendi kaderini belirleme ve işgalci adaylarını kendi kıyılarına geri püskürtme ya da kendi fetihlerini gerçekleştirme hakkını arzulamaktadır. Trống cơm'un ritmi ve fillerin boru sesleri eşliğinde, Đại Việt hak talebini ortaya koyar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_DAI_VIET" Language="tr_TR">
+      <Text>Sivil yeteneklerinizden en iyi şekilde yararlanmak için Taşkın Yatağı ve Tropikal Biyom'daki toprakları ele geçirin ve tüm bölgelerinize Surlar inşa edin!</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_DAI_VIET_COMPLETE_THANH_HUE_DESC" Language="tr_TR">
+      <Text>Đại Việt olarak, Thành Huế'yi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_DAI_VIET_COMPLETE_THANH_HUE_NAME" Language="tr_TR">
+      <Text>Thành Huế</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_DAI_VIET_LEGACY_PATH_CULTURAL_DESC" Language="tr_TR">
+      <Text>Đại Việt olarak, bir Kültürel Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_DAI_VIET_LEGACY_PATH_CULTURAL_NAME" Language="tr_TR">
+      <Text>Đại Việt Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CAM_QUAN_FORMAL_WAR_COMBAT_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] tüm [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Askeri Birimler[/TIP] için [icon:WAR] Resmi Savaşlar sırasında, sahip olduğunuz topraklarda iki katına çıkar.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CAM_QUAN_FORTIFICATION_CONSTRUCTIBLES_DESCRIPTION" Language="tr_TR">
+      <Text>+50% [icon:YIELD_PRODUCTION] Üretim, [icon:Action_Fortify] Tahkimat Yapıları için.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CHU_NOM_CULTURE_TROPICAL_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:CITY_UNIMPROVED] Kültür Binaları, [icon:YIELD_CULTURE] Tropikal Araziden +1 [icon:YIELD_CULTURE] Kültür Komşuluğu kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CHU_NOM_FLOOD_PLAINS_CULTURE_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_CULTURE] Taşkın Yatağı[/TIP] Arazisinde +2 [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_DAI_VIET_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Đại Việt'in ilişkili [icon:WONDER] Harikası olmasından kaynaklanan üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_THANH_HOANG_GRISTMILL_WATER_PUPPET_THEATER_DESCRIPTION" Language="tr_TR">
+      <Text>Değirmen bulunan [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP]'ndeki Su Kukla Tiyatrolarında +2 [icon:YIELD_FOOD] Yiyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TU_DAN_WALL_COMBAT_STRENGTH_DESCRIPTION" Language="tr_TR">
+      <Text>+5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Askeri Birimler[/TIP] için [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Müstahkem Bölgeler[/TIP]'de savunma yaparken [icon:CITY_UNIMPROVED] Tropikal Arazide.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TU_DAN_WALL_COMBAT_STRENGTH_PREVIEW" Language="tr_TR">
+      <Text>+5 Tứ Dân</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_THANH_HUE" Language="tr_TR">
+      <Text>Trần Hưng Đạo</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_THANH_HUE" Language="tr_TR">
+      <Text>Kahramanlar evde kalıp ateşte ölseydiler, isimleri sonsuza dek bambu ve ipek üzerine yazılır mıydı?</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_CAM_BINH_DESCRIPTION" Language="tr_TR">
+      <Text>En az 1 [TIP:LOC_PEDIA_CONCEPTS_GARRISONED_TOOLTIP]Garnizonlu[/TIP] birimin bulunduğu [icon:Action_Fortify] Tahkimatlarda [icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_CON_KENH_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_CULTURE] Kültür [icon:YIELD_FOOD] Gıda [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve +2 [icon:YIELD_FOOD] Gıda [icon:YIELD_CULTURE] Kültür [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_RUONG_LANG_XA_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Kasabalarda[/TIP] %10 [icon:GROWTH_RATE] [TIP:LOC_PEDIA_CONCEPTS_GROWTH_RATE_TOOLTIP]Büyüme Oranı[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_DAI_VIET_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Bir [icon:Action_Fortify] [B]Tahkimat Binası[/B] inşa ettiğinizde, yerleşim yerinin her [icon:YIELD_POPULATION] [B]Kentsel Nüfusu[/B] için [B]25 [icon:YIELD_CULTURE] Kültür[/B] kazanırsınız (Oyun Hızına göre ölçeklenir).[LI][B]+30% [icon:YIELD_PRODUCTION] Üretim [/B][B]Thành Huế[/B]'nin inşası için. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_DAI_VIET_ABILITY_NAME" Language="tr_TR">
+      <Text>Hịch Tướng Sĩ</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_EX_DAI_VIET_NAME" Language="tr_TR">
+      <Text>Đại Việt Siyaset Bilimi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIET_KIEU_DESCRIPTION" Language="tr_TR">
+      <Text>Đại Việt'e özgü Yerleşimci. Bu Birim bir [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Kasaba[/TIP] kurduğunda, Şehir Merkezinin 3 karo içindeki her Tropikal Arazi için 25 [icon:YIELD_CULTURE] Kültür kazanır (Oyun Hızına göre ölçeklenir).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VOI_CHIEN_2_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 2 Đại Việt Benzersiz [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. Artırılmış maliyeti, [icon:Action_Ranged] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP], +1 [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP] ve +1 [icon:Action_Move] Hareket. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VOI_CHIEN_3_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 3 Đại Việt Benzersiz [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. Maliyet artışı vardır, [icon:Action_Ranged] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP], +1 [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP] ve +1 [icon:Action_Move] Hareket. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VOI_CHIEN_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Đại Việt Benzersiz [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. Maliyet artışı, [icon:Action_Ranged] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP], +1 [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP] ve +1 [icon:Action_Move] Hareket. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VOI_CHIEN_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 1 Đại Việt Benzersiz [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birim[/TIP]. Maliyet artışı vardır, [icon:Action_Ranged] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP], +1 [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP] ve +1 [icon:Action_Move] Hareket. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_DAI_VIET_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Đại Việt[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DAI_VIET_TOOLTIP" Language="tr_TR">
+      <Text>[B]Lakshmibai[/B], [B]Đại Việt[/B] ile aynı kıtadandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DAI_VIET_TOOLTIP" Language="tr_TR">
+      <Text>[B]Trung Trac[/B], eski Vietnam'da bir hükümdardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_TROPICAL_DAI_VIET_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Tropikal[/B] bölgede üç yerleşim yeri kurun.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_TROPICAL_DAI_VIET_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tropikal Yerleşim Yerleri[/B], [B]Đại Việt'in[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_TROPICAL_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Tropical[/B]'da üç Yerleşim yeriniz olsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_THANH_HUE_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_CULTURE] Kültür. +1 [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_LIMIT_TOOLTIP]Uzman Sınırı[/TIP] 7 [icon:Action_Fortify] Tahkimat Yapılabilirine sahip [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehirlerde[/TIP]. Bir [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölge[/TIP] görevi görür. 7 Ortaçağ Suru bulunan bir [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehir[/TIP] içinde, Ortaçağ Surlarına bitişik olarak inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_THANH_HUE_TOOLTIP" Language="tr_TR">
+      <Text>7 adet [icon:SPECIALIST] Tahkimat Yapı Malzemesi bulunan [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_LIMIT_TOOLTIP]Şehirlerde[/TIP] +1 [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_LIMIT_TOOLTIP]Uzman Sınırı[/TIP]. [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölge[/TIP] görevi görür.[N]7 Ortaçağ Suru bulunan bir [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehir[/TIP] içinde, Ortaçağ Surlarına bitişik olarak inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_CAM_QUAN_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Cấm Quân</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_TROPICAL_DAI_VIET_NARRATIVE" Language="tr_TR">
+      <Text>Hayatın hayatı ezdiği dünyanın ortasında şehirler ve kasabalar kurmak, sürekli tetikte olmayı gerektirir. Tropikal şehirlerini inşa ederken, {1_Civilization_Adj} yerleşimciler orada zaten yaşayanları taklit ederler - kendi topraklarını temizler ve onları ezmeye çalışan güçlere karşı savunurlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_CAM_BINH_NAME" Language="tr_TR">
+      <Text>Cấm Binh</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_CON_KENH_NAME" Language="tr_TR">
+      <Text>Con Kênh</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_RUONG_LANG_XA_NAME" Language="tr_TR">
+      <Text>Ruộng Làng Xã</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIET_KIEU_NAME" Language="tr_TR">
+      <Text>Quận Vương</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VOI_CHIEN_NAME" Language="tr_TR">
+      <Text>Savaş Gücü</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

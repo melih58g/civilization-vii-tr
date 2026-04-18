@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS1" Language="tr_TR">
+      <Text>Kostantiniyye</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS10" Language="tr_TR">
+      <Text>Sinop</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS11" Language="tr_TR">
+      <Text>Trabzon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS12" Language="tr_TR">
+      <Text>Aintab</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS13" Language="tr_TR">
+      <Text>Kayseri</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS14" Language="tr_TR">
+      <Text>İzmir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS15" Language="tr_TR">
+      <Text>Manisa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS16" Language="tr_TR">
+      <Text>Aydın</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS17" Language="tr_TR">
+      <Text>İznik</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS18" Language="tr_TR">
+      <Text>Samsun</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS19" Language="tr_TR">
+      <Text>Eskişehir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS2" Language="tr_TR">
+      <Text>Bursa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS20" Language="tr_TR">
+      <Text>Amasya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS21" Language="tr_TR">
+      <Text>Denizli</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS22" Language="tr_TR">
+      <Text>Çanak Kalesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS23" Language="tr_TR">
+      <Text>Bolu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS24" Language="tr_TR">
+      <Text>Aksaray</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS25" Language="tr_TR">
+      <Text>Karaman</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS26" Language="tr_TR">
+      <Text>Tokat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS27" Language="tr_TR">
+      <Text>Çorum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS28" Language="tr_TR">
+      <Text>Afyonkarahisar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS29" Language="tr_TR">
+      <Text>Muğla</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS3" Language="tr_TR">
+      <Text>Edirne</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS30" Language="tr_TR">
+      <Text>Tekfurdağı</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS4" Language="tr_TR">
+      <Text>Engürü</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS5" Language="tr_TR">
+      <Text>Adana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS6" Language="tr_TR">
+      <Text>Konya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS7" Language="tr_TR">
+      <Text>Sivas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS8" Language="tr_TR">
+      <Text>Mersin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OTTOMANS9" Language="tr_TR">
+      <Text>İzmit</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_1" Language="tr_TR">
+      <Text>Fatma</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_10" Language="tr_TR">
+      <Text>Betül</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_2" Language="tr_TR">
+      <Text>Zeynep</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_3" Language="tr_TR">
+      <Text>Merve</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_4" Language="tr_TR">
+      <Text>Meryem</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_5" Language="tr_TR">
+      <Text>Nur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_6" Language="tr_TR">
+      <Text>Gülsüm</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_7" Language="tr_TR">
+      <Text>Leyla</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_8" Language="tr_TR">
+      <Text>Hanife</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_FEMALE_9" Language="tr_TR">
+      <Text>Dilek</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_1" Language="tr_TR">
+      <Text>Osman</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_10" Language="tr_TR">
+      <Text>Musa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_2" Language="tr_TR">
+      <Text>Mehmet</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_3" Language="tr_TR">
+      <Text>Süleyman</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_4" Language="tr_TR">
+      <Text>Ramazan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_5" Language="tr_TR">
+      <Text>Salih</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_6" Language="tr_TR">
+      <Text>Kadir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_7" Language="tr_TR">
+      <Text>Kemal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_8" Language="tr_TR">
+      <Text>Salif</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_OTTOMANS_MALE_9" Language="tr_TR">
+      <Text>Burak</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OTTOMANS_ADJECTIVE" Language="tr_TR">
+      <Text>Ottoman</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OTTOMANS_FULLNAME" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OTTOMANS_NAME" Language="tr_TR">
+      <Text>Ottomans</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_34_MAJOR_OTTOMANS_NAME" Language="tr_TR">
+      <Text>Hama</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_34_MINOR_OTTOMANS_NAME" Language="tr_TR">
+      <Text>Ayyubid</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_CAMII_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu'nun her yerinde, İslam inancına sahip kişiler dua etmek ve toplulukla etkileşim kurmak için yerel camileri ziyaret ederdi. Bu ibadet yerleri genellikle külliye olarak bilinen daha büyük bir bina kompleksinin merkezini oluştururdu. Camiler, Osmanlı toplumunun toplumsal dokusunun merkezinde yer alırdı ve genellikle Osmanlı mimarisinin en süslü örnekleriydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_CAMII_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu'ndaki camiler, kare şeklindeki ibadet salonunun üzerinde tek bir büyük kubbe bulunan bir mimariyi benimsemişti. Dairesel kubbeden kare şeklindeki odaya geçiş için kullanılan teknik, Türk üçgeniydi; bu, ilk olarak Ayasofya'da görülen ve daha sonraki Bizans yapılarında yaygın olarak kullanılan bir tür pendentifti. 18. yüzyıldan itibaren Osmanlı camileri, Avrupa mimarisini, özellikle de Fransız Rokoko ve Barok tarzlarını daha yakından taklit etmeye başladı. Bu döneme ait camiler, yuvarlak unsurların yaygınlaşmasıyla birlikte daha süslü bir dekorasyona sahip olma eğilimindedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_HAMMAM_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu'nda, zenginler ve yoksullar, genellikle bir külliyenin bileşeni olan yerel hamamın hizmetlerinden yararlanabilirdi. Ziyaretçiler, mütevazı bir şekilde giysilerini çıkarır ve ardından soğuktan sıcağa doğru bir dizi banyo odasından geçerlerdi. Osmanlı hamamları, mahallelerin hem dini hem de sosyal yaşamı için önemliydi; ritüel banyo yapma fırsatı ve özgürce konuşulabilecek cinsiyet ayrımlı bir alan sağlıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_HAMMAM_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Uygulama ve tasarım açısından hamam, Bizans döneminin eski Yunan ve Roma hamamları ile Emevi Halifeliği döneminde yaygın olan İslam hamamlarının birleşiminden evrimleşti. Osmanlılar bu uygulamaları sürdürdüler ve İstanbul'da hâlâ faaliyet gösteren geleneksel hamamların lüks, kubbeli sıcak odalarında görüldüğü gibi, bunlara kendilerine özgü bir stil kattılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Mütevazı göçebe kökenlerinden yola çıkan Osmanlı İmparatorluğu, altı yüzyıl boyunca varlığını sürdürerek dünyanın en güçlü imparatorluklarından biri haline geldi. Uzun süren çöküş sürecinde bile küresel sahnede önemli bir aktör olmaya devam etti ve Modern Çağ'da geçirdiği son yüzyıllar, bugün bildiğimiz şekliyle Doğu Avrupa, Batı Asya ve Kuzey Afrika'nın şekillenmesine katkıda bulundu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu'nun temelleri Orta Çağ'da atılmıştır. 11. yüzyılda Türk kabileleri, Selçuklu hanedanını kurmak için Orta Asya'dan batıya göç etti. Bizans İmparatorluğu'nun başlıca rakibi olan Selçuklular, Manzikert'teki zaferleriyle (1071) Anadolu'nun kapılarını araladı ve bölgede Türk varlığını başlattı. 1243'te Selçuklular Moğollara yenildikten sonra, Anadolu'daki Türk kabileleri, özellikle de Bizans ve eski Selçuklu topraklarını ele geçirerek kendi adını taşıyan bir hanedan kuran I. Osman (1259-1326) önderliğindeki kabileler varlıklarını sürdürdüler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Avrupa'ya yayılma 1345'te başladı ve 1453'te Fatih Sultan Mehmed, Konstantinopolis'i ele geçirerek Bizans'ı sona erdirdi ve Osmanlı Altın Çağı'nın başlangıcını ilan etti. 16. yüzyılda, I. Selim ve Kanuni Sultan Süleyman döneminde imparatorluk, yaklaşık 900.000 mil kare ile en geniş coğrafi sınırlarına ulaştı. Doğrudan ve vasal yönetimin birleşimi, Osmanlıların varlığını Avrupa, Orta Doğu ve Kuzey Afrika'nın derinliklerine kadar genişletti ve imparatorluk, Akdeniz'de önemli bir deniz gücü haline geldi. İstanbul (eski adıyla Konstantinopolis ve resmi adıyla Kostantiniyye), ticaretin Kapalıçarşı çevresinde yoğunlaştığı önemli bir ticaret merkezi olarak işlev gördü. Sanat, şiir, resim ve mimari alanlarında gelişti ve İstanbul'da hala ayakta olan birçok büyük caminin ortaya çıkmasına neden oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Sonraki yüzyılda Osmanlılar iktidarını sürdürdü, ancak genişleme yavaşladı. Sultanlar günlük siyasete daha az karışır hale geldi ve hükümetin her kademesinde kayırmacılık ve yolsuzluk kök saldı. Bu iç sorunlar kısa sürede dışa da yansıdı. 1699'da imparatorluk, Macaristan'daki önemli Avrupa topraklarını kaybetti ve Rusya, Avusturya ve Polonya ile yapılan savaşlar Osmanlı gücünü daha da zayıflattı. Birçok Osmanlı, bir zamanlar onları gücün zirvesine taşıyan eskiyen sistemlere güvenmeye devam ederken, diğerleri imparatorluğu canlandırmak ve dünya sahnesindeki yerini geri kazanmak için değişim için bastırdı. İmparatorluk uzun süredir Asya, Afrika ve Avrupa'nın kesişme noktasında bir köprü görevi görmüştü, ancak Batı'da büyük rakipler giderek güçlenirken, bazı hükümdarlar onların izinden giderek modernleşme çabalarına girişti. Sultan III. Ahmed döneminde yaşanan barışçıl bir dönem olan Lale Devri (1718-1730), devletin özellikle Osmanlı Barok gibi sanatsal ve mimari tarzlarda Batı etkisini benimsemeye başladığı bir dönemdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Sonraki reformlar, yüzyıllar önce ilerici olan ancak hızlı modernleşme çağında durgunluğa neden olan muhafazakar modelden kurtulmaya çalıştı. Mevcut yapıları korumaya çalışan dindar gelenekçiler ile Osmanlıları Batı'nın izinden yeniden şekillendirmek isteyen seküler reformcular arasındaki bu çatışma, Osmanlı döneminin son dönemlerinin önemli bir özelliğiydi. Önemli bir barut fıçısı, 19. yüzyılın başında yapılan bir dizi askeri reformdu; bu reformlar, Rusya ile son savaşlarda ortaya çıkan zayıflıkları gidermek amacıyla ordunun Avrupa silahları, taktikleri ve organizasyonuyla modernize edilmesini amaçlıyordu. Ancak bu değişiklikler, beş asırlık bir geçmişe sahip Yeniçeri Ocağı'nda bir isyanı tetikledi ve sonuç olarak Yeniçeriler şiddetli bir şekilde ortadan kaldırıldı. Yunanistan'ın öncülüğünde Balkan eyaletleri bağımsızlıklarını ilan ederken ve Afrika toprakları Avrupa güçleri tarafından ele geçirilirken, imparatorluk daha da küçüldü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Çökmekte olan imparatorluğu kurtarmak için yapılan son büyük girişim, Tanzimat döneminde (1839-1879) gerçekleşti. Bu dönemde ekonomi, ordu, eğitim, hukuk sistemi ve daha fazlasını hedef alan kapsamlı anayasal reformlar yapıldı; bu reformlar, merkezileştirme, standardizasyon ve eşitlik süreçleri yoluyla eski dini sistemlerin Batı tarzı seküler sistemlerle değiştirilmesine odaklanıyordu. Ancak reformlar her iki tarafı da tatmin etmedi; gelenekçiler değişikliklere şiddetle karşı çıktı, laik kesim ise reformların yeterince ileri gitmediğini düşündü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_OTTOMANS_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>20. yüzyılın başlarında Osmanlı İmparatorluğu son nefesini vermek üzereydi. Ekonomik, sosyal ve diplomatik krizlerin altında boğulan imparatorluğun hükümeti, 1908'deki Jön Türk Devrimi ile yeniden düzenlendi ve daha önce kısa ömürlü olan anayasa yeniden yürürlüğe kondu. İmparatorluğun çeşitli nüfusu arasında gelecekteki bağımsızlık hareketlerine dair paranoya, Ermeniler, Süryaniler, Rumlar ve Kürtler dahil olmak üzere birçok soykırımın işlenmesine yol açtı. Osmanlılar, I. Dünya Savaşı sırasında Almanya ile ittifak kurdu ve Arap İsyanı'na kadar başlangıçta başarı elde etti; savaşın ardından Osmanlı toprakları Müttefikler tarafından büyük ölçüde bölündü. 1923'te, Mustafa Kemal Atatürk liderliğindeki Türk milliyetçi güçleri imparatorluğa son verdi ve Türkiye Cumhuriyeti kuruldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_HARBIYE_NEZARETI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>19. yüzyıldaki askeri reformlar, Osmanlı ordusunu Avrupa'nın dört bir yanından gelen askeri komutanlar tarafından eğitilen ve bürokrasi altında organize edilen daha modern bir güce dönüştürdü. Harbiye Nezâreti, Yeniçerilerin lağvedilmesinden sonra orduda düzeni sağlamak için kurulan "Savaş Bakanlığı"ydı. Bakanlık, savaş malzemeleri, seferberlik ve rütbe gibi konuları yönetiyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_HARBIYE_NEZARETI_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu askeri reformların bir parçası, Avrupa'daki benzer kurumlara benzetilen askeri akademilerin, yani "harbiyelerin" inşasını içeriyordu. Bu harbiyeler, Osmanlı ordusunun bu dönemde emsalleriyle ve rakipleriyle rekabet edebilecek şekilde eğitilmesi ve yetiştirilmesinde önemli bir rol oynadı. Erkân-ı Harbiye Mektebi, 20. yüzyılın başlarında Osmanlı subaylarının en seçkinlerini yetiştiren rekabetçi bir askeri okuldu. Harbiyeler sadece Osmanlı kuvvetlerinin etkinliği için kilit öneme sahip olmakla kalmadı, aynı zamanda öğrencileri de siyasi değişimin sesli savunucuları oldular ve bu durum hem Osmanlı İmparatorluğu'nun son dönemlerinde hem de Türkiye Cumhuriyeti'nin ilk yıllarında çeşitli gösterilere ve darbe girişimlerine yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_LALE_DEVRI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Lâle Devri, Osmanlı İmparatorluğu'nun 18. yüzyılın başlarında kültürel bereket ve Batı etkisinin yaşandığı bir dönemdi. Bu barış dönemi, İmparatorluğun Avrupa genelinde diplomatik ve ticari çıkarlar peşinde koşmasına sahne oldu, ancak en çok laleye duyulan hayranlığın yaşandığı bir dönem olarak hatırlanır. Sultan III. Ahmed ve Başveziri Nevşehirli Damat İbrahim Paşa'nın hedonist eğilimlerinin teşvikiyle Osmanlı seçkinleri bu çiçeğe hayran kaldı ve çiçekler sokakları, binaları ve özel bahçeleri süsledi. Mimari, geleneksel sedef kakma ile yeni çiçek motiflerini bir araya getirecek şekilde uyarlandı; kültüre verilen destek, şiir ve sanatta yeni formların ortaya çıkmasına yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_LALE_DEVRI_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ancak herkes bundan memnun değildi. Abartılı festivallerle ilgili harcamalar ve seçkinlere odaklanılması, halk arasında huzursuzluk yarattı. Başvezirin rakiplerinin kışkırtmasıyla, bir grup isyancı, Sultan ve memurları tatildeyken başkentin içinden geçit töreni yaptı. Hayatından endişe duyan Sultan, kalabalığın taleplerini kabul etti: Başveziri öldürmek ve cesedini halka teslim etmek. Böylece Lale Dönemi sona erdi; o dönemin barışı ve güzelliği artık sadece bir anı olarak kaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_SAHI_TOPU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Osmanlılar, 15. yüzyılda erken dönem kuşatma topçuluğunun ustalarıydı ve Bizanslılarla yapılan birçok savaşta bu büyük silahları kullandılar. Sonunda, dev bombardıman toplarının yardımıyla Konstantinopolis'i fethettiler, Bizans dönemini sona erdirdiler ve kendi imparatorluklarını kurdular.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_SAHI_TOPU_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Konstantinopolis'in düşüşünden on yıl sonra, bu büyük şehri ele geçirmek için kullanılan devasa silahlardan birine benzeyen başka bir dev top döküldü. Şahi Topu veya daha sonra bilinen adıyla Çanakkale Topu, 17 ton ağırlığındaydı ve 750 pound ağırlığa kadar taş mermiler atabiliyordu. Yapımından yaklaşık 350 yıl sonra hala aktif olan bu top, 1807'deki Çanakkale harekatı sırasında Konstantinopolis'i İngilizlerden korumada önemli bir rol oynadı. Dev top mermileri İngiliz gemilerine ateşlendi, büyük hasara yol açtı ve onların görevine hızla son verdi. Bugün, Çanakkale Topu, hizmetten çıkarıldıktan sonra Sultan Abdülaziz tarafından Kraliçe Victoria'ya hediye edildiği için İngiltere'deki Fort Nelson'da görülebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_OTTOMANS_TANZIMAT_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>19. yüzyıl boyunca Osmanlı İmparatorluğu, Avrupa ülkeleriyle karşılaştırıldığında gerilediğinin farkına vardı ve modernizasyonu amaçlayan çeşitli reformlar uygulamaya çalıştı. Tanzimat, 1839-1876 yılları arasında süren ve Batı modellerini uyarlayarak İmparatorluğun gücünü sağlamlaştırmayı amaçlayan, Osmanlı idaresi, ordusu ve altyapısında bir dizi değişikliğin yaşandığı bir dönemdi. Dini özgürlük ve eşitliği artırma çabaları gibi bazı değişiklikler, muhafazakar grupların ciddi direnişiyle karşılaşırken, daha ilerici sesleri tatmin etmek için yetersiz kaldı. Bu aksiliklere rağmen, Tanzimat, köle ticaretinin kısıtlanması, eğitimin güçlendirilmesi ve yargının reformu gibi, daha sonra bağımsız devletler haline gelecek topraklarda kalıcı etkileri olan bir dizi reformu uygulamayı başardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_KULLIYE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bir caminin etrafında toplanan külliye, topluluğun ruhsal, fiziksel ve zihinsel refahına adanmış bir bina kompleksiydi. Osmanlı şehirlerinin her yerinde, merkezi ibadet mekanının etrafında hastaneler, okullar ve mutfaklar barındıran külliyeler bulunabilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_KULLIYE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>İstanbul’da, çok sayıda külliye, kenti şekillendirmek ve burayı sultanın mülkiyeti olarak işaretlemek amacıyla inşa edildi. En çarpıcı örnek, adını kurucusu Kanuni Sultan Süleyman’dan alan Süleymaniye Külliyesi’dir. Merkez camiyle birlikte yedi medrese, bir yurt, hastaneler ve dükkanlardan oluşan bu külliye, modern bir üniversite kampüsünde rastlayabileceğimiz yapı ve hizmet çeşitliliğine benziyordu. Günümüzde külliyeler hala Anadolu'nun her yerinde bulunabilir. Birçoğu müzeye dönüştürülmüşken, diğerleri hala topluluklarının bir parçası, mahallenin veya banliyönün merkezini oluşturmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_2_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Berberi korsanları, 16. yüzyıldan 19. yüzyıla kadar esas olarak Akdeniz'de faaliyet gösteren korsanlardı. Osmanlı İmparatorluğu'nun sınırlarında ve kenarlarında, Afrika'nın kuzeybatı kıyılarından, özellikle Tunus, Cezayir, Trablus ve Fas'tan geliyorlardı; bu bölge, Avrupa'da Berberi Kıyısı olarak bilinen, büyük ölçüde bağımsız bir alandı. Çoğunluğu Müslüman olan bu korsanlar, Batı Akdeniz kıyıları boyunca ve Atlantik'ten Britanya Adaları'na, hatta İzlanda'ya kadar uzanan bölgede Hıristiyan gemilerini ve yerleşim yerlerini tehdit ederdi. Binlerce ticaret gemisi mürettebatlarının eline düştü ve gemilerden ve yerleşim yerlerinden on binlerce köle yakalandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_2_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Berberi korsanlarının en tanınmışları, İtalyanca'da "kızıl sakallı" anlamına gelen Barbarossa kardeşlerdi. Türkler tarafından Oruç Reis olarak bilinen Aruj Barbarossa, Akdeniz'de, özellikle de İspanya'dan yüzlerce gemiyi ele geçiren korkunç bir korsandı. O ve kardeşleri, Cezayir'i İspanyollardan kurtardı, İspanya anakarasından Müslümanları kurtardı ve İspanya kıyılarını yağmaladı. 1519'da, İspanyolların Kuzey Afrika'daki bir savaşta nihayet Aruj'u öldürmeyi başarmasının ardından, kardeşi Hayreddin Barbarossa, İspanyollara karşı yardım karşılığında Cezayir'in bağımsızlığını Osmanlılara devretti. Onların yardımıyla Hayreddin, İspanyolları Cezayir'den kovdu ve limanını korsanların üssü haline getirdi. Oradan, artık Osmanlılardan "beylerbey" (prens) unvanını almış olan Berberi korsanları, 19. yüzyılın ortalarına kadar denizleri yağmalayarak Cezayir'i ve dolayısıyla İmparatorluğu zenginleştirdiler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_3_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Berberi korsanları, 16. yüzyıldan 19. yüzyıla kadar esas olarak Akdeniz'de faaliyet gösteren korsanlardı. Osmanlı İmparatorluğu'nun sınırlarında ve kenarlarında, Afrika'nın kuzeybatı kıyılarından, özellikle Tunus, Cezayir, Trablus ve Fas'tan geliyorlardı; bu bölge, Avrupa'da Berberi Kıyısı olarak bilinen, büyük ölçüde bağımsız bir alandı. Çoğunluğu Müslüman olan bu korsanlar, Batı Akdeniz kıyıları boyunca ve Atlantik'i geçerek Britanya Adaları'na ve hatta İzlanda'ya kadar uzanan bölgedeki Hıristiyan gemilerini ve yerleşim yerlerini tehdit ettiler. Binlerce ticaret gemisi mürettebatlarının eline düştü ve gemilerden ve yerleşim yerlerinden on binlerce köle yakalandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_3_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Berberi korsanlarının en tanınmışları, İtalyanca'da "kızıl sakallı" anlamına gelen Barbarossa kardeşlerdi. Türkler tarafından Oruç Reis olarak bilinen Aruj Barbarossa, Akdeniz'de, özellikle de İspanya'dan yüzlerce gemiyi ele geçiren korkunç bir korsandı. O ve kardeşleri, Cezayir'i İspanyollardan kurtardı, İspanya anakarasından Müslümanları kurtardı ve İspanya kıyılarını yağmaladı. 1519'da, İspanyolların Kuzey Afrika'daki bir savaşta nihayet Aruj'u öldürmeyi başarmasının ardından, kardeşi Hayreddin Barbarossa, İspanyollara karşı yardım karşılığında Cezayir'in bağımsızlığını Osmanlılara devretti. Onların yardımıyla Hayreddin, İspanyolları Cezayir'den kovdu ve limanını korsanların üssü haline getirdi. Oradan, artık Osmanlılardan "beylerbey" (prens) unvanını almış olan Berberi korsanları, 19. yüzyılın ortalarına kadar denizleri yağmalayarak Cezayir'i ve dolayısıyla İmparatorluğu zenginleştirdiler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Berberi korsanları, 16. yüzyıldan 19. yüzyıla kadar esas olarak Akdeniz'de faaliyet gösteren korsanlardı. Osmanlı İmparatorluğu'nun sınırlarında ve kenarlarında, Afrika'nın kuzeybatı kıyılarından, özellikle Tunus, Cezayir, Trablus ve Fas'tan geliyorlardı; bu bölge, Avrupa'da Berberi Kıyısı olarak bilinen, büyük ölçüde bağımsız bir alandı. Çoğunluğu Müslüman olan bu korsanlar, Batı Akdeniz kıyıları boyunca ve Atlantik'te Britanya Adaları'na, hatta İzlanda'ya kadar uzanan bölgede Hıristiyan gemilerini ve yerleşim yerlerini tehdit ettiler. Binlerce ticaret gemisi mürettebatlarının eline düştü ve gemilerden ve yerleşim yerlerinden on binlerce köle yakalandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BARBARY_CORSAIR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Berberi korsanlarının en tanınmışları, İtalyanca'da "kızıl sakallı" anlamına gelen Barbarossa kardeşlerdi. Türkler tarafından Oruç Reis olarak bilinen Aruj Barbarossa, Akdeniz'de, özellikle de İspanya'dan yüzlerce gemiyi ele geçiren korkunç bir korsandı. O ve kardeşleri, Cezayir'i İspanyollardan kurtardı, İspanya anakarasından Müslümanları kurtardı ve İspanya kıyılarını yağmaladı. 1519'da, İspanyolların Kuzey Afrika'daki bir savaşta nihayet Aruj'u öldürmeyi başarmasının ardından, kardeşi Hayreddin Barbarossa, İspanyollara karşı yardım karşılığında Cezayir'in bağımsızlığını Osmanlılara devretti. Onların yardımıyla Hayreddin, İspanyolları Cezayir'den kovdu ve limanını korsanların üssü haline getirdi. Oradan, artık Osmanlılardan "beylerbey" (prens) unvanını almış olan Berberi korsanları, 19. yüzyılın ortalarına kadar denizleri yağmalayarak Cezayir'i ve dolayısıyla İmparatorluğu zenginleştirdiler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_2_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>14. yüzyılda, Osmanlı İmparatorluğu Sultanı, ya I. Murad ya da babası Orhan, yalnızca kendisine sadık erkeklerden oluşan kişisel bir ordu kurmayı tercih etti. Başlangıçta, Yeniçeriler olarak adlandırılan bu askerler, başta Balkanlar olmak üzere Müslüman olmayan kölelerden seçiliyordu. Osmanlılar bu gruplardan küçük çocukları seçer, İslam'a geçmeleri ve Türkçe öğrenmeleri için Türk ailelerin yanına yerleştirir, olgun ve uygun görüldüklerinde de onları Yeniçeri Ocağı'na kaydederdi. Yeniçeriler, ateşli silahlarla donatılan ilk piyade ordularından biriydi ve mükemmel eğitimleri ve sadakatleri, onları 14. yüzyıldan 17. yüzyıla kadar korkulan bir güç haline getirdi. 1453'te Konstantinopolis'in fethini de içeren tüm büyük Osmanlı seferlerinde önemli rol oynadılar. Osmanlı ordusunun ana piyade gücü olarak, seçkin Türk süvarileri kanatlardan hücum ve aldatma manevraları yaparken, ordunun çekirdeğini, özellikle de Sultanı korumada kilit rol oynadılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_2_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>18. yüzyıla gelindiğinde, sadece bir askeri grup olmaktan çıkıp İmparatorluk genelinde önemli görevlerde bulunan bir gruba dönüşen Yeniçeriler, Osmanlıların en önemli ve güçlü unsurları arasındaydı. Yüksek maaşları ve aşırı etkileri, onları sıradan vatandaşlar arasında sevimsiz hale getirdi. Yeniçeriler Sultanla anlaşmazlığa düştüklerinde, 19. yüzyılın başlarında Sırbistan'da olduğu gibi, bir eyalette kolayca iktidarı ele geçirebilir ve bunu halk aleyhine haksız bir şekilde kullanabilirlerdi. Sultan'ın kendilerini lağvedeceğinden korkan Yeniçeriler isyan çıkardı ve yerel Sırplara karşı baskınlar düzenledi. Sultan'dan af aldıktan sonra geri dönerek valiyi öldürdüler, önde gelen Sırpların kafalarını kestiler ve yerel halkı zulüm altında tuttular. Eylemleri, Sırpların nihayet Osmanlıların uzun süren işgalinden kurtuldukları Sırp Devrimi'ne yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_2_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>1808'de Sultan II. Mahmud, Yeniçerilerin İmparatorluğu geride bıraktığının tam bilinciyle iktidara geldi. Bir zamanlar yenilikçi bir savaş gücü olan Yeniçeriler, artık çökmüş durumdaydı ve disiplinli askerlerden ziyade büyük ölçüde sivillerden oluşuyordu. 1826'da Sultan, Yeniçeriler'e yeni bir ordu kurduğunu, Avrupa'daki yeni yöntemlere uygun modern bir güç oluşturduğunu duyurdu. Tahmin edilebileceği gibi, Yeniçeriler isyan etti. O ana kadar isyanları her zaman başarılı olmuştu, ancak bu sefer Sultan hazırlıklıydı. Kışlalarını ateşe verdi ve yaklaşık 4.000 kişiyi diri diri yaktı. Konstantinopolis sokaklarında çıkan çatışmalarda çok daha fazlası öldü. Yıl sonuna kadar Sultan, geri kalanları yakaladı veya hapse attı. Liderleri idam etti, en umut vaat edenleri askere aldı, geri kalanları ise sürgüne gönderdi veya hapse attı. Bu "Müjdeli Olay"da Sultan, nihayet Yeniçeriler'i iktidardan uzaklaştırmayı başardı, ancak artık çok geçti. Osmanlı ordusu, kaybettiği üstünlüğünü bir daha asla geri kazanamayacaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_3_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>14. yüzyılda, Osmanlı İmparatorluğu'nun Sultanı, ya I. Murad ya da babası Orhan, yalnızca kendisine sadık olan bir kişisel ordu kurmayı tercih etti. Başlangıçta, "Yanıcılar" olarak adlandırılan bu askerler, çoğunlukla Balkanlar'dan gelen Müslüman olmayan kölelerden seçiliyordu. Osmanlılar bu gruplardan küçük çocukları seçer, onları Türk ailelerin yanına yerleştirerek İslam'a geçmelerini ve Türkçe öğrenmelerini sağlar, ardından olgun ve uygun görüldüklerinde Yeniçeri Ocağı'na kaydederdi. Yeniçeriler, ateşli silahlarla donatılan ilk piyade ordularından biriydi ve mükemmel eğitimleri ve sadakatleri, onları 14. yüzyıldan 17. yüzyıla kadar korkulan bir güç haline getirdi. 1453'te Konstantinopolis'in fethini de içeren tüm büyük Osmanlı seferlerinde önemli rol oynadılar. Osmanlı ordusunun ana piyade gücü olarak, seçkin Türk süvarileri kanatlardan hücum ve aldatma manevraları yaparken, onlar da ordunun çekirdeğini, özellikle de Sultanı korumada kilit rol oynadılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_3_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>18. yüzyıla gelindiğinde, sadece bir askeri grup olmaktan çıkıp İmparatorluk genelinde önemli görevlerde bulunan bir gruba dönüşen Yeniçeriler, Osmanlıların en önemli ve güçlü unsurları arasındaydı. Yüksek maaşları ve aşırı etkileri, onları sıradan vatandaşlar arasında sevimsiz hale getirdi. Yeniçeriler Sultanla anlaşmazlığa düştüklerinde, 19. yüzyılın başlarında Sırbistan'da olduğu gibi, bir eyalette kolayca iktidarı ele geçirebilir ve bunu halk aleyhine haksız bir şekilde kullanabilirlerdi. Sultan'ın kendilerini lağvedeceğinden korkan Yeniçeriler isyan çıkardı ve yerel Sırplara baskınlar düzenledi. Sultan'dan af aldıktan sonra geri dönerek valiyi öldürdüler, önde gelen Sırpların kafalarını kestiler ve yerel halkı zulüm altında tuttular. Bu eylemleri, Sırpların nihayet Osmanlıların uzun süren işgalinden kurtuldukları Sırp Devrimi'ne yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_3_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>1808'de Sultan II. Mahmud, Yeniçerilerin İmparatorluğu geride bıraktığının tam bilinciyle iktidara geldi. Bir zamanlar yenilikçi bir savaş gücü olan Yeniçeriler, artık çökmüş durumdaydı ve disiplinli askerlerden ziyade büyük ölçüde sivillerden oluşuyordu. 1826'da Sultan, Yeniçeriler'e yeni bir ordu kurduğunu, Avrupa'daki yeni yöntemlere uygun modern bir güç oluşturduğunu duyurdu. Tahmin edilebileceği gibi, Yeniçeriler isyan etti. O ana kadar isyanları her zaman başarılı olmuştu, ancak bu sefer Sultan hazırlıklıydı. Kışlalarını ateşe verdi ve yaklaşık 4.000 kişiyi diri diri yaktı. Konstantinopolis sokaklarında çıkan çatışmalarda çok daha fazlası öldü. Yıl sonuna kadar Sultan, geri kalanları yakaladı veya hapse attı. Liderleri idam etti, en umut vaat edenleri askere aldı, geri kalanları ise sürgüne gönderdi veya hapse attı. Bu "Müjdeli Olay"da Sultan, nihayet Yeniçeriler'i iktidardan uzaklaştırmayı başardı, ancak artık çok geçti. Osmanlı ordusu, kaybettiği üstünlüğünü bir daha asla geri kazanamayacaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>14. yüzyılda, Osmanlı İmparatorluğu'nun Sultanı, ya I. Murad ya da babası Orhan, yalnızca kendisine sadık olan bir kişisel ordu kurmayı tercih etti. Başlangıçta, "Yanıcılar" olarak adlandırılan bu askerler, çoğunlukla Balkanlar'dan gelen Müslüman olmayan kölelerden seçiliyordu. Osmanlılar bu gruplardan küçük çocukları seçer, onları Türk ailelerin yanına yerleştirerek İslam'a geçmelerini ve Türkçe öğrenmelerini sağlar, ardından olgun ve uygun görüldüklerinde Yeniçeri Ocağı'na kaydederdi. Yeniçeriler, ateşli silahlarla donatılan ilk piyade ordularından biriydi ve mükemmel eğitimleri ve sadakatleri, onları 14. yüzyıldan 17. yüzyıla kadar korkulan bir güç haline getirdi. 1453'te Konstantinopolis'in fethini de içeren tüm büyük Osmanlı seferlerinde önemli rol oynadılar. Osmanlı ordusunun ana piyade gücü olarak, seçkin Türk süvarileri kanatlardan hücum ve aldatma manevraları yaparken, ordunun çekirdeğini, özellikle de Sultanı korumada kilit rol oynadılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>18. yüzyıla gelindiğinde, sadece bir askeri grup olmaktan çıkıp İmparatorluk genelinde önemli görevlerde bulunan bir gruba dönüşen Yeniçeriler, Osmanlıların en önemli ve güçlü unsurları arasındaydı. Yüksek maaşları ve aşırı etkileri, onları sıradan vatandaşlar arasında sevimsiz hale getirdi. Yeniçeriler Sultanla anlaşmazlığa düştüklerinde, 19. yüzyılın başlarında Sırbistan'da olduğu gibi, bir eyalette kolayca iktidarı ele geçirebilir ve bunu halk aleyhine haksız bir şekilde kullanabilirlerdi. Sultan'ın kendilerini lağvedeceğinden korkan Yeniçeriler isyan çıkardı ve yerel Sırplara baskınlar düzenledi. Sultan'dan af aldıktan sonra geri dönerek valiyi öldürdüler, önde gelen Sırpların kafalarını kestiler ve yerel halkı zulüm altında tuttular. Eylemleri, Sırpların nihayet Osmanlıların uzun süren işgalinden kurtuldukları Sırp Devrimi'ne yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_JANISSARY_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>1808'de Sultan II. Mahmud, Yeniçerilerin İmparatorluğu geride bıraktığının tam bilinciyle iktidara geldi. Bir zamanlar yenilikçi bir savaş gücü olan Yeniçeriler, artık çökmüş durumdaydı ve disiplinli askerlerden ziyade büyük ölçüde sivillerden oluşuyordu. 1826'da Sultan, Yeniçeriler'e yeni bir ordu kurduğunu, Avrupa'daki yeni yöntemlere uygun modern bir güç oluşturduğunu duyurdu. Tahmin edilebileceği gibi, Yeniçeriler isyan etti. O ana kadar isyanları her zaman başarılı olmuştu, ancak bu sefer Sultan hazırlıklıydı. Kışlalarını ateşe verdi ve yaklaşık 4.000 kişiyi diri diri yaktı. Konstantinopolis sokaklarında çıkan çatışmalarda çok daha fazlası öldü. Yıl sonuna kadar Sultan, geri kalanları yakaladı veya hapse attı. Liderleri idam etti, en umut vaat edenleri askere aldı, geri kalanları ise sürgüne gönderdi veya hapse attı. Bu "Müjdeli Olay"da Sultan, nihayet Yeniçeriler'i iktidardan uzaklaştırmayı başardı, ancak artık çok geçti. Osmanlı ordusu, kaybettiği üstünlüğünü bir daha asla geri kazanamayacaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_SULTANAHMET_CAMII_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İngilizce'de "Mavi Camii" olarak bilinen Sultanahmet Camii, Osmanlı mimarisinin en simgesel örneklerinden biridir. İstanbul'da, Ayasofya'nın karşısında ve Bizans dönemine ait Hipodrom'un sınırında önemli bir yere sahiptir. Tasarımı hem Bizans hem de İslam mimarisini yansıtan cami, 16. ve 17. yüzyılın başlarında klasik Osmanlı mimarisinin bir örneğidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_SULTANAHMET_CAMII_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Caminin içi, çiniler ve boyalı motiflerle süslü bir şekilde dekore edilmiştir. Döneme ait çiçek, meyve ve diğer desenler, ağırlıklı olarak mavi olmak üzere çeşitli renklerde duvarları süslemektedir. Dışarıda, girişlere giden çok sayıda avlu ve araziyi çevreleyen altı ince minare bulunmaktadır. Camiyi çevreleyen, toplumsal ihtiyaçları karşılayan diğer binalar – bir hastane, bir hamam ve bir okul – kompleksin orijinal yapısını tamamlamaktadır. Güneydoğudaki caddeyi çevreleyen canlı bir çarşı, hem yerli halk hem de turistlere hizmet veren yüzlerce dükkana ev sahipliği yapmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CAMII_NAME" Language="tr_TR">
+      <Text>Cami</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_HAMMAM_NAME" Language="tr_TR">
+      <Text>Hammam</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_KULLIYE_NAME" Language="tr_TR">
+      <Text>Külliye</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SULTANAHMET_CAMII_NAME" Language="tr_TR">
+      <Text>Sultanahmet Camii</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_AKSU_DERESI_NAME" Language="tr_TR">
+      <Text>Aksu Deresi</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BARTIN_CAYI_NAME" Language="tr_TR">
+      <Text>Bartın Çayı</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_HARSIT_CAYI_NAME" Language="tr_TR">
+      <Text>Harşit Çayı</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_YAGLIDERE_NAME" Language="tr_TR">
+      <Text>Yağlıdere</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_YESILIRMAK_NAME" Language="tr_TR">
+      <Text>Yeşilırmak</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_ACIGOL_NEVSEHIR_NAME" Language="tr_TR">
+      <Text>Acıgöl-Nevşehir</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_GOLLU_DAG_NAME" Language="tr_TR">
+      <Text>Göllü Dağ</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KARADAG_NAME" Language="tr_TR">
+      <Text>Karadağ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HARBIYE_NEZARETI_NAME" Language="tr_TR">
+      <Text>Harbiye Nezâreti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LALE_DEVRI_NAME" Language="tr_TR">
+      <Text>Lâle Devri</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAHI_TOPU_NAME" Language="tr_TR">
+      <Text>Şahi Topu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TANZIMAT_NAME" Language="tr_TR">
+      <Text>Tanẓîmât</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_ARTIFACT_EGYPTIAN_OBELISK_NAME" Language="tr_TR">
+      <Text>Mısır Obeliski</Text>
+    </Replace>
+    <Replace Tag="LOC_11101A_COMPLETION" Language="tr_TR">
+      <Text>Dış ticaret arttıkça, bir Osmanlı soylusu, lüks bahçe partileri için sayısız lale ithal eder. Birçoğu bunu imparatorluğun refahının bir işareti olarak görür, ancak diğerleri buna savurganlık der.</Text>
+    </Replace>
+    <Replace Tag="LOC_11101A_STORYTITLE" Language="tr_TR">
+      <Text>Lale Devri</Text>
+    </Replace>
+    <Replace Tag="LOC_11101B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak tüm Yerleşim Yerlerinde {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11101B_NAME" Language="tr_TR">
+      <Text>Hayat bir partidir. Lale gelmeye devam etsin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11101C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak tüm Yerleşimlerde {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11101C_NAME" Language="tr_TR">
+      <Text>En azından kendi yetiştirdiğiniz laleleri kullanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11102A_COMPLETION" Language="tr_TR">
+      <Text>Büyük Çarşı ve Sultanahmet Camii, {1_story_city}'nin en işlek bölgelerinden birini gururla gözetiyor. Bir tarafta el dokuması kumaşların, aromatik baharatların ve daha fazlasının cazibesi. Diğer tarafta ise ibadet ve tefekkür çağrısı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11102A_STORYTITLE" Language="tr_TR">
+      <Text>Fatih</Text>
+    </Replace>
+    <Replace Tag="LOC_11102B_DESCRIPTION" Language="tr_TR">
+      <Text>Altın Binalarda{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11102B_NAME" Language="tr_TR">
+      <Text>Değerli olan her şey Büyük Çarşı'dan geçer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11102C_DESCRIPTION" Language="tr_TR">
+      <Text>Mutluluk Binalarında{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11102C_NAME" Language="tr_TR">
+      <Text>Sultanahmet Camii'nde herkes kendini tanıyabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103A_COMPLETION" Language="tr_TR">
+      <Text>Berberi korsanları yağmaladıkları mallarla gemilerine kaçarlar; kurbanları ölülerini sayarken onlar çoktan yelken açmışlardır. Yangınlar sönmeden çok önce ortadan kaybolacaklardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103A_STORYTITLE" Language="tr_TR">
+      <Text>Raiders</Text>
+    </Replace>
+    <Replace Tag="LOC_11103B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103B_NAME" Language="tr_TR">
+      <Text>Yağmaladıklarını saklamadıklarından emin olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103C_NAME" Language="tr_TR">
+      <Text>Bir tepkiye hazır olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11103D_NAME" Language="tr_TR">
+      <Text>Sadece en iyiler Sayyida al Hurra ile yelken açar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11104A_COMPLETION" Language="tr_TR">
+      <Text>Baroque mimarisine doğru bir dönüşüm imparatorluğu sararken, gelenekçiler bunu Osmanlı sanatına yabancı bir bulaşma olarak görüp kınıyorlar. Ancak diğerleri, yabancı bilginin Osmanlı güçlerini rekabetçi tuttuğunu savunuyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11104A_STORYTITLE" Language="tr_TR">
+      <Text>Tanẓîmât</Text>
+    </Replace>
+    <Replace Tag="LOC_11104B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11104B_NAME" Language="tr_TR">
+      <Text>İmparatorluğun gücü geleneklere dayanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11104C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11104C_NAME" Language="tr_TR">
+      <Text>İmparatorluk ya değişecek ya da yok olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105A_COMPLETION" Language="tr_TR">
+      <Text>Bir zamanlar Osmanlı ordusunun gururu olan Yeniçeri Ocağı, giderek daha gelişmiş düşmanlar karşısında varlığını sürdürmek için mücadele etmektedir. Askeri liderler modernleşmeyi hedeflemektedir, ancak Yeniçeriler işbirliğine yatkın olmalarıyla tanınmamaktadır...</Text>
+    </Replace>
+    <Replace Tag="LOC_11105A_STORYTITLE" Language="tr_TR">
+      <Text>Eski Muhafızlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11105B_COMPLETION" Language="tr_TR">
+      <Text>Savaş tecrübesi olmasa da kapsamlı bir eğitimden geçmiş olan yeni komutan, Yeniçeri alaylarını teftiş eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} 5 seviye, ancak Yeniçeriler için +2 bakım maliyeti.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Askeri Akademi inşa edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105B_NAME" Language="tr_TR">
+      <Text>Onlara işbirliği yapmaları öğretilecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105B_STORYTITLE" Language="tr_TR">
+      <Text>Eski Muhafızlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11105C_COMPLETION" Language="tr_TR">
+      <Text>Yeni silah ve teçhizatla donatılmış Yeniçeriler, her zamanki gibi ezici bir güç olarak ilerliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105C_DESCRIPTION" Language="tr_TR">
+      <Text>Yanıcılar için{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105C_IMPERATIVE" Language="tr_TR">
+      <Text>3 adet 3. seviye Yeniçeri yetiştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105C_NAME" Language="tr_TR">
+      <Text>Silahları eskimiş, ama onlar değil.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105C_STORYTITLE" Language="tr_TR">
+      <Text>Eski Muhafızlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11105D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11105D_NAME" Language="tr_TR">
+      <Text>Yeniçeriler öncelikli değil.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106A_COMPLETION" Language="tr_TR">
+      <Text>Yurtdışından dönen büyükelçiler, "opera" adı verilen yeni bir sanat formundan bahsediyorlar – özenle hazırlanmış kostüm ve sahne dekorlarına sahip müzikal destanlar. Bu, dükkanlarda ve kahvehanelerde yerli halkın keyifle izlediği gölge oyunları ve doğaçlama komedilerden çok farklı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106A_STORYTITLE" Language="tr_TR">
+      <Text>Komedi ve Trajedi</Text>
+    </Replace>
+    <Replace Tag="LOC_11106B_COMPLETION" Language="tr_TR">
+      <Text>Bir ortaoyunu topluluğu, bir dükkanın ortasında kurulan geçici bir sahnede gösteri yapıyor. Pişekar, Kavuklu'nun tam arkasında durduğunu yavaş yavaş fark edince, etraflarını saran seyirciler kahkahalara boğuluyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Uzmanı Büyük Mağazaya Yerleştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106B_NAME" Language="tr_TR">
+      <Text>Komik düşme, sanatın en yüksek formudur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106B_STORYTITLE" Language="tr_TR">
+      <Text>Komedi ve Trajedi</Text>
+    </Replace>
+    <Replace Tag="LOC_11106C_COMPLETION" Language="tr_TR">
+      <Text>Osmanlı toplumunun seçkinleri, yeni bir trajedinin prömiyeri için opera binasının loca ve koltuklarını doldurur. Antonina'nın final aryası doruk noktasına ulaştığında, salonda gözyaşlarını tutabilen kimse kalmaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106C_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Uzmanı Opera Binası'na yerleştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106C_NAME" Language="tr_TR">
+      <Text>İmparatorluk çağa ayak uydurmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106C_STORYTITLE" Language="tr_TR">
+      <Text>Komedi ve Trajedi</Text>
+    </Replace>
+    <Replace Tag="LOC_11106D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11106D_NAME" Language="tr_TR">
+      <Text>Her birinin kendine ait bir yeri vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107A_COMPLETION" Language="tr_TR">
+      <Text>Derslerin ardından öğrencilerini medreseden uğurlarken, şeyh yakındaki yeni rüşdiye okuluna şüpheyle bakıyor. Oradaki öğrencilerin, çocukların merakını hiçe sayarak katı ders programlarına uymak ve devletin yayınladığı ders kitaplarından okumak zorunda oldukları söyleniyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107A_STORYTITLE" Language="tr_TR">
+      <Text>Kutsal Salonlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11107B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107B_NAME" Language="tr_TR">
+      <Text>Buna ilerleme mi diyorlar?</Text>
+    </Replace>
+    <Replace Tag="LOC_11107C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107C_NAME" Language="tr_TR">
+      <Text>Rüşdiye, imparatorluğun geleceğini şekillendirecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107D_DESCRIPTION" Language="tr_TR">
+      <Text>+9 [icon:YIELD_CULTURE] Ulema Mahallesi'nde Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11107D_NAME" Language="tr_TR">
+      <Text>Ulema'nın söz hakkı varsa, hayır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108A_COMPLETION" Language="tr_TR">
+      <Text>Külliye kompleksinin her yerinde imamlar namaz kıldırıyor, müderrisler öğrencilere ders veriyor ve doktorlar hastaları tedavi ediyor. Devlet-i Aliyye'nin, yani ilahi devletin ruhu burada belirleniyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108A_STORYTITLE" Language="tr_TR">
+      <Text>İlahi Devlet</Text>
+    </Replace>
+    <Replace Tag="LOC_11108B_COMPLETION" Language="tr_TR">
+      <Text>Artık {1_story_city} de Korunan Topraklar'a girmiştir – külliye böyle söylüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108B_DESCRIPTION" Language="tr_TR">
+      <Text>Mevcut Komutanlara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108B_IMPERATIVE" Language="tr_TR">
+      <Text>Külliye'nin bulunduğu bir yerleşim yeri ele geçirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108B_NAME" Language="tr_TR">
+      <Text>Bu gücün yayılmasına izin verin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108B_STORYTITLE" Language="tr_TR">
+      <Text>İlahi Devlet</Text>
+    </Replace>
+    <Replace Tag="LOC_11108C_DESCRIPTION" Language="tr_TR">
+      <Text>Külliye Mahallesi'nde +3 [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11108C_NAME" Language="tr_TR">
+      <Text>Bu gücü yerel olarak yoğunlaştırın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11109A_COMPLETION" Language="tr_TR">
+      <Text>{1_story_city}'nin yağmalanması sırasında, bir general kırmızı granitten yapılmış bir obeliskin kaldırılmasını emreder, ancak bu işlem sırasında kaide hasar görür. İlk başta hayal kırıklığına uğrayan general, bunu anıtı yeni kabartmalarla yeniden adama fırsatı olarak görür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11109A_STORYTITLE" Language="tr_TR">
+      <Text>Ne Rahatlama</Text>
+    </Replace>
+    <Replace Tag="LOC_11109B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11109B_NAME" Language="tr_TR">
+      <Text>Kraliyet ailesini onurlandır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11109C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11109C_NAME" Language="tr_TR">
+      <Text>Halkı tasvir edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11110A_COMPLETION" Language="tr_TR">
+      <Text>Eski arenada yapılan kazılar, üzerinde Mısır yazıtları bulunan uzun, kırmızı granit bir obelisk ortaya çıkarır. Obeliskin {1_STORY_CITY}'ye nasıl geldiğini merak eden arkeologlar, obeliskin kaidesindeki kabartmalara dikkatlerini yöneltir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11110A_STORYTITLE" Language="tr_TR">
+      <Text>Sonunda Rahatladılar</Text>
+    </Replace>
+    <Replace Tag="LOC_11110B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11110B_NAME" Language="tr_TR">
+      <Text>Araştırma için obelisk'i koruyun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11110C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11110C_NAME" Language="tr_TR">
+      <Text>Taşı toza dönüştürün.</Text>
+    </Replace>
+    <Replace Tag="LOC_12013A_COMPLETION" Language="tr_TR">
+      <Text>Dr. Rizal, sıcak ve kokulu bir kahve eşliğinde Osmanlı bir entelektüelle şiir sevgisini paylaşıyor. Tam da yakındaki bir sahafta kitaplara göz atmaya karar verdikleri sırada, bir grup yeniçeri caddeden geçit töreni yapar gibi ilerliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12013A_STORYTITLE" Language="tr_TR">
+      <Text>Osmanlı İmparatorluğu'ndaki İyi Doktor</Text>
+    </Replace>
+    <Replace Tag="LOC_12013B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Piyade Birliğinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_12013B_NAME" Language="tr_TR">
+      <Text>Yeniçeriler büyük saygı uyandırıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12013C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12013C_NAME" Language="tr_TR">
+      <Text>Ama kitaplar...</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CAMII_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Kültür Binası[/TIP]. +9 [icon:YIELD_CULTURE] Kültür. +1[icon:YIELD_HAPPINESS] Mutluluk Bilim [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ile bitişiklik ve +1[icon:YIELD_CULTURE] Kültür [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] ile bitişiklik. 2 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_ARTIFACT_TOOLTIP]Eser[/TIP] yuvası vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CAMII_TOOLTIP" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP]. 2 adet [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_ARTIFACT_TOOLTIP]Eser[/TIP] yuvası vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_HAMMAM_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Mutluluk Binası[/TIP]. +9 [icon:YIELD_HAPPINESS] Mutluluk. +1[icon:YIELD_GOLD] Altın ve [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ile komşuluk ve +1[icon:YIELD_HAPPINESS] Mutluluk [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] ile komşuluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_HAMMAM_TOOLTIP" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HARBIYE_NEZARETI_AUTHOR" Language="tr_TR">
+      <Text>II. Mehmed</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HARBIYE_NEZARETI_QUOTE" Language="tr_TR">
+      <Text>"Ya ben şehri ele geçiririm ya da şehir beni ele geçirir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LALE_DEVRI_AUTHOR" Language="tr_TR">
+      <Text>Nedîm</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LALE_DEVRI_QUOTE" Language="tr_TR">
+      <Text>"Lale kadehleri yoksa, yerine şarap kadehlerini getirin."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAHI_TOPU_AUTHOR" Language="tr_TR">
+      <Text>Michael Kritoboulos</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAHI_TOPU_QUOTE" Language="tr_TR">
+      <Text>"Olağanüstü bir gürültü ve tüm çevreyi aydınlatıp sonra karartan bir alevle, çubuk taşı şiddetle harekete geçirdi."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TANZIMAT_AUTHOR" Language="tr_TR">
+      <Text>Gülhane Hatt-ı Şerifi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TANZIMAT_QUOTE" Language="tr_TR">
+      <Text>"Osmanlı İmparatorluğu'nun eyaletlerine yeni kurumlar aracılığıyla iyi bir yönetim sunmayı uygun görüyoruz."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OTTOMANS_DESCRIPTION" Language="tr_TR">
+      <Text>Herhangi bir Lider, Osmanlı topraklarında bir [B]Eser[/B]'i [B]kazdığında[/B], ek bir [icon:NAR_REW_GREATWORK] Eser üretir. Saldırı sırasında Piyade ve Kuşatma Birimlerinin [icon:NAR_REW_COMBAT] Savaş Gücü +3 olur.</Text>
+    </Replace>
+    <Replace Tag="LOC_HARBIYE_NEZARETI_INFANTRY_SIEGE_PRODUCTION_DESCRIPTION" Language="tr_TR">
+      <Text>+15%[icon:YIELD_PRODUCTION] [TIP:LOC_PEDIA_CONCEPTS_SIEGE_UNITS_TOOLTIP]Kuşatma[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] Birimlerinin eğitimi için üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_HARBIYE_NEZARETI_LAND_MAINTENANCE_COST_DESCRIPTION" Language="tr_TR">
+      <Text>-2 [icon:YIELD_GOLD] Altın [TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]Bakım[/TIP] [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara birimleri[/TIP] için.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_OTTOMANS" Language="tr_TR">
+      <Text>Işıltılı minareler ve parlak lale bahçeleri arasında, Osmanlılar dünyanın kavşağında hüküm sürüyor. Toplar karada ve denizde gürlüyor, çarşılar ise dünyanın dört bir yanından gelen mallarla dolup taşıyor. İmparatorluğun geleneği külliyede güçlü bir şekilde devam ederken, kahvehanelerde seküler reformlar ivme kazanıyor. Şimdi Osman'ın Kılıcını eline al ve imparatorluğun kaderini belirle.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_OTTOMANS" Language="tr_TR">
+      <Text>Başka bir medeniyetin topraklarında bir Arkeoloji Alanı görürseniz, Osmanlıların fetih bonuslarını kullanarak yerleşim yerini ele geçirin. Böylece bu alan, Devlet-i ʿAlīye-i ʿOsmānīye Özel Yeteneği için sayılacaktır!</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_OTTOMANS_COMPLETE_SULTANAHMET_CAMII_DESC" Language="tr_TR">
+      <Text>Osmanlılar olarak Sultanahmet Camii'ni tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_OTTOMANS_COMPLETE_SULTANAHMET_CAMII_NAME" Language="tr_TR">
+      <Text>Sultanahmet Camii</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_OTTOMANS_LEGACY_PATH_MILITARY_DESC" Language="tr_TR">
+      <Text>Osmanlılar olarak, bir Askeri Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_OTTOMANS_LEGACY_PATH_MILITARY_NAME" Language="tr_TR">
+      <Text>Osmanlılar Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_OTTOMANS_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlılar'ın ilişkili [icon:WONDER] Harikası olması sayesinde %30 [icon:YIELD_PRODUCTION] üretim artışı.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_KULLIYE_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Eşsiz Mahalle[/TIP]. Aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde Cami ve Hamam inşa ederek oluşturulur. [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]Uzmanlar[/TIP] için +3 [icon:YIELD_CULTURE] Kültür ve +2 [icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_KULLIYE_TOOLTIP" Language="tr_TR">
+      <Text>+3 [icon:YIELD_CITIES] Kültür ve +2 [icon:YIELD_GOLD] Altın [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]Uzmanlar[/TIP] için +3 [icon:YIELD_CULTURE] Kültür ve +2 [icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_SULTANAHMET_CAMII" Language="tr_TR">
+      <Text>Kuran</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_SULTANAHMET_CAMII" Language="tr_TR">
+      <Text>Bana yakaranın duasını duyar ve cevap veririm. Öyleyse onlar da çağrıma cevap versinler ve bana inansınlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_SAHI_TOPU_MOD_ARMY_COMMANDER_BARRAGE_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_ARMY_COMMANDER] Ordu Komutanları, [icon:NAR_REW_PROMOTION] Baraj [TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]Terfi[/TIP]'ni ücretsiz olarak kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_SAHI_TOPU_MOD_COMBAT_VS_FORTIFICATION_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED][TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgeler[/TIP]'e karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_TANZIMAT_MOD_ARCHAELOGIST_VEGETATED_MOVEMENT_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_EXPLORER] Kaşifler, [icon:Action_Move] Hareket için [TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]Bitki Örtülü Arazi[/TIP] ve Nehirleri görmezden gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TANZIMAT_MOD_MUSEUM_PRODUCTION_DESCRIPTION" Language="tr_TR">
+      <Text>Müzeler inşa etmek için Üretim %15 artar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ERKAN_I_HARBIYE_MEKTEBI_DESCRIPTION" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Askeri Birimleri[/TIP], hasar görseler bile tam [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] seviyesindeymiş gibi savaşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_OSMANLI_BAROK_DESCRIPTION" Language="tr_TR">
+      <Text>+3[icon:YIELD_HAPPINESS] Sergilenen [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eserler[/TIP]'den Mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SEDEF_KAKMA_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:YIELD_CULTURE] Kültür [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Mahallelerde[/TIP] en az 1 [icon:YIELD_HAPPINESS] Mutluluk [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Bina[/TIP] bulunan. +3 [icon:YIELD_HAPPINESS] Mutluluk [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Mahallelerde[/TIP] en az 1 [icon:YIELD_CULTURE] Kültür [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binası[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SIEGE_TRAIN_DESCRIPTION" Language="tr_TR">
+      <Text>Bir birim, [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Müstahkem Bölge'nin[/TIP] savunmasını yok ettiğinde, diğer tüm [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara[/TIP] [TIP:LOC_PEDIA_CONCEPTS_SIEGE_UNITS_TOOLTIP]Kuşatma[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] Birimlerinin [icon:Action_Move] Hareket gücü geri yüklenir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_OTTOMANS_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Herhangi bir Lider, Osmanlı topraklarında bir [B]Eser[/B] [B]kazdığında[/B], ek bir [icon:NAR_REW_GREATWORK] [B]Eser[/B] üretir.[LI][B]Saldırı sırasında [B]Piyade ve Kuşatma Birimleri[/B] için [icon:NAR_REW_COMBAT] Savaş Gücü[/B] +3.[LI][B][B]Sultanahmet Camii[/B]'nin inşası için Üretim [/B]%30 artar.[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_OTTOMANS_ABILITY_NAME" Language="tr_TR">
+      <Text>Devlet-i ʿAlīye-i ʿOsmānīye</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_MO_OTTOMANS_NAME" Language="tr_TR">
+      <Text>Osmanlı Vatandaşlık Bilgisi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BARBARY_CORSAIR_2_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye Osmanlı Benzersiz Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:Action_Move] Hareket puanı harcamadan [icon:Action_Pillage] Kıyı Baskını yapabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BARBARY_CORSAIR_3_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye Osmanlı Eşsiz Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:Action_Move] Hareket puanı harcamadan [icon:Action_Pillage] Kıyı Baskını yapabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BARBARY_CORSAIR_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlı Benzersiz Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:Action_Move] Hareket puanı harcamadan [icon:Action_Pillage] Kıyı Baskını yapabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BARBARY_CORSAIR_DESCRIPTION" Language="tr_TR">
+      <Text>1. Seviye Osmanlı Özel Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:Action_Move] Hareket puanı harcamadan [icon:Action_Pillage] Kıyı Baskını yapabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_JANISSARY_2_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 2 Osmanlı [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] yedeği. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] diğer [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Birimlerine[/TIP] karşı. Tüm Medeniyetlerin [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP], bir [icon:YIELD_HAPPINESS] [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]Bölge[/TIP] içinde konuşlanmış veya işgal eden her Yeniçeri [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]konuşlanmış[/TIP] için -2 [icon:YIELD_HAPPINESS] Mutluluk cezası alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_JANISSARY_3_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye Osmanlı [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] yedeği. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]. Diğer [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Birimlerine[/TIP] karşı. Tüm Medeniyetlerin [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP], bir [icon:YIELD_HAPPINESS] [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]Bölge[/TIP] içinde konuşlanmış veya işgal eden her Yeniçeri [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]konuşlanmış[/TIP] için -2 [icon:YIELD_HAPPINESS] Mutluluk cezası alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_JANISSARY_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Osmanlı [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] ikamesi. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]. Diğer [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Birimlerine[/TIP] karşı. Tüm Medeniyetlerin [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP], bir [icon:YIELD_HAPPINESS] [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]Bölge[/TIP] içinde konuşlanmış veya işgal eden her Yeniçeri [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]konuşlanmış[/TIP] için -2 [icon:YIELD_HAPPINESS] Mutluluk cezası alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_JANISSARY_DESCRIPTION" Language="tr_TR">
+      <Text>1. Seviye Osmanlı [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] yedeği. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]. Diğer [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Birimlerine[/TIP] karşı. Tüm Medeniyetlerin [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP], bir [icon:YIELD_HAPPINESS] [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]Bölge[/TIP] içinde konuşlanmış veya işgal eden her Yeniçeri [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]konuşlanmış[/TIP] için -2 [icon:YIELD_HAPPINESS] Mutluluk cezası alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CONQUERED_CAPITAL_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Başkenti [B]Fethedin[/B].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CONQUERED_CAPITAL_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Bir Başkenti Fethetmek[/B], [B]Osmanlıların[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_Egypt_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Mısır [/B], [B]Osmanlılar[/B]'ın öncü medeniyetiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Osmanlılar[/B], [B]İbn Battuta[/B]'yı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_NORMAN_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Abbasid[/B], [B]Osmanlılar[/B]'ın öncül medeniyetiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ROME_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Roma [/B], [B]Osmanlılar[/B]'ın öncü medeniyetiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_OTTOMANS_TOOLTIP" Language="tr_TR">
+      <Text>[B]Sayyida al Hurra[/B], [B]Osmanlı[/B] korsanlarıyla ittifak kurdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SULTANAHMET_CAMII_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_HAPPINESS] Mutluluk. +2 [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_GOLD] Altın [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalarda[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'de. Bu, Keşif [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikaları[/TIP] için iki katına, Antik [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikaları[/TIP] için üç katına çıkar. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Zamansız[/TIP]. Başka bir [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harika[/TIP]'nın yanına inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SULTANAHMET_CAMII_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_GOLD] Altın [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_GOLD] Altın[/icon] kazandırır. Bu, Keşif [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için iki katına, Antik [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için üç katına çıkar. [n]Başka bir [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikaya[/TIP] bitişik olarak inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_JANISSARY_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara Birimlerine[/TIP] karşı</Text>
+    </Replace>
+    <Replace Tag="LOC_SAHI_TOPU_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Şahi Topu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_OTTOMANS_ABILITY_PREVIEW" Language="tr_TR">
+      <Text>+{Amount} Devlet-i ʿAlīye-i ʿOsmānīye</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CONQUERED_CAPITAL_OTTOMANS_NARRATIVE" Language="tr_TR">
+      <Text>Önce düşmüş başkentin yıkılmış surlarından geçerek, sınır bölgesinden gelen bir grup {1_Civilization_Adj} askeri kutlama yürüyüşüne öncülük eder. Yoldaşları, bu seçkin birliğe katılmak için can atarak onlara hayranlık ve kıskançlıkla bakar. Zaferin tadı, bir yaşam tarzını ateşler.</Text>
+    </Replace>
+    <Replace Tag="LOC_WORLD_ARTIFACT_OTTOMAN_FLOATER" Language="tr_TR">
+      <Text>+{1_Artifacts} Osmanlı topraklarında bulunmaktan dolayı ek Artifact</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ERKAN_I_HARBIYE_MEKTEBI_NAME" Language="tr_TR">
+      <Text>Erkân-ı Harbiye Mektebi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_OSMANLI_BAROK_NAME" Language="tr_TR">
+      <Text>Osmanlı Barok</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SEDEF_KAKMA_NAME" Language="tr_TR">
+      <Text>Sedef Kakma</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SIEGE_TRAIN_NAME" Language="tr_TR">
+      <Text>Kuşatma Konvoyu</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BARBARY_CORSAIR_NAME" Language="tr_TR">
+      <Text>Berberi Korsan</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_JANISSARY_NAME" Language="tr_TR">
+      <Text>Janissary</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

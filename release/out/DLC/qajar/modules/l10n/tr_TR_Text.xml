@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_QAJAR1" Language="tr_TR">
+      <Text>Tehran</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR10" Language="tr_TR">
+      <Text>Arāk</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR11" Language="tr_TR">
+      <Text>Qazvin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR12" Language="tr_TR">
+      <Text>Qom</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR13" Language="tr_TR">
+      <Text>Ardabīl</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR14" Language="tr_TR">
+      <Text>Semnān</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR15" Language="tr_TR">
+      <Text>Astarābād</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR16" Language="tr_TR">
+      <Text>Kermanshah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR17" Language="tr_TR">
+      <Text>Senneh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR18" Language="tr_TR">
+      <Text>Ahvāz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR19" Language="tr_TR">
+      <Text>Sanandaj</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR2" Language="tr_TR">
+      <Text>Isfahan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR20" Language="tr_TR">
+      <Text>Būšehr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR21" Language="tr_TR">
+      <Text>Moḥammara</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR22" Language="tr_TR">
+      <Text>Zāhedān</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR23" Language="tr_TR">
+      <Text>Bandar Abbas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR24" Language="tr_TR">
+      <Text>Nishapur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR25" Language="tr_TR">
+      <Text>Kermān</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR26" Language="tr_TR">
+      <Text>Sari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR27" Language="tr_TR">
+      <Text>Hamadān</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR28" Language="tr_TR">
+      <Text>Ṭabas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR29" Language="tr_TR">
+      <Text>Āmol</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR3" Language="tr_TR">
+      <Text>Shiraz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR30" Language="tr_TR">
+      <Text>Dāmḡān</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR4" Language="tr_TR">
+      <Text>Tabriz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR5" Language="tr_TR">
+      <Text>Mašhad</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR6" Language="tr_TR">
+      <Text>Karaj</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR7" Language="tr_TR">
+      <Text>Herat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR8" Language="tr_TR">
+      <Text>Yazd</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_QAJAR9" Language="tr_TR">
+      <Text>Rasht</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_1" Language="tr_TR">
+      <Text>Zeynab</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_10" Language="tr_TR">
+      <Text>Azadeh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_2" Language="tr_TR">
+      <Text>Farah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_3" Language="tr_TR">
+      <Text>Afsar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_4" Language="tr_TR">
+      <Text>Maryam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_5" Language="tr_TR">
+      <Text>Zahra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_6" Language="tr_TR">
+      <Text>Shokouh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_7" Language="tr_TR">
+      <Text>Khadijeh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_8" Language="tr_TR">
+      <Text>Ezzat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_FEMALE_9" Language="tr_TR">
+      <Text>Fatimah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_1" Language="tr_TR">
+      <Text>Abbas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_10" Language="tr_TR">
+      <Text>Yahya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_2" Language="tr_TR">
+      <Text>Hamzeh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_3" Language="tr_TR">
+      <Text>Mahmoud</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_4" Language="tr_TR">
+      <Text>Aziz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_5" Language="tr_TR">
+      <Text>Rostam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_6" Language="tr_TR">
+      <Text>Parviz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_7" Language="tr_TR">
+      <Text>Hossein</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_8" Language="tr_TR">
+      <Text>Jafar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_QAJAR_MALE_9" Language="tr_TR">
+      <Text>Asadollah</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_QAJAR_ADJECTIVE" Language="tr_TR">
+      <Text>Qajar</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_QAJAR_FULLNAME" Language="tr_TR">
+      <Text>Kaçar İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_QAJAR_NAME" Language="tr_TR">
+      <Text>Qajar</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_MODERN_25_MAJOR_QAJAR_NAME" Language="tr_TR">
+      <Text>Qal'ai Khumb</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_MODERN_25_MINOR_QAJAR_NAME" Language="tr_TR">
+      <Text>Darvaz</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_GHAHVE_KHANE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kahve, 16. yüzyılda İran'a geldi ve beraberinde kahvehaneler, yani ghahve khaneh de geldi. Bu mekanlar, Safevi döneminde üst sınıflar arasında popülerdi, ancak Kaçarlar döneminde yeni bir canlanma ve yenilenme yaşadı. Geleneksel ghahve khaneh, Avrupa kafe kültürünün unsurlarını entegre ederek, fikir alışverişi için elverişli yeni bir mekan türü oluşturdu. Burada insanlar sohbetlere katılabilir, masa oyunları oynayabilir, müzik dinleyebilir, geleneksel hikaye anlatımlarını dinleyebilir ve hatta yeni bir sanat tarzının gelişimine katkıda bulunabilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_TAKYEH_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Takyeh, Şii Müslümanların İslam takviminin ilk ayı olan Muharrem ayında peygamber Muhammed'in torunu Hüseyin ibn Ali'yi onurlandırdıkları bir yas mekanıdır. Aynı zamanda, müzik, şarkı, şiir ve koreografi kullanarak dini, tarihi ve folklorik öyküleri anlatan geleneksel İran dramatik gösterisi olan ta'ziyeh için bir tiyatrodur. Ta’ziyeh, Kaçar hanedanlığı döneminde büyük bir gelişme göstermiş ve dönemin özenli mimarisiyle birçok takyeh inşa edilmiştir; sadece Tahran’da 50 kadar takyeh bulunmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>18. yüzyıl, İran'da şiddetli bir kaos dönemiydi. İki yüz yılı aşkın bir süre iktidarda kalan Safevi hanedanı çürümüştü; her şah bir öncekinden daha etkisizdi, ta ki sonunda bir isyanla devrilene kadar. Eski dünya yok olurken, hırslı ve acımasız Nader Şah şeklinde yeni bir yıldız doğdu. Orduyu yeniden düzenledi ve Hindistan'ı işgal ederek Delhi'yi yağmaladı ve Babür İmparatorluğu'nun zenginliklerini kendine aldı. Ayrıca İran'ın gücünü Özbekistan ve Kafkasya bölgelerine ve Arap kıyılarının bazı bölgelerine genişletti. Hükümdarlığının zirvesinde, imparatorluğu dünyanın en güçlü imparatorluklarından biriydi ve 20. yüzyılın sonlarına kadar eşi benzeri görülmemiş büyüklükte bir ordu kurdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_10" Language="tr_TR">
+      <Text>Ancak ufukta bir değişim vardı. 1848'de iktidara gelen Naser al-Din Şah, 51 yıllık hükümdarlığı boyunca en önde gelen Kaçar hükümdarı olmaya yazgılıydı. Avrupa'yı birkaç kez gezdi (bunu yapan ilk modern İran hükümdarıydı) ve orada gördüğü harikalar ve teknolojiler hakkında titiz notlar tuttu. Kendi ilgi alanlarının etkisiyle, Batı sanatları, özellikle resim tarzları ve fotoğrafçılık, İran'da yaygınlaşmaya başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_11" Language="tr_TR">
+      <Text>Naser al-Din, Batı'daki deneyimlerinden ve temaslarından esinlenerek İran genelinde bir dizi reform başlattı. İran'ın ilk gazetesini çıkardı, vergi sistemini elden geçirdi, orduyu genişletti ve posta ve telgraf sistemlerini kurdu. Ayrıca Batılı yatırımcılarla anlaşmalar yaptı. Reformları Kaçar İran'ının çehresini değiştirdi, ancak halkı arasında popüler değildi; dahası, bu gelişmeler İngiltere ve Rusya'nın İran toplumuna entegrasyonunu daha da teşvik etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_12" Language="tr_TR">
+      <Text>Halkın hoşnutsuzluğu Naser al-Din'in suikastıyla sona ermedi. Mali sıkıntılar yaşayan İran, Rusya'dan büyük miktarda borç almaya başladı ve diğer Avrupa güçlerine imtiyazlar sattı. Halk, yabancı ülkelerin iç işlerine karışmasından giderek daha fazla endişe duymaya başladı ve Kaçar hanedanına olan güvenini yitirdi. 1906'da Mozaffar ad-Din Şah, iktidarını Meclis (seçilmiş parlamento) ile paylaşan bir anayasa imzaladı, ancak kısa süre sonra öldü. Oğlu Muhammed Ali Şah, Meclis'i feshetmeye çalıştı ve Rusya ile İngiltere'nin desteğiyle parlamento binasını bombalamaya kadar gitti. Ancak bu eylem, anayasal hareketi daha da güçlendirdi ve İran'ın dört bir yanında devrimciler ortaya çıktı. Muhammed Ali Şah'ı devirdiler ve yerine küçük oğlu Ahmed'i geçirdiler; Tahran'da Meclis'i yeniden kurdular.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_13" Language="tr_TR">
+      <Text>Anayasa Devrimi, modern İran tarihinde önemli bir dönüm noktası olsa da, kısa ömürlü oldu. 1907'de İngiltere ve Rusya, İran'ı aralarında paylaştılar ve İkinci Meclis'i feshettiler. Son Kaçar Şahı artık sadece bir sembol haline gelmişti. Takip eden yıllarda İran, I. Dünya Savaşı sırasında Rusya ile Osmanlı İmparatorluğu arasında istemeden bir savaş alanı haline geldi ve 1921'de Ahmed Şah Kaçar, Rıza Şah Pehlevi tarafından düzenlenen bir darbeyle devrildi; 1925'te resmi olarak iktidardan uzaklaştırıldı. Kaçar dönemi sona ermiş, Pehlevi dönemi başlamak üzereydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Nader Şah'ın ölümünün ardından bir felaket yaşandı. Nader Şah, devrilme korkusuyla en umut vaat eden varisini kör etmişti ve ölümünden sonra ailesinin büyük bir kısmı idam edildi. Eski generalleri iktidar için birbirleriyle savaştı; sınır illeri ise kendi krallıklarını kurmak için ayrıldı. Zandlar ve Kaçarlar adlı iki aile, Nader Şah imparatorluğunun kalıntılarının en önde gelen halefleri olarak ortaya çıktı. Yirmi yıllık kısa bir ara dönemde, Zand hükümdarı Karim Han, Şiraz, Tahran ve İsfahan'daki iktidar koltuklarını elinde tuttu. Ölümünün ardından iç savaş kaldığı yerden devam etti ve 1796'da nihayet bir galip ortaya çıktı. Bu kez Kazarlar galip geldi. 1925 yılına kadar iktidarda kalacaklardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Kaçar kraliyet ailesi, Oğuz Türklerinin Kaçar kabilesinden ortaya çıktı. Aslen Ermenistan bölgesinden olan bu kabile, Safevi döneminde Hazar Denizi'nin güneydoğu kıyılarına yerleştirilmişti. Nader Şah'ın hükümdarlığı sırasında ve sonrasında birkaç Kaçar, önde gelen askeri komutanlar olarak öne çıkmıştı, ancak Karim Han'ın ölümünden sonra, klanı İran'ın yeni şahları olarak başarıyla kuran kişi Agha Mohammad Han oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Ağa Muhammed Han çocukluğunu rehine olarak geçirdi ve altı yaşında hadım edildi. Zeki ve azimli bir adam olan Ağa Muhammed Han, ilk olarak Kaçar kabilesini birleştirmeye ve hanedanın başı olarak kendini kabul ettirmeye odaklandı. Daha sonra İran'ın iç kesimlerine yönelerek Zandların elindeki büyük şehirleri ele geçirdi ve başkenti Tahran'a taşıdı; başkent o günden beri Tahran'da kalmıştır. Kafkasya'nın bazı bölgeleri de fethedilerek yeniden imparatorluğa katıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Agha Mohammad, çabalarıyla İran'ın tamamen çökmesini önlemekle kalmadı, aynı zamanda ülkenin eski sınırlarını geri kazandırdı ve istikrarlı bir dönemi başlattı. Peki bunun bedeli ne oldu? Hırslarıyla el ele giden Ağa Muhammed'in şiddete karşı büyük bir eğilimi vardı ve seferleri sırasında binlerce kişi öldü. Kerman şehrini ele geçirdiğinde 20.000 erkeği kör etti; yıllar sonra bu adamlar İran'ın dört bir yanında dilenirken görülebiliyordu ve başlarına gelen felaketi anlatıyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Ağa Muhammed 1797'de suikasta kurban gitti, ancak Nader Şah ve Karim Han'ın aksine, halefini önceden belirlemiş ve yeğeni Fath Ali'yi varisi olarak atamıştı. Fath Ali Şah elindeki imkanlarla çalıştı; Kafkasya'yı Rusya'ya tekrar kaybetmiş olsa da, İran genelinde barış statükosunu korumayı başardı ve hatta küçük çaplı bir ekonomik canlanma bile sağladı. Geçen yüzyılın derin kaosu göz önüne alındığında, bu hiç de küçük bir başarı değildi. İran, hâlâ bütünlüklü bir devletten ziyade müttefik krallıklar ve kabilelerden oluşan bir konfederasyondu ve hükümetin büyük şehirlerin ötesindeki gücü zayıftı. Nüfusun neredeyse yarısı hâlâ göçebe ya da yarı göçebeydi ve vergi ödemek dışında kendi bağımsız yönetimlerine bırakılmıştı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Fath Ali, bu iç ittifakları istikrara kavuşturmak için çalıştı; ancak aynı zamanda merkezi monarşiyi de dönüştürerek, Türklerin kabile hanlığı modelinden uzaklaşarak daha klasik bir krallık kavramına yöneldi. Eski "şahanshah" (Kralların Kralı) unvanını yeniden canlandırdı ve kişisel gücünü genişletmek için oğullarını eyalet valileri olarak atadı. İran tarihine yeniden canlanan ilgi, Fath Ali'nin sanata olan hayranlığıyla birleşerek ülke çapında sanatsal ve edebi bir rönesansın doğmasına neden oldu. O özellikle portre resmine düşkündü ve dar beliyle dikkat çeken sakalına sahip kendine özgü figürünün birçok resmi günümüze kadar ulaşmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Ancak Fath Ali’nin hükümdarlığı, gelecekteki Kaçar dönemini belirleyecek olan Avrupa ile temasların artmasına da tanık oldu. Onun uzun hükümdarlığı (1797-1834), Napolyon Savaşları ile çakıştı; bu savaşlar sırasında Avrupa ulusları, çatışma döngüsünde kendilerine yardım edecek ek müttefikler aradılar. Hevesle doğuya baktılar, ancak Napolyon karşıtı koalisyonların değişken ittifakları, İran’ın en çok yardıma ihtiyaç duyduğu zamanlarda genellikle göz ardı edilmesine neden oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_QAJAR_CHAPTER_HISTORY_PARA_9" Language="tr_TR">
+      <Text>Taht Fath Ali Şah'tan oğlu Muhammed Şah'a geçtiğinde, Avrupa'nın müdahalesi daha doğrudan hale geldi. Kafkasya'daki Rus zaferi, Rus tüccarların İran pazarlarına serbest erişimini sağlayan bir antlaşma ile sonuçlandı ve kısa sürede ülke ucuz Avrupa mallarıyla doldu; bu durum yerel zanaatkarların kârlarını azalttı ve ekonomiye zarar verdi. Orta Asya'da İngiltere ile Rusya arasında yaşanan nüfuz savaşı olan Büyük Oyun tüm hızıyla devam ediyordu ve her iki ülke de İran'ın iç işlerine karışmaya başladı. Böylece İran'ın modernleşmesini engellediler; örneğin, trenlerin orduları sınırlarına taşıyabileceğinden korktukları için bölgedeki demiryolu inşaatını uzun süre geciktirdiler. Ancak demiryollarının olmaması, dünya çapında diğer ülkeleri hızla dönüştüren ulaşım ve iletişim altyapısının gelişmesini de engelledi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_QAJAR_NEZAM_E_JADID_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Neẓām-e ǰadīd (“yeni düzen”), Rus-İran Savaşı’nın (1804-1813) ardından veliaht prens Abbas Mirza tarafından başlatılan bir dizi askeri reformdu. Çatışma, İran'ı Kafkasya topraklarının çoğundan mahrum bıraktı ve İran silahlı kuvvetlerindeki büyük zayıflıkları ortaya çıkardı. Abbas Mirza, askerleri İngiltere'ye eğitim için göndererek ve orduyu Batı taktikleri konusunda eğitmek üzere Avrupalı danışmanları İran'a davet ederek ordunun modernizasyonuna girişti. Askeri el kitapları çevrildi ve Tebriz'de topçu silahları ve barut üretimi başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_QAJAR_NEZAM_E_JADID_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Reformlar, Osmanlılar ve Ruslara karşı savaş alanında başarılı oldu, ancak bir sonraki Rus-İran Savaşı (1826-1828) sırasında İran'ın Kafkasya'dan tamamen çekilmesine başka faktörler de katkıda bulundu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_QAJAR_THE_SUN_THRONE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Fath Ali Şah, 1801 yılında Kaçar gücünün sembolü olarak Güneş Tahtı'nı yaptırdı. İsfahan'da inşa edilen ve altın ve değerli taşlarla süslenen taht, saat mekanizmasıyla dönen arkasındaki güneş diskinden adını almıştır. Naser al-Din Şah'ın hükümdarlığı sırasında onarıldığında, tahtın üzerine restorasyonuyla ilgili şiirsel dizeler eklenmiştir. Taht bazen Tavus Kuşu Tahtı olarak da adlandırılır, ancak bu isim, 18. yüzyılda Nader Şah tarafından ele geçirildikten sonra İran'da bulunan aynı isimli Babür tahtından gelmez. Aksine, Fath Ali Şah'ın en sevdiği eşinin onuruna Güneş Tahtı'nın adını değiştirdiği söylenir. Bugün, taht İran Merkez Bankası'nda sergilenmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_QAJAR_TWELVE_GATES_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Agha Mohammad Khan, İran'ın ilk Kaçar hükümdarı olarak tahta çıktığında, ülkenin başkentini Tahran'a taşıdı. O dönemde, kentsel merkezler, ülkenin büyük ölçüde kırsal kesimde yaşayan nüfusu üzerinde fazla bir etkiye sahip değildi. İran'ı nominal olarak kontrol altına almak, büyük şehirlerini ele geçirmek anlamına geliyordu; ancak ülkeyi yönetmek, özerk eyaletler ve topluluklarla sürekli müzakereler gerektiriyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_QAJAR_TWELVE_GATES_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>On dokuzuncu yüzyıl ilerledikçe, şehirler hem boyut hem de güç olarak büyümeye başladı ve kentsel ile kırsal alanlar arasındaki ilişkiyi değiştirdi. Özellikle Tahran, önce başkent olarak üstlendiği yeni rolün yol açtığı ani nüfus patlamasıyla, daha sonra da modernleşmeyle büyük bir dönüşüm geçirdi. Şehri sürekli genişleten birçok inşaat projesi arasında, Naser al-Din Şah'ın on iki kapılı yeni bir sur inşa etme girişimi de vardı. Bu surlar, Tahran'ın genişlemesinin bir başka aşaması sırasında 1930'larda yıkılana kadar, yarım asırdan fazla bir süre boyunca Kaçar gücünün bir sembolü olarak ayakta kaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_BAQ_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bāq, ya da bahçe, Ahameniş imparatorluğundaki pairidaeza'nın bir evrimidir. Geometrik düzenlemeler, mimari unsurlar ve özenle seçilmiş bitki dizileriyle yeryüzünde bir cennet olarak tasarlanmıştır. Bāq'lar, saray bahçelerinden şehir parklarına kadar uzanan, özel veya kamuya açık olabilir. Her türlü biçimiyle dinlenme ve tefekkür imkanı sunar ve şehirlerde temiz hava solumak için bir fırsat sağlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_GHILMAN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Abbasid İmparatorluğu'ndaki Memlük geleneğinden ortaya çıkan gholāmlar, başlangıçta Türk köle askerlerdi ve ilk kez 9. yüzyılda Saffarid hanedanlığı döneminde kayıtlara geçtiler. Kölelik, yüzyıllar sonra Kaçarlar döneminde aşamalı olarak kaldırıldı, ancak gholāmlar, özellikle kraliyet muhafızları olarak üstlendikleri rol nedeniyle, 19. yüzyıl İran ordusunun öne çıkan, saygın ve korkulan bir bileşeni olarak kaldı. İki birime ayrılmışlardı. Gholām-shāhlar sadece süvarilerdi; Kaçar ordusundaki en yüksek maaşlı askerlerdi ve ortalama bir askerin altı katından fazla kazanıyorlardı. Gholām-tofangchiler, gholām-shāhların altında yer alıyordu ve at sırtında ve yaya olarak uzun tüfeklerle savaşıyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_GHILMAN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Gholamlar, 1879'da Pers Kazak Tugayı ile yer değiştirene kadar İran'ın en seçkin askerleri olarak kaldılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SOLTAN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Erken dönem Kaçar ordusu, daimi bir ordu değil, savaş durumunda bir araya gelen düzensiz birliklerden oluşuyordu. Çatışma patlak verdiğinde, han, valilere ve kendi askerlerini toplayan diğer liderlere bir farmān, yani bir çağrı gönderir ve seferberlikten önce belirlenen bir yerde toplanmalarını isterdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SOLTAN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Han başkomutandı ve onun altında, ayrı ayrı orduları yönetmek üzere atananlar vardı; bunlar "sardār" unvanını alırlardı. Kaçar hanedanlığı altında en yüksek askeri rütbe olan bu unvan, prenslere ve sarayın önde gelen üyelerine veriliyordu; bunlara, veliaht prensken sardār olarak görev yapan ikinci Kaçar hükümdarı Fath Ali de dahildi. Abbas Mirza'nın askeri reformlarından sonra, sardār unvanı "sartip" olarak değiştirildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_ERAM_GARDEN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şiraz şehrinde bulunan Eram Bahçesi, yüzyıllardır bir bahçe olarak varlığını sürdürmüştür, ancak bugünkü görünümü büyük ölçüde Kaçar dönemindeki gelişmelerin sonucudur. Bu bahçe, özenle tasarlanmış geometrik bölümlerden ve çeşitli çiçekler, ağaçlar, çimler ve su öğelerinden oluşan, cennet gibi bir Pers bahçesinin (“eram” “cennet” anlamına gelir) en güzel örneğidir. 1893 yılında tamamlanan üç katlı pavyon, tarihi ve mitolojik figürlerin resimlerini barındırır ve zemin katındaki çiniler, ortaçağ şairi Hafız'ın dizeleriyle süslenmiştir. Bahçe, 1980 yılında halka açılmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_GHAHVE_KHANE_NAME" Language="tr_TR">
+      <Text>Ghahve Khane</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_TAKYEH_NAME" Language="tr_TR">
+      <Text>Takyeh</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_BAQ_NAME" Language="tr_TR">
+      <Text>Bāq</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_ERAM_GARDEN_NAME" Language="tr_TR">
+      <Text>Eram Bahçesi</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_ATREK_RIVER_NAME" Language="tr_TR">
+      <Text>Atrek Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_DEZ_RIVER_NAME" Language="tr_TR">
+      <Text>Dez Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_LOWER_ZAB_RIVER_NAME" Language="tr_TR">
+      <Text>Aşağı Zab Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SIRWAN_RIVER_NAME" Language="tr_TR">
+      <Text>Sirwan Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_ZAYANDERUD_RIVER_NAME" Language="tr_TR">
+      <Text>Zayanderud Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BAZMAN_NAME" Language="tr_TR">
+      <Text>Bazman</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_QAL_EH_HASAN_ALI_NAME" Language="tr_TR">
+      <Text>Qal'eh Hasan Ali</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_SABALAN_NAME" Language="tr_TR">
+      <Text>Sabalan</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_SHAHSAVARAN_NAME" Language="tr_TR">
+      <Text>Shahsavaran</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_TAFTAN_NAME" Language="tr_TR">
+      <Text>Taftan</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_NEZAM_E_JADID_NAME" Language="tr_TR">
+      <Text>Neẓām-e J̌adīd</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THE_SUN_THRONE_NAME" Language="tr_TR">
+      <Text>Güneş Tahtı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TWELVE_GATES_NAME" Language="tr_TR">
+      <Text>On İki Kapı</Text>
+    </Replace>
+    <Replace Tag="LOC_11081A_COMPLETION" Language="tr_TR">
+      <Text>Bir Kaçar yetkilisi, diğer imparatorlukları gezip döndükten sonra, yolculuğunu halkla paylaşmak için bir seyahatname yayınlar. Ancak meraklı okuyucular, diplomatik konuşmaları bir kenara bırakıp kendi kişisel ilgilerini ön plana çıkardığından şikayet ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11081A_STORYTITLE" Language="tr_TR">
+      <Text>Tur Günlüğü</Text>
+    </Replace>
+    <Replace Tag="LOC_11081B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11081B_NAME" Language="tr_TR">
+      <Text>Uluslararası ilişkiler kamuoyunun bilgisi dahilinde olmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11081C_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kutlamaya Katılın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11081C_NAME" Language="tr_TR">
+      <Text>Tembel hayvanların alışkanlıkları hakkında daha fazla bilgi verilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11082A_COMPLETION" Language="tr_TR">
+      <Text>Yeni icat edilen kamera, Kaçar halkını kendilerini ve dünyalarını yeni perspektiflerden görmeye davet eder. Aileler, yüzlerini resmi olarak ölümsüzleştirmek için stüdyolara akın ederken, amatör fotoğrafçılar daha samimi anları yakalamak için kameralarını dünyaya taşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11082A_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Bir Lens</Text>
+    </Replace>
+    <Replace Tag="LOC_11082B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11082B_NAME" Language="tr_TR">
+      <Text>Teknoloji sayesinde, insan kendini yeniden görüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11082C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11082C_NAME" Language="tr_TR">
+      <Text>Kediler son derece fotojeniktir...</Text>
+    </Replace>
+    <Replace Tag="LOC_11083A_COMPLETION" Language="tr_TR">
+      <Text>Ahameniş mirası, Kaçar İmparatorluğu'nda yeniden canlanıyor. Atalarının muhteşem eserlerinden ilham alan sanatçılar, antik kaya oymalarına, yani gücün geleneksel tasvirlerine ilgi duyuyor. Onlar, burada bir hükümdarlık mirası olduğunu söylüyor — bugün bile yararlanılabilecek bir miras.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083A_STORYTITLE" Language="tr_TR">
+      <Text>Eskilerin Kayalıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_11083B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşim Yerlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083B_NAME" Language="tr_TR">
+      <Text>Eski oymaların yanına yeni kraliyet oymaları eklenecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Büyük Eserlerde +4 [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083C_NAME" Language="tr_TR">
+      <Text>Orijinallerin kopyaları saraya yerleştirilecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083D_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Büyük Yapılarda +2 [icon:YIELD_DIPLOMACY] Etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_11083D_NAME" Language="tr_TR">
+      <Text>Sanat ne kadar övgü dolu olursa, o kadar iyi!</Text>
+    </Replace>
+    <Replace Tag="LOC_11084A_COMPLETION" Language="tr_TR">
+      <Text>Kaçar sarayının salonlarında, kraliyet ailesinin gerçek boyutlu portreleri geçen ziyaretçilere bakmaktadır. Yağlı boyaların derin tonları ve içerdikleri güç sembolleri, bir zamanlar ağızlarından çıkan sözlerden daha yüksek sesle miraslarını anlatmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11084A_STORYTITLE" Language="tr_TR">
+      <Text>İmparatorluğun Gözleri</Text>
+    </Replace>
+    <Replace Tag="LOC_11084B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11084B_NAME" Language="tr_TR">
+      <Text>Portre sanatı, patronajla gelişen hayati bir sanat formudur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11084C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11084C_NAME" Language="tr_TR">
+      <Text>Bu etkileyici eserler, başlı başına diplomatlardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11085A_COMPLETION" Language="tr_TR">
+      <Text>Modern zamanlar modern bir ordu gerektirir ve önde gelen bir vali, Kaçar ordusunun geleceği hakkında yeni fikirler ortaya atar. Askerlerini eğitmeleri için diğer imparatorluklardan danışmanlar davet eder ve yurtdışından askeri el kitaplarının çevirilerini yaptırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11085A_STORYTITLE" Language="tr_TR">
+      <Text>Savaşta İlerlemeler</Text>
+    </Replace>
+    <Replace Tag="LOC_11085B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11085B_NAME" Language="tr_TR">
+      <Text>Bu reformlarla Kaçarlar dünyayı ele geçirecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11085C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11085C_NAME" Language="tr_TR">
+      <Text>Modernleşme, imparatorluğu istikrara kavuşturur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086A_COMPLETION" Language="tr_TR">
+      <Text>Yoğun kahve kokusu eşliğinde, ghahve khaneh'in müdavimleri, tavla ve satranç oyunlarında hararetli tartışmalar yapmaktadır. Ancak ta'ziyeh başladığında dükkanlar sessizliğe bürünür. Herkes eski hikayeleri, şarkıları, hareketleri ve dersleri izlemek için bir araya gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086A_STORYTITLE" Language="tr_TR">
+      <Text>Eski ve Yeni Gelenekler</Text>
+    </Replace>
+    <Replace Tag="LOC_11086B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086B_NAME" Language="tr_TR">
+      <Text>Takyeh, unutulmaması gereken bilgileri korur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086C_NAME" Language="tr_TR">
+      <Text>Kahveyle beslenen bu tartışmalar, gelecekteki değişimi tetikler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086D_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_DIPLOMACY] Bāq Benzersiz Bölgesi üzerindeki etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_11086D_NAME" Language="tr_TR">
+      <Text>Eski dünya ve yeni dünya, imparatorluğu birlikte ileriye taşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087A_COMPLETION" Language="tr_TR">
+      <Text>Toprak kaybı geçmişte Kaçar İmparatorluğu'nu sarsmıştı — ama artık değil. Bir zamanlar elinden kaçan nüfus şimdi geri kazanıldı. Ancak eski ihtişamın geri kazanılması, büyüklüğe giden yolun sadece ilk adımıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087A_STORYTITLE" Language="tr_TR">
+      <Text>Zemin Kazanmak</Text>
+    </Replace>
+    <Replace Tag="LOC_11087B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087B_NAME" Language="tr_TR">
+      <Text>Büyüyen nüfusun üretken olabilmesi için desteklenmesi gerekir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm mevcut Sardār'lara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087C_NAME" Language="tr_TR">
+      <Text>Bu zaferler, generallerin yaratıcılığını göstermektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087D_DESCRIPTION" Language="tr_TR">
+      <Text>Gholām'a{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11087D_NAME" Language="tr_TR">
+      <Text>Tüm şehirler Xerxes'in gücü karşısında düşer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11088A_COMPLETION" Language="tr_TR">
+      <Text>Rus general, yenilgisini kabul etmeye hazır olarak yerel han'a temkinli bir şekilde yaklaşır. Aniden silah sesleri duyulur. Kimse nefes almaz. Sonra general eyerinde sarkar ve yavaşça yere düşer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11088A_STORYTITLE" Language="tr_TR">
+      <Text>Sahte Teslimiyet</Text>
+    </Replace>
+    <Replace Tag="LOC_11088B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Gholām.</Text>
+    </Replace>
+    <Replace Tag="LOC_11088B_NAME" Language="tr_TR">
+      <Text>Şimdi saldırıyı yoğunlaştırmanın tam zamanı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11088C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} mevcut tüm Sardār'lara.</Text>
+    </Replace>
+    <Replace Tag="LOC_11088C_NAME" Language="tr_TR">
+      <Text>Kaçar generalleri asla böyle bir tuzağa düşmezler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11089A_COMPLETION" Language="tr_TR">
+      <Text>Eram Bahçesi'nde, şehrin kaosu kaybolur. Ağaçlar esintiyle fısıldar. Sular öğleden sonra sıcağında dalgalanır. Çiçekler cennet gibi kokular yayar. Çardak çinilerinde, bir şairin sözleri, insan biraz zaman ayırıp oturup dinlerse burada bulabileceği ilhamı kanıtlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11089A_STORYTITLE" Language="tr_TR">
+      <Text>Cennet Bahçesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11089B_DESCRIPTION" Language="tr_TR">
+      <Text>Harikalarda{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11089B_NAME" Language="tr_TR">
+      <Text>Huzur dolu anlar ruhu yeniler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11089C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Kasabalarda{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11089C_NAME" Language="tr_TR">
+      <Text>Bahçenin gücü, ziyaret eden herkesi memnun eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11090A_COMPLETION" Language="tr_TR">
+      <Text>Kaçar İmparatorluğu'nun dört bir yanında demiryolları hiç durmaz. Buharlı lokomotifler gürler, düdükler çığlık atar; malları ve insanları giderek kısalan mesafeler arasında taşımak için gece gündüz çalışan kârın yarattığı bir kakofoni.</Text>
+    </Replace>
+    <Replace Tag="LOC_11090A_STORYTITLE" Language="tr_TR">
+      <Text>Ateşlenen Motorlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11090B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11090B_NAME" Language="tr_TR">
+      <Text>Gelecek, üzerine inşa edildiği altın kadar parlaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11090C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11090C_NAME" Language="tr_TR">
+      <Text>Modern dünya raylar üzerine inşa edilmiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12011A_COMPLETION" Language="tr_TR">
+      <Text>Dr. Rizal, kısa süre önce yurtdışı gezisinden dönen bir Kaçar prensiyle kahve içmeye davet edilir. İkili, hikayelerini birbirleriyle özgürce paylaşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_12011A_STORYTITLE" Language="tr_TR">
+      <Text>İyi Doktor ve Turist</Text>
+    </Replace>
+    <Replace Tag="LOC_12011B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12011B_NAME" Language="tr_TR">
+      <Text>Katıldığı operaları sorun.</Text>
+    </Replace>
+    <Replace Tag="LOC_12011C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm yerleşim yerlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12011C_NAME" Language="tr_TR">
+      <Text>Katıldığı büyük ziyafetleri sorun.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GHILMAN_DESCRIPTION" Language="tr_TR">
+      <Text>+5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve +10 [icon:Action_Heal] İyileştirme [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde bir [icon:UNIT_SOLTAN] Sardār.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOLTAN_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:Action_Move] Hareket. Bir yerleşim yerini yerle bir ederken, bu Komutanın bulunduğu [icon:CITY_URBAN] Bölgesinde, tur başına ek bir [icon:CITY_URBAN] Bölgesi yerle bir edilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_ADJUST_CITY_YIELD_PER_UNDER_THE_SETTLEMENT_CAP" Language="tr_TR">
+      <Text>Sınırın altındaki yerleşim yerleri başına verim</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_SETTLEMENTS_UNDER_CAP" Language="tr_TR">
+      <Text>Sınırın Altındaki Yerleşim</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_GHAHVE_KHANE_DESCRIPTION" Language="tr_TR">
+      <Text>Kaçar [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Gıda Binası[/TIP]. +9 [icon:YIELD_FOOD] Yiyecek. +1 [icon:YIELD_HAPPINESS] Mutluluk Altın için Komşuluk [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_GHAHVE_KHANE_TOOLTIP" Language="tr_TR">
+      <Text>Kaçar [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_TAKYEH_DESCRIPTION" Language="tr_TR">
+      <Text>Kaçar [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Mutluluk Binası[/TIP]. +9[icon:YIELD_HAPPINESS] Mutluluk. +1 [icon:YIELD_DIPLOMACY] Etki Komşuluk Kültürü için [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_TAKYEH_TOOLTIP" Language="tr_TR">
+      <Text>Kaçar [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_NEZAM_E_JADID_AUTHOR" Language="tr_TR">
+      <Text>Nader Şah</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_NEZAM_E_JADID_QUOTE" Language="tr_TR">
+      <Text>"Cennette savaş yoksa, orada nasıl zevk olabilir ki?"</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THE_SUN_THRONE_AUTHOR" Language="tr_TR">
+      <Text>Naser al-Din Şah Kaçar</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THE_SUN_THRONE_QUOTE" Language="tr_TR">
+      <Text>"Oturduk ve sohbet ettik. Sonra kalktık ve yolumuza devam ettik."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TWELVE_GATES_AUTHOR" Language="tr_TR">
+      <Text>Henry Ballantine</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TWELVE_GATES_QUOTE" Language="tr_TR">
+      <Text>"Burada tüm işler bir kenara bırakılır, günün düzeni ise sadece zevkten ibarettir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_QAJAR_DESCRIPTION" Language="tr_TR">
+      <Text>+%50 [icon:YIELD_DIPLOMACY] Etki, [icon:DIPLOMATIC_ACTION] Diplomatik Eylemleri desteklemek için.</Text>
+    </Replace>
+    <Replace Tag="LOC_INTRO_QAJAR" Language="tr_TR">
+      <Text>Sokaklarda, kahvehanelerde ve camilerde yeni bir kelime fısıldanıyor. Kaçarlar geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_QAJAR" Language="tr_TR">
+      <Text>İran'ın Korunan Toprakları, onları yöneten hanedanla tanınır: Kaçar. Dünyanın büyük güçlerine karşı gelen Kaçar İran, modernliğe Pers damgası vuran bir sanat ve mimari mirası inşa ederek varlığını sürdürür. Güzellikle ya da tüfekle yönet, ama Kaçar için dünyada bir yer edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_QAJAR" Language="tr_TR">
+      <Text>Kaçar, Yerleşim Sınırının altında olmaktan fayda sağlar. Sardār benzersiz Ordu Komutanınızı kullanarak fethedilen yerleşim yerlerini hızla yıkın, böylece sınırın altında kalın ve bonuslarından en iyi şekilde yararlanmak için kaç yerleşim yeriniz olduğuna dikkat edin!</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_QAJAR_COMPLETE_ERAM_GARDEN_DESC" Language="tr_TR">
+      <Text>Kaçar olarak Eram Bahçesi'ni tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_QAJAR_COMPLETE_ERAM_GARDEN_NAME" Language="tr_TR">
+      <Text>Eram Bahçesi</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_QAJAR_LEGACY_PATH_MILITARY_DESC" Language="tr_TR">
+      <Text>Kaçar olarak, bir Askeri Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_QAJAR_LEGACY_PATH_MILITARY_NAME" Language="tr_TR">
+      <Text>Kaçar Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_QAJAR_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Kaçar'ın ilişkili [icon:WONDER] Harikası olmaktan elde edilen üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_NEZAM_E_JADID_UNDER_CAP_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Kara[/TIP] [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Askeri Birimler[/TIP] için [icon:SETTLEMENT_LIMIT] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Yerleşim Sınırı[/TIP] altında her 2 [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Yerleşim[/TIP] için.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SUN_THRONE_DIPLO_SENDER_YIELD_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:ENDEAVOR] [TIP:LOC_PEDIA_CONCEPTS_ENDEAVOR_TOOLTIP]Girişimi[/TIP] desteklediğinizde, 200 [icon:YIELD_CULTURE] Kültür kazanırsınız ve diğer Lider 100 [icon:YIELD_GOLD] Altın kazanır. (Standart Hızda)</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TWELVE_GATES_YIELD_UNDER_CAP_DESCRIPTION" Language="tr_TR">
+      <Text>+10 [icon:YIELD_FOOD] Gıda ve [icon:YIELD_PRODUCTION] Üretim [icon:NOTIFICATION_SELECT_CAPITAL] Başkentte, [icon:SETTLEMENT_LIMIT][TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Yerleşim Sınırı[/TIP] altında bulunan her [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Yerleşim[/TIP] için.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_BAQ_DESCRIPTION" Language="tr_TR">
+      <Text>Kaçar[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Eşsiz Bölge[/TIP]. Ghahve Khane ve Takyeh'i aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde inşa edilerek oluşturulur. [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]Kutlama[/TIP] sırasında.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_BAQ_TOOLTIP" Language="tr_TR">
+      <Text>+10% [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_DIPLOMACY] Etki bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'de [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]Kutlama[/TIP] sırasında.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_ERAM_GARDEN" Language="tr_TR">
+      <Text>Firdawsī</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_ERAM_GARDEN" Language="tr_TR">
+      <Text>Bahçe baharın cüppesiyle örtülmüştü ve hava müzik ve şarkıların tatlı sesleriyle doluydu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_QULLARAQASI_DESCRIPTION" Language="tr_TR">
+      <Text>+15 [icon:YIELD_HAPPINESS] [icon:SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP]'nde MutlulukYerleşim Yerleri[/TIP]'nde [icon:UNIT_ARMY_COMMANDER] Komutan [TIP:LOC_PEDIA_CONCEPTS_STATIONED_TOOLTIP]konuşlanmış[/TIP] her biri için.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SOLEYMANIYEH_PALACE_DESCRIPTION" Language="tr_TR">
+      <Text>+0,5 [icon:YIELD_DIPLOMACY] Etki, [icon:NOTIFICATION_SELECT_CAPITAL] Başkent'teki her [icon:YIELD_POPULATION] Nüfus için.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_WAQAYE_E_ETTEFAQIYA_DESCRIPTION" Language="tr_TR">
+      <Text>+10 [icon:YIELD_SCIENCE] Bilim ve [icon:YIELD_CULTURE] Kültür [icon:NOTIFICATION_SELECT_CAPITAL] Başkentte her [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] için [icon:SETTLEMENT_LIMIT] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Yerleşim Sınırı[/TIP] altında.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_QAJAR_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+50% [icon:YIELD_DIPLOMACY] Etki[/B] [icon:DIPLOMATIC_ACTION] [B]Diplomatik Eylemler[/B][LI][B]+30%[icon:YIELD_PRODUCTION] Üretim [/B][B]Eram Bahçesi[/B]'nin inşası için. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_QAJAR_ABILITY_NAME" Language="tr_TR">
+      <Text>Kayānī Tacı</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_MO_QAJAR_NAME" Language="tr_TR">
+      <Text>Kaçar Vatandaşlık Bilgisi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GHILMAN_2_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye Kaçar Eşsiz [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve +10 [icon:Action_Heal] İyileştirme, bir [icon:COMMANDER_RADIUS] Sardār'ın [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GHILMAN_3_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye Kaçar Benzersiz [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve +10 [icon:Action_Heal] İyileştirme, bir [icon:COMMANDER_RADIUS] Sardār'ın [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GHILMAN_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Kaçar'a Özgü [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve +10 [icon:Action_Heal] İyileştirme [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde bir [icon:UNIT_SOLTAN] Sardār.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GHILMAN_DESCRIPTION" Language="tr_TR">
+      <Text>1. Seviye Kaçar Benzersiz [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve +10 [icon:Action_Heal] İyileştirme, bir [icon:COMMANDER_RADIUS] Sardār'ın [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOLTAN_DESCRIPTION" Language="tr_TR">
+      <Text>Kaçar'a özgü Ordu Komutanı. +1 [icon:Action_Move] Hareket. Bir [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] yerle bir edilirken, her turda ek bir [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] yıkılır.Yerleşim Yerleri[/TIP]'nde bu [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]Komutan[/TIP]'ın bulunduğu [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP]'de her turda ek bir [icon:CITY_URBAN]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_5_CITY_WORKERS_DESCRIPTION" Language="tr_TR">
+      <Text>En az beş [B]Uzman[/B] içeren 1 Yerleşim yeri.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_WORKERS_QAJAR_TOOLTIP" Language="tr_TR">
+      <Text>[B]Uzmanlar[/B], [B]Kaçar[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_XERXES_QAJAR_TOOLTIP" Language="tr_TR">
+      <Text>[B]Kserkses[/B], daha sonra [B]Kaçar İranı[/B] olacak bölgeyi yönetti.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_ERAM_GARDEN_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_FOOD] Yiyecek. +1 [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_LIMIT_TOOLTIP]Uzman Sınırı[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yeri[/TIP]'nde. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Yaşlanmaz[/TIP]. Çöl Arazisinde inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_ERAM_GARDEN_TOOLTIP" Language="tr_TR">
+      <Text>+1 [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_LIMIT_TOOLTIP]Uzman Sınırı[/TIP] bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] içinde. [N]Çöl Arazisinde inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_UNDER_SETTLEMENT_CAP_BONUS_DESC" Language="tr_TR">
+      <Text>+{1_CombatStrength} {2_NumberUnderSettlementCap} Sınırın Altındaki Yerleşim Yerinden</Text>
+    </Replace>
+    <Replace Tag="LOC_GHILMAN_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} bir Sardār'ın [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içinde</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_WORKERS_QAJAR_NARRATIVE" Language="tr_TR">
+      <Text>{1_Civilization_Adj} egemenliğinin yüzyıllar boyunca, yakın topraklardan gelen göçebeler, özellikle {1_Civilization_Adj} ordusunda hizmet ve sonunda da zenginlik buldular. Artık ovalardaki çadırlarda değil, salonlarda ve üniversitelerde kendi korunan klanlarını oluştururlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_QULLARAQASI_NAME" Language="tr_TR">
+      <Text>Qullarāqāsi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SOLEYMANIYEH_PALACE_NAME" Language="tr_TR">
+      <Text>Soleymaniyeh Sarayı</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_WAQAYE_E_ETTEFAQIYA_NAME" Language="tr_TR">
+      <Text>Waqāye'-e Ettefāqiya</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GHILMAN_NAME" Language="tr_TR">
+      <Text>Gholām</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOLTAN_NAME" Language="tr_TR">
+      <Text>Sardār</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

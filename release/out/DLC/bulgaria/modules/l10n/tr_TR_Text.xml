@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA1" Language="tr_TR">
+      <Text>Preslav</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA10" Language="tr_TR">
+      <Text>Filibe</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA11" Language="tr_TR">
+      <Text>Borui</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA12" Language="tr_TR">
+      <Text>Üsküp</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA13" Language="tr_TR">
+      <Text>Belograd</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA14" Language="tr_TR">
+      <Text>Varna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA15" Language="tr_TR">
+      <Text>Breznik</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA16" Language="tr_TR">
+      <Text>Devina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA17" Language="tr_TR">
+      <Text>Pernik</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA18" Language="tr_TR">
+      <Text>Lipyan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA19" Language="tr_TR">
+      <Text>Deultum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA2" Language="tr_TR">
+      <Text>Tırnovo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA20" Language="tr_TR">
+      <Text>Manastır</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA21" Language="tr_TR">
+      <Text>Drembitsa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA22" Language="tr_TR">
+      <Text>Prilep</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA23" Language="tr_TR">
+      <Text>Kosova</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA24" Language="tr_TR">
+      <Text>Ahyolu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA25" Language="tr_TR">
+      <Text>Melnik</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA26" Language="tr_TR">
+      <Text>Mesemvriya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA27" Language="tr_TR">
+      <Text>Prizren</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA28" Language="tr_TR">
+      <Text>Yambol</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA29" Language="tr_TR">
+      <Text>Arsa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA3" Language="tr_TR">
+      <Text>Ohri</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA30" Language="tr_TR">
+      <Text>Devol</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA31" Language="tr_TR">
+      <Text>Pazarcık</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA4" Language="tr_TR">
+      <Text>Pliska</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA5" Language="tr_TR">
+      <Text>Silistre</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA6" Language="tr_TR">
+      <Text>Pleven</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA7" Language="tr_TR">
+      <Text>Badin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA8" Language="tr_TR">
+      <Text>Sredets</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BULGARIA9" Language="tr_TR">
+      <Text>Karvuna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_1" Language="tr_TR">
+      <Text>Anna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_10" Language="tr_TR">
+      <Text>Smiltsena</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_2" Language="tr_TR">
+      <Text>Desislava</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_3" Language="tr_TR">
+      <Text>Keratsa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_4" Language="tr_TR">
+      <Text>Militsa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_5" Language="tr_TR">
+      <Text>Ripsimia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_6" Language="tr_TR">
+      <Text>Miroslava</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_7" Language="tr_TR">
+      <Text>Kosara</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_8" Language="tr_TR">
+      <Text>Maria</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_FEMALE_9" Language="tr_TR">
+      <Text>Beloslava</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_1" Language="tr_TR">
+      <Text>Boris</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_10" Language="tr_TR">
+      <Text>Radivoi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_2" Language="tr_TR">
+      <Text>Asparuh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_3" Language="tr_TR">
+      <Text>Radislav</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_4" Language="tr_TR">
+      <Text>Ivan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_5" Language="tr_TR">
+      <Text>Bezmer</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_6" Language="tr_TR">
+      <Text>Tervel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_7" Language="tr_TR">
+      <Text>Kaloyan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_8" Language="tr_TR">
+      <Text>İvaylo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BULGARIA_MALE_9" Language="tr_TR">
+      <Text>Peter</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BULGARIA_ADJECTIVE" Language="tr_TR">
+      <Text>Bulgar</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BULGARIA_FULLNAME" Language="tr_TR">
+      <Text>Bulgar İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BULGARIA_NAME" Language="tr_TR">
+      <Text>Bulgaristan</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_9_MAJOR_BULGARIA_NAME" Language="tr_TR">
+      <Text>Aberffraw</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_9_MINOR_BULGARIA_NAME" Language="tr_TR">
+      <Text>Gal</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>670'lerde Han Asparuh önderliğindeki güçlü bir Bulgar kolu yerleşmek amacıyla Tuna bölgesine geldi. O sırada bölge Bizans İmparatorluğu tarafından zayıf bir şekilde tutuluyordu; Avar Kağanlığı'nın genişlemesi ve yerel Slav kabileleri arasındaki bir ittifak yakın zamanda otoritelerini sarsmıştı. Volga-Hazar bölgesinden bir Türk halkı olan Bulgarlar, Eski Büyük Bulgaristan'ın kısa ömürlü birleşik topraklarının çöküşünden sonra Avrasya bozkırından Avarları takip etmişlerdi. Ancak göçebe imparatorluklarını sürdüren gezgin Avarların aksine, Asparuh'un Bulgarları daha yerleşik bir yaşam tarzı benimsemeye başlıyor ve kendilerine ait kalıcı bir toprak arıyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_10" Language="tr_TR">
+      <Text>1185'te kardeşler Peter ve Ivan Asen bağımsızlık için bir isyan düzenlediler. İki yıllık zorlu mücadelenin ardından Bizans nihayet Bulgaristan'ı bir kez daha bağımsız bir krallık olarak tanıdı – İkinci Bulgar İmparatorluğu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_11" Language="tr_TR">
+      <Text>Bu bölüm, Birinci İmparatorluğun temelleri üzerine inşa edilmeye devam eden ilerlemenin yanı sıra, bölgenin giderek karmaşıklaşan siyasetine uyumu da gördü. Bulgaristan daha önce zorlu güney komşusundan tanınma ararken, Bizans zayıflıyordu ve onayı (ve hediyeleri) artık aynı değeri veya parlaklığı taşımıyordu. Peter Asen'in halefi olan kardeşi Kaloyan, bunun yerine diğer Roma'dan – Batı'daki Roma'dan – onay aradı. Konstantinopolis Dördüncü Haçlı Seferi'ne düştükten kısa bir süre sonra, o ve Bulgar Kilisesi Papa III. Innocentius tarafından İmparator ve Patriklik olarak tanındı. Bulgaristan daha sonra kısa ömürlü Latin İmparatorluğu'nda yeni bir düşman buldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_12" Language="tr_TR">
+      <Text>İkinci İmparatorluğun zirvesi II. İvan Asen (1218-1241) döneminde yaşandı. Komşularla devam eden çatışmalara rağmen, savaş artık Bulgar ekonomisinin temeli değildi. İmparatorluğun sınırlarının genişlemesi ek verimli toprakları bünyesine kattı ve toplumun büyük bir kısmı tarıma dayalıydı. Ancak Bulgaristan aynı zamanda Doğu ve Batı arasında bir kavşak noktası olarak birinci sınıf konumundan da yararlandı ve güçlü bir ticaret merkezi olarak kendini yeniden canlandırdı. Bu artan ekonomiyle sanatlar gelişti. Tarnovo'da yeni bir başkent kuruldu ve Tarnovo Okulları altında kapsamlı bir yaratıcı üretim hareketi ortaya çıktı. Sanatçılar, mimarlar ve yazarlar hem dini hem de laik olmak üzere zengin bir güzellik ve bilgi ürettiler. Kentsel merkezler hızla büyürken, uzak dağlar hem kalelere hem de manastırlara ev sahipliği yapıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_13" Language="tr_TR">
+      <Text>II. İvan Asen'in ölümünden sonra Bulgaristan için işler kötüye gitti. İçeride, aristokrasi ile köylülük arasındaki uçurum aşırı derecede büyüdü ve birkaç isyana yol açtı, bir noktada bir domuz çobanının geçici olarak tahta geçmesini sağladı. Dışarıda ise, değişen dünya zayıflayan imparatorluğa her taraftan baskı uyguladı – kuzeyden Moğollar, doğudan Sırplar ve sonunda güneyden Osmanlılar. Ölümcül olan bu son tehditti. 14. yüzyılın sonları boyunca Osmanlılar, 1393'te Tarnovo'yu alana kadar Balkanlar'da istikrarlı bir şekilde ilerledi. 1396'ya gelindiğinde, son hükümdarı ölmüş ve tüm toprakları kaybedilmiş olan İkinci Bulgar İmparatorluğu sona erdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Birleşik Slav kabileleriyle ittifak kuran Asparuh, 680'de Tuna Nehri'ni geçti. İlerlemesi hemen İmparator IV. Konstantin tarafından engellendi, ancak Bulgarlar Ongal Muharebesi'nde Bizans ordusunu kesin bir şekilde bozguna uğrattı. Zaferleri, Bizans'ın canını sıkan, Bulgaristan'ı bir devlet olarak tanıyan ve Balkan Dağları'nın kuzeyindeki tüm toprakları onlara bırakan olumlu bir barış antlaşmasıyla sonuçlandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Birinci Bulgar İmparatorluğu'nun erken dönemi, devlet kurma ve göçebe yaşamdan yerleşik yaşama geçişle karakterize edildi. Uzun ömürlü olmasını sağlamak için Pliska'da taştan bir başkent inşa edildi ve tarımsal bir ekonomi gelişmeye başladı. Ancak bu aynı zamanda bir genişleme dönemiydi. İmparatorluğun örgütlenmesi hala Bulgarların göçebe kökenlerinin tanıdık askeri hiyerarşilerini takip ediyordu ve zenginliğinin çoğu, öncelikle güneydeki zengin Bizans topraklarına yapılan akınlardan elde ediliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Bulgarlar ve Bizanslılar arasındaki ilişki her zaman karmaşıktı ve Orta Çağ boyunca Bulgar kimliğini tanımlamaya yardımcı oldu. Bulgarlar Bizans'a karşı saldırgandı çünkü akınlar genç devletlerini finanse ediyordu ve bir Bizans ele geçirmesi her zaman (gerçekçi) bir riskti. Yine de, ister antlaşmalar ister Bulgar liderlerine hediye edilen unvanlar yoluyla olsun (örneğin Asparuh'un halefi Terval, tahttan indirilen II. Jüstinyen'in tahtını yeniden kazanmasına yardım etti ve büyük bir zevkle "sezar" unvanını aldı), Doğu Roma İmparatorluğu'ndan tanınmayla gelen güç onayını da arzuluyorlardı. Yüzyıllar boyunca, Bizans'ın yakınlığı siyaset ve dinden edebiyat ve sanata kadar Bulgaristan'ın birçok yönünü giderek daha fazla etkiledi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Bizanslılar ise kuzey kapılarındaki tehditten rahatsızdılar. Ara sıra Bulgarları, özellikle iç savaşlar sırasında rakiplerine karşı silahlandırarak kullanıyorlardı, ancak büyük ölçüde imparatorluğun baş belası olarak görülüyorlardı. Bizanslıların daha büyük sorunları vardı – bu dönemdeki başlıca rakipleri, çok daha büyük bir tehlike arz eden Abbasi Halifeliği idi. İki cephede savaşmaktan kaçınmak için, Doğu'da savaş halindeyken Bulgarları antlaşmalar ve parayla yatıştırmaya çalıştılar ve başka türlü kışkırtılmadıkça Balkan seferlerini o daha büyük çatışmadaki duraklamalara sakladılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Bulgarlar vahşi savaşçılardı ve Balkanların karmaşık arazisini mükemmel bir şekilde kullandılar. Toprağı biliyorlardı ve genellikle kendilerinden sayıca çok üstün olan rakiplere karşı üstünlük sağlamak için hileler ve pusu taktikleri geliştirdiler. Bu güçleri onları ölümcül akıncılar yaptı ve aynı zamanda 811'de Pliska'da olduğu gibi daha büyük savaşlarda da işe yaradı; burada Han Krum, I. Nikeforos liderliğindeki bir Bizans ordusunu yok etti. İmparatorun kendisi savaşta öldürüldü ve Krum, kafatasını bir içki kadehine dönüştürerek kutladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Pliska'daki zafer, Bulgaristan'ın bir devlet olarak gelişmesi için yeni fırsatlar açan bir barış dönemini başlattı. İki Bizans misyoneri olan Kiril ve Metodius, Bulgar ve Slav sakinlerini din değiştirmek için Balkanlar'ı gezmeye başladı. Öğretilerini daha iyi iletmek için, yazılabilsin diye Slav dili için Glagolitik adlı bir alfabe icat ettiler. Ortodoks Hristiyanlığa geçişle birlikte, Bulgar soyluları ile Slav nüfusu arasındaki kültürel çizgiler de bulanıklaşıyor, Bulgarlar yerel kültüre giderek daha fazla asimile oluyordu. Bulgar kimliğindeki bu değişimler krallığı daha birleşik bir varlık haline getirirken, aynı zamanda daha geniş Hristiyan Avrupa ile yeni (barışçıl) siyasi ve ekonomik iletişim hatları da açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Birinci Bulgar İmparatorluğu'nun zirvesi I. Simeon (893-927) döneminde yaşandı. Konstantinopolis'te eğitim gören Simeon, krallığını hem kültürel hem de coğrafi olarak büyüttü. Sanat ve edebiyatın hamisiydi ve yeni başkent Preslav'ı etkileyici bir metropole dönüştürdü. Ayrıca Bulgar topraklarını güneyde Ege ve Adriyatik kıyılarına kadar genişleten askeri seferler başlattı. Ancak bu kalıcı olmayacaktı. 1014'te II. Basil, Kleidion'da Bulgar ordusunu yok etti ve bunun için "Bulgar Kasabı" lakabını kazandı. Sonrasında Bulgar İmparatorluğu bağımsızlığından vazgeçti ve sonraki 150 yıl boyunca Bizans otoritesine boyun eğdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_BULGARIA_CHAPTER_HISTORY_PARA_9" Language="tr_TR">
+      <Text>Bu arada Bulgarlar sessizce geceye karışmadı. Bağımsızlığı yeniden kazanma girişimleri oldu, en önemlisi 1040'ta Peter Delyan'ın IV. Mihail tarafından yenilgiye uğratılmadan önce batı Balkanların büyük bir bölümünü ele geçirmeyi başardığı zamandı. (Genç Norveç prensi Harald Hardrada, Vareg Muhafızları'nın bir üyesi olarak Mihail'in seferine katıldı ve katkılarından dolayı terfi aldı.) Daha az şiddetli, ancak yine de saldırgan bir şekilde, Bizans da Bulgar kilisesinin elden geçirilmesiyle başlayarak Balkanları Helenleştirmeye çalıştı. Ancak, Haçlı Seferleri ve Selçuklu Türklerinin saldırılarının neden olduğu diğer vilayetlerdeki kargaşa, bu cephede anlamlı bir ilerlemeyi engelledi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_HIDDEN_FORTRESS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Balkan dağlarında, Belogradçik kasabası yakınlarında, bir sırrı olan kayalık bir çıkıntı yükselir – bir zamanlar zirvelerinin kalbinde, doğal surların arkasına gizlenmiş eski bir garnizon. Bu küçük kaleler, Bulgar İmparatorluklarının engebeli manzarasını noktalamaktaydı. Arazi tarafından büyük ölçüde korunan stratejik konumlarda inşa edilmişlerdi: dik uçurumlar, dar vadiler, uygun çıkıntılar. Konum daha da güçlendirildi ve askerleri ve erzakları barındırmak için binalar dikildi. Daha küçük kaleler genellikle geçen gözlerden gizlenmek, gizli gözetlemeye veya sürpriz saldırıya izin vermek için tasarlanmıştı – Bulgarların toprağı düşmanlarına karşı kullandığı birçok yoldan biriydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_HIDDEN_FORTRESS_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bugün bu gizli kalelerden pek çoğu kalmamıştır, ancak en dikkat çekeni Belogradçik'teki kaledir. İlk olarak Roma döneminde güçlendirilmiş ve Bizanslılar, Bulgarlar ve son olarak Osmanlılar tarafından birkaç kez güçlendirilmiş ve genişletilmiştir; Vidin merkezli bir Bulgar devletinin bir kolu için özellikle önemli bir yerdi. Bugün, kayalıklarının ötesine uzanan çok daha belirgin bir ayak izine sahiptir, ancak orijinal kale hala manzarayla bütünleşmeyi başarmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_BULGARIA_SEVEN_TRIBES_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bulgarlar Orta Asya'daki anavatanlarından Doğu Avrupa'ya geldiklerinde, zaten Slav halkları tarafından iskan edilmiş bir toprak buldular. Bizanslı tarihçi Theophanes'e göre, Tuna bölgesi yedinci yüzyılda güneydeki Bizanslıları ve batıdaki Avarları savuşturmak için birleşen yedi kabileye ev sahipliği yapıyordu. Ancak Bulgarlara karşı bir direniş göstermediler – bunun yerine yeni gelenlerle ittifak kurdular ve Bulgar hanı Asparuh'un otoritesini kabul ettiler. Bu birleşik güç kısa sürede Bizanslıları bozguna uğrattı ve Birinci Bulgar İmparatorluğu'nu kurmak için Tuna'yı geçti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_BULGARIA_SEVEN_TRIBES_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Slavlar krallık içinde önemli bir nüfus olmaya devam etti ve zamanla Türk Bulgarları yerel geleneklere, kültüre ve dile asimile oldu. Onuncu yüzyıla gelindiğinde kendileri de etkili bir şekilde Slavlaşmışlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_BULGARIA_TARNOVO_SCHOOLS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İkinci Bulgar İmparatorluğu döneminde başkent Tarnovo, sanatsal, mimari ve edebi başarıların merkeziydi. Yaratıcı beyinler, dikkate değer bir üretim patlamasıyla kendi okullarında bir araya geldi. Mimarlık Okulu, karmaşık tuğla işçiliği kullandı ve hem dini hem de laik süslü binalar yükseltmek için Bizans etkisindeki tasarımlarla oynayarak yeni, belirgin bir Bulgar stili oluşturdu. Yapıları, duvarları ve tavanları freskler ve mozaiklerle kaplayan Sanat Okulu tarafından daha da geliştirildi; ressamlar ayrıca el yazması tezhipleri ve ikonalar gibi daha küçük eserlere de becerilerini uyguladılar. Okuryazarlığın yayılması, Edebiyat Okulu'nun büyümesine ve azizlerin hayatları ve mezmurlardan tarihlere ve halk masallarına kadar uzanan metinlerin akışına yol açtı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_BULGARIA_TARNOVO_SCHOOLS_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Tarnovo Okulları'nın büyümesi, Tarnovo'yu gelişen bir kültür başkenti olarak pekiştirdi ve bu sanatçıların ve yazarların eserleri maneviyat, eğitim ve kendini temsil etme ile yeni etkileşim yolları sundu. Okullar ayrıca, en azından parası yetenler için el yazmaları ve ikonalar aracılığıyla sanatın özel takdirini de teşvik etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_BULGARIA_TSARSTVIE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Göçebe Bulgarların yerleşik bir imparatorluğa ("çarstvo") geçişi, Doğu ile Batı arasındaki konumuyla hem desteklenen hem de karmaşıklaşan dikkate değer bir başarıydı. Bulgarların yerel Slav halklarıyla istikrarlı bir şekilde asimile olması, erken krallığın büyümesini hızlandırdı ve her iki kimliği de yüzyıllarca sürecek yeni bir siyasi varlığa dönüştürdü. Ancak Bulgaristan aynı zamanda gelişimini büyük ölçüde şekillendiren büyük güçler arasında bir kavşakta bulunuyordu. Açık ara en yoğun ilişkisi, etkisi her iki Bulgar imparatorluğunda da yaygın olan Bizans ileydi. Bulgarlar Konstantinopolis'in yörüngesinin ötesinde yeni fırsatlar aradıkça Batı giderek bir güç, zenginlik ve ilham kaynağı haline geldi. Uzun ve çalkantılı tarihi boyunca Bulgaristan'ın uyum ve büyüme becerisi, temel kimliği sadık bir şekilde Bulgar kalsa da uzun ömürlü olmasını sağladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BALIK_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>"Tarkan", yüksek rütbeli bir subay ve/veya eyalet valisi anlamına gelen bir Türkçe kelimedir. Bu terim, Orta Asya'nın antik ve ortaçağ halkları arasında yaygın olarak kullanılıyordu ve Bulgarlar batıya göç etmeden önce kendi hiyerarşilerine uyguluyorlardı. Birinci Bulgar İmparatorluğu'nun kurulması, Bulgar nüfusunun göçebelikten yerleşik hayata hızla geçişini gördü, ancak bozkır kökenlerinin siyasi ve askeri örgütlenmesi bu dönemde unvanların, görevlerin ve güç bölümlerinin uygulanmasında devam etti. Bu süreklilik, iç rütbeleri ek unvanlarla (jupan-tarkan, oğlu-tarkan, kalu-tarkan vb.) ayırt edilen tarkanların rolünü de içeriyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BALIK_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bulgarların Türk kökenleri, devletleri yerel Slav nüfusuyla asimilasyon, Bizans İmparatorluğu'ndan yoğun etki ve sonunda Hristiyanlığa geçiş nedeniyle evrildikçe zamanla soldu. Ancak tarkanın görevleri solsa da unvan hayatta kaldı ve 12. yüzyıl kadar geç kaynaklarda bulunabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BOYAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Birinci Bulgar İmparatorluğu döneminde boila olarak bilinen bolyar, İkinci İmparatorluğun bir aristokratıydı. Bu soylular hem sivil hem de askeri roller üstleniyor, barış zamanında bölgesel gücü elinde tutuyor ve savaş sırasında harekete geçmekten sorumlu oluyorlardı. Yüksek rütbeli askerler olarak, Bulgar ordusunu bu kadar etkili kılan becerileri sağlıyorlardı – güçlü binicilik ve toprak hakkında derin bilgi. Süvari o kadar değerliydi ki, barış zamanında bile bir ata ihmal sert bir şekilde cezalandırılıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BOYAR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bolyar unvanı kalıtsaldı ve rütbeleri içinde ek bir hiyerarşi vardı; bir avuç büyük bolyar kraliyet konseyi olarak hizmet ederken, daha küçük bolyarlar bölgesel yönetime odaklanıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_RILA_MONASTERY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>MS 10. yüzyılda, keşiş Rilalı İvan (veya John), bir münzevi olarak yaşamak için Rila Dağları'na çekildi. Mucizeleriyle tanındı ve ondan bir şeyler öğrenmek ve kutsamasını almak için izole mağarasına akın eden birçok takipçi topladı. Bu ziyaretçiler kendileri için önce geçici, sonra kalıcı barınaklar kurdular – orijinal Rila Manastırı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_RILA_MONASTERY_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Yüzyıllar boyunca manastır birçok değişiklik geçirdi. Birkaç kez yıkılıp yeniden inşa edildi ve bugünkü kompleks, tamamı İkinci Bulgar İmparatorluğu'nun Tırnovo Sanat Okulu'ndan büyük ölçüde esinlenmiş olsa da, Bulgar sanatı, mimarisi ve tarihinin birçok dönemini temsil etmektedir. Uzun ömrü boyunca Rila Manastırı, Bulgar maneviyatının, sanatsal başarısının ve kimliğinin bir sembolü olarak kalmıştır. Bugün hala aktif bir manastırdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIDDEN_FORTRESS_NAME" Language="tr_TR">
+      <Text>Gizli Kale</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_RILA_MONASTERY_NAME" Language="tr_TR">
+      <Text>Rila Manastırı</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_DRINA_NAME" Language="tr_TR">
+      <Text>Drina Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_ISKAR_NAME" Language="tr_TR">
+      <Text>İskar Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_MORAVA_NAME" Language="tr_TR">
+      <Text>Morava Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_PRUT_NAME" Language="tr_TR">
+      <Text>Prut Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_YANTRA_NAME" Language="tr_TR">
+      <Text>Yantra Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_ADATEPE_NAME" Language="tr_TR">
+      <Text>Adatepe</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CIOMADUL_NAME" Language="tr_TR">
+      <Text>Ciomadul</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CSOVANYOS_NAME" Language="tr_TR">
+      <Text>Csóványos</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KERKIS_NAME" Language="tr_TR">
+      <Text>Kerkis</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MOUNT_KARADAG_NAME" Language="tr_TR">
+      <Text>Karadağ Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEVEN_TRIBES_NAME" Language="tr_TR">
+      <Text>Yedi Kabile</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TARNOVO_SCHOOLS_NAME" Language="tr_TR">
+      <Text>Tırnovo Okulları</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TSARSTVIE_NAME" Language="tr_TR">
+      <Text>Çarlık</Text>
+    </Replace>
+    <Replace Tag="LOC_11020A_COMPLETION" Language="tr_TR">
+      <Text>Bulgar dağları birçok sır saklar. Onlar görkemli ve kadimdir ve güzellikleri sessiz zirvelerinin altından geçen herkesin gözlerini çeker. Ancak düşmanlar kısa sürede dağların da onlara baktığını fark ederler — ve bakışları hiç de dostane değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11020A_STORYTITLE" Language="tr_TR">
+      <Text>Yaşayan Kayalıklar</Text>
+    </Replace>
+    <Replace Tag="LOC_11020B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11020B_NAME" Language="tr_TR">
+      <Text>Başkalarını görünmeden gözlemleyerek çok şey öğrenilebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11020C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11020C_NAME" Language="tr_TR">
+      <Text>Dağlarda daha fazla sır için yer var.</Text>
+    </Replace>
+    <Replace Tag="LOC_11021A_COMPLETION" Language="tr_TR">
+      <Text>Savaşın yokluğunda Bulgar İmparatorluğu gelişir. Tarkanlar, savaş alanlarından mahrum kalsalar da, sokaklarda hala gösterişli figürler sergilerler ve halk sıradan meseleler için giderek daha fazla onların otoritesine bakar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11021A_STORYTITLE" Language="tr_TR">
+      <Text>Barış Zamanı Liderliği</Text>
+    </Replace>
+    <Replace Tag="LOC_11021B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward} için {3_turn_timer}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11021B_NAME" Language="tr_TR">
+      <Text>Tarkanlar sivil yönetimi öğrenmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11021C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11021C_NAME" Language="tr_TR">
+      <Text>Barış, savaşa hazırlanmak için ideal zamandır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11022A_COMPLETION" Language="tr_TR">
+      <Text>Dağların yükseklerinde, bir mağarada yalnız yaşayan kutsal bir adam, yerel halk arasında mucizeler gerçekleştirir. Birçoğu onun lütuflarından faydalanmak umuduyla ücra meskenine akın eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11022A_STORYTITLE" Language="tr_TR">
+      <Text>Dağlardaki Mucizeler</Text>
+    </Replace>
+    <Replace Tag="LOC_11022B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11022B_NAME" Language="tr_TR">
+      <Text>Burada kalıcı bir manastır kurulmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11022C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11022C_NAME" Language="tr_TR">
+      <Text>Keşişi yalnız bırakın!</Text>
+    </Replace>
+    <Replace Tag="LOC_11023A_COMPLETION" Language="tr_TR">
+      <Text>Rila Manastırı keşişleri kilisenin içinde sessizce oturur, ilahi olanı tefekkür ederler. Sessiz duaları, dışarıdan binanın özenli fresklerinin sanatına hayranlıkla bakan sesler tarafından aniden kesilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11023A_STORYTITLE" Language="tr_TR">
+      <Text>Kültürel Turizm</Text>
+    </Replace>
+    <Replace Tag="LOC_11023B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11023B_NAME" Language="tr_TR">
+      <Text>Manastır tüm Bulgarlar için bir alandır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11023C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11023C_NAME" Language="tr_TR">
+      <Text>Burası ruhani tefekkür için ayrılmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11024A_COMPLETION" Language="tr_TR">
+      <Text>Düşman komutanı birliklerini toplarken çevredeki vahşi doğa ölümleri için çağrıda bulunur. Bulgarlar her yerde ve hiçbir yerde aynı andadır. Bütün gece toprak kalkanların şakırtısıyla yankılanır. Düşman şaşkındır… korkmuştur… bitkindir… ve Bulgarlar nihayet şafakta acımasızca saldırdığında, zaferleri hızlı ve kesindir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11024A_STORYTITLE" Language="tr_TR">
+      <Text>Varbitsa'nın İntikamı</Text>
+    </Replace>
+    <Replace Tag="LOC_11024B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Süvari üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11024B_NAME" Language="tr_TR">
+      <Text>Bu gece askerler iyi içecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11024C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11024C_NAME" Language="tr_TR">
+      <Text>Savaş devam ediyor — takviye getirin!</Text>
+    </Replace>
+    <Replace Tag="LOC_11025A_COMPLETION" Language="tr_TR">
+      <Text>Mucizeleriyle ünlü bir rahip, genç misyonerler için bir okul kurmuştur. Onlara yeni bir alfabe öğretir ve eğitimlerini kullanarak bilgilerini herkesle paylaşmaları için talimat verir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11025A_STORYTITLE" Language="tr_TR">
+      <Text>Ohri Rahibi</Text>
+    </Replace>
+    <Replace Tag="LOC_11025B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11025B_NAME" Language="tr_TR">
+      <Text>Ancak bu ateşi yayarak dünyayı aydınlatabiliriz.</Text>
+    </Replace>
+    <Replace Tag="LOC_11025C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11025C_NAME" Language="tr_TR">
+      <Text>Açtıkları yollar tüccarlar için yeni fırsatlar sunar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11026A_COMPLETION" Language="tr_TR">
+      <Text>Gemi ve kervanla misyonerler Bulgar maneviyatını öğretilerini dinleyecek herkese taşırlar. Birçok yeni öğrenci kısa sürede ek rehberlik arar ve Bulgar azizlerinden bizzat lütuf almak umuduyla yola çıkar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11026A_STORYTITLE" Language="tr_TR">
+      <Text>Uzak Diyarlardan Hacılar</Text>
+    </Replace>
+    <Replace Tag="LOC_11026B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11026B_NAME" Language="tr_TR">
+      <Text>Tapınaklar kitleleri ağırlamalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11026C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11026C_NAME" Language="tr_TR">
+      <Text>İkonlar için ne inanılmaz bir pazar…</Text>
+    </Replace>
+    <Replace Tag="LOC_11027A_COMPLETION" Language="tr_TR">
+      <Text>Boyarlar atlarını yağmalanmış mallarla yüklerken harap binalardan duman yükselir. En son baskınlarının başarısı onları canlandırır, ancak bu toprakların en başta nasıl bu kadar zenginleştiğini merak etmekten kendilerini alamazlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11027A_STORYTITLE" Language="tr_TR">
+      <Text>Sürpriz Saldırı</Text>
+    </Replace>
+    <Replace Tag="LOC_11027B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11027B_NAME" Language="tr_TR">
+      <Text>Zengin komşular Bulgaristan'ın lütfudur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11027C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11027C_NAME" Language="tr_TR">
+      <Text>Belki de refahlarından öğrenecek bir şeyler vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11028A_COMPLETION" Language="tr_TR">
+      <Text>Halk başkentlerinin kaybının yasını tutarken, imparatorluk genelinde birkaç metin popülerlik kazanır. İçlerinde, eski peygamberler meleklerin rehberliğinde Bulgaristan'ın geçmişini, bugününü ve geleceğini anlatır. Birçoğu bu çalkantılı zamanda tarihlerini yeniden ziyaret etmekte teselli bulur, ancak kıyamet sonuçları rahatsız edicidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11028A_STORYTITLE" Language="tr_TR">
+      <Text>Apokrif Yıllıklar</Text>
+    </Replace>
+    <Replace Tag="LOC_11028B_DESCRIPTION" Language="tr_TR">
+      <Text>En Yüksek Seviyeli Komutanda Ücretsiz Terfi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11028B_NAME" Language="tr_TR">
+      <Text>Geçmişin hatırlatıcıları gelecek için umut inşa eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11028C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Süvari üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11028C_NAME" Language="tr_TR">
+      <Text>İlahi olan halka güç verir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11029A_COMPLETION" Language="tr_TR">
+      <Text>Bulgar İmparatorluğu'nu ziyaret edenler, şehirlerinin güzelliğine ve sakinlerinin sanatına hayran kalırlar. Yine de, krallıklarının bu cesur güçlere yenik düşebileceğinin farkında olarak, geçit töreni yapan askerleri bir nebze korkuyla izlerler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11029A_STORYTITLE" Language="tr_TR">
+      <Text>Zirve</Text>
+    </Replace>
+    <Replace Tag="LOC_11029B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11029B_NAME" Language="tr_TR">
+      <Text>Bulgaristan'ın itibarı büyümesini besler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11029C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11029C_NAME" Language="tr_TR">
+      <Text>Bulgaristan'ın gururu ordusunda yatar.</Text>
+    </Replace>
+    <Replace Tag="LOC_12006A_COMPLETION" Language="tr_TR">
+      <Text>Tehlikeli bir dağ patikasında yavaşça ilerleyen Dr. Rizal, Bulgar egemenliğinin paradoksunu düşünür — engin dağlarla dünyadan izole edilmiş, ancak ticaretle ona bağlı.</Text>
+    </Replace>
+    <Replace Tag="LOC_12006A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Kavşaktaki İyi Doktor</Text>
+    </Replace>
+    <Replace Tag="LOC_12006B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kurye üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_12006B_NAME" Language="tr_TR">
+      <Text>Potansiyel işgalcilere yazıklar olsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_12006C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşimlerde.</Text>
+    </Replace>
+    <Replace Tag="LOC_12006C_NAME" Language="tr_TR">
+      <Text>O cesur tüccar kervanları.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEVEN_TRIBES_AUTHOR" Language="tr_TR">
+      <Text>Han Krum Kanunları</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SEVEN_TRIBES_QUOTE" Language="tr_TR">
+      <Text>"Daha önce bildirildiği gibi, Bulgarlar tüm düşmanlarını yok etti."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TARNOVO_SCHOOLS_AUTHOR" Language="tr_TR">
+      <Text>Presbiter Kosmas</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TARNOVO_SCHOOLS_QUOTE" Language="tr_TR">
+      <Text>"Şeytanlar bu kalıntılardan korkar ve kutsal içeriklerine yaklaşmaya cesaret edemezler."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TSARSTVIE_AUTHOR" Language="tr_TR">
+      <Text>I. Petro İçin Övgü</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TSARSTVIE_QUOTE" Language="tr_TR">
+      <Text>"Sabah yıldızı gibi bize göründün ve düşmanın gölgesini dağıttın."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BULGARIA_DESCRIPTION" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Land Units[/TIP] grant [icon:YIELD_PRODUCTION] Production in all [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Cities[/TIP] equal to 50% of [icon:Action_Pillage] Pillage Yields and [icon:Action_Heal] Healing from [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP]. -3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for all [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Military Units[/TIP] against [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] with Medieval Walls.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIDDEN_FORTRESS_DESCRIPTION" Language="tr_TR">
+      <Text>Bulgarian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP]. +4 [icon:YIELD_PRODUCTION] Production. Units on this tile gain [TIP:LOC_PEDIA_CONCEPTS_STEALTH_TOOLTIP]Stealth[/TIP]. Counts as [icon:Action_Fortify] Fortification, +6 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when defending. Must be placed on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] not adjacent to another Hidden Fortress.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIDDEN_FORTRESS_TOOLTIP" Language="tr_TR">
+      <Text>Units on this tile gain [TIP:LOC_PEDIA_CONCEPTS_STEALTH_TOOLTIP]Stealth[/TIP].[n]Counts as [icon:Action_Fortify] Fortification, +6 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when defending. Must be placed on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] not adjacent to another Hidden Fortress.[n]Bulgarian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_BULGARIA" Language="tr_TR">
+      <Text>Yedinci yüzyılda Bulgarlar Tuna'yı geçti ve Balkanlar'ı kendi toprakları yaptı. Savaşçıları dağları kendi avantajlarına kullandı, beceri ve stratejilerle daha büyük orduları dağıttı. Birinci Bulgar İmparatorluğu fetih, genişleme ve ticaretin büyümesiyle ilerledi. İkinci İmparatorluk, maneviyat ve manastır geleneklerinin yanı sıra sanat, edebiyat ve mimarinin yükselişini gördü. Osmanlılar istila ettiğinde hepsi çöktü.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_BULGARIA" Language="tr_TR">
+      <Text>Eşsiz Yeteneğiniz olan Krum Hanedanlığı'nı Sahte Geri Çekilme ve Stratejiler Gelenekleri ile birleştirerek yağmalamadan büyük kazanç bonusları elde edin. Sadece Güçlendirilmiş Yerleşim Yerlerine saldırırken dikkatli olun!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INTRO_BULGARIA" Language="tr_TR">
+      <Text>Atlı ejderhayı çiğnerken, Bulgaristan yeryüzünü istila edecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BULGARIA_COMPLETE_RILA_MONASTERY_DESC" Language="tr_TR">
+      <Text>Bulgaristan'da Rila Manastırı'nı ziyaret edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BULGARIA_COMPLETE_RILA_MONASTERY_NAME" Language="tr_TR">
+      <Text>Rila Manastırı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BULGARIA_LEGACY_PATH_MILITARISTIC_DESC" Language="tr_TR">
+      <Text>Bulgaristan olarak, bir Militarist Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BULGARIA_LEGACY_PATH_MILITARISTIC_NAME" Language="tr_TR">
+      <Text>Bulgaristan Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_BULGARIA_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Production from being Bulgaria's associated [icon:WONDER] Wonder.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SEVEN_TRIBES_GREATWORKS_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+5 [icon:NAR_REW_COMBAT] Combat Strength for all Military Units when you have at least 5 [icon:NAR_REW_GREATWORK] Relics on display.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TARNOVO_SCHOOLS_TEMPLE_HAPPINESS_HIDDEN_FORTRESS_DESCRIPTION" Language="tr_TR">
+      <Text>Tapınağı olan Yerleşimlerdeki Gizli Kalelerde +2 [icon:YIELD_HAPPINESS] Mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TSARSTVIE_CULTURE_MOUNTAIN_HIDDEN_FORTRESS_DESCRIPTION" Language="tr_TR">
+      <Text>Gizli Kaleler, bitişik her Dağ karosu için +2 [icon:YIELD_CULTURE] Kültür alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TSARSTVIE_TWO_MIGRANTS_DESCRIPTION" Language="tr_TR">
+      <Text>Receive 2 [icon:UNIT_MIGRANT] Migrants in the [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_RILA_MONASTERY" Language="tr_TR">
+      <Text>Rilalı Aziz İvan</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_RILA_MONASTERY" Language="tr_TR">
+      <Text>Münzevinin zenginliği gümüş veya altında değil, kusursuz yoksullukta, iradenin reddinde ve sınırsız alçakgönüllülükte yatar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_FALSE_RETREAT_DESCRIPTION" Language="tr_TR">
+      <Text>Land Units grant [icon:YIELD_FOOD] Food in all [icon:YIELD_TOWNS] Towns equal to 50% of [icon:Action_Pillage] Pillage Yields and [icon:Action_Heal] Healing from Buildings. -3 [icon:NAR_REW_COMBAT] Combat Strength for all Military Units against [icon:CITY_FORTIFIED] Fortified Districts.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ICONOLATRY_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_HAPPINESS] Happiness and [icon:YIELD_GOLD] Gold from [icon:NAR_REW_GREATWORK] Great Works.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_STRATAGEMS_DESCRIPTION" Language="tr_TR">
+      <Text>Land Units receive +50% [icon:Action_Pillage] Pillage Yields and [icon:Action_Heal] Healing.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_BULGARIA_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]Land Units[/TIP] grant [icon:YIELD_PRODUCTION] Production in all [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Cities[/TIP] equal to 50% of [icon:Action_Pillage] Pillage Yields and [icon:Action_Heal] Healing from [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP].[LI]-3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for all [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Military Units[/TIP] against [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] with Medieval Walls.[LI]+30%[icon:YIELD_PRODUCTION] Production towards constructing Rila Monastery.[/BLIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_BULGARIA_ABILITY_NAME" Language="tr_TR">
+      <Text>Krum Hanedanı</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_EX_BULGARIA_NAME" Language="tr_TR">
+      <Text>Bulgaristan Yurttaşlıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BALIK_DESCRIPTION" Language="tr_TR">
+      <Text>Bulgarian Unique Army Commander. Has 3 [icon:Action_Move] Movement. Units in its [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Command Radius[/TIP] can [icon:Action_Pillage] Pillage for 1 [icon:Action_Move] Movement.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BOYAR_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 2 Bulgarian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Ignores [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] for [icon:Action_Move] Movement and enemy Unit’s [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. +3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BOYAR_3_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 3 Bulgarian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Ignores [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] for [icon:Action_Move] Movement and enemy Unit’s [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. +3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BOYAR_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Bulgarian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Ignores [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] for [icon:Action_Move] Movement and enemy Unit’s [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. +3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BOYAR_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 1 Bulgarian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Ignores [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] for [icon:Action_Move] Movement and enemy Unit’s [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. +3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] on [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_ALTARS_BULGARIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Sunaklar[/B] [B]Bulgaristan'ın[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_ALTARS_DESCRIPTION" Language="tr_TR">
+      <Text>Üç [B]Sunak[/B] bulundurun</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_AUGUSTUS_BULGARIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Augustus[/B] [B]Bulgaristan[/B] olacak bölgeyi yönetti.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BULGARIA_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Bulgaristan[/B] olarak oyna.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_CATHERINE_BULGARIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Katerina[/B] [B]Bulgaristan[/B] ile aynı kıtadaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_BULGARIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Bulgaristan[/B] [B]Şarlman[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_RILA_MONASTERY_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_CULTURE] Culture. Has 3 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Relic[/TIP] slots. Gain a [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Relic[/TIP] every time you construct a [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonder[/TIP], including this one. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Ageless[/TIP]. Cannot be placed adjacent to a [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]District[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_RILA_MONASTERY_TOOLTIP" Language="tr_TR">
+      <Text>Has 3 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Relic[/TIP] slots. Gain a [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Relic[/TIP] every time you construct a [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonder[/TIP], including this one.[N]Cannot be placed adjacent to a [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]District[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BOYAR_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} in [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP]</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_GREATWORKS_BONUS_DESC" Language="tr_TR">
+      <Text>Yuvalanmış Büyük Eserlerden +{1_Value} Muharebe Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_SEVEN_TRIBES_GREATWORKS_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Yedi Kabile</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_FALSE_RETREAT_PREVIEW" Language="tr_TR">
+      <Text>Sahte Geri Çekilme'den {1_CombatAmount}</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_BULGARIA_ABILITY_PREVIEW" Language="tr_TR">
+      <Text>Krum Hanedanı'ndan {1_CombatAmount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_ALTARS_BULGARIA_NARRATIVE" Language="tr_TR">
+      <Text>Din her zaman {1_Civilization_Adj} halkı için kişisel bir mesele olmuştur. Ancak şehir sunaklarının etrafında kalabalıklar geçmiş azizlerin hikayelerini paylaşmak için toplanır. Bu paylaşılan hikayelerde, vizyonlarını iktidar salonlarına taşımak isteyen yeni bir inançlılar ağı oluşur.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_FALSE_RETREAT_NAME" Language="tr_TR">
+      <Text>Sahte Geri Çekilme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ICONOLATRY_NAME" Language="tr_TR">
+      <Text>İkon Tapıncı</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_STRATAGEMS_NAME" Language="tr_TR">
+      <Text>Savaş Hileleri</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BALIK_NAME" Language="tr_TR">
+      <Text>Tarkan</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BOYAR_NAME" Language="tr_TR">
+      <Text>Boyar</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

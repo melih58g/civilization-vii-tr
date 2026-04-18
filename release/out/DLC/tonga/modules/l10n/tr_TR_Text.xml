@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_TONGA1" Language="tr_TR">
+      <Text>Lapaha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA10" Language="tr_TR">
+      <Text>Tongoleleka</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA11" Language="tr_TR">
+      <Text>Faleloa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA12" Language="tr_TR">
+      <Text>Pukotala</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA13" Language="tr_TR">
+      <Text>Falevai</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA14" Language="tr_TR">
+      <Text>Ha’ateiho</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA15" Language="tr_TR">
+      <Text>Holopeka</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA16" Language="tr_TR">
+      <Text>’Atele</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA17" Language="tr_TR">
+      <Text>Fotua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA18" Language="tr_TR">
+      <Text>Lotofoa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA19" Language="tr_TR">
+      <Text>Koulo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA2" Language="tr_TR">
+      <Text>Toloa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA20" Language="tr_TR">
+      <Text>Felemea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA21" Language="tr_TR">
+      <Text>Kolonga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA22" Language="tr_TR">
+      <Text>Fua’amotu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA23" Language="tr_TR">
+      <Text>Folaha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA24" Language="tr_TR">
+      <Text>Malapo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA25" Language="tr_TR">
+      <Text>Holonga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA26" Language="tr_TR">
+      <Text>Ha’amea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA27" Language="tr_TR">
+      <Text>Pangai</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA28" Language="tr_TR">
+      <Text>Vaotu’u</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA29" Language="tr_TR">
+      <Text>Hauloto</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA3" Language="tr_TR">
+      <Text>Heketā</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA30" Language="tr_TR">
+      <Text>Tokomololo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA4" Language="tr_TR">
+      <Text>Mu’a</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA5" Language="tr_TR">
+      <Text>Tatakamotonga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA6" Language="tr_TR">
+      <Text>Nukuleka</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA7" Language="tr_TR">
+      <Text>Fakatefenga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA8" Language="tr_TR">
+      <Text>Mele Havea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TONGA9" Language="tr_TR">
+      <Text>Vaipuna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_1" Language="tr_TR">
+      <Text>Nua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_10" Language="tr_TR">
+      <Text>Fefafa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_2" Language="tr_TR">
+      <Text>Kaloafutonga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_3" Language="tr_TR">
+      <Text>Lātūtama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_4" Language="tr_TR">
+      <Text>Fatafehi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_5" Language="tr_TR">
+      <Text>Talafaiva</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_6" Language="tr_TR">
+      <Text>Mataukipa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_7" Language="tr_TR">
+      <Text>Sāngone</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_8" Language="tr_TR">
+      <Text>Vaelaveamata</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_FEMALE_9" Language="tr_TR">
+      <Text>Tuutanga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_1" Language="tr_TR">
+      <Text>Takalaua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_10" Language="tr_TR">
+      <Text>ʻApuanea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_2" Language="tr_TR">
+      <Text>Kauʻulufonua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_3" Language="tr_TR">
+      <Text>Havea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_4" Language="tr_TR">
+      <Text>Loʻau</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_5" Language="tr_TR">
+      <Text>Kaloa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_6" Language="tr_TR">
+      <Text>Kofutu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_7" Language="tr_TR">
+      <Text>Maʻuhau</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_8" Language="tr_TR">
+      <Text>Tuʻi-tā-tui</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_TONGA_MALE_9" Language="tr_TR">
+      <Text>Momo</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_TONGA_ADJECTIVE" Language="tr_TR">
+      <Text>Tongan</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_TONGA_FULLNAME" Language="tr_TR">
+      <Text>Tonga İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_TONGA_NAME" Language="tr_TR">
+      <Text>Tonga</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_63_MAJOR_TONGA_NAME" Language="tr_TR">
+      <Text>Teouma</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_63_MINOR_TONGA_NAME" Language="tr_TR">
+      <Text>Ni-Vanuatu</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_LANGI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tonga İmparatorluğu'nun eski başkenti Lapaha çevresinde en az 22 mezar höyüğü veya "langi" olduğu bilinmektedir, ancak sözlü kayıtlara göre krallık genelinde 45 mezar höyüğü bulunmaktadır. Bu devasa mezarların her biri, Tonga krallarından birinin veya aile üyelerinin mezar yeri olarak inşa edilmiştir. Bu gelenek 14. yüzyılın ortalarından 18. yüzyıla kadar devam etmiştir ve bugün bile yerel Tonga aileleri, langi'lerde kimin gömülü olduğuna dair sözlü tarihlerini saklamakta ve bu alanların bakımını üstlenme geleneğini sürdürmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_LANGI_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Langi'ler bugün, kademeli plaj kayalarıyla çevrili, şekli kabaca dikdörtgen olan büyük höyükler olarak görünmektedir. Langi'leri inşa etmek için işçiler, kıyıdaki veya yakındaki bir adadaki taş ocaklarından kireçtaşı ve mercan kazmak zorunda kalmış olmalıdır. Hikayeler, işçilerin devasa taşları mezarların bulunduğu yere taşımak için büyük kanolar kullandığını anlatır. Taş levhalar uç uca yerleştirilmiş ve köşelerde birleştirilerek toprak bir platformu çevrelemektedir. Birbirine basamaklı katmanlar, taşla kaplı toprak piramidin tabanını andıran bir yapı oluşturur.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_VAI_KAUKAU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tu'i Tonga ve şefleri birçok açıdan kutsal kabul ediliyordu. Sıradan bir kişinin bir şefi yanlış bir şekilde dokunması veya görmesi ile ilişkili kirliliği önlemek için, şefler gibi yüksek rütbeli kişilerin vaikaukau adı verilen ayrı banyo alanları vardı. Şefler ve Tu'i Tonga, bu amaçla tebaaları tarafından kazılan kuyularda veya sarnıçlarda yıkanırdı. Bazı şefler, hizmetkarlarının da banyo havuzlarını kullanmasına izin vermiş olabilir, ancak bunu yapan bir sıradan insanın, şefin suyunun tapu niteliği nedeniyle hastalanması ve hatta ölmesi beklenirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_VAI_KAUKAU_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu kuyuların çoğu Tonga topraklarında hâlâ mevcuttur ve bunlardan birçoğunun Tu'i Tonga'ya ait olduğu bilinmektedir. Ara sıra, o ve şefleri birlikte yıkanır ve havuzların yakınında dövüşen iki adamın ölümüne düellosu ile eğlenirlerdi. Halen var olan kuyulardan biri, bu etkinliğe atıfta bulunarak "darbeleri savuşturan (iki) adam" anlamına gelen Hoaheu olarak adlandırılmıştır. Diğer havuzlar ise, şeflerin adamlarının eve götürmek üzere güvercin yakaladıkları yakındaki güvercin tepelerine atfen isimlendirilmiştir. Halk, kuşları temizleyip hindistan cevizi sütüyle pişirerek topluluğa yemek sağlardı; ardından şef ve maiyetinin yıkanıp gece uykusuna çekilmesine izin verirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tonga'nın tarihi uzun ve dikkat çekicidir, ancak büyük ölçüde zamanın sisleri arasında gizlidir. Tonga'nın tarihinin büyük bir kısmı yalnızca arkeoloji ve sözlü anlatılar yoluyla ulaşılabilir; yazılı kaynaklar, 17. yüzyılda Avrupalıların gelmesiyle birlikte çok geç bir tarihte başlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Tonga’nın ilk sakinleri, yaklaşık 3200 yıl önce, MÖ 1000 civarında adanın kıyılarına ayak bastı. Bunlar, kökeni Güneydoğu Asya’ya dayanan ve Pasifik’e hızla yayılan yetenekli denizciler olan Lapita halkıydı. Onların varlığı, çoğunlukla yemek pişirme ve saklama kaplarından oluşan, süslü ve tekrarlanan geometrik desenlere sahip kendine özgü çömlek kalıntılarıyla büyük ölçüde ortaya çıkmaktadır. Ancak, iki yüzyıl içinde çömleklerini süslemeyi bıraktılar – bu ani değişimin nedeni bilinmemektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Bunu izleyen Sade Çömlek Dönemi (MÖ 700-MS 400), Tonga'da kalıcı bir Polinezya toplumuna geçişe tanık oldu. Lapita yerleşimcilerinin ilk nesilleri kıyı şeridinde yaşarken, besin ve geçim kaynakları için neredeyse tamamen okyanusa bağımlıydılar; Sade Çömlek halkı ise iç kesimlere göç ederek çiftlikler ve plantasyonlar kurdu ve hayvancılıkla uğraştı. Ancak M.S. 400 civarında, yine açıklanamayan bir değişim yaşandı – Tongalılar, yine bilinmeyen nedenlerle çömlek üretimini tamamen bıraktılar. Çömleklerin ve diğer arkeolojik kanıtların yokluğu birkaç yüzyıl sürdü ve bu Karanlık Çağ'da neler olduğu hakkında çok az şey bilinmektedir. Ancak toplum varlığını sürdürdü, gelişmeye ve büyümeye devam etti ve M.S. 950 civarında Tu'i Tonga klanı, Tongatapu adasında iktidarını sağlamlaştırmaya başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Efsaneye göre, Tu'i Tonga (“Tonga kralları”), yarı tanrısal 'Aho'eitu'nun soyundan geliyordu; 'Aho'eitu, tanrı 'Eitumātupu'a ile ölümlü kadın 'Ilaheva'nın oğluydu. Bu kutsal köken, onları öncekilerden üstün kıldı ve sonraki yüzyıllarda Tu'i Tonga, güçlerini bir deniz imparatorluğuna genişletti. Kraliyet ailesinin erkek akrabaları, fetih veya evlilik yoluyla komşu adaları kontrol altına almak ve böylece Tu'i Tonga'nın kontrolü altına sokmak için bu adalara gönderildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Okyanus adalarından oluşan bir imparatorluk üzerinde uyumlu bir yönetimi sürdürmenin zorluğu, imparatorluk hakkında yenilikçi düşünme biçimlerini gerektiriyordu. Doğrudan yönetim mümkün değildi, ancak Tu'i Tonga'nın gemileri adalar arasında düzenli seferler yapabilmekte ve adalar arasında iletişimi sürdürebiliyordu. Tu'i Tonga'nın erişimi, hem kendi egemenlik alanı içinde hem de ötesindeki diğer Pasifik ada krallıklarına yönelik yaygın ticaret yolları yarattı. Tu'i Tonga'nın ilahi kökenleri ve buna bağlı inanç ve uygulamalar da iktidarı sürdürmenin merkezinde yer alıyordu. Kral, toprakla derin bir bağa sahipti ve toprağın verimliliğinin ondan geldiği varsayılıyordu. Onun lütfunu garantilemek için tüm adalar ilk hasadın bir kısmını (inasi) haraç olarak sunuyordu; karşılığında Tu'i Tonga, bir sonraki hasadın da başarılı olması için onlara iyi hava ve verimli toprak bahşediyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Kralın kutsal doğası, fiziksel bedenine de uzanıyordu. Yiyecekler de dahil olmak üzere ona dokunan her şey kutsal (tapu) hale geliyordu ve başkalarının bedeniyle doğrudan teması sınırlıydı. Saçları kesilemezdi ve dövme yaptırmak için Samoa'ya gitmek gerekiyordu, çünkü Samoalılar Tongalıların uymak zorunda olduğu tapu'dan muaftı (ancak bir rivayete göre, krala yakın olmaktan dolayı yine de ölebiliyorlardı). Tu'i Tonga'ya, onun dünyayla olan etkileşimlerinde arabuluculuk yapan ve yukarıdaki nedenle ilk yüzyıllarda genellikle yabancılar olan matāpules hizmet ederdi; Tongalı olmayanlar olarak, kralın ilahiliğini çevreleyen bazı tapu'lardan muaflardı. Matāpule siyasi bir danışman değildi, ancak kava törenlerini düzenlemek ve yönetmek gibi günlük ve törenle ilgili konularda sarayı yönlendirirdi. Ayrıca, dünyanın geri kalanından izole olan kralın arkadaşıydı ve birlikte yemek yemek gibi başkalarına izin verilmeyen şekillerde onunla etkileşime girerdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Tu'i Tonga, Anıt Yapımı döneminin başlamasıyla 13. yüzyılda zirveye ulaştı. Bu dönemde, güçleri ve nüfusları, bugün manzarada hâlâ görülebilen anıtsal yapılar inşa edecek düzeye yükseldi. Höyükler çeşitli amaçlarla ciddiyetle inşa edildi – bazıları şeflerin oturduğu höyüklerdi ('esi), bazıları mezar höyükleriydi (langi) ve bazıları da güvercin avlama (sia heu lupe) gibi kraliyet sporları için kullanılıyordu. Vaikaukau, konik şekilli insan yapımı kuyular, kral için ayrılmış kutsal banyo alanları olarak yakınlara inşa edildi. Ünlü Ha'amonga 'a Maui triliti de, 11. Tu'i Tonga olan Tu'i-tā-tui tarafından bu dönemde dikildi; yakındaki kraliyet tahtı Maka Fa'akinanga da öyle. Bu anıtlar, hem inşa etmek için gereken insan gücü ve organizasyon hem de özellikle krallar ve şefler için önemli bir rol oynadıkları sosyal düzen açısından önemli bir altyapı gerektiriyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_TONGA_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>15. yüzyıla gelindiğinde, iç ve dış çatışmalar Tu'i Tonga'nın gücünü kemirmeye başladı. 23. Tu'i Tonga Takalaua'nın suikastının ardından, halefi Kau'ulufonua, kendisi tarafından yönetilen Tu'i Tonga ve kardeşi Mo'ungāmotu'a tarafından yönetilen yeni bir hanedan olan Tu'i Ha'atakalaua'dan oluşan bir ikili yönetim kurdu. Bu model altında, Tu'i Ha'atakalaua imparatorluğun siyasi kontrolünü ele geçirirken, Tu'i Tonga manevi iktidarı elinde tuttu. Samoa, Tu'i Tonga ile evlilikler yaparak ve siyasi konularda hükümdarlara danışmanlık yapmak ve onları etkilemek üzere falefā adlı yeni bir rol oluşturarak Tonga'nın yönetiminde giderek daha fazla etki kazanmaya başladı. İki yüzyıl sonra yapılan bir başka idari bölünmeyle Tu'i Ha'atakalaua, daha genç olan Tu'i Kanokupolu hanedanına boyun eğdi. Avrupalılar Tonga'ya ilk kez 1616'da geldi ve Tu'i Tonga hanedanı 1865'te sona erdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_ESI_MAKA_FAAKINANGA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Ha'amonga 'a Maui'nin yakınında, 'Esi Maka Faakinanga veya "yaslanmak için taş" olarak adlandırılan, mercan ve kireçtaşından yapılmış uzun ve geniş bir taş bulunmaktadır. Bu taş, Ha'amonga 'a Maui taşlarıyla aynı döneme aittir ve 13. yüzyılda 11. Tu'i Tonga tarafından inşa edilmiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_ESI_MAKA_FAAKINANGA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Taşın tamamen dikey olmasına ve kralın üstüne değil önüne oturmuş olması gerekmesine rağmen, kralın tahtı olduğu söylenir. Bu anıtların yapımından sorumlu olan kral Tu'i-tā-tui'nin 2 metreden uzun boylu olduğu ve bu taşa sırtını dayayarak suikastçılardan kendini koruyabildiği söylenir. Bu konumdan adanın güzel ve geniş bir manzarası görülür, bu da kralın kendisine yaklaşan herkesi çok önceden görebilmesini sağlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_KAVA_CEREMONY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kava bitkisinden elde edilen hafif bir sarhoş edici madde olan kava, geçmişte ve günümüzde Tonga toplumunun önemli bir unsurudur. Tu'i Tonga bir deniz yolculuğundan döndüğünde, yeni topraklar ve tebaa kazandığında ya da vefat ettiğinde, görkemli bir Taumafa Kava ya da Kraliyet Kava töreni düzenlenirdi. Katı hiyerarşik düzen kurallarına uyulurdu; törenin merkezinde, en üst rütbeli kişilerin oluşturduğu bir iç çember yer alır ve bu çemberin başında kral bulunurdu. İç çemberin dışında, halkın töreni izlediği çok daha büyük bir dış çember bulunur. Tören, soyluların ve halkın birbirlerine karşı sorumluluklarını simgeler: kral ve şefler halkı korur, halk ise kral ve seçkinlere hizmet eder ve onların ihtiyaçlarını karşılar. Daha küçük kava törenleri de Tonga toplumunun günlük yaşamında önemliydi. Yapılandırılmış bir yargı sistemi bulunmadığından, kral veya şef her gün kava eşliğinde bir kabul düzenlerdi; burada maiyetindekiler ve tebaasının aile reisleri endişelerini dile getirirdi. Günümüzde Taumafa Kava, kralların taht devri için hâlâ önemlidir ve kava içmek Tonga erkekleri için düzenli bir eğlencedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_KAVA_CEREMONY_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Kava, Tonga krallarının köken efsanesinde ve kutsal doğalarında yer alır. Hikayeye göre, ölümlü bir kadın ile bir tanrının oğlu olan 'Aho'eitu adlı genç bir adam, babasını aramak için evden ayrılır. Tanrıların gökyüzü alemine ulaşan dev bir ağaca tırmanır ve orada babası ile bir sürü ağabeyiyle karşılaşır. Çeşitli sporlarda oyun oynayıp yarışırlar ve kısa sürede 'Aho'eitu en sevilen kişi olur. Kıskançlıklarından dolayı ağabeyleri onu öldürmüş, kafasını çalılara atmış ve vücudunu pişirip yemişlerdir. Babaları 'Aho'eitu'yu sorduğunda, ağabeylerinin ne yaptığını anlamıştır. Büyük bir kava kasesi getirip, ağabeylerini 'Aho'eitu'yu kaseye kusmaya ve kafasını da içine koymaya zorlamıştır. Kase örtüldü ve bir gece boyunca bırakıldı; sabahleyin, 'Aho'eitu mucizevi bir şekilde hayata dönmüş, kava sayesinde yeniden canlanmıştı. Babası onu, yaşam ve ölüm arasındaki çizgide sonsuza dek duran bir yarı tanrı olan Tu'i Tonga olarak hüküm sürmesi için dünyaya geri gönderdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_LAPITA_ORIGINS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Arkeolojik kanıtlar, Tonga adalarının en geç MÖ 1000'de kolonileştirildiğine dair işaretler göstermektedir. İlk yerleşimciler, Okyanusya'nın büyük bir kısmına yerleşen Neolitik Avustronezya halklarından oluşan, Lapita kültürel kompleksi olarak bilinen bir topluluğun parçasıydı. Polinezya genelinde sağlam bir deniz ticareti sistemi geliştirdiler ve kendine özgü geometrik desenlerle işaretlenmiş benzersiz çömleklerini ticarete sundular. Başlangıçta kıyı şeridinde yerleştiler, ancak zamanla yerleşimlerin iç kesimlere doğru kaydığı ve tarımın daha önemli hale geldiği görülmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_TONGA_LAPITA_ORIGINS_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Birkaç yüz yıl sonra, bu eşsiz çömlekçilik ortadan kayboldu. Tonga adaları yerleşik kalmaya devam etse de, çömlekçilik üretimi bilinmeyen nedenlerle M.S. 400'e kadar tamamen durdu ve bir daha geri dönmedi. Daha sonra, Tonga deniz imparatorluğu döneminde, yeni bir zanaat türü gelişti: ngatu, yani dut ağacından yapılan ve "tapa kumaşı" olarak da bilinen süslü ağaç kabuğu kumaşı. Ağaç kabuğu parçaları bir çekiçle düzleştirilip birleştirilerek bir kumaş oluşturulur. Geçmişte ngatu, giyim ve tören amaçlı kullanılırdı; tören amaçlı olanlar, fauna ve flora motifleriyle güzelce süslenirdi. Günümüzde Tongalılar, ngatu'yu düğünlerde, cenazelerde ve diğer önemli kültürel etkinliklerde kullanmaktadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_TOFI_A_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tonga toplumu, karmaşık bir hiyerarşi ve rütbe sistemine göre düzenlenmişti. Ekilebilir ve verimli topraklar kralın mülkiyetindeydi ve kral bu toprakların bir kısmını şeflerine verirdi. Şefler de bu arazileri akrabalarına ve sadık tebaalarına dağıtırdı. Şefin mülkü olan tofi'a'da genellikle banyo, güvercin avı ve yemek pişirme için ayrılmış alanlar ile şefın hizmetkarları ve aileleri için yakın bir alan bulunurdu. Şeflerin arazisinin geri kalanında yaşayan ve çalışan sıradan halk, toprağın ürettiği gıda ve diğer ürünlerin bir kısmını şeflerine verirdi. Buna karşılık şefler, Tu'i Tonga'ya hediyeler gönderirdi. Bu ilişki ve haraç ağı, Tongalıların kontrolündeki geniş alan için istikrarlı bir yönetim sistemi oluşturdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_TOFI_A_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Günümüzde arazi mülkiyeti Anayasa ile belirlenir ve unvanlar yalnızca miras yoluyla veya doğrudan kraldan verilir. Bu unvanlar, soylunun unvanı olmayan kişilere tahsis edebileceği ve bu kişilerin daha sonra arazi için kira ödeyeceği bir tofi'a hakkı verir. Karmaşık bir akrabalık ve karşılıklı değişim sistemi yerine, modern Tonga toplumu daha çok sınıf ve eğitime dayalı bir yapıya dönüşmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_KALIA_2_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kalia, diğer Polinezya halklarının drua'larına benzeyen büyük üçgen yelkenleri olan çift gövdeli bir kanodur. Katamarana benzeyen "tongiaki" adlı daha eski bir çift gövdeli gemiden geliştirilmiştir. Kalia, Tonga toplumunda iki temel amaca hizmet ediyordu: savaş ve mal taşımacılığı. Bir kalia, onlarca kişiyi taşıyabileceği gibi, çevre bölgelerden merkeze yiyecek ve prestijli eşyaları da taşıyabilirdi; bu nedenle kralın gücünü simgelemede önemli bir rol oynardı. Tongalı denizciler, uzmanlıkları nedeniyle değer verilen özel bir sınıftı ve doğrudan kral veya şefleri tarafından istihdam ediliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_KALIA_2_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bir kalia'nın inşası yedi yıla kadar sürebilirdi ve yapımında ahşap ihtiyacı, Tongalıları kerestenin daha bol olduğu Fiji adalarıyla ticaret yapmaya yöneltti. Tongalı gemi yapımcıları Fiji'de karakollar kurdular ve bunlar zamanla tam teşekküllü yerleşim yerlerine dönüştü. Tongalılar kalia'ları başlangıçta Fiji'den savaş yoluyla ele geçirmiş gibi görünse de, zamanla bunların yapımı ve kullanımı üzerinde tekel kurmuşlardı. Hiçbir kalia, Tongalı bir kaptan olmadan denize açılmazdı ve hiçbir Fiji sakini, kalia dışında Tonga'yı ziyaret edemezdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_KALIA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kalia, diğer Polinezya halklarının drua'larına benzeyen büyük üçgen yelkenleri olan çift gövdeli bir kanodur. Katamarana benzeyen "tongiaki" adlı daha eski bir çift gövdeli gemiden gelişmiştir. Kalia, Tonga toplumunda iki temel amaca hizmet ediyordu: savaş ve mal taşımacılığı. Bir kalia, onlarca adamı taşıyabileceği gibi, çevre bölgelerden merkeze yiyecek ve prestijli eşyaları da taşıyabilirdi; bu sayede kralın gücünü simgelemede önemli bir rol oynardı. Tonga'lı denizciler, uzmanlıkları nedeniyle değer verilen özel bir sınıftı ve doğrudan kral veya şefleri tarafından istihdam ediliyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_KALIA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bir kalia'nın inşası yedi yıla kadar sürebilirdi ve yapımında ahşap ihtiyacı, Tongalıları kerestenin daha bol olduğu Fiji adalarıyla ticaret yapmaya yöneltti. Tongalı gemi yapımcıları Fiji'de karakollar kurdular ve bunlar zamanla tam teşekküllü yerleşim yerlerine dönüştü. Tongalılar kalia'ları başlangıçta Fiji'den savaş yoluyla ele geçirmiş gibi görünse de, zamanla bunların yapımı ve kullanımı üzerinde tekel kurmuşlardı. Tongalı bir kaptan olmadan hiçbir kalia denize açılmazdı ve Fiji sakinleri kalia dışında Tonga'yı ziyaret edemezdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_TEHINA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tonga toplumu, kardeşlik ve evlilik ilişkilerine bağlı karmaşık bir rütbe ve statü ağıydı. Çok eşlilik ve boşanma yaygındı, bu nedenle akrabalık bağları toprak ve nüfuz için şiddetli rekabete yol açabilirdi. Bir tehina, yani "küçük kardeş", genellikle böyle bir adamdı; gerçek bir kardeş olabileceği gibi, bir kuzen veya başka bir yakın akraba da olabilirdi. Tu'i Tonga, bu adamları diğer adalara gönderir ve onlara bir eş bulma, yerel yönetim yapısına evlenme yoluyla girme ve bölgeyi Tu'i Tonga'nın daha geniş egemenlik alanına dahil etme görevini verirdi. Şef, tehina'ya sefer için ihtiyaç duyabileceği gemileri ve savaşçıları sağlardı, ancak yüksek rütbeli bir eş bulmak ve yeni bölgede bir destek ağı kurmak tehina'nın kendisine kalmıştı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_TEHINA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Başarılı bir tehina, yeni topraklarını Tonga deniz imparatorluğunu bir arada tutan 'inasi, yani "haraç" sistemine dahil ederdi. Yeni fiili şef olarak, tebaası toprağın ürünlerinin bir kısmını ona, ondan da merkezdeki Tu'i Tonga'ya sunmakla yükümlüydü. Bu şekilde, çevre sürekli genişledi ve akrabalık ve ticaret ağı, merkezi dış adalara bağlayarak istikrarlı ve kalıcı bir düzen oluşturdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LANGI_NAME" Language="tr_TR">
+      <Text>Langi</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_VAI_KAUKAU_NAME" Language="tr_TR">
+      <Text>Vaikaukau</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_TOFI_A_NAME" Language="tr_TR">
+      <Text>Tofi'a</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_AFULILO_RIVER_NAME" Language="tr_TR">
+      <Text>Afulilo Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BA_RIVER_NAME" Language="tr_TR">
+      <Text>Ba Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_DREKETI_RIVER_NAME" Language="tr_TR">
+      <Text>Dreketi Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_LATA_RIVER_NAME" Language="tr_TR">
+      <Text>Lata Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_PAPENO_O_RIVER_NAME" Language="tr_TR">
+      <Text>Papenoʻo Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CURACOA_NAME" Language="tr_TR">
+      <Text>Curacoa</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_FONUAFO_OU_NAME" Language="tr_TR">
+      <Text>Fonuafoʻou</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_HUNGA_TONGA_HUNGA_HA_APAI_NAME" Language="tr_TR">
+      <Text>Hunga Tonga – Hunga Haʻapai</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_NIUAFO_OU_NAME" Language="tr_TR">
+      <Text>Niuafoʻou</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_NIUATAHI_NAME" Language="tr_TR">
+      <Text>Niuatahi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ESI_MAKA_FAAKINANGA_NAME" Language="tr_TR">
+      <Text>ʻEsi Maka Faakinanga</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KAVA_CEREMONY_NAME" Language="tr_TR">
+      <Text>Kava Töreni</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LAPITA_ORIGINS_NAME" Language="tr_TR">
+      <Text>Lapita Kökenleri</Text>
+    </Replace>
+    <Replace Tag="LOC_11091A_COMPLETION" Language="tr_TR">
+      <Text>Bir şef ve matapule'si vaikaukau'da yıkanırken, ataları hibiskus çiçeklerinden yapılmış çelenklerle süslenmiş kraliyet mezarlarında dinleniyor. Suyun sükunetinde, toprağın sabitliğinde – mana.</Text>
+    </Replace>
+    <Replace Tag="LOC_11091A_STORYTITLE" Language="tr_TR">
+      <Text>Fonua</Text>
+    </Replace>
+    <Replace Tag="LOC_11091B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11091B_NAME" Language="tr_TR">
+      <Text>Mana, Tonga'yı bir arada tutar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11091C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11091C_NAME" Language="tr_TR">
+      <Text>Mana ona güç verir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11092A_COMPLETION" Language="tr_TR">
+      <Text>Tonga liderleri, saflarına yeni bir şefi kabul etmek için bir araya gelirler. Kava içerek, kendileri ile Tonga toprakları arasındaki kozmik bağı pekiştirirler. Törenin tapu, yani kutsal olması için herkes atalarının yaptığı gibi davranmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11092A_STORYTITLE" Language="tr_TR">
+      <Text>Taumafa Kava</Text>
+    </Replace>
+    <Replace Tag="LOC_11092B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11092B_NAME" Language="tr_TR">
+      <Text>Önce yiyecekleri dairenin içine yerleştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11092C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11092C_NAME" Language="tr_TR">
+      <Text>Önce herkesin doğru koltukta oturduğundan emin olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11093A_COMPLETION" Language="tr_TR">
+      <Text>Çay hazırlarken her şey plana göre yapılmalıdır: masa kurulmalı, çay doğru sıcaklıkta olmalı, şeker sütten önce eklenmelidir. Sayısız {1_Civilization_Adj} vatandaşı bu ritüeli her gün gerçekleştirir, ancak dudaklarına götürdükleri kase kava ile doluykenki zamanları hatırlayan çok azdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11093A_STORYTITLE" Language="tr_TR">
+      <Text>Ceremonies</Text>
+    </Replace>
+    <Replace Tag="LOC_11093B_DESCRIPTION" Language="tr_TR">
+      <Text>Tofi'a Benzersiz Mahallesi'nde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11093B_NAME" Language="tr_TR">
+      <Text>Hatırlamak için asla geç değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11093C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11093C_NAME" Language="tr_TR">
+      <Text>Bu, pek çok anıdan sadece biridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11094A_COMPLETION" Language="tr_TR">
+      <Text>Ha'amonga 'a Maui'yi ziyaret edenler, devasa taşların dizilişine hayretle bakarlar ve sadece Maui'nin kendisinin böyle bir başarıya imza atabileceğine inanırlar. Tonga'lı balıkçılar, teknelerinden turistleri şaşkınlıkla izlerler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11094A_STORYTITLE" Language="tr_TR">
+      <Text>Maui'nin Yükü</Text>
+    </Replace>
+    <Replace Tag="LOC_11094B_DESCRIPTION" Language="tr_TR">
+      <Text>+2 {1_STORY_CITY} nüfusu.</Text>
+    </Replace>
+    <Replace Tag="LOC_11094B_NAME" Language="tr_TR">
+      <Text>Maui'nin yükü, {1_STORY_CITY} için bir nimettir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11094C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11094C_NAME" Language="tr_TR">
+      <Text>Maui'nin yükü, Tonga'nın tümü için bir nimettir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095A_COMPLETION" Language="tr_TR">
+      <Text>Kendisinden öncekiler gibi, asil bir soydan gelen küçük kardeş de tehina unvanını ve bununla birlikte gelen tüm sorumlulukları üstlenir: uzak kıyılarda ailenin adını duyurmak ve okyanusla ilgili gelenekleri yaşatmak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095A_STORYTITLE" Language="tr_TR">
+      <Text>Asil Bir Görev</Text>
+    </Replace>
+    <Replace Tag="LOC_11095B_COMPLETION" Language="tr_TR">
+      <Text>Gökyüzünde görülen tanıdık olmayan kuş sürüsü, iki yönlü bir başarıyı müjdeliyor: karaya yaklaşıldı ve tehina'nın becerileri iyi ve gerçek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095B_IMPERATIVE" Language="tr_TR">
+      <Text>Uzak Topraklardaki bir Medeniyet veya Bağımsız Güç ile tanışın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095B_NAME" Language="tr_TR">
+      <Text>Bu isim dört bir yana yayılacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095B_STORYTITLE" Language="tr_TR">
+      <Text>Asil Bir Görev</Text>
+    </Replace>
+    <Replace Tag="LOC_11095C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095C_NAME" Language="tr_TR">
+      <Text>Gelenekler, evin yakınında en güçlüdür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095D_DESCRIPTION" Language="tr_TR">
+      <Text>Tehina'da{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095D_NAME" Language="tr_TR">
+      <Text>Rehber rüzgarlar onu hızlandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095E_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11095E_NAME" Language="tr_TR">
+      <Text>Uzaklardaki yabancılar Tonga'nın adını bilecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11096A_COMPLETION" Language="tr_TR">
+      <Text>Kaşifleri sıklıkla ele geçiren gezginlik tutkusu, onları uzak yerlerin harikalarını keşfetmeye iter. Ancak bu Tongalı, çok daha büyük bir şey keşfeder: yeterince uzağa giderseniz, kendinizi yeniden evinizde bulursunuz.</Text>
+    </Replace>
+    <Replace Tag="LOC_11096A_STORYTITLE" Language="tr_TR">
+      <Text>Yine Evde</Text>
+    </Replace>
+    <Replace Tag="LOC_11096B_DESCRIPTION" Language="tr_TR">
+      <Text>+5 Deniz Ticaret Rotası Menzili.</Text>
+    </Replace>
+    <Replace Tag="LOC_11096B_NAME" Language="tr_TR">
+      <Text>Gezginlerin haraçla dönmelerini sağlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11096C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11096C_NAME" Language="tr_TR">
+      <Text>Onlara evlerinin nerede olduğunu hatırlat.</Text>
+    </Replace>
+    <Replace Tag="LOC_11097A_COMPLETION" Language="tr_TR">
+      <Text>{1_INDEPENDENT_CS}'nin sadakatini doğrulayan haberler geldiğinde, birçok küçük soylular bu topraklar üzerinde hegemonyayı ele geçirmek için rekabet eder. Küstah ve genç bir şef, Tonga'nın hakimiyetini savunacağına söz verirken, bir ihtiyar ise vasalından sonsuz bir haraç akışını garanti eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11097A_STORYTITLE" Language="tr_TR">
+      <Text>Güç Açlığı</Text>
+    </Replace>
+    <Replace Tag="LOC_11097B_DESCRIPTION" Language="tr_TR">
+      <Text>Ücretsiz Anıt Satın Alma.</Text>
+    </Replace>
+    <Replace Tag="LOC_11097B_NAME" Language="tr_TR">
+      <Text>Askeri üstünlüğü tesis et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11097C_DESCRIPTION" Language="tr_TR">
+      <Text>Ücretsiz Pazar Satın Alımı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11097C_NAME" Language="tr_TR">
+      <Text>Sağlıklı ticari ilişkiler vaat edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11098A_COMPLETION" Language="tr_TR">
+      <Text>{1_Volcano}'nun patlamasının ardından, {2_STORY_CITY} 'de yaşayanlar, yerleşimcileri bir volkanın gölgesinde sığınmaya iten şeyin ne olduğunu merak ediyorlar. Yıkılan evler ve kaybedilen sevdikler aptallığı, çevredeki toprakların zenginliği ise bilgeliği gösteriyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11098A_STORYTITLE" Language="tr_TR">
+      <Text>Toprak Verir</Text>
+    </Replace>
+    <Replace Tag="LOC_11098B_DESCRIPTION" Language="tr_TR">
+      <Text>Volkanlara bitişik kentsel bölgelerde +1 [icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11098B_NAME" Language="tr_TR">
+      <Text>Aptallığın içinde bilgelik vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11098C_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_HAPPINESS] Volkanlara komşu kentsel bölgelerde mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_11098C_NAME" Language="tr_TR">
+      <Text>Bilgeliğin içinde de bir aptallık vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11099A_COMPLETION" Language="tr_TR">
+      <Text>Üç kişilik bir aile, gelgit havuzunda sıkışmış bir yavru köpekbalığıyla karşılaşır ve onu tanrılardan bir armağan olarak görür. Ne de olsa bu tür yaratıklar sadece cennet olan Pulotu'dan gelir. Ancak onu yakalayamadan gelgit geri döner ve köpekbalığını alıp götürür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11099A_STORYTITLE" Language="tr_TR">
+      <Text>Pulotu'dan Bir Hediye</Text>
+    </Replace>
+    <Replace Tag="LOC_11099B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11099B_NAME" Language="tr_TR">
+      <Text>Köpekbalığı avı çağrısı yapın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11099C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11099C_NAME" Language="tr_TR">
+      <Text>Tanrılara şükredin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11100A_COMPLETION" Language="tr_TR">
+      <Text>Ölüler götürülürken, Tonga şefleri seferin sonuçlarını inceler. {1_dispersed_independent} bir ticaret ortağı ya da ortak düşmanlara karşı bir müttefik olabilirdi. Bunun yerine, burada geriye kalan tek şey kanlı bir toprak parçasıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11100A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Leke</Text>
+    </Replace>
+    <Replace Tag="LOC_11100B_DESCRIPTION" Language="tr_TR">
+      <Text>Piyadeler üzerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11100B_NAME" Language="tr_TR">
+      <Text>Savaşçılar bu acının yükünden asla kurtulamayacaklar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11100C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak Kasabalarda {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11100C_NAME" Language="tr_TR">
+      <Text>Hayatta kalanlar, Tonga'nın bunu asla unutmasına izin vermeyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_12015A_COMPLETION" Language="tr_TR">
+      <Text>Hasadın ilk ürünü her zaman şef'in evine gider. Dr. Rizal, bir çiftçiye neden en açlık çekilen dönemde yiyeceklerini başkasına vermeleri gerektiğini sorar ve cevap basitçe şudur: "kralın gücü her şeyi mümkün kılar".</Text>
+    </Replace>
+    <Replace Tag="LOC_12015A_STORYTITLE" Language="tr_TR">
+      <Text>Tonga'da Dr. Rizal</Text>
+    </Replace>
+    <Replace Tag="LOC_12015B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} {2_capital}'da.</Text>
+    </Replace>
+    <Replace Tag="LOC_12015B_NAME" Language="tr_TR">
+      <Text>Toprakları gezmeye devam et.</Text>
+    </Replace>
+    <Replace Tag="LOC_12015C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12015C_NAME" Language="tr_TR">
+      <Text>Dr. Rizal bu şefle görüşmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_ADJUST_CITY_YIELD_PER_CITY_STATE_TRADE_ROUTES" Language="tr_TR">
+      <Text>Şehir Devletleri ile Ticaret Yolları başına Verim</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_NUM_CITY_STATE_TRADE_ROUTES" Language="tr_TR">
+      <Text>Şehir Devletleriyle Ticaret Yollarının Sayısı</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LANGI_DESCRIPTION" Language="tr_TR">
+      <Text>Tonga [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Kültür Binası[/TIP]. +3[icon:YIELD_CULTURE] Kültür. +1[icon:YIELD_FOOD] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynaklar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için Gıda Bitişikliği.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_LANGI_TOOLTIP" Language="tr_TR">
+      <Text>Tongan [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_VAI_KAUKAU_DESCRIPTION" Language="tr_TR">
+      <Text>Tongan [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Mutluluk Binası[/TIP]. +3[icon:YIELD_HAPPINESS] Mutluluk. +1[icon:YIELD_CULTURE] Kıyı ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_VAI_KAUKAU_TOOLTIP" Language="tr_TR">
+      <Text>Tongalı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ESI_MAKA_FAAKINANGA_AUTHOR" Language="tr_TR">
+      <Text>George Vason</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ESI_MAKA_FAAKINANGA_QUOTE" Language="tr_TR">
+      <Text>"Tüm ada ona boyun eğdi. Oradan başka bir ada grubuna doğru yola çıktı. Onlar da onun gücüne hemen boyun eğdiler."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KAVA_CEREMONY_AUTHOR" Language="tr_TR">
+      <Text>Tāufaʻāhau I</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KAVA_CEREMONY_QUOTE" Language="tr_TR">
+      <Text>"Onlar hala çocukları gibi ve onlarla bir bütün."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LAPITA_ORIGINS_AUTHOR" Language="tr_TR">
+      <Text>Tonga Atasözü</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LAPITA_ORIGINS_QUOTE" Language="tr_TR">
+      <Text>"Sıkı dur, dalgalar kırılacaktır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_TONGA_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_DIPLOMACY] Kıyıya bitişik yerleşim yerlerindeki Saray ve Belediye Binaları üzerinde Etki. [icon:PROJECT] Şehir Devleti - Birleştirme veya Birim Toplama Eylemini kullanamaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_TONGA" Language="tr_TR">
+      <Text>İz bırakmayan denizlerde, çift gövdeli Tonga gemileri, sadece yıldızların rehberliğinde yelken açar. Şarkıcının ilahisi onları yeni deniz taşı limanları, yeni atoller ve yeni balıkçılık alanları aramaya yönlendirir. Yarık davulu ve gövdeye çarpan dalgaların sesini dinleyin - yeni bir kıyı sizi bekliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_TONGA" Language="tr_TR">
+      <Text>Tehina'nın Benzersiz Keşifçisi, Antik Çağ'da bile Derin Okyanus'a girebilir. Onları kullanarak uzak kıyıları keşfedin ve dostluk kuracak yeni Bağımsız Güçler bulun.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TONGA_COMPLETE_WONDER_HA_AMONGA_A_MAUI_DESC" Language="tr_TR">
+      <Text>Tonga olarak Ha'amonga 'a Maui'yi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TONGA_COMPLETE_WONDER_HA_AMONGA_A_MAUI_NAME" Language="tr_TR">
+      <Text>Ha'amonga 'a Maui</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TONGA_LEGACY_PATH_CULTURAL_DESC" Language="tr_TR">
+      <Text>Tonga olarak, bir Kültürel Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TONGA_LEGACY_PATH_CULTURAL_NAME" Language="tr_TR">
+      <Text>Tonga Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_TONGA_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Tonga'nın ilişkili [icon:WONDER] Harikası olmasından elde edilen üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ESI_MAKA_FAAKINANGA_COMBAT_STRENGTH_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] için.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KAVA_CEREMONY_BEFRIEND_INDEPENDENT_DESCRIPTION" Language="tr_TR">
+      <Text>+100% [icon:YIELD_DIPLOMACY] Etki, [icon:PROJECT] Bağımsız Güç [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP]'da ise, [icon:PROJECT] Bağımsızlarla Dostluk Kurma Projesi'ni başlatma ve destekleme konusunda.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_LAPITA_ORIGINS_CS_TRADE_DESCRIPTION" Language="tr_TR">
+      <Text>Yeni bir [icon:CITYSTATE] Şehir Devleti'nin [TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]Hükümdarı[/TIP] olduğunuzda, o şehir devletinden ücretsiz bir [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] alın.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_LAPITA_ORIGINS_MONUMENT_INFLUENCE_DESCRIPTION" Language="tr_TR">
+      <Text>Kıyıya bitişik Anıtlar üzerinde +1 [icon:YIELD_DIPLOMACY] Etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_LAPITA_ORIGINS_OCEAN_TRADE_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolları[/TIP] okyanusu geçebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_TOFI_A_DESCRIPTION" Language="tr_TR">
+      <Text>Tonga [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Özel Bölge[/TIP]. Langi ve Vaikaukau'yu aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde inşa ederek oluşturulur. Her [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] için +2 [icon:CITYSTATE] Şehir Devleti'ne. [icon:CITYSTATE] Herhangi bir [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Çağ[/TIP]'daki keşifçiler, hasar almadan Okyanus'a girebilir (ancak Antik Çağ'da [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]karaya çıkamaz[/TIP] [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP]'da).</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_TOFI_A_TOOLTIP" Language="tr_TR">
+      <Text>Her [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolu[/TIP] için [icon:CITYSTATE] Şehir Devleti'ne. [icon:CITYSTATE] Herhangi bir [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Çağ[/TIP]'daki bir imparatorluğa ait keşif birimleri, hasar almadan Okyanus'a girebilir (ancak Antik Çağ'da [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]karaya çıkamaz[/TIP] [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP]'da).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_NGATU_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_CULTURE] [icon:YIELD_WAREHOUSE] [TIP:LOC_PEDIA_CONCEPTS_WAREHOUSE_TOOLTIP]Depo[/TIP] Binalarında Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TAKUAKA_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_PRODUCTION] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehirler[/TIP]'deki Balıkçı Teknelerinde +1 [icon:YIELD_SCIENCE] Bilim. Tüm [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP]'ndeki Resiflerdeki Balıkçı Teknelerinde +2 [icon:YIELD_SCIENCE] Bilim.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TONGIAKI_DESCRIPTION" Language="tr_TR">
+      <Text>+10 [icon:TRADE_ROUTE] Deniz [TIP:LOC_PEDIA_CONCEPTS_TRADE_RANGE_TOOLTIP]Ticaret Yolu Menzili[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_TONGA_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+1[icon:YIELD_DIPLOMACY] Etki[/B] [B]Saray[/B] ve [B]Belediye Binaları[/B] üzerinde [B]Kıyı[/B]'ya bitişik Yerleşim Yerlerinde.[LI][icon:PROJECT] [B]Şehir Devleti - Birleştir [/B]veya [B]Birim Toplama Eylemi[/B] kullanamaz.[LI][B]+30%[icon:YIELD_PRODUCTION] Üretim [/B][B]Ha'amonga 'a Maui[/B]'nin inşası için. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_TONGA_ABILITY_NAME" Language="tr_TR">
+      <Text>Güneyin Efendileri</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_AQ_TONGA_NAME" Language="tr_TR">
+      <Text>Tonga Sivil Toplumu</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KALIA_2_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye Tonga'ya Özgü [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgelere[/TIP] karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KALIA_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Tonga'ya Özgü [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Müstahkem Bölgelere[/TIP] karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KALIA_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye Tonga'ya Özgü [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgelere[/TIP] karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TEHINA_DESCRIPTION" Language="tr_TR">
+      <Text>Tonga'ya özgü Keşifçisi.  Okyanusa girebilir (hasar almaz). [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]karaya çıkamaz[/TIP] [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP]'da. Bitişik Keşiflerde [icon:Action_Pillage] Kıyı Baskını kullanabilir ve [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]gemiye binme[/TIP] işlemini [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]çağın[/TIP] başında gerçekleştirebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_TONGA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tonga[/B], [B]Himiko[/B]'yu stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_HIMIKO_TONGA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tonga[/B], [B]Himiko[/B]'yu stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_TONGA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tonga[/B], [B]José Rizal[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TONGA_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Tonga[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TONGA_HAWAII_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tonga[/B] ve [B]Hawai'i[/B] ikisi de Pasifik güçleridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_KALIA_DESCRIPTION" Language="tr_TR">
+      <Text>+{1_amount} [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgelere[/TIP] karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_KALIA_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgelere[/TIP] karşı</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ESI_MAKA_FAAKINANGA_ADJACENT_TO_COAST_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+{1_Amount} ʻEsi Maka Faakinanga</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_NGATU_NAME" Language="tr_TR">
+      <Text>Ngatu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TAKUAKA_NAME" Language="tr_TR">
+      <Text>Takuaka</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TONGIAKI_NAME" Language="tr_TR">
+      <Text>Tongiaki</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KALIA_NAME" Language="tr_TR">
+      <Text>Kalia</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TEHINA_NAME" Language="tr_TR">
+      <Text>Tehina</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE1" Language="tr_TR">
+      <Text>Cilakofa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE10" Language="tr_TR">
+      <Text>Yetakapevaki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE11" Language="tr_TR">
+      <Text>İkan'hatki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE12" Language="tr_TR">
+      <Text>Vapa'konetta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE13" Language="tr_TR">
+      <Text>Cornstalk Kasabası</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE14" Language="tr_TR">
+      <Text>Nonhelema Kasabası</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE15" Language="tr_TR">
+      <Text>Nepipemi Hotaapata</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE16" Language="tr_TR">
+      <Text>Saavanva Hoteve</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE17" Language="tr_TR">
+      <Text>Vapatomika</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE18" Language="tr_TR">
+      <Text>Makacheki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE19" Language="tr_TR">
+      <Text>Mavaskaveviikiva</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE2" Language="tr_TR">
+      <Text>Pikaviiki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE20" Language="tr_TR">
+      <Text>Yeni Pekoviki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE21" Language="tr_TR">
+      <Text>Chillicothe Eski Şehir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE22" Language="tr_TR">
+      <Text>Bluejacket Kasabası</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE23" Language="tr_TR">
+      <Text>Vicita</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE24" Language="tr_TR">
+      <Text>Eskalapya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE25" Language="tr_TR">
+      <Text>Manitu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE26" Language="tr_TR">
+      <Text>Çinodahiçetha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE27" Language="tr_TR">
+      <Text>Skaalaappiye</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE28" Language="tr_TR">
+      <Text>Hokima</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE29" Language="tr_TR">
+      <Text>Nipivasikvana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE3" Language="tr_TR">
+      <Text>Thuthy's Hoteve</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE30" Language="tr_TR">
+      <Text>Kolavapani Hotekvi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE4" Language="tr_TR">
+      <Text>Penfekim'teko</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE5" Language="tr_TR">
+      <Text>Beyaz Meşe</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE6" Language="tr_TR">
+      <Text>Küçük Balta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE7" Language="tr_TR">
+      <Text>Peygamber'in Kasabası</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE8" Language="tr_TR">
+      <Text>Sekakvis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHAWNEE9" Language="tr_TR">
+      <Text>Vakakaalli</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_1" Language="tr_TR">
+      <Text>Pelovikaposi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_10" Language="tr_TR">
+      <Text>Hacipivasi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_2" Language="tr_TR">
+      <Text>Napivesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_3" Language="tr_TR">
+      <Text>Vikekakamsi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_4" Language="tr_TR">
+      <Text>Natopesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_5" Language="tr_TR">
+      <Text>Viicipiyesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_6" Language="tr_TR">
+      <Text>Kitakimiyesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_7" Language="tr_TR">
+      <Text>Pelovapama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_8" Language="tr_TR">
+      <Text>Hakovesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_FEMALE_9" Language="tr_TR">
+      <Text>Nikaanipiyesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_1" Language="tr_TR">
+      <Text>Kinvisiimo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_10" Language="tr_TR">
+      <Text>Paksinva</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_2" Language="tr_TR">
+      <Text>Pecfepto</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_3" Language="tr_TR">
+      <Text>Napiyehaska</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_4" Language="tr_TR">
+      <Text>Natopeskata</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_5" Language="tr_TR">
+      <Text>Piyecikapovi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_6" Language="tr_TR">
+      <Text>Hatakepi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_7" Language="tr_TR">
+      <Text>Kokvetekvisiimo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_8" Language="tr_TR">
+      <Text>Cipikveskaka</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_SHAWNEE_MALE_9" Language="tr_TR">
+      <Text>Halakotaka</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SHAWNEE_ADJECTIVE" Language="tr_TR">
+      <Text>Şavni</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SHAWNEE_FULLNAME" Language="tr_TR">
+      <Text>Şavni</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SHAWNEE_NAME" Language="tr_TR">
+      <Text>Şavni</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Amerikan kolonilerinin batıya doğru genişlemesi, Kızılderili kabileleriyle sürekli çatışmalara yol açtı. Yerli topluluklar, sömürgeci ilerlemeyi bağımsız olarak püskürtmekte zorlandılar ve bu tehdide karşı birleşip birlikte yüzleşmekte de zorlandılar. Aralarındaki sosyal, siyasi ve kültürel bölünmeler derinden yerleşmişti ve üstesinden gelmek zordu. Ancak 1783'te, Büyük Göller bölgesinde bir kabileler konfederasyonu toplandı ve Amerika Birleşik Devletleri'ne karşı birkaç büyük zafer kazandı. İttifak kısa ömürlü olmasına rağmen, birleşik bir cephe fikri, yükselişine ve düşüşüne tanık olan ve onu yeniden yaratmaya kararlı olan genç bir Şavnî savaşçısında yer etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Adı "Gökyüzündeki Panter" anlamına gelen Tecumseh, 1768'de gece gökyüzünde bir meteor süzülürken dünyaya geldi. Zorlu bir gençliğe rağmen, akranları arasında hızla umut verici bir lider ve savaşçı olarak öne çıktı. Tecumseh yetenekli bir avcı ve dövüşçüydü; 14 yaşında ilk savaşından kaçsa da, davranışlarından utandı ve bunun bir daha asla olmayacağına karar verdi (ve asla olmadı). Aynı zamanda karizmatik, zeki ve yetenekli bir hatipti, mizah eğilimi ve diplomasiye yatkın bir gözü vardı. Sömürgeciler ile Şavnî topluluğu arasındaki çatışmanın ortasında büyüyerek, diplomatik toplantılarda sık sık yeterliliğini gizlese ve yalnızca Şavnîce konuşsa da, genç yaşta İngilizce öğrenmeyi seçti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>1780'lere gelindiğinde, Amerikan sömürgecileri Ohio Nehri ile Büyük Göller arasındaki bir bölge olan Kuzeybatı Toprakları'na doğru ilerliyorlardı. Şef Mavi Ceket yönetimindeki Şavnîler de dahil olmak üzere gevşek bir kabileler konfederasyonu, İngilizlerin yardımıyla ilerlemelerine karşı çıktı. Ancak bu konfederasyonun Tecumseh'in de katıldığı Düşmüş Keresteler Muharebesi'ndeki yenilgisinden sonra, birçok şef 1795 Greeneville Antlaşması'nda topraklarını Amerika Birleşik Devletleri'ne devretti. Tecumseh bu eyleme şiddetle karşı çıktı. Sonraki yıllarda yerel Şavnîler üzerindeki etkisi arttı – ancak küçük kardeşinin beklenmedik yükselişi hayatının akışını değiştirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Tecumseh'in aksine, Lalawethika hiçbir zaman büyük bir umut vaat etmemişti. Korkak, beceriksiz ve çocukken yanlışlıkla kendi gözünü vurmuş bir alkolikti. Yine de 1805'te, birincil Şavnî tanrısı olan Hayatın Efendisi'nin ona erdemli bir yaşamı izleyenlerin (ve ondan sapanların) kaderini gösterdiği vizyonlar görmeye başladı. Lalawethika adını Tenskwatawa, yani "Açık Kapı" olarak değiştirdi ve Avrupa mallarını ve uygulamalarını reddeden, yalnızca geleneksel değerleri ve yaşam biçimlerini benimseyen yeni bir maneviyat biçimini vaaz etmeye başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Peygamber Tenskwatawa kendini köyün yeni ruhani lideri olarak kabul ettirdi. Siyasi ve savaş şefi olan Tecumseh, kardeşinin inançlarıyla aynı çizgide olmaya karar verdi. İkisi yakındaki kabilelerden birkaç önde gelen takipçi kazandı, ancak diğer Şavnîler arasında tepkiyle karşılaştılar – eski konfederasyon lideri Mavi Ceket saflarına katılırken, Wapakoneta'nın güçlü Kara Toynak'ı onları tanımayı reddetti. Kardeşler ayrıca, yeni ruhani hareketten ve kabileleri birleştirme potansiyelinden rahatsız olan yerel sömürge yetkililerinin de dikkatini çekti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>1808'de Tecumseh ve Tenskwatawa daha batıya taşındılar ve birçok farklı kabileden çok sayıda takipçi topladıkları Peygamber Kasabası köyünü kurdular. Barışçıl varlıkları, Indiana Toprakları valisi William Henry Harrison'ın Şavnîleri dışlayarak birkaç kabileyle bir toprak alımı müzakere ettiği Fort Wayne Antlaşması ile sadece bir yıl sonra paramparça oldu. Tecumseh antlaşmanın anlaşmasından öfkelendi ve antlaşmayı geçersiz kılmak için Harrison'la bizzat yüzleşti, toprağın tüm kabilelere ait olduğunu ve bu nedenle kimse tarafından satılamayacağını ilan etti. Eli boş döndüğünde, Kızılderililer arasında birliği ve bireysel kabilelerin geleneksel yollarının korunmasını içeren ikili bir hedefi destekleyen bir kabileler arası konfederasyon kurmaya ciddiyetle başladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Peygamber Kasabası'na giderek daha fazla savaşçı akarken, Tecumseh Tenskwatawa'yı iç cepheyi yönetmek üzere bıraktı ve geniş çapta seyahat etmeye başladı. Güneye doğru çok uzaklara gitti, birkaç bin mil katetti ve birçok toplulukla konuştu, genç savaşçılarını davasına katılmaya teşvik etti. Yolculuk bir askere alma faaliyeti olarak büyük ölçüde başarısız oldu, ancak Tecumseh'in hitabeti daha sonraki çatışmalarda meyve verecek tohumlar ekti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Tecumseh'in yokluğunda Harrison, Tenskwatawa'yı görevden almak için Peygamber Kasabası'na bir ordu götürdü. Tecumseh kardeşini Amerikalılarla gerginliği artırmaması konusunda uyarmıştı, ancak Peygamber Harrison'la müzakereler başlamadan önce bir saldırı emri verdi. Harrison daha fazla asker kaybetmesine rağmen, Tippecanoe Muharebesi bir Amerikan zaferiyle sonuçlandı ve Peygamber Kasabası sonrasında yandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_9" Language="tr_TR">
+      <Text>Tecumseh'in konfederasyonu darmadağın görünüyordu, ancak yolculuğundan döner dönmez yeniden inşa etmeye başladı. Sadece aylar sonra, 1812 Savaşı patlak verirken takipçilerini İngilizlerle bir ittifaka götürdü. Kişiliği ve askeri yaratıcılığı hızla İngiliz komutanlarının güvenini ve hayranlığını kazandı ve 1813'te Thames Muharebesi'nde öldürülene kadar Kızılderili kuvvetlerini yönetmekle görevlendirildi. Ölümü konfederasyonunun sonunu getirse de, Tecumseh'in vizyonu ve mirası onu modern güne kadar hayatta kalan bir halk kahramanına dönüştürdü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_TITLE" Language="tr_TR">
+      <Text>{LOC_LEADER_TECUMSEH_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şavnilerin kökenleri belirsizdir, ancak yaygın olarak Ohio Nehri Vadisi'ndeki Fort Ancient kültüründen (MS 1000-1650 civarı) çıktıklarına inanılır. Fort Ancient halkı, mısır tarımı ve çiftçilik teknikleri hakkında yeni bir anlayışla Geç Ormanlık döneminden çıktı ve bu da daha yerleşik bir yaşam tarzına ve daha büyük yerleşimlere yol açtı. Tek bir siyasi varlık oluşturmadılar; bunun yerine, çeşitli siyasi ve dilsel gruplara yayılan ortak bir sosyal organizasyon, dini inançlar, sanatsal stiller ve höyük yapımı kültürünü paylaştılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Şefler ve konseyler tarafından yönetilen Fort Ancient köyleri, yalnızca kendi duvarları içinde güç kullanıyordu – siyasi etkileri diğer köylere uzanmıyordu ve büyük güç merkezleri yoktu. Kalıcı olarak inşa edilen yaz köyleri tarımsal amaçlıydı ve 500 kişiye kadar barındırabiliyordu. Bunlar kışın terk ediliyor, insanlar 30 kişiye kadar olan hareketli kış av kamplarına dağılıyordu. Bahar geldiğinde Fort Ancient halkı yaz köylerinde yeniden bir araya geliyordu; bu göç döngüsü, değişen mevsimleri kutlayan ritüellere temel oluşturdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Haudenosaunee ile yapılan ticaret yoluyla, 16. ve 17. yüzyılın başlarında birçok Avrupa malı Ohio Nehri Vadisi'ne ulaştı. Ancak ilk Avrupalılar 1650'lerde geldiğinde Fort Ancient halkı gitmişti. Neden göç ettikleri tam olarak belirsizliğini koruyor. Arkeolojik kayıtlar, çiçek hastalığı gibi hastalıkların (muhtemelen tüccarlar tarafından taşınan) Ohio Nehri Vadisi'ni birkaç dalga halinde etkilediğini gösteriyor. Komşu toplumlar da, Kunduz Savaşları'nın Doğu'dan şiddet ve genişlemeyi ateşlemesiyle giderek daha saldırgan hale geliyordu. Ohio Nehri Vadisi bu dış baskılar nedeniyle daha tehlikeli hale geldikçe, Fort Ancient halkı anavatanlarında kalma riskini almak yerine yer değiştirmeyi seçmiş gibi görünüyor. Bu insanlar seyahat ettikçe kabile farklılıkları birleşti ve yeni kimliklerin yeni bir çağını oluşturdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Şavniler bu geçiş yapan kabileler arasındaydı. Fort Ancient öncüllerinde olduğu gibi, köy güç ve sadakatin odak noktası olarak kaldı ve liderlik bir sivil şef ile bir savaş şefi arasında bölündü. Mevsimsel değişiklikler, özellikle ilkbahar ve sonbahar Ekmek Dansları olmak üzere önemli ritüellerle kutlanırdı. Kabile beş kola ayrılmıştı – Chalagawtha, Kispokotha, Mekoche, Pekowitha ve Thawekila – her biri daha büyük kabileye belirlenmiş bir sosyal rol katkıda bulunuyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Sömürge tarihi kayıtlarında ilk kez 1674'te ortaya çıktıklarında Şavniler zaten gezgindi. Sonraki on yıllar boyunca, Avrupa ve Yerli Amerikan temasının kesişim noktalarında tutarlı bir şekilde bulunabilirlerdi ve iki dünya arasında aracılık yapıyorlardı. Doğu kıyısı boyunca yerleştiler, genellikle tüccar, tercüman ve diplomat olarak hizmet ettiler. Şavni dili bile ticaret için lingua franca haline geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>18. yüzyıl ilerledikçe, sömürgeler ile Yerli halklar arasındaki düşmanlık giderek daha da güçlendi. Birçok Şavni, diğer Algonkin kabileleriyle birlikte, Fort Ancient atalarının bir zamanlar yaşadığı Ohio Nehri Vadisi'ne geri döndü. Ancak ABD sömürgeleri batıya doğru ilerlemeye, toprakları ele geçirmeye ve kabileleri topraklarından sürmeye devam etti. Birkaç Şavni savaş şefi bu genişlemeye karşı çıktı, en önemlisi çeşitli Yerli Amerikan halklarını birleştirmek ve ABD ilerlemesini püskürtmek için büyük bir kabileler arası konfederasyon kuran Tecumseh idi. 1813'te savaşta ölümünün ardından konfederasyon dağıldı ve Şavniler giderek daha batıya göç etti. Bugün Oklahoma'da federal olarak tanınan üç Şavni kabilesi bulunmaktadır: Şavni Kabilesi, Kayıp Şavni Kabilesi ve Doğu Şavni Kabilesi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_MAWASKAWE_SKOTE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Mawaskawe skote, "konsey ateşi", kabile ve kabileler arası tartışmaların odak noktasıdır. Tarihsel olarak, tüm Şavni topluluğunu etkileyen kararlar alınması gerektiğinde ateş yakılırdı ve seçilmiş temsilciler bir çözüme ulaşılana kadar her konuyu tartışmak için toplanırdı. Mawaskawe skote, etkilenenlere konuşma ve dinlenme fırsatı verilen karşılıklı saygı alanıydı. Ateşin kendisinin bakımı kutsal bir uygulamaydı. Bugün Şavni geleneğinin hayati bir parçası olmaya devam etmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_MALEKI_KINTAKE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şavni yerleşimleri genellikle doğal avantajlar sunan bölgelerde, genellikle çeşitli kaynaklara erişim sağlayan ekotonlarda inşa edilirdi. Aynı zamanda Şavniler, ihtiyaçlarını karşılamak için toprağı sürdürülebilir bir şekilde yeniden şekillendirdiler. Bu maleki kintake ("planlı habitatlar") hasat edilebilecek yiyecek miktarını en üst düzeye çıkarırken, doğal bolluğun yeniden büyümesini ve yeniden nüfuslanmasını teşvik ediyordu. Orman yönetimi bu sürecin önemli bir unsuruydu. Ağaç kesimi ve planlı orman yangınları, tarım için alan yaratmak üzere fazla bitki örtüsünü temizledi. Bu alan aynı zamanda böğürtlen çalıları ve avlanabilecek ayılar ve geyikler gibi daha büyük hayvanları çeken diğer yabani yiyecek kaynaklarının çoğalmasına da olanak tanıdı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_MIYASKA_LATOWEKI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şavniler gezgindi, yerleşim yerlerinde yaşıyor ve Chesapeake Körfezi'nden Savannah Nehri Vadisi'ne kadar ticareti kolaylaştırıyorlardı. Varlıklarının önemli bir sembolü, doğu kıyısı boyunca baskın ticaret dili olarak Şavni dilinin – miyaska latoweki, "lingua franca" – benimsenmesiydi. Merkezi bir Algonkin dili olan Şavni, diğer kabileler ve sömürgeciler tarafından öğrenilmesi basit kabul ediliyordu ve bu tür iletişimin çok önemli olduğu bir çağda çok çeşitli insanları kültürel çizgiler boyunca birbirine bağlıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_TELWATIKI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tarihsel olarak küçük bir nüfusa sahip olmasına rağmen, Şavnilerin erken ABD tarihinde önemli bir etkisi oldu, büyük ölçüde diplomasideki büyük becerileri sayesinde. Avrupa ve Yerli Amerikan dünyaları arasındaki belirsiz alanda geliştiler, diğer kabilelerin köylerinde bir arada yaşadılar ve tüccarlar, rehberler ve tercümanlar olarak çalışmalarıyla her tarafta ittifaklar kurdular. Karmaşık sosyo-politik manzaraları anlamaları sayesinde Şavniler, telwatiki, yani tarafları birbirine karşı oynama uygulaması yoluyla diplomatik bilgilerini kullandılar. Etraflarındaki dünyayı hareket ettirerek halklarının uzun ömürlülüğünü ve refahını sağladılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_WYEHI_SIMEKOFI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şavni toplulukları wiyehi simekofi, yani bir tür eşitlikçilik felsefesi altında örgütlenmişti. Çoğu sosyal pozisyon kalıtsal değildi; bunun yerine, kişinin konumu hayattaki erdemlerine ve başarılarına göre belirleniyordu ve liderlik birkaç siyasi figür tarafından paylaşılıyordu. Yönetim, bir sivil lider ile bir askeri lider arasında bölünmüştü. Sivil şefler Chalagawtha klanından seçiliyordu ve bu ömür boyu süren bir roldü. Bu arada, savaş şefleri kişisel becerilerine ve başarılarına göre liderliğe yükseltiliyordu. Şavni köylerinin ayrıca toplumu yöneten ve yönlendiren yaşlı erkek ve kadınlardan oluşan bir yönetim konseyi de vardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_HOCEEPKILENI_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Hoceepkileni, "ilaç adamı", Şavni halkı arasında bir ruhani liderdi. Fiziksel ve metafiziksel dünyalar arasında aracılık yapıyor ve topluluğu ilahi olanla ilişkilerinde yönlendiriyorlardı. İyileştirme, hoceepkileni'nin becerilerinin önemli bir parçasıydı ve fiziksel rahatsızlıklar tıbbi ve ruhani olarak tedavi ediliyordu. Ancak hoceepkileni, nüfus içindeki bölünmeleri onararak sosyal gerilimleri ve toplumsal anlaşmazlıkları da ele alıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_KISPOKO_NENA_TO_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şavni savaşı, savaş becerisi kadar toprak bilgisine de dayanıyordu. Her kispoko nena'to, "savaşçı", genç yaştan itibaren silah ustalığı ve genellikle avcılık yoluyla ormanlarla bir ilişki geliştirmek için eğitilirdi. Şavni taktikleri büyük ölçüde pusulara ve taktiksel avantaj elde etmek için arazinin kullanımına dayanıyordu. Savaşçılar, şüphelenmeyen düşmanlara saldırmadan önce, çalılıkların arasında hareketsiz bir şekilde aynı pozisyonda birkaç gün bekleyebilirdi. Zırhla engellenmeden hızlı ve sessizce hareket ederek, ormanlarla bütünleşir, ölümcül saldırılar yapmak için ortaya çıkar ve geldikleri kadar çabuk kaybolurlardı. Bu stratejiler küçük savaşçı gruplarının etkinliğini artırarak çok daha büyük güçlerin üstesinden gelmelerini sağladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_SERPENT_MOUND_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Günümüz Ohio'sunda bir platoda, eski bir kraterin bulunduğu yerde, yerli halk büyük bir yılan şeklinde dolambaçlı bir höyük inşa etti. Alan muhtemelen sıra dışı arazisi nedeniyle seçilmişti ve MÖ 320 ile MS 1400 yılları arasında bin yıldan fazla bir süre boyunca çeşitli farklı halklar tarafından inşa edilmişti. Höyük arazi boyunca kıvrılır, manzaraya yerleşir ve yılanın ağzı oval bir nesneyi, belki bir yumurtayı (muhtemelen bir zamanlar bir tapınağın bulunduğu yer) yutuyor gibi görünür.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_SERPENT_MOUND_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>O zamandan kalma yazılı kayıtların olmaması nedeniyle höyüğün kesin amacı bir sır olarak kalmaktadır, ancak bu bölgenin insanları uzun zamandır höyükler inşa etmiş ve büyük bir mitolojik yılan fikrine sahip olmuşlardır. Örneğin, Mississippi kültürü (yılan höyüğüyle ilgili ancak doğrudan ilişkili değil) Cahokia'daki büyük höyük yapılarıyla ünlüdür ve boynuzlu bir yılan figürü Şavni ve diğer mitolojilerde de görülür.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_MAWASKAWE_SKOTE_NAME" Language="tr_TR">
+      <Text>Mawaskawe Skote</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SERPENT_MOUND_NAME" Language="tr_TR">
+      <Text>Yılan Höyüğü</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Sizi denize, mağaralara, geldiğiniz her nereyse oraya geri süreceğiz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Alınsın mı, Ulu Ruh'un bize verdiği evlerimiz ve toprağımız? Eve dönenleri gömdüğümüz yerler mi? Asla!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_AI_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Bana bir ölüm şarkısı geldi ve onu söyleyeceğim. Bitirdiğimde, kış karlarının gittiği yere, ulaşamayacağın yere gideceğim.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Gece gökyüzünü bir şimşek gibi geçen bir yıldız görüyor musun? O benim, Tecumseh, büyük mesafeler kat eden.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Gece gökyüzünü bir şimşek gibi geçen bir yıldız görüyor musun? O benim, Tecumseh, büyük mesafeler kat eden.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Gece gökyüzünü bir şimşek gibi geçen bir yıldız görüyor musun? O benim, Tecumseh, büyük mesafeler kat eden.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_TECUMSEH" Language="tr_TR">
+      <Text>Anlaştık. Bizi pişman etmeyin.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_TECUMSEH" Language="tr_TR">
+      <Text>Hayır.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAIN_CHAR_SELECT_LEADER_TECUMSEH_ANY" Language="tr_TR">
+      <Text>Atalarım savaşçıydı. Oğulları bir savaşçıdır. Onlardan sadece varlığımı alıyorum. Kendimi ne olduğumu ben yaptım.</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_K_TEKANI_FIPI_NAME" Language="tr_TR">
+      <Text>K'tekani Fipi</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_KILEKINIKA_FIPI_NAME" Language="tr_TR">
+      <Text>Kilekinika Fipi</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_M_SIFIPIWIKI_NAME" Language="tr_TR">
+      <Text>M'sifipiwiki</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_P_SIKFI_FIPI_NAME" Language="tr_TR">
+      <Text>P'sikfi Fipi</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_PELEWA_FIPI_NAME" Language="tr_TR">
+      <Text>Pelewa Fipi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MALEKI_KINTAKE_NAME" Language="tr_TR">
+      <Text>Maleki Kintake</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MIYASKA_LATOWEKI_NAME" Language="tr_TR">
+      <Text>Miyaska Latoveki</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TELWATIKI_NAME" Language="tr_TR">
+      <Text>Telvatiki</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_WYEHI_SIMEKOFI_NAME" Language="tr_TR">
+      <Text>Wiyehi Simekofi</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200B_NAME" Language="tr_TR">
+      <Text>Kötülük tek bir kaderi paylaşır: yenilgi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200C_NAME" Language="tr_TR">
+      <Text>Düşmanlar ancak birlik yoluyla yenilebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200D_NAME" Language="tr_TR">
+      <Text>Halk bu vizyonu istedikleri gibi yorumlayabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201B_NAME" Language="tr_TR">
+      <Text>Vizyon zafere giden yolu gösterir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201C_NAME" Language="tr_TR">
+      <Text>Bir yaratık böyle bir ısıdan nasıl hayatta kalır?</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202B_NAME" Language="tr_TR">
+      <Text>Piponun kendisi ittifaka layık bir hediyedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202C_NAME" Language="tr_TR">
+      <Text>Ek müzakere taktikleri gereklidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203B_NAME" Language="tr_TR">
+      <Text>Yeni inananlar yeni askerler demektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203C_NAME" Language="tr_TR">
+      <Text>Bu mucizenin haberi yayılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204B_NAME" Language="tr_TR">
+      <Text>Savaşçıları hazırla.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204C_NAME" Language="tr_TR">
+      <Text>Kan dökülmesi her zaman cevap değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206B_NAME" Language="tr_TR">
+      <Text>Gençlerin bağlılığı parlak bir gelecek vaat eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206C_NAME" Language="tr_TR">
+      <Text>Yaşlıların şüphelerine saygı duyulmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208C_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208D_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209C_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209D_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TECUMSEH_NAME" Language="tr_TR">
+      <Text>Tecumseh</Text>
+    </Replace>
+    <Replace Tag="LOC_1109C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1109C_NAME" Language="tr_TR">
+      <Text>Şavniler toplanırken, mavi tütün dumanı bulutları yükselir, kahkaha ve sohbetle karışır.</Text>
+    </Replace>
+    <Replace Tag="LOC_1497A_COMPLETION" Language="tr_TR">
+      <Text>Şavni yönetiminin zirve döneminde, halk için siyasi kararları Cilakofe bölümünün yaşlıları verirdi. Ancak bir {1_civilization_adj} hükümeti altında rolleri belirsizdir. Bazı {2_civilizations_adj} Şavniler artık eski usullere uymaları gerekmediğini düşünürken, diğerleri gelenekte değer görür.</Text>
+    </Replace>
+    <Replace Tag="LOC_1497A_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Şavniler</Text>
+    </Replace>
+    <Replace Tag="LOC_1497B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Şehirlerde her bir Yuvalanmış Şavni Geleneği için.</Text>
+    </Replace>
+    <Replace Tag="LOC_1497B_NAME" Language="tr_TR">
+      <Text>Yaşlıların otoritesini koru.</Text>
+    </Replace>
+    <Replace Tag="LOC_1497C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Altın Binalarında.</Text>
+    </Replace>
+    <Replace Tag="LOC_1497C_NAME" Language="tr_TR">
+      <Text>Yeni Şavniler yeni yönetim biçimleri benimser.</Text>
+    </Replace>
+    <Replace Tag="LOC_1498A_COMPLETION" Language="tr_TR">
+      <Text>Cilakofe Yaşlıları, şimdi {1_civilization_adj} hükümeti içinde faaliyet gösteren bir siyasi parti, Şavniler için uzun süredir önemli olan avlanma alanları hakkında bir endişe dile getiriyor. Yeni kentsel tecavüzler yaban hayatı alanını tüketme tehdidi oluşturuyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_1498A_STORYTITLE" Language="tr_TR">
+      <Text>Orman Hakları</Text>
+    </Replace>
+    <Replace Tag="LOC_1498B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Şehirlerde ama {2_reward} Şehirlerde.</Text>
+    </Replace>
+    <Replace Tag="LOC_1498B_NAME" Language="tr_TR">
+      <Text>Yaşlılar ormancılığı yönetecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_1498C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye biter.</Text>
+    </Replace>
+    <Replace Tag="LOC_1498C_NAME" Language="tr_TR">
+      <Text>Talebi dikkate alma.</Text>
+    </Replace>
+    <Replace Tag="LOC_1499A_COMPLETION" Language="tr_TR">
+      <Text>{1_civilization_adj} Şavni gençliği Tenskwatawa'nın öğretilerini yeniden keşfetti. Yaşlılarının geleneksel otoritesinden uzun süredir uzaklaşmış olan genç Şavniler, onları modern çağ için yeniden düşünülmüş ve revize edilmiş olarak kendi başlarına yorumlarken bulurlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_1499A_STORYTITLE" Language="tr_TR">
+      <Text>Şavni Rönesansı</Text>
+    </Replace>
+    <Replace Tag="LOC_1499B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1499B_NAME" Language="tr_TR">
+      <Text>Gençler çiğneme alanlarına geri döner.</Text>
+    </Replace>
+    <Replace Tag="LOC_1499C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1499C_NAME" Language="tr_TR">
+      <Text>Şavni şarkıları radyoda duyulur.</Text>
+    </Replace>
+    <Replace Tag="LOC_1500A_COMPLETION" Language="tr_TR">
+      <Text>Bir Şavni şehir plancısı yeni sanayi bölgeleri için planlarını açıklar, ancak Chillicothe yaşlıları bunların yüzlerce yıllık bir Mawaskawe Skote alanına zarar vereceğinden endişe ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_1500A_STORYTITLE" Language="tr_TR">
+      <Text>Sanayinin Yürüyüşü</Text>
+    </Replace>
+    <Replace Tag="LOC_1500B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1500B_NAME" Language="tr_TR">
+      <Text>Yaşlıların tavsiyesini al.</Text>
+    </Replace>
+    <Replace Tag="LOC_1500C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1500C_NAME" Language="tr_TR">
+      <Text>Yaşlıların tavsiyesini reddet.</Text>
+    </Replace>
+    <Replace Tag="LOC_1501A_COMPLETION" Language="tr_TR">
+      <Text>Yeni bir çağ yeni hikayeler gerektirir ve tarihçiler {1_civilization_adj} halkının geniş bir incelemesiyle başlamışlardır. Şavni Hoceepkileni, hikayelerinin ciltte ne ölçüde yer alacağını merak eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_1501A_STORYTITLE" Language="tr_TR">
+      <Text>Ulusal Mitler</Text>
+    </Replace>
+    <Replace Tag="LOC_1501B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1501B_NAME" Language="tr_TR">
+      <Text>Hoceepkileni hikayelerini topluluklarında tutar.</Text>
+    </Replace>
+    <Replace Tag="LOC_1501C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_1501C_NAME" Language="tr_TR">
+      <Text>Hoceepkileni arşivlerini açar ve katkıda bulunur.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713A_COMPLETION" Language="tr_TR">
+      <Text>Çiftçiler tarlalarından dönerken, Şavniler Ekmek Dansı için toplanırlar. Kadınlar avcılardan gelen etin yanına mısır kekleri koyarlar. Yetiştirilen yiyecek ve toplanan yiyecek – beslenen yaşam ve alınan yaşam. Halk dans eder, şarkı söyler ve onları besleyen ve geleceklerini sağlayan toprağın bereketine şükreder.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713A_STORYTITLE" Language="tr_TR">
+      <Text>Değişen Mevsimler</Text>
+    </Replace>
+    <Replace Tag="LOC_3713B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713B_NAME" Language="tr_TR">
+      <Text>Tarlalar bereketle dolup taşar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713C_NAME" Language="tr_TR">
+      <Text>Ormanlar av hayvanlarıyla zengindir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3713D_NAME" Language="tr_TR">
+      <Text>Tüm insanlar kutlamada sevinir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3714A_COMPLETION" Language="tr_TR">
+      <Text>Hayvanlar vahşi doğada nadirleşti ve Şavni avcıları onlara ne olduğunu merak ederler. Kulak misafiri olan yaşlı bir kadın ormanı işaret eder. Ağaçlar çok sık, der onlara. Hayvanların geri dönmesini istiyorlarsa, ormanları dostane hale getirmeliler.</Text>
+    </Replace>
+    <Replace Tag="LOC_3714A_STORYTITLE" Language="tr_TR">
+      <Text>Kayıp Kardeşler</Text>
+    </Replace>
+    <Replace Tag="LOC_3714B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3714B_NAME" Language="tr_TR">
+      <Text>Orman ateşe verilecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_3714C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3714C_NAME" Language="tr_TR">
+      <Text>Bazı ağaçları kesmek işe yarayacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3715A_COMPLETION" Language="tr_TR">
+      <Text>Şavni vatandaşları, başkentteki artan nüfusu tartışmak için mawaskawe skote'de (konsey ateşi) toplanırlar. Birkaç şef, insanların yoğun mahallelerde daha iç içe yaşamasıyla kültürel çeşitliliğin azalmasından endişe duyar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3715A_STORYTITLE" Language="tr_TR">
+      <Text>Konsey Ateşinde</Text>
+    </Replace>
+    <Replace Tag="LOC_3715B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3715B_NAME" Language="tr_TR">
+      <Text>Farklılıklar korunmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3715C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3715C_NAME" Language="tr_TR">
+      <Text>Evrim kendi haline bırakılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3716A_COMPLETION" Language="tr_TR">
+      <Text>Hoceepkileni (Şavni şefi) teçhizatını ve ilaç çantasını hazırlar. Birçoğu onun sözlerini ve öğütlerini bekler. Dünyanın gerçek doğasına henüz gözlerini açmamış olanlar da öyle.</Text>
+    </Replace>
+    <Replace Tag="LOC_3716A_STORYTITLE" Language="tr_TR">
+      <Text>Kadim Bilgelik</Text>
+    </Replace>
+    <Replace Tag="LOC_3716B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3716B_NAME" Language="tr_TR">
+      <Text>Şavniler onun bilgeliğinden faydalanacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_3716C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3716C_NAME" Language="tr_TR">
+      <Text>Yurtdışına seyahat etmeli.</Text>
+    </Replace>
+    <Replace Tag="LOC_3717A_COMPLETION" Language="tr_TR">
+      <Text>Yas tutanlar kispoko nena'to'nun (Şavni savaşçısı) cesedine şarkılar söyler, cesur duruşunu hatırlar ve ölümünün ne zaman intikamının alınacağını merak ederler. Aniden bir haykırış yükselir: bir düşman düşmüştür.</Text>
+    </Replace>
+    <Replace Tag="LOC_3717A_STORYTITLE" Language="tr_TR">
+      <Text>Cana Karşılık Can</Text>
+    </Replace>
+    <Replace Tag="LOC_3717B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kispoko Nena’to üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_3717B_NAME" Language="tr_TR">
+      <Text>Savaşçıların çığlıkları havayı doldurur.</Text>
+    </Replace>
+    <Replace Tag="LOC_3717C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3717C_NAME" Language="tr_TR">
+      <Text>Bu boşluk doldurulmalı.</Text>
+    </Replace>
+    <Replace Tag="LOC_3718A_COMPLETION" Language="tr_TR">
+      <Text>Şavni savaşçıları savaşa hazırlanırken davul çalar. Yiyecek ve silah toplayarak, ufuktaki mücadele için kendilerini arındırmak üzere oruç tutmaya başlarlar. Büyük bir gürültü yükselir. Savaşçılar çığlık atar ve silahlarını ateşler, gelecekteki başarılarına dans eder ve şarkı söylerler. Sonra – sessizlik, düşmanların peşinde manzaraya karışırken.</Text>
+    </Replace>
+    <Replace Tag="LOC_3718A_STORYTITLE" Language="tr_TR">
+      <Text>Yaklaşan Çatışma</Text>
+    </Replace>
+    <Replace Tag="LOC_3718B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3718B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_3719A_COMPLETION" Language="tr_TR">
+      <Text>Şavni gümüşçüleri yeni parçalar için isteklerle dolup taşar. Yüzükler ve bilezikler, küpeler ve tabaklar… Herkes güzel metali arzular ve kısa sürede her yerleşim yeri aydan daha parlak parlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3719A_STORYTITLE" Language="tr_TR">
+      <Text>Metal Dokuyucuları</Text>
+    </Replace>
+    <Replace Tag="LOC_3719B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3719B_NAME" Language="tr_TR">
+      <Text>İnsanın asla çok fazla gümüşü olamaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_3719C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3719C_NAME" Language="tr_TR">
+      <Text>Bu başyapıtları ihraç etme zamanı geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_3720A_COMPLETION" Language="tr_TR">
+      <Text>Dünyanın dört bir yanındaki şehirler Şavni malları için haykırır. Tüccarlar bir pazardan diğerine koşar, alıcıları cezbeder ve evlerinin hikayelerini paylaşırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3720A_STORYTITLE" Language="tr_TR">
+      <Text>Konuşkan Tüccarlar</Text>
+    </Replace>
+    <Replace Tag="LOC_3720B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3720B_NAME" Language="tr_TR">
+      <Text>Kelimeleri zenginliğe dönüştürürler.</Text>
+    </Replace>
+    <Replace Tag="LOC_3720C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3720C_NAME" Language="tr_TR">
+      <Text>Yeni dostluklar kapılar açar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3721A_COMPLETION" Language="tr_TR">
+      <Text>Şavni savaşçıları başarılı bir avı kutlarlar. Ancak yaşlı adamlar, genç akranlarının hayvanların onlar için yaptığı fedakarlıklar için uygun şekilde şükredip etmediklerini merak ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_3721A_STORYTITLE" Language="tr_TR">
+      <Text>Ormanlık Alanlardan Gelen Bolluk</Text>
+    </Replace>
+    <Replace Tag="LOC_3721B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3721B_NAME" Language="tr_TR">
+      <Text>Gelenek unutulmasın diye korunmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3721C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3721C_NAME" Language="tr_TR">
+      <Text>Minnettar hayvanlar çoğalır ve ormanları dolu tutar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3722A_COMPLETION" Language="tr_TR">
+      <Text>Yakın ve uzaktan kalabalıklar Şavnilerin hayvanat bahçesine akın eder. Hayvanlar zariftir ve herkes bu garip canavarlara hayran kalır. Ancak olağanüstü olanın ortasında sıradan olanın tek bir hatırlatıcısı durur – bir hindi, halk tarafından uzun süredir saygı duyulan ve yaşam biçimleri için gerekli olan.</Text>
+    </Replace>
+    <Replace Tag="LOC_3722A_STORYTITLE" Language="tr_TR">
+      <Text>Pelewa</Text>
+    </Replace>
+    <Replace Tag="LOC_3722B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3722B_NAME" Language="tr_TR">
+      <Text>Tüm hayvanlar değer olarak eşittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3722C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3722C_NAME" Language="tr_TR">
+      <Text>Hindilerin kendi cazibesi vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3723A_COMPLETION" Language="tr_TR">
+      <Text>Yıldız gözlemcileri, bir kuyruklu yıldız gökyüzünde süzülürken gökleri işaret ederler. Tecumseh'e dönerek, yıldızlarda zıplayan göksel panteri gözlerinde yansımış olarak görürler. Gururla kabaran Tecumseh, adaşının bir ateş iziyle kayboluşunu izler.</Text>
+    </Replace>
+    <Replace Tag="LOC_3723A_STORYTITLE" Language="tr_TR">
+      <Text>Panterin Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_3723B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3723B_NAME" Language="tr_TR">
+      <Text>Halkı talih bekliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_3723C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3723C_NAME" Language="tr_TR">
+      <Text>Bir sonraki av verimli olacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3724A_COMPLETION" Language="tr_TR">
+      <Text>Çok tartışmadan sonra, yerel şefler Tecumseh'in konfederasyonuna katılmayı reddederler. Tartışmaktan yorulan şefler, herhangi bir kötü niyeti gidermek için bir barış çubuğu uzatırlar. İlerlemenin olmamasından memnun olmayan Tecumseh, çubuğu parmakları arasında dikkatlice tutar. Sonra, tek bir hareketle onu ikiye kırar ve parçaları ateşe atar. "Yine mi?" diye iç çeker bir şef, savaşçıları onu yeniden düşünmeye teşvik ederken. "Pekala..."</Text>
+    </Replace>
+    <Replace Tag="LOC_3724A_STORYTITLE" Language="tr_TR">
+      <Text>Müzakere Taktikleri</Text>
+    </Replace>
+    <Replace Tag="LOC_3724B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3724B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_3725A_COMPLETION" Language="tr_TR">
+      <Text>Şefler, Tecumseh'in birleşme girişimlerinden tedirgin olmuşlardır. İki şehir devleti yeter, derler – halkı kendi kaderlerine ve kendi kararlarına bırakın!</Text>
+    </Replace>
+    <Replace Tag="LOC_3725A_STORYTITLE" Language="tr_TR">
+      <Text>İç Muhalefet</Text>
+    </Replace>
+    <Replace Tag="LOC_3725B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3725B_NAME" Language="tr_TR">
+      <Text>Gerçek güç dayanışmadan gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3725C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak tüm Bağımsız Güç ilişkilerini 2 azalt.</Text>
+    </Replace>
+    <Replace Tag="LOC_3725C_NAME" Language="tr_TR">
+      <Text>Yeterince genişleme oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_3726A_COMPLETION" Language="tr_TR">
+      <Text>Düşman ilerler ve Tecumseh'in halkının toprağı küçülür. Yerleşim yerinin kaybına öfkelenen Tecumseh, sınırlarının ötesindeki bölgeleri toplar, eylemsizliğe razı olanlara – ve eğer düşerse, sırada olacak olanlara – başvurur.</Text>
+    </Replace>
+    <Replace Tag="LOC_3726A_STORYTITLE" Language="tr_TR">
+      <Text>Düşman Yaklaşıyor</Text>
+    </Replace>
+    <Replace Tag="LOC_3726B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3726B_NAME" Language="tr_TR">
+      <Text>Gelecek, savaşmaya devam edenler için yalnızca zafer barındırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3726C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3726C_NAME" Language="tr_TR">
+      <Text>Daha büyük iyilik için farklılıklar bir kenara bırakılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3727A_COMPLETION" Language="tr_TR">
+      <Text>Şehir devletleri, büyük güçlerin savaş alanında karşı karşıya gelmesini izler, kenarda mı kalmaları yoksa her şeyi riske atarak müdahil mi olmaları gerektiğinden emin değillerdir. Ancak her zaman tetikte olan Tecumseh, bu seçimi onlar için yapacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3727A_STORYTITLE" Language="tr_TR">
+      <Text>Savaşa Bir Davet</Text>
+    </Replace>
+    <Replace Tag="LOC_3727B_DESCRIPTION" Language="tr_TR">
+      <Text>Askeri eylemleri güçlendirmek daha az Etki gerektirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3727B_NAME" Language="tr_TR">
+      <Text>Siyah bir vampum kemeri gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_3727C_DESCRIPTION" Language="tr_TR">
+      <Text>Büyümeyi teşvik etme eylemleri daha az Etki gerektirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3727C_NAME" Language="tr_TR">
+      <Text>Beyaz bir vampum kemeri gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_3728A_COMPLETION" Language="tr_TR">
+      <Text>Siviller, savaşçılar evlerini yağmalarken sinerler. Ancak masumları esir almaya yeltendiklerinde, Tecumseh elini kaldırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_3728A_STORYTITLE" Language="tr_TR">
+      <Text>Savaş Dışı Kişiler</Text>
+    </Replace>
+    <Replace Tag="LOC_3728B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3728B_NAME" Language="tr_TR">
+      <Text>Yeterince kan döküldü.</Text>
+    </Replace>
+    <Replace Tag="LOC_3728C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3728C_NAME" Language="tr_TR">
+      <Text>Sadece değerli eşyaları al.</Text>
+    </Replace>
+    <Replace Tag="LOC_3729A_COMPLETION" Language="tr_TR">
+      <Text>Savaşçılar, düşmanlar öfkelerinin önünde düşerken zafer çığlıkları atarlar. Bir kez daha, Tecumseh'in stratejisi başarılı olmuştur. Liderlerinden cesaret alan Şavniler, manzaraya karışır ve bir sonraki saldırılarına hazırlanırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_3729A_STORYTITLE" Language="tr_TR">
+      <Text>Savaş Şefi</Text>
+    </Replace>
+    <Replace Tag="LOC_3729B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kispoko Nena’to üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_3729B_NAME" Language="tr_TR">
+      <Text>Hızlı bir darbe düşmanı ezecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3729C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kispoko Nena’to üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_3729C_NAME" Language="tr_TR">
+      <Text>Sert bir darbeyi engellemek zordur.</Text>
+    </Replace>
+    <Replace Tag="LOC_3730A_COMPLETION" Language="tr_TR">
+      <Text>İki şef karşılıklı bağlılıklarını teyit ederken, Tecumseh bir onur ve dostluk sembolü alır – yeni müttefikinin üniformasından doğrudan bir kuşak. Eşya değerlidir, ancak jest paha biçilemezdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3730A_STORYTITLE" Language="tr_TR">
+      <Text>Onurlu Bir Hediye</Text>
+    </Replace>
+    <Replace Tag="LOC_3730B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3730B_NAME" Language="tr_TR">
+      <Text>Kuşağı herkesin görebileceği bir yerde sergile.</Text>
+    </Replace>
+    <Replace Tag="LOC_3730C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3730C_NAME" Language="tr_TR">
+      <Text>Kuşağı başka bir müttefike hediye et.</Text>
+    </Replace>
+    <Replace Tag="LOC_3731A_COMPLETION" Language="tr_TR">
+      <Text>Toprak binalarla kalabalıklaşır ve doğal dünya metropol karşısında küçülür. O kadar çok şey talep edildi ki. Ancak Tecumseh için toprak herkesindir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3731A_STORYTITLE" Language="tr_TR">
+      <Text>Aralardaki Boşluklar</Text>
+    </Replace>
+    <Replace Tag="LOC_3731B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3731B_NAME" Language="tr_TR">
+      <Text>Doğanın hala sunacak birçok hediyesi var.</Text>
+    </Replace>
+    <Replace Tag="LOC_3731C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3731C_NAME" Language="tr_TR">
+      <Text>Yeryüzü barış içinde deneyimlenmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3732A_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh önündeki eserlere bakar. Hareketsiz dururlar, ancak o sessizlikte geçmişin seslerini, bu nesnelerin gördüğü anıları, anlatabilecekleri hikayeleri duyar. Onlar insanlığın sesleridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3732A_STORYTITLE" Language="tr_TR">
+      <Text>Tarihin Yankıları</Text>
+    </Replace>
+    <Replace Tag="LOC_3732B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3732B_NAME" Language="tr_TR">
+      <Text>Bu nesneler bir araya aittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_3732C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_3732C_NAME" Language="tr_TR">
+      <Text>Daha fazla eser daha fazla ses demektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200A_COMPLETION" Language="tr_TR">
+      <Text>Yeni bir Peygamber ölüm benzeri bir uykudan uyanır. Eski hayatını bırakarak, biri neşeye, diğeri sefalete giden çatallı bir yol vizyonunu anlatır. Hayatın Efendisi tarafından ona gönderilen uyarıyı tekrarlar: bazı kötülükler telafi edilemez, ancak gelecek hala kurtarılabilir. Tecumseh, Peygamber'in sözlerini dikkatle dinler. Sonra elini uzatarak kardeşinin ayağa kalkmasına yardım eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200A_STORYTITLE" Language="tr_TR">
+      <Text>Kapı Açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200B_COMPLETION" Language="tr_TR">
+      <Text>Düşmanlar çevredeki vahşi doğaya kaçarken, Tecumseh'in savaşçıları zaferlerini kutlar. Sesler kamp ateşlerinin etrafında yükselir ve alçalır, savaş alanı hikayelerini paylaşır ve yeni bir yarın hayal eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200B_IMPERATIVE" Language="tr_TR">
+      <Text>3 Birimi yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200B_STORYTITLE" Language="tr_TR">
+      <Text>Kapı Açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200C_COMPLETION" Language="tr_TR">
+      <Text>Yabancılar sokaklarda dolaşır, alışılmadık manzaralara ve harika mallara bakar. Ama uzun sürmez – Tecumseh'in halkı yeni yüzleri nasıl karşılayacağını ve onları eski dostlar haline getireceğini bilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200C_IMPERATIVE" Language="tr_TR">
+      <Text>Bağımsız bir Gücün Süzereni ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200C_STORYTITLE" Language="tr_TR">
+      <Text>Kapı Açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200D_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşimlerde {1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1200D_STORYTITLE" Language="tr_TR">
+      <Text>Kapı Açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201A_COMPLETION" Language="tr_TR">
+      <Text>İki savaşçı hattı birbirine bakar, geceleri parlayan kutsal ateşle aydınlanır. Birlikte yaklaşan savaş için tezahürat yaparlar. Ancak Tecumseh'in bakışları aniden ordusundan ateşe doğru çekilir. Alevlerden bir yılan çıkarken sessizlik çöker. Karanlığa doğru hızla uzaklaşırken, bağırışlar bir kez daha, eskisinden daha yüksek sesle başlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201A_STORYTITLE" Language="tr_TR">
+      <Text>Dağılmış Közler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201B_COMPLETION" Language="tr_TR">
+      <Text>Zanaatkarlar yılan imgeleri oyar ve çocuklar bu uzun bedenleri toprağa çizer. Herkes yılanın ateşten çıkışının bir zafer işareti olduğunu bilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Yerleşim Ele Geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201B_STORYTITLE" Language="tr_TR">
+      <Text>Dağılmış Közler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1201C_STORYTITLE" Language="tr_TR">
+      <Text>Dağılmış Közler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202A_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh dumanını ciğerlerine çekerken tomahawk piposundan nazik dumanlar yükselir. İçten içe yanan kinnikinnick, dostluk ve birlik yoluyla yeni başlangıçlar vaat eder. Ama kim faydalanmalı?</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202A_STORYTITLE" Language="tr_TR">
+      <Text>Törensel Pipo</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202B_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh'in tomahawk piposu bir dost elden diğerine geçer. Burada yeni dostluklar kurulmuştur, gelecekteki fırtınalara dayanacak güçlü ittifaklar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202B_IMPERATIVE" Language="tr_TR">
+      <Text>Başka bir Medeniyetle bir İttifaka sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202B_STORYTITLE" Language="tr_TR">
+      <Text>Törensel Pipo</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1202C_STORYTITLE" Language="tr_TR">
+      <Text>Törensel Pipo</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203A_COMPLETION" Language="tr_TR">
+      <Text>Peygamber, Hayatın Efendisi tarafından kendisine verilen gücün kanıtını görmek için yakın ve uzaklardan insanları çağırır. Bekleyen kalabalıkların önünde dimdik duran Tecumseh, kardeşinin vizyonlarında tanık olduğu mesajı yineler: değişim geliyor, ancak birlik yoluyla tüm zorluklar aşılacaktır. Aniden, Peygamber'in önceden bildirdiği gibi, gökyüzü kararır ve güneş kaybolur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203A_STORYTITLE" Language="tr_TR">
+      <Text>Kara Güneş</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203B_STORYTITLE" Language="tr_TR">
+      <Text>Kara Güneş</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1203C_STORYTITLE" Language="tr_TR">
+      <Text>Kara Güneş</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204A_COMPLETION" Language="tr_TR">
+      <Text>Düşman güçleri yaklaşırken vatandaşlar kaçmaya hazırlanır. Peygamber'in habercileri düşmanları barış görüşmeleri için yakına yerleşmeye ikna eder. Bu kısa molada Tecumseh, savaş vaadini barışın avantajlarıyla tartar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204A_STORYTITLE" Language="tr_TR">
+      <Text>Savaşın Arifesi</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204B_COMPLETION" Language="tr_TR">
+      <Text>Askerler Tecumseh'in savaşçılarının öfkesi altında düşer. Şimdi Tecumseh'in eliyle barış hüküm sürecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir düşman Komutanını yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204B_STORYTITLE" Language="tr_TR">
+      <Text>Savaşın Arifesi</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1204C_STORYTITLE" Language="tr_TR">
+      <Text>Savaşın Arifesi</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205A_COMPLETION" Language="tr_TR">
+      <Text>Cadıların ve büyücülerin Tecumseh'in toplumunun dokusunu tehdit ettiğine dair söylentiler yaygındır. Peygamber artan güçleri konusunda uyarır, ancak muhalif seslerle başa çıkmanın başka yolları da vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205A_STORYTITLE" Language="tr_TR">
+      <Text>İç Bölünmeler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205B_COMPLETION" Language="tr_TR">
+      <Text>Halkın Tecumseh'e olan güveni arttıkça cadı korkusu azalır. Artık endişeleri yatıştığına göre hayat bir kez daha neşeli hale gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşimlerde {1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205B_IMPERATIVE" Language="tr_TR">
+      <Text>3 Diplomatik Yaptırım başlat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1205B_STORYTITLE" Language="tr_TR">
+      <Text>İç Bölünmeler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206A_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh yeni komşularına hem ateşle hem de şefkatle hitap eder. Topraklarının kendilerine ait olduğunu ve geleneklerinin de öyle olduğunu ilan eder. Ancak ikisini de korumak için birlik olmalıdır – ve birlikte güç vardır. Genç savaşçıların kulakları zafer teklifine dikilirken, yaşlıları bunun gerçekten de korunma yolu olup olmadığını merak eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206A_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Toprakları Gezmek</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206B_COMPLETION" Language="tr_TR">
+      <Text>Komşu savaşçılar Tecumseh'in yerleşimlerinde toplanır, dünyayla başa çıkmaya hazırdır. Seslerini birlikte yükselttikçe şarkıları tek bir birlik melodisine dönüşür.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206B_IMPERATIVE" Language="tr_TR">
+      <Text>Bağımsız bir Gücün Süzereni ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206B_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Toprakları Gezmek</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1206C_STORYTITLE" Language="tr_TR">
+      <Text>Yeni Toprakları Gezmek</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207A_COMPLETION" Language="tr_TR">
+      <Text>Yeryüzü insanlığa savaş açarken, birçok kişi bu felaketlerin Hayatın Efendisi'nin öfkesinin işaretleri olduğundan korkar. Bir zamanlar Peygamber'in öğretilerinden şüphe duyanlar şimdi inananlar olur. Tecumseh bu yeni yandaşları memnuniyetle karşılar, sonra onları keşiflerini dünyayla paylaşmak için bir kez daha gönderir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207A_STORYTITLE" Language="tr_TR">
+      <Text>Yer Titriyor</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207B_COMPLETION" Language="tr_TR">
+      <Text>Birçok dua birden daha güçlüdür. Peygamber, öfkeli yeryüzünü yatıştırmak için dünyanın dört bir yanındaki inananlara rehberlik eder ve yeryüzü dinler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşimlerde {1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207B_IMPERATIVE" Language="tr_TR">
+      <Text>Kurduğunuz Dini takip eden 4 Yerleşime sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1207B_STORYTITLE" Language="tr_TR">
+      <Text>Yer Titriyor</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208A_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh'in orduları toprağı dolaşır, düşmanları ortadan kaldırır ve vatandaşların hayatlarını güvence altına alır. Savaş devam etse de, halkının birliği Tecumseh'e güç verir, tıpkı liderliğinin birbirleriyle olan bağlarını güçlendirdiği gibi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208A_STORYTITLE" Language="tr_TR">
+      <Text>Birlikte Tek Vücut</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208B_COMPLETION" Language="tr_TR">
+      <Text>Düşmanın başkenti birleşik ordunun önünde düşer. Her sokakta zaferlerini bağırırlar, birçok ağızdan tek bir kelime çıkar: Tecumseh!</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir düşman Başkentini Ele Geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208B_STORYTITLE" Language="tr_TR">
+      <Text>Birlikte Tek Vücut</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208C_STORYTITLE" Language="tr_TR">
+      <Text>Birlikte Tek Vücut</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1208D_STORYTITLE" Language="tr_TR">
+      <Text>Birlikte Tek Vücut</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209A_COMPLETION" Language="tr_TR">
+      <Text>Her gün birçok kişi Tecumseh'in davasına katılır, kapılarından içeri akar ve uzaktan mesajlar gönderir. Ancak dünyanın kargaşası arttıkça daha fazlası onun rehberliğini arar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209A_STORYTITLE" Language="tr_TR">
+      <Text>Birleşik Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209B_COMPLETION" Language="tr_TR">
+      <Text>Tecumseh halkının gelişmesini izler – birçok ulus tek bir ulusta, her biri Peygamber'in vizyonunun gerçekleşmiş bir parçasıdır. Yeni ufuklar bekler, ancak Hayatın Efendisi'nin yol gösteren eli yolu aydınlatacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209B_IMPERATIVE" Language="tr_TR">
+      <Text>4 Ticaret Rotasına sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209B_STORYTITLE" Language="tr_TR">
+      <Text>Birleşik Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209C_STORYTITLE" Language="tr_TR">
+      <Text>Birleşik Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1209D_STORYTITLE" Language="tr_TR">
+      <Text>Birleşik Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TECUMSEH_SUZERAIN_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:NAR_REW_COMBAT] Combat Strength for every City-State you are Suzerain of.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_TECUMSEH_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Birimler için Bölgelere karşı +5 Savaş Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_TECUMSEH_L1_NAME" Language="tr_TR">
+      <Text>Askeri Nitelik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_TECUMSEH_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Girişimleri başlatmaktan veya desteklemekten +%25 İlişki. Yaptırımları başlatmaktan veya Girişimleri reddetmekten -%25 İlişki.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_TECUMSEH_L2_NAME" Language="tr_TR">
+      <Text>Diplomatik Nitelik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_TECUMSEH_NAME" Language="tr_TR">
+      <Text>Tecumseh Rozeti 1</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_TECUMSEH_P_NAME" Language="tr_TR">
+      <Text>Tecumseh Rozeti 2</Text>
+    </Replace>
+    <Replace Tag="LOC_BANNER_TECUMSEH_NAME" Language="tr_TR">
+      <Text>Tecumseh Sancağı</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_TECUMSEH_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, -%10 Nüfuz[icon:YIELD_DIPLOMACY] bedeliyle Deniz Birimlerin için +3 Muharebe Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_TECUMSEH_1_NAME" Language="tr_TR">
+      <Text>Tecumseh Keşif Efsanesi Askeri</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_TECUMSEH_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, Deniz Birimlerin için -2 Muharebe Gücü bedeliyle +%15 Nüfuz[icon:YIELD_DIPLOMACY] kazan</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_TECUMSEH_2_NAME" Language="tr_TR">
+      <Text>Tecumseh Keşif Efsanesi Diplomatik</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_TECUMSEH_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, -%10 Nüfuz[icon:YIELD_DIPLOMACY] bedeliyle Hava Birimlerin için +3 Muharebe Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_TECUMSEH_1_NAME" Language="tr_TR">
+      <Text>Tecumseh Modern Çağ Efsanesi Askeri</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_TECUMSEH_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, Hava Birimlerin için -2 Muharebe Gücü bedeliyle +%15 Nüfuz[icon:YIELD_DIPLOMACY] kazan</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_TECUMSEH_2_NAME" Language="tr_TR">
+      <Text>Tecumseh Modern Çağ Efsanesi Diplomatik</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MALEKI_KINTAKE_QUOTE" Language="tr_TR">
+      <Text>"Biz Dünya olmadan yaşayamayız, ama Dünya biz olmadan yaşayabilir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MALEKI_KINTAKE_QUOTE_AUTHOR" Language="tr_TR">
+      <Text>Evo Morales</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE" Language="tr_TR">
+      <Text>"Hatırla ve hatırla tüccar çocuk - arzuların savaşın düşmanlarıdır"</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE_AUTHOR" Language="tr_TR">
+      <Text>Hamazah Fansuri</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TELWATIKI_QUOTE" Language="tr_TR">
+      <Text>Evren bir gölge oyunudur – güneşin etrafında biz hayalet figürler gelir ve gideriz.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TELWATIKI_QUOTE_AUTHOR" Language="tr_TR">
+      <Text>Ömer Hayyam</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE" Language="tr_TR">
+      <Text>"Bir küçük dal, diğerleriyle birleşince bir demet olur."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE_AUTHOR" Language="tr_TR">
+      <Text>Uganda atasözü</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SHAWNEE_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_FOOD] Food on [icon:CITY_UNIMPROVED] Minor and Navigable River Terrain in Settlements adjacent to Navigable Rivers. -10% [icon:YIELD_FOOD] Food in [icon:YIELD_CITIES] Cities not adjacent to Navigable Rivers.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_MAWASKAWE_SKOTE_DESCRIPTION" Language="tr_TR">
+      <Text>Shawnee [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP]. +4 [icon:YIELD_FOOD] Food. +1 [icon:YIELD_GOLD] Gold for each adjacent [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resource[/TIP]. Must be placed on [TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]Vegetated Terrain[/TIP], and cannot be placed adjacent to another Mawaskawe Skote.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_MAWASKAWE_SKOTE_TOOLTIP" Language="tr_TR">
+      <Text>Must be placed on [TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]Vegetated Terrain[/TIP], and cannot be placed adjacent to another Mawaskawe Skote.[n]Shawnee [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TECUMSEH_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_FOOD] Food and [icon:YIELD_PRODUCTION] Production per Age in Settlements for every [icon:CITYSTATE] City-State you are Suzerain of. +1 [icon:NAR_REW_COMBAT] Combat Strength for all Units for every [icon:CITYSTATE] City-State you are Suzerain of.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_SHAWNEE" Language="tr_TR">
+      <Text>Ohio Vadisi'nde Şavnîler dünya sahnesinde yerlerini aldılar. Arkeologların Fort Ancient kültürü olarak adlandırdığı şeyin torunları, ayrıntılı toprak işleri inşa ettiler, mısır yetiştirdiler ve kamusal tartışmaların yapıldığı merkezi bir konsey evini çevreleyen küçük şehirler inşa ettiler. Yeni doğan Amerika Birleşik Devletleri genişlemeye başladığında, topraklarını korumak için savaştan savaşa girdiler ve Peygamber Kasabalarını kaybetmelerine rağmen varlıklarını sürdürdüler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_SHAWNEE" Language="tr_TR">
+      <Text>Kakawfe Pafkotaweta Geleneğini kullanarak yerleşim yerlerinizi fırtınalara karşı bağışık hale getirin ve fırtına vurduğunda ekstra Kültür ve Altın kazanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_LEADER_INTRO_TEXT_TECUMSEH" Language="tr_TR">
+      <Text>"Büyük enginliği aşan kişi," Tecumseh, erken Amerika Birleşik Devletleri'nin batıya doğru genişlemesine meydan okuyan bir Şavnî şefiydi. Kardeşi Tenskwatawa ile birlikte yerli halk arasında birlik ve direniş mesajını yaydı. Tecumseh 1812 Savaşı sırasında öldürülmesine rağmen, kültürel ve siyasi süreklilik vizyonu yaşamaya devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_VO_SHAWNEE" Language="tr_TR">
+      <Text>Ormanlık alanlara bahar gelir. Şavnîler birlik ve egemenlik miraslarını işleyecekler.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_POTESKWATE_DESCRIPTION" Language="tr_TR">
+      <Text>Ağaç harcı ve havaneli.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_POTESKWATE_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Süzereni olduğunuz her Şehir Devleti için Yerleşimlerde Çağ başına +1 [icon:YIELD_FOOD]Yiyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_POTESKWATE_NAME" Language="tr_TR">
+      <Text>Poteskwate</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_POTESKWATE_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Tecumseh seviye 2'de açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_DESCRIPTION" Language="tr_TR">
+      <Text>Birlik sembolü.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Süzereni olduğunuz her Şehir Devleti için Yerleşimlerde Çağ başına +1 [icon:YIELD_PRODUCTION]Üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_NAME" Language="tr_TR">
+      <Text>Vampum Kemeri</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Tecumseh seviye 9'da açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WARCLUB_DESCRIPTION" Language="tr_TR">
+      <Text>Artık uyuma.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WARCLUB_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Süzereni olduğunuz her Şehir Devleti için tüm Birimler için +1 Savaş Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WARCLUB_NAME" Language="tr_TR">
+      <Text>Savaş Sopası</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WARCLUB_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Tecumseh seviye 5'te açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_COMPLETE_SERPENT_MOUND_DESC" Language="tr_TR">
+      <Text>Şavnî olarak Yılan Höyüğü'nü tamamla</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_COMPLETE_SERPENT_MOUND_NAME" Language="tr_TR">
+      <Text>Yılan Höyüğü</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_LEGACY_PATH_ECONOMIC_DESC" Language="tr_TR">
+      <Text>Şavnî olarak bir Ekonomik Miras Yolunu tamamla</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_LEGACY_PATH_ECONOMIC_NAME" Language="tr_TR">
+      <Text>Şavnî Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Çağı iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Çağı üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Çağı bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Keşif Çağını iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Keşif Çağını üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Keşif Çağını bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Modern Çağı iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Modern Çağı üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_3_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Modern Çağı bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Dünya Harikaları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Dünya Harikaları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Antik Dünya Harikaları Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Toshakhana Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Toshakhana 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Toshakhana Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Toshakhana 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Toshakhana Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Toshakhana</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Coğrafya Topluluğu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Coğrafya Topluluğu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Coğrafya Topluluğu Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İpek Yolları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>İpek Yolları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İpek Yolları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>İpek Yolları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İpek Yolları Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>İpek Yolları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Hazine Filosu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Hazine Filosu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Hazine Filosu Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Hazine Filosu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Demiryolu Kralı Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Demiryolu Kralı Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Demiryolu Kralı Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak tek bir Antik Çağda 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Antik Çağ</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak tek bir Keşif Çağında 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Keşif</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak tek bir Modern Çağda 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FLAWLESS_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Modern</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Pax Imperatoria Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Pax Imperatoria Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Pax Imperatoria Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Non Sufficit Orbis Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Non Sufficit Orbis Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Non Sufficit Orbis Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İdeoloji Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>İdeoloji 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İdeoloji Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>İdeoloji 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak İdeoloji Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>İdeoloji</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_1_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak en az 1 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_1_NAME" Language="tr_TR">
+      <Text>Oyun 1 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak en az 2 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_2_NAME" Language="tr_TR">
+      <Text>Oyun 2 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak en az 3 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_3_NAME" Language="tr_TR">
+      <Text>Oyun 3 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Tecumseh olarak, savaşçıların kehanetini takip etme görevini tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Dağınık Küller</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif döneminde Tecumseh olarak, savaşçıları hazırlamak için bir görevi tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Savaşın Arifesi</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_MODERN_DESC" Language="tr_TR">
+      <Text>Modern'da Tecumseh olarak, savaşta halkı cesaretlendirmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_A_MODERN_NAME" Language="tr_TR">
+      <Text>Birlikte</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Tecumseh olarak, tomahawk piposunu devretmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Tören Piposu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif döneminde Tecumseh olarak, komşuları birleştirmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Yeni Toprakları Keşfetmek</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_MODERN_DESC" Language="tr_TR">
+      <Text>Modern dönemde Tecumseh olarak, ticareti yoluyla dünyaya rehberlik etmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_QUEST_B_MODERN_NAME" Language="tr_TR">
+      <Text>Birleşmiş Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Büyük Kütüphane Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Büyük Kütüphane Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Büyük Kütüphane Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Aydınlanma Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Aydınlanma 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Aydınlanma Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Aydınlanma 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Aydınlanma Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Aydınlanma</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Uzay Yarışı Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Uzay Yarışı Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Tecumseh olarak Uzay Yarışı Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_TECUMSEH_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Legend Unlock. +25% [icon:RELATIONSHIP] Relationship from starting or supporting [icon:ENDEAVOR] Endeavors. -25% [icon:RELATIONSHIP] Relationship from starting [icon:SANCTIONS] Sanctions or rejecting [icon:ENDEAVOR] Endeavors.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Legend Unlock. +5 [icon:NAR_REW_COMBAT] Combat Strength for all Units against [icon:CITY_FORTIFIED] Fortified Districts.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_SHAWNEE_DESCRIPTION" Language="tr_TR">
+      <Text>+30%[icon:YIELD_PRODUCTION] Production from being the Shawnee's associated [icon:WONDER] Wonder.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KISPOKO_NENA_TO_SUPPORT_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for the [icon:UNIT_KISPOKO_NENA_TO] Kispoko Nena'to per positive [icon:WAR_SUPPORT] [TIP:LOC_PEDIA_CONCEPTS_WAR_SUPPORT_TOOLTIP]War Support[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_MALEKI_KINTAKE_WAREHOUSES_DESCRIPTION" Language="tr_TR">
+      <Text>Çiftliklerde ve Kamplarda +2 [icon:YIELD_FOOD] Yiyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_MIYASKA_LATOWEKI_CITY_STATE_RESOURCES_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Resource Capacity[/TIP] in your [icon:NOTIFICATION_SELECT_CAPITAL] Capital for every [icon:CITYSTATE] City-State you are [TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]Suzerain[/TIP] of.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_MIYASKA_LATOWEKI_ENDEAVOR_TRADE_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_GOLD] Gold for each active [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Trade Route[/TIP] while you have at least 3 [icon:ENDEAVOR] [TIP:LOC_PEDIA_CONCEPTS_ENDEAVOR_TOOLTIP]Endeavors[/TIP] active.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_MOD_TELWATIKI_THIRD_PARTY_DESCRIPTION" Language="tr_TR">
+      <Text>You can add [icon:WAR_SUPPORT] [TIP:LOC_PEDIA_CONCEPTS_WAR_SUPPORT_TOOLTIP]War Support[/TIP] other Leader's [icon:WAR] Wars 3 times instead of 1.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TELWATIKI_INFLUENCE_DESCRIPTION" Language="tr_TR">
+      <Text>Tur başına +2 [icon:YIELD_DIPLOMACY] Nüfuz.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_WYEHI_SIMEKOFI_MAWASKAWE_SKOTE_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_CULTURE] Culture on the [icon:CITY_RURAL] Mawaskawe Skote for every [icon:CITYSTATE] City-State you are [TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]Suzerain[/TIP] of.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROFILE_TITLE_TECUMSEH" Language="tr_TR">
+      <Text>Şef</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_SERPENT_MOUND" Language="tr_TR">
+      <Text>Tenskwatawa</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_SERPENT_MOUND" Language="tr_TR">
+      <Text>"Yaratıcımız bize rüzgarda ve akan suda, kuş şarkılarında, çocukların kahkahalarında şarkı söyledi ve bize müziği öğretti."</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_1_DESCRIPTION" Language="tr_TR">
+      <Text>Tecumseh olarak, yeni bir Keşif Mirası Kartına erişin:[n] Deniz Birimlerine yönelik +3 Savaş Gücü, -%10 Nüfuz</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_1_NAME" Language="tr_TR">
+      <Text>Keşif Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tecumseh olarak, yeni bir Keşif Mirası Kartına erişin:[n] +%15 Nüfuz, Deniz Birimleri için -2 Savaş Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Diplomatik Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_MODERN_1_DESCRIPTION" Language="tr_TR">
+      <Text>Tecumseh olarak, yeni bir Modern Miras Kartına erişin:[n] Hava Birimlerine yönelik +3 Savaş Gücü, -%10 Nüfuz</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_MODERN_1_NAME" Language="tr_TR">
+      <Text>Modern Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_MODERN_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tecumseh olarak, yeni bir Modern Miras Kartına erişin:[n] +%15 Nüfuz, Hava Birimleri için -2 Savaş Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_TECUMSEH_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Diplomatik Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_TITLE_TECUMSEH_NAME" Language="tr_TR">
+      <Text>Şef</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BREAD_DANCE_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_CULTURE] Culture in [icon:YIELD_TOWNS] Farming [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP] and +4 [icon:YIELD_FOOD] Food in [icon:YIELD_TOWNS] Fishing [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_HELIKHILENAWEWIPE_DESCRIPTION" Language="tr_TR">
+      <Text>+50% [icon:YIELD_DIPLOMACY] Influence towards the initiating and progressing the [icon:PROJECT] Befriend Independent Project.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_KAKAWFE_PAFKOTAWETA_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:YIELD_CULTURE] Culture and +2 [icon:YIELD_GOLD] Gold for every time a Storm, Flood, or Volcanic Eruption has provided Fertility this Age. [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]Improvements[/TIP], [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP], and [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] do not get damaged by Storms.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TAKESIYAKE_YEPEPOKI_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_PRODUCTION] Production on [icon:CITY_UNIMPROVED] Tundra, Desert, and Plains Terrain in [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Cities[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TECUMSEH_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+1 [icon:YIELD_FOOD] Food [/B]and [icon:YIELD_PRODUCTION] [B]Production [/B]per Age in [B]Settlements [/B]for every [icon:CITYSTATE] [B]City-State [/B]you are [B]Suzerain [/B]of.[LI][B]+1 [icon:NAR_REW_COMBAT] Combat Strength [/B]for all Units for every [icon:CITYSTATE] [B]City-State [/B]you are [B]Suzerain [/B]of.[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TECUMSEH_ABILITY_NAME" Language="tr_TR">
+      <Text>Nicaakiyakoolaakwe</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SHAWNEE_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]+2 [icon:YIELD_FOOD] Food[/B] on [icon:CITY_UNIMPROVED] [B]Minor and Navigable River Terrain[/B] in Settlements adjacent to [B]Navigable Rivers[/B]. [B]-10% [icon:YIELD_FOOD] Food[/B] in [icon:YIELD_CITIES] [B]Cities[/B] not adjacent to [B]Navigable Rivers[/B].[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Serpent Mound[/B].[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SHAWNEE_ABILITY_NAME" Language="tr_TR">
+      <Text>Nepekifaki</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_EX_SHAWNEE_NAME" Language="tr_TR">
+      <Text>Şavni Yurttaşlıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HOCEEPKILENI_DESCRIPTION" Language="tr_TR">
+      <Text>Shawnee Unique Missionary. +1 [icon:Action_Move] Movement. Rivers do not end this Unit's [icon:Action_Move] Movement.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KISPOKO_NENA_TO_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 2 Shawnee Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for every unique [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]Empire Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KISPOKO_NENA_TO_3_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 3 Shawnee Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for every unique [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]Empire Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KISPOKO_NENA_TO_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Shawnee Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for every unique [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]Empire Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KISPOKO_NENA_TO_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 1 Shawnee Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for every unique [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]Empire Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_STATES_DESCRIPTION" Language="tr_TR">
+      <Text>2 [B]Şehir Devletinin[/B] [B]Hâmisi[/B] olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_STATES_TOOLTIP" Language="tr_TR">
+      <Text>[B]Şavniler [/B]birçok küçük ulusla dosttu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_STATES_UNLOCK" Language="tr_TR">
+      <Text>2 Şehir Devletinin Hâmisi olarak Şavniler'in kilidini açtınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_HIDES_DESCRIPTION" Language="tr_TR">
+      <Text>3 [B]Post[/B] geliştirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_HIDES_TOOLTIP" Language="tr_TR">
+      <Text>[B]Postlar[/B] [B]Şavniler[/B] için önemli bir ticari maldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_HIDES_UNLOCK" Language="tr_TR">
+      <Text>3 Post Kaynağını geliştirerek Şavniler'in kilidini açtınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_MISSISSIPPI_SHAWNEE_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Mississippililer [/B][B]Şavnilerin [/B]atalarının çağdaşıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_SHAWNEE_AMERICA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Şavniler [/B][B]Meksika[/b] ile aynı kıtadadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_SHAWNEE_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Şavniler[/B] olarak oyna.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_SHAWNEE_MEXICO_TOOLTIP" Language="tr_TR">
+      <Text>[B]Şavniler [/B][B]Meksika[/b] ile aynı kıtadadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_AMERICA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tecumseh[/B] daha sonra [B]Amerika[/B] tarafından işgal edilen topraklarda yaşadı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Tecumseh[/B] olarak oyna.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_HAWAII_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tecumseh[/B] Amerika kıtasının yerli bir halkıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_MEXICO_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tecumseh[/B] Kuzey Amerika'dandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_MISSISSIPPIAN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tecumseh'in[/B] ataları [B]Mississippililerin[/B] komşusuydu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_TECUMSEH_TOOLTIP" Language="tr_TR">
+      <Text>[B]Tecumseh[/B] [B]Şavniler[/B]'e liderlik etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SERPENT_MOUND_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_DIPLOMACY] Influence. +3 [icon:YIELD_SCIENCE] Science and +2 [icon:YIELD_PRODUCTION] Production on all [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvements[/TIP] in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP]. Must be placed in Grassland.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_SERPENT_MOUND_TOOLTIP" Language="tr_TR">
+      <Text>+3 [icon:YIELD_SCIENCE] Science and +2 [icon:YIELD_PRODUCTION] Production on all [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvements[/TIP] in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].[N]Must be placed in Grassland.</Text>
+    </Replace>
+    <Replace Tag="LOC_KISPOKO_NENA_TO_RESOURCE_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+{1_Amount} for unique [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]Empire Resource[/TIP]</Text>
+    </Replace>
+    <Replace Tag="LOC_KISPOKO_NENA_TO_SUPPORT_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>Pozitif Savaş Desteğinden +{1_Value} Savaş Gücü. (Telwatiki Yurttaşlığı)</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_TECUMSEH_WARCLUB_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Savaş Sopası Hatırası</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Value} Efsanevi Askeri Nitelik</Text>
+    </Replace>
+    <Replace Tag="LOC_TECUMSEH_MOD_SUZERAIN_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+{1_Amount} Nicaakiyakoolaakwe</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_CITY_STATES_NARRATIVE" Language="tr_TR">
+      <Text>{1_Civilization_Adj} topraklarındaki güç yalnızca saraydan değil, orada birleşen diplomatik ittifaklar ağından da kaynaklanır. Peygamber Tenskwatawa'nın öğretileri, şehir devletleri ve {1_Civilization_Adj} şehirleri arasında hareket eden bazı kişiler arasında dolaşmaya başladı; değişim karşısında bir birlik dersi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_HIDES_NARRATIVE" Language="tr_TR">
+      <Text>Orman avcıları şafakta şehre girer, pazara götürmeyi planladıkları tabaklanmış ve gerilmiş postlarla yüklenmişlerdir. Bazen kapıların dışında bile, ticaret için istekli tüccarlar tarafından karşılanırlar - postlar {1_Civilization_Adj} ekonomisi için hayati hale geldi... tedarikçileri de öyle.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BREAD_DANCE_NAME" Language="tr_TR">
+      <Text>Ekmek Dansı</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_HELIKHILENAWEWIPE_NAME" Language="tr_TR">
+      <Text>Helikhilenawewipe</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_KAKAWFE_PAFKOTAWETA_NAME" Language="tr_TR">
+      <Text>Kakawfe Pafkotaweta</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TAKESIYAKE_YEPEPOKI_NAME" Language="tr_TR">
+      <Text>Takesiyake Yepepoki</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_HOCEEPKILENI_NAME" Language="tr_TR">
+      <Text>Hoceepkileni</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KISPOKO_NENA_TO_NAME" Language="tr_TR">
+      <Text>Kispoko Nena’to</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

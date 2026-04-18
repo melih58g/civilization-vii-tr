@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE1" Language="tr_TR">
+      <Text>Kartaca</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE10" Language="tr_TR">
+      <Text>Rusicade</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE11" Language="tr_TR">
+      <Text>Thysdrus</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE12" Language="tr_TR">
+      <Text>Rusguniae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE13" Language="tr_TR">
+      <Text>Tinga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE14" Language="tr_TR">
+      <Text>Gadir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE15" Language="tr_TR">
+      <Text>Oyat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE16" Language="tr_TR">
+      <Text>Kition</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE17" Language="tr_TR">
+      <Text>Lapatos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE18" Language="tr_TR">
+      <Text>İdalion</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE19" Language="tr_TR">
+      <Text>Ruspina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE2" Language="tr_TR">
+      <Text>Utika</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE20" Language="tr_TR">
+      <Text>Ziz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE21" Language="tr_TR">
+      <Text>Karaly</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE22" Language="tr_TR">
+      <Text>Sexi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE23" Language="tr_TR">
+      <Text>Kapara</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE24" Language="tr_TR">
+      <Text>Rusadir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE25" Language="tr_TR">
+      <Text>Abdera</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE26" Language="tr_TR">
+      <Text>Malake</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE27" Language="tr_TR">
+      <Text>Lilybaeum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE28" Language="tr_TR">
+      <Text>Chullu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE29" Language="tr_TR">
+      <Text>Arambis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE3" Language="tr_TR">
+      <Text>Hadrumetum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE30" Language="tr_TR">
+      <Text>Meninks</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE4" Language="tr_TR">
+      <Text>Hippo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE5" Language="tr_TR">
+      <Text>Motya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE6" Language="tr_TR">
+      <Text>Thenae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE7" Language="tr_TR">
+      <Text>Leptis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE8" Language="tr_TR">
+      <Text>Tsabratan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARTHAGE9" Language="tr_TR">
+      <Text>Maleth</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_1" Language="tr_TR">
+      <Text>Arişat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_10" Language="tr_TR">
+      <Text>Zyabkot</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_2" Language="tr_TR">
+      <Text>Sifonbaal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_3" Language="tr_TR">
+      <Text>Batbaal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_4" Language="tr_TR">
+      <Text>Batnoam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_5" Language="tr_TR">
+      <Text>Muttunbaal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_6" Language="tr_TR">
+      <Text>Ummaştart</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_7" Language="tr_TR">
+      <Text>Hanbi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_8" Language="tr_TR">
+      <Text>Amoaştart</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_FEMALE_9" Language="tr_TR">
+      <Text>İzebel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_1" Language="tr_TR">
+      <Text>Hamilkar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_10" Language="tr_TR">
+      <Text>Bomilkar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_2" Language="tr_TR">
+      <Text>Hanno</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_3" Language="tr_TR">
+      <Text>Mago</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_4" Language="tr_TR">
+      <Text>Hasdrubal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_5" Language="tr_TR">
+      <Text>Gisgo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_6" Language="tr_TR">
+      <Text>Bodo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_7" Language="tr_TR">
+      <Text>Azarbaal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_8" Language="tr_TR">
+      <Text>Bostar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_CARTHAGE_MALE_9" Language="tr_TR">
+      <Text>Mattanbaal</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE" Language="tr_TR">
+      <Text>Kartacalı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CARTHAGE_FULLNAME" Language="tr_TR">
+      <Text>Kartaca İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CARTHAGE_NAME" Language="tr_TR">
+      <Text>Kartaca</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_4_MAJOR_CARTHAGE_NAME" Language="tr_TR">
+      <Text>Phaistos</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_4_MINOR_CARTHAGE_NAME" Language="tr_TR">
+      <Text>Minos</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_COTHON_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Koton, Kartaca limanının iç limanıydı ve şehrin donanmasına ev sahipliği yapıyordu. Benzer şekildeki bir Yunan içki kabından adını alan bu yapı, ortasında bir ada bulunan daireseldi ve tamamen insan yapımıydı. Hem iç hem de dış kıyılar, üzerinde malzeme dolu depoların bulunduğu gemi barınaklarıyla kaplıydı. Klasik kaynaklar kotonun 220 gemiye kadar alabileceğini söyler, ancak arkeoloji bu sayının muhtemelen 170'e daha yakın olduğunu ortaya koymuştur. Ayırt edici görünümü antik Kartaca'nın görsel bir özelliği haline gelmiştir; ancak koton, tarihinin çok geç bir döneminde, İkinci Pön Savaşı'ndan kısa bir süre sonra ve Kartaca yıkılmadan 50 yıldan daha az bir süre önce inşa edilmiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_DOCKYARD_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca limanının biri askeri, diğeri sivil olmak üzere iki limanı vardı ve ikincisi, yani ticari tersane, Kartaca'yı zenginleştiren ekonomik geçitti. Bu insan yapımı dikdörtgen liman içinde ticaret gemileri boşaltılır ve yeniden stoklanır, vergiler toplanır ve yakın ve uzak sömürgelerden haraç teslim edilirdi. Önemi boyutunu gölgede bırakıyordu – İkinci Pön Savaşı'ndan sonra kapsamlı bir tadilattan geçmesine rağmen, tersane alanı sadece yedi hektarla sınırlıydı ve bu da duvarlarının dışına denize doğru uzanan ahşap bir iskeleyle dengeleniyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>MÖ 12. yüzyıldaki Tunç Çağı çöküşü, Akdeniz ve Yakın Doğu çevresindeki birçok medeniyeti dize getirdi. İklim değişikliği, teknolojik dengesizlikler, istilalar ve diğer faktörler merkezi hükümetleri zayıflatmak için birleşti ve imparatorlukların çöküşüne ve insanların kentsel merkezlerden daha küçük kırsal yerleşimlere dağılmasına neden oldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_10" Language="tr_TR">
+      <Text>Üçüncü yüzyılda Roma, Kartaca'nın ana rakibi olarak Yunanistan'ın yerini almıştı. Bir kez daha Sicilya, 264'te Birinci Pön Savaşı'nı ateşleyen barut fıçısıydı. Yirmi yılı aşkın bir sürenin ardından Romalılar galip geldi ve Kartaca, paralı asker güçlerinden yeni bir iç isyanla karşı karşıya kalırken Sicilya'daki tüm topraklarını kaybetti. Ancak 218'de savaş yeniden patlak verdi. İkinci Pön Savaşı, ünlü Kartacalı general Hannibal'in ordusunu Galya üzerinden karadan ve Alpler üzerinden kuzeyden Romalılara saldırmak için yönettiğini gördü. Cannae'de devasa bir Roma ordusunu yendi, ancak takviye kuvvetlerinden yoksun olduğu için fethi tamamlayamadı. Romalılar Kartacalıları İtalya ve İspanya'dan başarıyla kovdu ve bir kez daha galip geldi, şimdi batı Akdeniz'deki baskın güç haline geldi. Kartaca tüm denizaşırı topraklardan arındırıldı ve donanması sadece on savaş gemisine indirildi – siyasi olarak esasen Roma'nın tabi bir devleti haline gelmişti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_11" Language="tr_TR">
+      <Text>Şehrin savaş açması da yasaklanmıştı. 50 yıl sonra Kartaca bu kuralı çiğnedi ve topraklarına yönelik Numidya saldırılarına misilleme yapmak için bir ordu seferber etti. Romalıların Kartaca ile Numidya arasındaki çatışmada hiçbir yatırımı yoktu, ancak İkinci Pön Savaşı'nın yaraları derindi. Siyasi ilişkilerinde üstünlüğe sahip olmalarına rağmen, Roma, geleneksel ticaret ve tarım yöntemleriyle ekonomik gücünü yeniden inşa etmeye başlayan Kartaca'dan sürekli şüpheleniyordu. Yaşlı Cato, Senato'daki her konuşmasını ünlü bir şekilde "Ceterum autem censeo Carthaginem esse delendam" ("Ayrıca, Kartaca'nın yok edilmesi gerektiğini düşünüyorum") dizesiyle bitiriyordu. Kartaca'nın Numidya'ya karşı seferberliği, Roma'nın beklediği savaş nedeni oldu. Savaş ilan edildi, şehir kuşatıldı ve Kartaca yerle bir edildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ancak tüm medeniyetler karanlığa gömülmedi. Fenike şehir devletleri en az iki yüzyıldır yükselişteydi ve ilk olarak Mısır'ın Levant'taki kıyı yerleşimlerine yönelik fetih kayıtlarında bahsediliyordu. Avrupa, Kuzey Afrika ve Asya arasında teması kolaylaştıran ticaret merkezleri haline gelmişlerdi, ancak bölgedeki ekonomik güçlerini kontrol etmeye çalışan imparatorluklara karşı mücadele etmişlerdi. Tunç Çağı çöküşünden sonra bu güçler tökezledi veya düştü ve Fenikeliler üzerindeki etkileri dağıldı. Artık gerçekten bağımsız olan Fenikeliler ciddiyetle gelişmeye başladı ve geride kalan güç boşluğunu doldurarak kısa sürede Akdeniz boyunca ticareti kontrol ettiler. Akdeniz boyunca, Fas ve İspanya'ya kadar Avrupa ve Kuzey Afrika kıyılarında koloniler kurmaya başladılar, iyi doğal limanlar, yerel pazarlara erişim ve yakındaki kaynaklar üzerinde kontrol aradılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>MÖ 814 civarında, Sur'dan bir grup sömürgeci günümüz Tunus'undaki Tunus Körfezi'ne ulaştı. Konum yeni bir yerleşim için idealdi. Kolayca savunulabilen bir tepe, hem fırtınalardan sığınak sağlayan hem de Akdeniz ticaretinin darboğazı olan Sicilya Boğazı'na yakın bir limana bakıyordu. Surlular hızla kolonilerini inşa etmeye başladılar ve ona "qrt-ḥdšt" ("yeni şehir") adını verdiler. Bugün ona Kartaca diyoruz.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Kartaca'nın kuruluşunun bu oldukça sıradan hikayesi, daha sonraki kaynakların anlattığı efsaneyle aynı değildir. Daha heyecan verici versiyon, kardeşi Pygmalion mirasını çaldıktan ve kocasını öldürdükten sonra şehrinden kaçan Sur kraliçesi Dido'dan (Elissa) bahseder. Kuzey Afrika'ya vardığında, yerel bir Berberi şefiyle bir anlaşma yaptı – tek bir öküz derisiyle kaplanabilecek kadar toprak talep edebilirdi. Dido derisini şeritler halinde kesti ve bunları gelecekteki şehrinin tüm tepesini çevrelemek için kullandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Kartaca, MÖ dördüncü yüzyılda Büyük İskender Levant'ı yıkana kadar birkaç yüzyıl boyunca küçük bir koloni olarak varlığını sürdürdü. 332'de Sur'u yağmaladı, Fenike gücünün merkezini yok etti ve Sur mültecilerini dağıttı. Birçoğu Kartaca'ya gitti ve nüfus patlaması Sur'un düşüşüyle birleşerek şehrin Akdeniz'deki yeni güç ve zenginlik merkezi haline gelmesini sağladı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Kartaca'nın zenginliği esas olarak ticaret, haraç ve vergilerden geliyordu. Güçlerini kendi duvarları içinde birleştiren diğer Fenike şehir devletlerinin aksine, Kartacalılar sınırlarını genişletmek için bölgesel fetih gündemini izlediler. Güçlü donanmalarına güvenerek ve kendi ordularını komşu Numidya Krallığı'nın ordularıyla birleştirerek, diğer Fenike kolonilerini boyunduruk altına aldılar ve Akdeniz'in her iki yakasında yeni topraklar fethettiler. Kartaca'nın neden yayılmacı bir gündem izlediğine dair birkaç teori vardır; rakip Yunan ve Roma ticareti karşısında hakimiyet kurma ihtiyaçlarından Kartaca hükümetinde askeri liderlerin yükselişine kadar. Nedeni ne olursa olsun, Kartaca genellikle yeni toprakları üzerinde doğrudan kontrol uygulamadı, bunun yerine yerleşim yerlerinden ve kolonilerinden haraç toplayan ve bunları ticaret merkezleri olarak kullanan hegemonik bir yaklaşımı tercih etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Kartaca yönetimi dördüncü yüzyılda bir monarşiden bir cumhuriyete evrilmişti. En tepede en güçlü ailelerden seçilen iki suffet (yargıç) vardı. 200-300 üyeli bir senatoyla birlikte yönetiyorlardı. Bir sivil meclis, suffetler ve senato tarafından sunulan yasaları ve önlemleri oyluyordu. Sivil ve askeri güç ayrı tutuluyordu – generaller seçiliyor veya atanıyordu ve siyasi işlerde söz hakları yoktu; suffetler de aynı şekilde ordular üzerinde kontrole sahip değildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Şehrin kendisi, denize bakan tepenin zirvesine kurulmuş bir kale olan Byrsa tarafından domine ediliyordu. Aşağıdaki yamaçlarda dört yerleşim bölgesi ve büyük bir liman vardı. Kentsel merkezin ötesinde tarım arazileri vardı – Kartaca tarımda çok bilgiliydi ve hem şehri besleyen hem de ihracat için bol miktarda fazla ürün sağlayan çok çeşitli mahsulleri başarıyla yetiştirdi. Kartacalıların tarım bilgisi o kadar değerliydi ki, şehrin yıkımından kurtulan tek metinlerden biri yazar Mago'nun bir tarım risalesiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_CARTHAGE_CHAPTER_HISTORY_PARA_9" Language="tr_TR">
+      <Text>Kartaca'nın genişlemesi sonuçsuz kalmadı. İlk büyük çatışma Yunanistan'a karşı geldi. Kartaca küçük bir koloniden önde gelen bir şehre dönüşmeden önce bile, Yunanlılar Fenikeliler için önemli bir rakipti ve Akdeniz ticaretindeki tekellerini yavaş yavaş aşındırıyorlardı. Kartaca'nın yükselişi bu sürtünmeyi Yeni Şehir'e taşıdı ve kısa süre sonra iki imparatorluk birbirinin boğazına sarıldı. 480'den başlayarak, Kartaca Sicilya'nın kontrolü için Yunanistan ile bir dizi savaş yaptı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_CARTHAGE_RED_SLIP_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca dininin tam doğası, tanrıları ve uygulamaları kayıp ve güvenilmez kaynakların ardında gizli kalsa da, tanrıça Tanit şehirdeki ve kolonilerindeki yaygın varlığı sayesinde hayatta kalmıştır. Bilgelik, bereket ve annelik tanrıçası olarak, eşi Baal Hammon ile birlikte Kartaca'nın baş tanrılarından biriydi. Tanit, Pön panteonuna geç bir eklentiydi – Baal Hammon'un kökleri Fenike ve ötesine dayanırken, Tanit MÖ beşinci yüzyıl civarında, muhtemelen yerel Berberi inançları aracılığıyla ortaya çıktı ve kısa sürede Kartaca'da eşini önem ve saygı açısından geride bıraktı. Tanit'e tapınmanın, kutsal bir sığınak olan tofet'te insan kurban etmeyi içerdiği görülüyor, ancak bu tür ritüellerin Kartacalılar tarafından ne ölçüde uygulandığı tartışmalıdır. Bu oyunda Kartaca'yı temsil etmek için kullanılan aynı sembolü, taş oymalarda ve mozaiklerde yaygın olarak bulunur; daha sonraki tasvirler onu kanatlı ve aslan başlı olarak gösterir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_CARTHAGE_SHIPSHEDS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca ekonomik ve askeri gücü için gemilere güveniyordu ve bu gemilerin bakımı başarı için çok önemliydi. Akdeniz ve ötesindeki seferler, fırtınalardan kaynaklanan hasar, hızı yavaşlatan ve çürümeye yol açabilen su dolu kereste ve ahşap tadı olan açgözlü deniz yaşamı da dahil olmak üzere ahşap gemilerde önemli aşınma ve yıpranmaya neden oluyordu. Yine de bu kadar büyük ve ağır gemileri kuru depolama ve onarım için karaya çekmek zor ve zaman alıcıydı ve onları sürekli hava tehlikesine maruz bırakıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_CARTHAGE_SHIPSHEDS_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu zorlukları çözmek için Kartaca filosu için gemi barınakları inşa etti. Bunlar, gemilerin hızla ve kolayca unsurlardan korunan kuru bir havuza taşınmasına olanak tanıyan, su kenarı boyunca inşa edilmiş kapalı kızaklardı. Burada, hızlı bir yeniden konuşlandırmadan önce onarımlar yapılabilir, bir geminin hizmet dışı kalma süresini azaltabilir ve bakım sıklığını artırabilir, Kartaca'nın donanmasını ve ticaret filosunu en iyi durumda tutabilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_CARTHAGE_SICILIAN_WARS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartacalılar, kendilerini Akdeniz ticaret yollarının efendileri olarak kurmada Fenikelileri takip ettiler. Ancak nadiren rakipsizdiler. İlk büyük rakipleri, Kartaca'nın bölgedeki hakimiyetine meydan okuyan güçlü bir deniz varlığı olan Yunan şehir devletleriydi. Başlıca çekişme noktaları, Akdeniz'i etkili bir şekilde ikiye bölen ve antik çağlarda denizin hakimiyetinin temel taşı olan Sicilya adasıydı. Kartacalılar ve Yunanlılar, ada üzerinde kontrol için MÖ 480-306 yılları arasında bir dizi savaş yaptılar ve bu sırada topraklar iki güç arasında gidip geldi. Sicilya Savaşları, Roma Yunanistan'ı gölgede bıraktıkça ve Sicilya'daki Yunan toprakları Roma toprağı haline geldikçe sona erdi. Ancak Kartaca için yeni bir rakibin yükselişi aynı zamanda yeni bir çatışma dizisini de ateşledi – bir kez daha Sicilya üzerinde başlayan Pön Savaşları.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_PUNIC_PORT_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Denizci bir ekonomik güç olarak Kartaca'nın başarısı ve hayatta kalması limanına bağlıydı. Dikkat çekici yapı, dış ticari tersane ve savaş gemileri için iç kothon'dan oluşuyordu. Tüm proje, yaklaşık 235.000 metreküp toprağın taşınmasını gerektiren, MÖ 200 civarında bataklıktan kazılmıştı. Kumtaşı kesme bloklarından inşa edilmişlerdi ve büyük ölçüde devasa duvarlarla dışarıdan gizlenmişlerdi; dış ve iç limanların dar girişleri devasa demir zincirlerle kapatılabiliyordu. Romalılar Üçüncü Pön Savaşı sırasında Kartaca'yı fethettiğinde, liman şehrin yok edilen ilk kısmıydı. Yine de ayak izi, Kartaca ihtişamının birkaç kalıntısından biri olan Tunus kıyılarında belirgin bir şekilde kalmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_COLONIST_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca, Akdeniz boyunca ticareti kolaylaştırmak ve kontrol etmek için kurulmuş küçük bir kıyı karakolu olan bir Fenike kolonisi olarak başladı. Bir şehir ve bağımsız bir güç merkezi haline geldikçe, Kartaca kendi etkisini ve gücünü genişletmek için aynı tekniği kullandı ve imparatorluğunu beslemek için toprağa değil, kolonilere dayandı. Tarihsel olarak bu genişleme saldırgan ve emperyalist olarak nitelendirilmiş olsa da (büyük ölçüde Kartaca tarihinin düşmanca Roma anlatıları nedeniyle), daha yeni araştırmalar, gücün ilk birleşmesinin batı kıyı şeridi boyunca mevcut Fenike yerleşimlerini kontrol altına almaya ve güçlendirmeye odaklandığını, doğrudan toprak ele geçirilmesinin ise daha sonra gerçekleştiğini göstermiştir. Bu sonraki aşamada, sömürgeciler Akdeniz ve ötesinde ticaret merkezleri, depolar ve Kartaca filosu için güvenli limanlar olarak işlev görecek yerleşimler kurmak üzere gönderildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_NUMIDIAN_CAVALRY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca'nın gücü ticaret yollarından ve küçük kıyı kolonilerinden kaynaklanıyordu; sonuç olarak, şehrin kendisi ve ekonomik imparatorluğu büyük bir nüfusa sahip değildi. Savaş zamanlarında ordusunu tamamlamak için Kartaca, komşu Numidyalılardan paralı askerler kiraladı. Bu Berberi savaşçılar hafif silahlıydı, cirit kullanıyor ve küçük, hızlı atlara biniyorlardı; hızları ve çeviklikleri rakiplerini acımasızca taciz etmelerini sağlıyordu. Numidya süvarileri, İkinci Pön Savaşı sırasında Kartaca tarafından yaygın olarak kullanıldı; burada Hannibal tarafından İtalya'yı istilası sırasında ve Kuzey Afrika'daki Roma saldırılarına karşı büyük bir başarıyla konuşlandırıldılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_BYRSA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Kartaca'nın merkezindeki tepenin üzerinde, Byrsa kalesi şehri gözetliyordu. Adının kökeni bilinmemektedir – Dido efsanesi, Kartaca olacak toprağı elde etme şekline atıfta bulunarak Yunanca "byrsa" (öküz derisi) kelimesiyle şüpheli bir bağlantı kurmuştur. Ancak, Fenikece "barsat" (kale) kelimesinin bir varyasyonu olması daha olasıdır. Byrsa, Kartaca'nın askeri kalbiydi ve tepeyi (ayrıca Byrsa olarak da adlandırılır) önemli siyasi ve dini kurumlarla paylaşıyordu. Kartaca'nın düşüşünden sonra, duvarlı kale Romalılar, Vandallar, Bizanslılar ve diğerleri tarafından yeniden kullanıldı. Bugün önemli bir arkeolojik alandır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_COTHON_NAME" Language="tr_TR">
+      <Text>Koton</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_DOCKYARD_NAME" Language="tr_TR">
+      <Text>Tersane</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_PUNIC_PORT_NAME" Language="tr_TR">
+      <Text>Pön Limanı</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BYRSA_NAME" Language="tr_TR">
+      <Text>Byrsa</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_MEDJERDA_NAME" Language="tr_TR">
+      <Text>Medjerda Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_MILIANE_NAME" Language="tr_TR">
+      <Text>Miliane Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SEJENANE_NAME" Language="tr_TR">
+      <Text>Sejenane Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SILIANA_NAME" Language="tr_TR">
+      <Text>Siliana Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_TESSA_NAME" Language="tr_TR">
+      <Text>Tessa Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_EMI_KOUSSI_NAME" Language="tr_TR">
+      <Text>Emi Koussi</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_HARUJ_NAME" Language="tr_TR">
+      <Text>Haruj</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_JEBEL_TOUBKAL_NAME" Language="tr_TR">
+      <Text>Cebel Toubkal</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_PANTELLERIA_NAME" Language="tr_TR">
+      <Text>Pantelleria</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_WAW_AN_NAMUS_NAME" Language="tr_TR">
+      <Text>Waw an Namus</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RED_SLIP_NAME" Language="tr_TR">
+      <Text>Tanit'in Bilgeliği</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SHIPSHEDS_NAME" Language="tr_TR">
+      <Text>Gemi Hangarları</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SICILIAN_WARS_NAME" Language="tr_TR">
+      <Text>Sicilya Savaşları</Text>
+    </Replace>
+    <Replace Tag="LOC_11000A_COMPLETION" Language="tr_TR">
+      <Text>Yeni yerleşim yeri hareketlenir, Kartaca'nın erişimini şehir duvarlarının ötesine taşır ve dünya nefes kesici, gösterişli mor için haykırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11000A_STORYTITLE" Language="tr_TR">
+      <Text>Refahın Rengi</Text>
+    </Replace>
+    <Replace Tag="LOC_11000B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} İzcilere.</Text>
+    </Replace>
+    <Replace Tag="LOC_11000B_NAME" Language="tr_TR">
+      <Text>Kartaca'nın etkisinin ne kadar uzağa ulaşabileceğini gör.</Text>
+    </Replace>
+    <Replace Tag="LOC_11000C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11000C_NAME" Language="tr_TR">
+      <Text>Kartaca'ya ait olanı koru.</Text>
+    </Replace>
+    <Replace Tag="LOC_11001A_COMPLETION" Language="tr_TR">
+      <Text>Ticaret gemilerinin yelkenleri rüzgarda dalgalanır, Kartaca limanlarından uzak diyarların bolluğunu arayan bir kuş sürüsü gibi ayrılırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11001A_STORYTITLE" Language="tr_TR">
+      <Text>Uygun Rüzgarlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11001B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Tüccarlar üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11001B_NAME" Language="tr_TR">
+      <Text>Ticaret rüzgarlarını hızlandır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11001C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11001C_NAME" Language="tr_TR">
+      <Text>Onlarla Kartaca'nın büyüklüğünün hikayelerini gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11002A_COMPLETION" Language="tr_TR">
+      <Text>Demir bir zincirin halkaları gibi, Kartaca limanları imparatorluğu büyük mesafeler boyunca birbirine bağlar — zenginlikler içeri akar ve güç dışarı yansır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11002A_STORYTITLE" Language="tr_TR">
+      <Text>Kırılmaz Bağlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11002B_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kutlamaya Gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11002B_NAME" Language="tr_TR">
+      <Text>Şarap aksın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11002C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_capital}'de +1 Nüfus</Text>
+    </Replace>
+    <Replace Tag="LOC_11002C_NAME" Language="tr_TR">
+      <Text>Limanların cazibesinin hikayelerini yay.</Text>
+    </Replace>
+    <Replace Tag="LOC_11003A_COMPLETION" Language="tr_TR">
+      <Text>Gittikleri her yerde Kartacalılar muhteşem manzaralarla çevrilidir, ancak temel olanakların ve altyapının yokluğundan şikayet ederler. İnsanların tam olarak takdir etme imkanları yoksa bu kadar inanılmaz harikaların ne faydası var?</Text>
+    </Replace>
+    <Replace Tag="LOC_11003A_STORYTITLE" Language="tr_TR">
+      <Text>Ezici İhtişam</Text>
+    </Replace>
+    <Replace Tag="LOC_11003B_DESCRIPTION" Language="tr_TR">
+      <Text>+3 Ticaret Rotası menzili.</Text>
+    </Replace>
+    <Replace Tag="LOC_11003B_NAME" Language="tr_TR">
+      <Text>Altyapı başka bir yerden gelmek zorunda kalacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11003C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Harikalar üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11003C_NAME" Language="tr_TR">
+      <Text>Harikalar altyapıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004A_COMPLETION" Language="tr_TR">
+      <Text>Romalılarda, bazılarının soyundan geldiği yırtık pırtık çobanların bir izi vardır, ama sadece bir iz. Şimdi, hırsları otlaklarının ötesine uzanıyor — ve Kartaca'ya müdahale edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004A_STORYTITLE" Language="tr_TR">
+      <Text>Hilal ve Kurt</Text>
+    </Replace>
+    <Replace Tag="LOC_11004B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004B_NAME" Language="tr_TR">
+      <Text>Karşılıklı anlaşmalar kalıcı barış yaratacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004C_NAME" Language="tr_TR">
+      <Text>Kartaca gafil avlanamaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11004D_NAME" Language="tr_TR">
+      <Text>Kartaca, halkımızın düşündüğünden daha fazlasını Roma ile paylaşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005A_COMPLETION" Language="tr_TR">
+      <Text>Caput mundi (dünyanın başı) alevler içinde. Villalardan ve insulaelerden (Roma apartmanları) dumanlar yükseliyor ve hem Romalılar hem de Kartacalılar isten boğuluyor. Birçok vatandaş taşıyabildikleri ne varsa alıp kaçtı. Kalanlar — yaşlılar, hastalar, yoksullar ve inatçılar — Kartaca kuvvetlerine merhamet etmeleri için yalvarıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005A_STORYTITLE" Language="tr_TR">
+      <Text>Düşüş</Text>
+    </Replace>
+    <Replace Tag="LOC_11005B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +1 Savaş Desteği.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005B_NAME" Language="tr_TR">
+      <Text>Onlara sadece kül ve tuz bırak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Yerleşimlerde +1 Nüfus.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005C_NAME" Language="tr_TR">
+      <Text>Onları dünyanın gerçek başına getir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005D_DESCRIPTION" Language="tr_TR">
+      <Text>En Yüksek Seviyeli Komutan Kararlı Terfisini alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11005D_NAME" Language="tr_TR">
+      <Text>En yiğit generallerini koru.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006A_COMPLETION" Language="tr_TR">
+      <Text>Parşömen imzalanırken Romalı ve Kartacalı elçiler birbirlerine temkinli bir şekilde bakar. Bir Romalı senatör mırıldanır, "...delenda est." (yok edilmeli). Yine de anlaşma yapılır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006A_STORYTITLE" Language="tr_TR">
+      <Text>İstemeyerek Onay</Text>
+    </Replace>
+    <Replace Tag="LOC_11006B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006B_NAME" Language="tr_TR">
+      <Text>Roma ve Kartaca suları barışı bilecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006C_NAME" Language="tr_TR">
+      <Text>Yeni ittifaklar yeni fikirler doğurur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11006D_NAME" Language="tr_TR">
+      <Text>Şehirler herkesi ağırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007A_COMPLETION" Language="tr_TR">
+      <Text>Antlaşma yapılır yapılmaz yıpranmış bir senatör protesto etmeye başlar. Her toplantıda, konu ne olursa olsun, Kartaca'nın çok müreffeh olması nedeniyle ticareti boğacaklarını ve Romalıların acı çekeceğini ilan eder. Bu nedenlerle, defalarca Kartaca'nın yok edilmesi gerektiği konusunda uyarır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007A_STORYTITLE" Language="tr_TR">
+      <Text>Delenda Est</Text>
+    </Replace>
+    <Replace Tag="LOC_11007B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kasabalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007B_NAME" Language="tr_TR">
+      <Text>Kırsal vatandaşlar bundan fayda görecek, zarar görmeyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_capital}'de +1 Kaynak Sınırı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007C_NAME" Language="tr_TR">
+      <Text>İttifak, onu tehlikeye atmak için çok fazla şey vaat ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kasabalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_11007D_NAME" Language="tr_TR">
+      <Text>Yaşlı huysuzu ve onun modası geçmiş kurumunu aşağıla.</Text>
+    </Replace>
+    <Replace Tag="LOC_11008A_COMPLETION" Language="tr_TR">
+      <Text>Saraydan limana kadar Kartaca'nın boşa harcanan bir santimi bile yoktur. Kartacalılar dünyanın en müreffeh şehirlerinden birinde günlerini geçirirken sokaklar hayatla dolup taşar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11008A_STORYTITLE" Language="tr_TR">
+      <Text>Gerçek Zenginlik</Text>
+    </Replace>
+    <Replace Tag="LOC_11008B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_capital}'de +1 Uzman Sınırı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11008B_NAME" Language="tr_TR">
+      <Text>Kartaca, büyüklüğün doğduğu yerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11008C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11008C_NAME" Language="tr_TR">
+      <Text>Dokunulmaz kalacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009A_COMPLETION" Language="tr_TR">
+      <Text>Numidyalılar başlarıyla onaylar, sözleşmelerinin şartlarından memnundur. Süvariler Kartaca'ya herhangi bir sadakat borçlu olmayabilir, ancak tedarik edildikleri sürece emredildikleri yere gideceklerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009A_STORYTITLE" Language="tr_TR">
+      <Text>Çelik İçin Altın</Text>
+    </Replace>
+    <Replace Tag="LOC_11009B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Numidya Süvarisi üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009B_NAME" Language="tr_TR">
+      <Text>Esir almamalılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Numidya Süvarisi üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009C_NAME" Language="tr_TR">
+      <Text>Disiplinsizlik hoş görülmeyecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11009D_NAME" Language="tr_TR">
+      <Text>Sözleşmelerini yeniden müzakere et.</Text>
+    </Replace>
+    <Replace Tag="LOC_11064A_COMPLETION" Language="tr_TR">
+      <Text>Ödenmeyen Numidyalılar homurdanır. Kartaca için değil, karınları için savaşırlar. Ama Kartaca daha önce cömert davranmıştı — belki yine davranır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11064A_STORYTITLE" Language="tr_TR">
+      <Text>Bozulan Sözleşmeler</Text>
+    </Replace>
+    <Replace Tag="LOC_11064B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Üretim Binalarında ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11064B_NAME" Language="tr_TR">
+      <Text>Sözleşmeyi yerine getirmek için vergileri artır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11064C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama onların {2_reward} var.</Text>
+    </Replace>
+    <Replace Tag="LOC_11064C_NAME" Language="tr_TR">
+      <Text>Süvariler sunabileceklerimizle yaşamak zorunda.</Text>
+    </Replace>
+    <Replace Tag="LOC_11065A_COMPLETION" Language="tr_TR">
+      <Text>Düşman gemisinin gövdesi binlerce parçaya ayrılırken mürettebatı boşuna güvenliğe tırmanır. Bugün ve bundan sonra, Kartaca suları halkı için güvende kalacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11065A_STORYTITLE" Language="tr_TR">
+      <Text>Güvenli Liman</Text>
+    </Replace>
+    <Replace Tag="LOC_11065B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11065B_NAME" Language="tr_TR">
+      <Text>Güvende hisseden aileler Kartaca'nın büyümesine izin verecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11065C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11065C_NAME" Language="tr_TR">
+      <Text>İşçiler güvenlikleri konusunda endişelenmek zorunda kalmayacaklar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11066A_COMPLETION" Language="tr_TR">
+      <Text>Devasa taş duvarlar şehrin eni ve boyu boyunca, kıyılarından iç bölgelerin kenarlarına kadar uzanır. Kartaca kendi halkını korur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11066A_STORYTITLE" Language="tr_TR">
+      <Text>Duvarlı Bahçe</Text>
+    </Replace>
+    <Replace Tag="LOC_11066B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Garnizonlu Birimler üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11066B_NAME" Language="tr_TR">
+      <Text>Bekçilerin ihtiyaç duydukları her şeye sahip olmalarını sağlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11066C_DESCRIPTION" Language="tr_TR">
+      <Text>Ücretsiz Antik Duvarlar alımı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11066C_NAME" Language="tr_TR">
+      <Text>Duvarları genişletmek için taş ustalarını askere al.</Text>
+    </Replace>
+    <Replace Tag="LOC_11067A_COMPLETION" Language="tr_TR">
+      <Text>Her duvar inşa edildiğinde ve her yelken açıldığında, Kartaca'nın hikayesi yeryüzüne yayılır ve sorgulanmayacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11067A_STORYTITLE" Language="tr_TR">
+      <Text>Kartacalılar</Text>
+    </Replace>
+    <Replace Tag="LOC_11067B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11067B_NAME" Language="tr_TR">
+      <Text>Hikaye inkar edilemez bir güçten bahseder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11067C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11067C_NAME" Language="tr_TR">
+      <Text>Hikaye dudak uçuklatan bir zenginlik hikayesidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12004A_COMPLETION" Language="tr_TR">
+      <Text>Kartaca sokaklarında yürüyen Dr. Rizal, hareket halindeki bir şehir görür. Atlı paralı askerler ayak altındaki kimseye pek aldırmazken, limanda büyük gemiler şehri canlı tutan trafiği güçlendirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12004A_STORYTITLE" Language="tr_TR">
+      <Text>Kartaca'daki İyi Doktor</Text>
+    </Replace>
+    <Replace Tag="LOC_12004B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kadırga üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_12004B_NAME" Language="tr_TR">
+      <Text>Gemileri incele.</Text>
+    </Replace>
+    <Replace Tag="LOC_12004C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12004C_NAME" Language="tr_TR">
+      <Text>Atlara hayranlıkla bak.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1030_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Bahçeye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1030_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Anıta sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1031_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Akademiye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1040_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Kütüphaneye ve bir Anıta sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1041_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Amfitiyatroya sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1050_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Kütüphaneye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1052_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>1 Pazar ve 2 Ticaret Rotasına sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1060_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Kütüphaneyi Kodekslerle Doldur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1062_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Akademiye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1070_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Bahçeye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1070_CARTHAGEF_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Bahçeye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1072_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Akademiye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1072_CARTHAGED_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Akademiye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1090_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Harika İnşa Et.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1130_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Kütüphaneyi Kodekslerle Doldur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1140_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Bahçeye ve bir Pazara sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1170_CARTHAGEC_IMPERATIVE" Language="tr_TR">
+      <Text>1 Anıta sahip ol sonra bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1172_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Akademiye sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1180_CARTHAGEB_IMPERATIVE" Language="tr_TR">
+      <Text>1 Anıta sahip ol sonra bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1180_CARTHAGEE_IMPERATIVE" Language="tr_TR">
+      <Text>1 Anıta sahip ol sonra bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_COLONIST_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:Action_Move] [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]Embarked[/TIP] Movement and +1 [icon:YIELD_POPULATION] Population if Settled adjacent to a [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUMIDIAN_CAVALRY_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for each [icon:RADIAL_RESOURCES] Unique [TIP:LOC_PEDIA_CONCEPTS_CITY_RESOURCES_TOOLTIP]City Resource[/TIP] assigned to your [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_TOTAL_TRADE_ROUTES" Language="tr_TR">
+      <Text>Toplam Ticaret Rotaları</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTR_YIELDS_FROM_NUM_TRADE_ROUTES" Language="tr_TR">
+      <Text>Ticaret Yolu Sayısı</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_COTHON_DESCRIPTION" Language="tr_TR">
+      <Text>Carthaginian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Production Building[/TIP]. +2 [icon:YIELD_PRODUCTION] Production. +1 [icon:YIELD_PRODUCTION] Production Adjacency for Coast, [TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]Navigable Rivers[/TIP], and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP]. Can be purchased in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP]. Must be placed on Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_COTHON_TOOLTIP" Language="tr_TR">
+      <Text>Can be purchased in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP]. Must be placed on Coast.[n]Carthaginian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_DOCKYARD_DESCRIPTION" Language="tr_TR">
+      <Text>Carthaginian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Gold Building[/TIP]. +2 [icon:YIELD_GOLD] Gold. +1 [icon:YIELD_FOOD] Food Adjacency for [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resources[/TIP], [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP], and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP]. Can be purchased in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP]. Must be placed on Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_DOCKYARD_TOOLTIP" Language="tr_TR">
+      <Text>Can be purchased in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP]. Must be placed on Coast.[n]Carthaginian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RED_SLIP_AUTHOR" Language="tr_TR">
+      <Text>Mago</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RED_SLIP_QUOTE" Language="tr_TR">
+      <Text>"Kentsel bir konutta daha fazla neşe bulanın kırsal bir çiftliğe ihtiyacı olmayacaktır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SHIPSHEDS_AUTHOR" Language="tr_TR">
+      <Text>Denizci Hanno</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SHIPSHEDS_QUOTE" Language="tr_TR">
+      <Text>"Hızla yelken açarak, ateş ve kokuyla yanan bir ülkeden geçtik, oradan alev selleri denize dökülüyordu."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SICILIAN_WARS_AUTHOR" Language="tr_TR">
+      <Text>Diodorus Siculus</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SICILIAN_WARS_QUOTE" Language="tr_TR">
+      <Text>"Ele geçirilen filoyu sunan Kartacalılar, halkın sadece başarılarının büyüklüğünü duymakla kalmayıp görmesini de sağladılar."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION" Language="tr_TR">
+      <Text>Can only have 1 [icon:YIELD_CITIES] City. [icon:YIELD_TOWNS] Towns cannot use Convert to City. Receive a second [icon:UNIT_MERCHANT] Merchant or [icon:UNIT_COLONIST] Colonist each time you purchase or train one.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_CARTHAGE" Language="tr_TR">
+      <Text>Mütevazı bir koloniden ekonomik hegemonyaya kadar Kartaca, Kuzey Afrika kıyılarından yükselerek Akdeniz'e hakim oldu. Şık gemileri bilinen dünyanın her yerine mal ve zenginlik taşıdı, evde ise Kartaca şehri usta zanaatkarları ve derin tarımsal bilgisiyle ünlüydü. Önce Yunanistan, sonra Roma ile rekabet, ünlü generalleri ve güçlü bir donanmayı geliştirdi. Ancak savaş Kartaca'nın sonu oldu ve şehir MÖ 146'da yıkıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_CARTHAGE" Language="tr_TR">
+      <Text>Punic Port Benzersiz Bölgesi, Kasabalarda satın alınabilir ve Kaynak Kapasitesini artırır. Bu, gelecek Çağlarda da devam eder ve size daha sonra güçlü avantajlar sağlar!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INTRO_CARTHAGE" Language="tr_TR">
+      <Text>Sur çocukları kaderlerini talep etmek için uzaklardan gelir. Dünyanın merkezinden, eşi benzeri olmayan bir imparatorluğa komuta edecekler.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_CARTHAGE_COMPLETE_BYRSA_DESC" Language="tr_TR">
+      <Text>Kartaca olarak, Byrsa'yı tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_CARTHAGE_COMPLETE_BYRSA_NAME" Language="tr_TR">
+      <Text>Byrsa</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_CARTHAGE_LEGACY_PATH_MILITARISTIC_DESC" Language="tr_TR">
+      <Text>Kartaca olarak, Askeri Miras Yolunu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_CARTHAGE_LEGACY_PATH_MILITARISTIC_NAME" Language="tr_TR">
+      <Text>Kartaca Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_CARTHAGE_DESCRIPTION" Language="tr_TR">
+      <Text>+30%[icon:YIELD_PRODUCTION] Production from being Carthage's associated [icon:WONDER] Wonder.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_RED_SLIP_RESOURCE_CAP_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Resource Capacity[/TIP] in the [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_RED_SLIP_TRADE_GOLD_DESCRIPTION" Language="tr_TR">
+      <Text>+15 [icon:TRADE_ROUTE] Naval [TIP:LOC_PEDIA_CONCEPTS_TRADE_RANGE_TOOLTIP]Trade Route Range[/TIP]. +3 [icon:YIELD_GOLD] Gold in the [icon:NOTIFICATION_SELECT_CAPITAL] Capital for every [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Trade Route[/TIP] from the Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SHIPSHEDS_NAVAL_FIRST_STRIKE_DESCRIPTION" Language="tr_TR">
+      <Text>Sağlığı tam olan [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] için +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Savaş Gücü[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SHIPSHEDS_NAVAL_FIRST_STRIKE_PREVIEW" Language="tr_TR">
+      <Text>+5 Gemi Tersanesi Ustalığı</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SHIPSHEDS_NAVAL_MOVEMENT_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:Action_Move] Movement for [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Units[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SICILIAN_WARS_MOVEMENT_NUMIDIAN_CAVALRY_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:Action_Move] Movement and [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Sight[/TIP] for the [icon:UNIT_NUMIDIAN_CAVALRY] Numidian Cavalry.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SICILIAN_WARS_SETTLEMENT_CAP_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:SETTLEMENT_LIMIT] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]Settlement Limit[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SICILIAN_WARS_TOWN_PROJECT_DESCRIPTION" Language="tr_TR">
+      <Text>+1 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Codex[/TIP] slot in City Halls in [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP] with the [icon:TOWN_FOCUS] Trade Outpost Focus.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_PUNIC_PORT_DESCRIPTION" Language="tr_TR">
+      <Text>Carthaginian [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Unique Quarter[/TIP]. Created by constructing the Cothon and Dockyard in the same [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]District[/TIP]. +2 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Resource Capacity[/TIP] in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_PUNIC_PORT_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCE_CAPACITY_TOOLTIP]Resource Capacity[/TIP] in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_BYRSA" Language="tr_TR">
+      <Text>Leo Africanus</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_BYRSA" Language="tr_TR">
+      <Text>Bugün şehir surlarının bazı harabeleri görülebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_GAULOS_DESCRIPTION" Language="tr_TR">
+      <Text>+25% [icon:YIELD_GOLD] Gold towards purchasing [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP] on Coast or [TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]Navigable Rivers[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_QUINQUEREME_DESCRIPTION" Language="tr_TR">
+      <Text>+25% [icon:YIELD_GOLD] Gold towards purchasing [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Units[/TIP]. -1 [icon:YIELD_GOLD] Gold [TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]Maintenance[/TIP] for [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Naval Units[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SUFFETES_DESCRIPTION" Language="tr_TR">
+      <Text>+20% [icon:YIELD_GOLD] Gold in Mining [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP]. +20% [icon:YIELD_FOOD] Food in Fishing or Farming [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Towns[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CARTHAGE_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Can only have [B]1 [icon:YIELD_CITIES] City[/B]. [icon:YIELD_TOWNS] Towns cannot use [B]Convert to City[/B].[LI]Receive a second [icon:UNIT_MERCHANT] [B]Merchant[/B] or [icon:UNIT_COLONIST] [B]Colonist[/B] each time you purchase or train one.[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Byrsa[/B].[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CARTHAGE_ABILITY_NAME" Language="tr_TR">
+      <Text>Fenike Mirası</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_AQ_CARTHAGE_NAME" Language="tr_TR">
+      <Text>Kartaca Yurttaşlıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLONIST_DESCRIPTION" Language="tr_TR">
+      <Text>Carthaginian Unique Settler. +1 [icon:Action_Move] [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]Embarked[/TIP] Movement and +1 [icon:YIELD_POPULATION] Population if Settled adjacent to a [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Resource[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUMIDIAN_CAVALRY_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 3 Carthaginian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Can only be purchased and are more expensive. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for each [icon:RADIAL_RESOURCES] Unique [TIP:LOC_PEDIA_CONCEPTS_CITY_RESOURCES_TOOLTIP]City Resource[/TIP] assigned to your [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUMIDIAN_CAVALRY_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Carthaginian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Can only be purchased and are more expensive. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for each [icon:RADIAL_RESOURCES] Unique [TIP:LOC_PEDIA_CONCEPTS_CITY_RESOURCES_TOOLTIP]City Resource[/TIP] assigned to your [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUMIDIAN_CAVALRY_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 2 Carthaginian Unique [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Cavalry Unit[/TIP]. Can only be purchased and are more expensive. +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for each [icon:RADIAL_RESOURCES] Unique [TIP:LOC_PEDIA_CONCEPTS_CITY_RESOURCES_TOOLTIP]City Resource[/TIP] assigned to your [icon:NOTIFICATION_SELECT_CAPITAL] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_AUGUSTUS_CARTHAGE_TOOLTIP" Language="tr_TR">
+      <Text>[B]Kartaca[/B] [B]Augustus[/B]'u stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_CARTHAGE_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Kartaca[/B] olarak oyna.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_CARTHAGE_SPAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]Kartaca[/B] ve [B]İspanya[/B] her ikisi de Akdeniz güçleriydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_HATSHEPSUT_CARTHAGE_TOOLTIP" Language="tr_TR">
+      <Text>[B]Hatşepsut[/B] [B]Kartaca[/B] ile aynı kıtadaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_CARTHAGE_TOOLTIP" Language="tr_TR">
+      <Text>[B]İbn Battuta[/B] [B]Kartaca[/B] ile aynı bölgede seyahat etti.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ISABELLA_CARTHAGE_TOOLTIP" Language="tr_TR">
+      <Text>[B]Isabella[/B] ve [B]Kartaca[/B] Akdeniz'i paylaşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BYRSA_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:YIELD_GOLD] Gold. [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Trade Routes[/TIP] cannot be [icon:Action_Pillage] Plundered. All [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] in this [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]City[/TIP] that are adjacent to Coast and eligible for Walls receive a [TIP:LOC_PEDIA_CONCEPTS_WALL_TOOLTIP]Wall[/TIP]. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Ageless[/TIP]. Must be placed adjacent to Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BYRSA_TOOLTIP" Language="tr_TR">
+      <Text>[icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Trade Routes[/TIP] cannot be [icon:Action_Pillage] Plundered. All [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] in this [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]City[/TIP] that are adjacent to Coast and eligible for [TIP:LOC_PEDIA_CONCEPTS_WALL_TOOLTIP]Walls[/TIP] receive a [TIP:LOC_PEDIA_CONCEPTS_WALL_TOOLTIP]Wall[/TIP].[N]Must be placed adjacent to Coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_RESOURCES_CAPITAL_BONUS_DESC" Language="tr_TR">
+      <Text>Başkente atanan Kaynaklardan +{1_Value} Muharebe Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_GAULOS_NAME" Language="tr_TR">
+      <Text>Gaulos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_QUINQUEREME_NAME" Language="tr_TR">
+      <Text>Kinkverem</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_SUFFETES_NAME" Language="tr_TR">
+      <Text>Suffetler</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLONIST_NAME" Language="tr_TR">
+      <Text>Kolonist</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUMIDIAN_CAVALRY_NAME" Language="tr_TR">
+      <Text>Numidya Süvarisi</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

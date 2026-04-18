@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Simón Bolívar, Güney Amerika'nın İspanya'dan bağımsızlığıyla sonuçlanacak hareketlere öncülük etti ve bu nedenle çabalarından dolayı "El Libertador", yani Kurtarıcı olarak adlandırıldı. Diğer sözde liderler ile Bolívar arasındaki iç çekişmeler birleşik bir Güney Amerika fikrini parçalasa da, kıtadaki Avrupa kontrolüne kesin bir darbe vurdu ve bugün hala bir kahraman olarak saygı görüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>1783'te Venezuela'da zengin bir criollo (Avrupa kökenli) ailesinde doğdu. Çocukken ailesinin mülkünün ve servetinin idaresine atandı, aynı zamanda o sırada Fransa'dan gelen özgürlük ilkeleri üzerine kendini eğitti ve Jean-Jacques Rousseau'dan büyük ölçüde etkilendi. Genç bir adam olarak, Paris'e yaptığı bir ziyaret sırasında Napolyon'un iktidara yükselişine tanık oldu. Napolyon'un başarılarını takdir etti, ancak Devrim'in ardından böylesine yoğun bir güç birleşmesinden tiksindi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Napolyon savaşları Fransa'nın (ve dolayısıyla İspanyol kukla devletinin) gücünü tüketirken, Caracas'taki cunta bağımsızlığını ilan etti. Ardından gelen çatışmalarda, Venezuela özgürleşip tekrar İspanya'ya düşerken, Bolívar kendini birlikleri toplamaktan diplomatik destek toplamaya geçerken buldu. Unutulmaz bir anda, birliklerini And Dağları'ndan acımasız bir yürüyüşle geçirdi, sonunda İspanyolları hazırlıksız yakaladı ve yüksekliklerden aşağı doğru inerek zafere ulaştı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Bağımsızlıktan sonraki manzarada Bolívar, bir dereceye kadar birliği korumak için mücadele etti. Bu çabada, başkan yardımcısı Francisco de Paula Santander ile demokrasi ve birlik değerleri üzerine çatıştı. Bolívar ömür boyu başkanlık ve iktidar dizginlerinde daha güçlü bir el ararken, Santander'in seçim demokrasisi vizyonu vardı. Sonunda Bolívar kendini diktatör ilan etti, ancak sadece iki yıl sonra görevden alındı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Veremli ve birleşik bir Güney Amerika umutları sarsılmış olan Bolívar, Avrupa'ya seyahat etmeye çalıştı, ancak 1830'da öldü. Kıtayı özgürleştirmişti, ancak mücadeleyi "denizi sürmeye" benzetmişti. Mirası, Güney Amerika'da devrimin bir anıtı olarak sonsuza dek kutsal kalır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAT_TITLE" Language="tr_TR">
+      <Text>{LOC_LEADER_BOLIVAR_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Sen bu topraklara musallat olmuş bir canavarsın ve cezan suçlarına denk olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Sen, yaşlı yılan, zehirli öfkeni tatmin etmek için toprağımı yutamayacaksın.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_AI_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Işığı gördüm. Şimdi karanlığa geri dönüyorum.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Ben Simón Bolívar, zorbalığı ezen ve ulusları özgürlüğe götüren el.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Ben Simón Bolívar, zorbalığı ezen ve ulusları özgürlüğe götüren el.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Ben Simón Bolívar, zorbalığı ezen ve ulusları özgürlüğe götüren el.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_BOLIVAR" Language="tr_TR">
+      <Text>Böylesine heyecan verici bir öneriyle beni onurlandırıyorsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_BOLIVAR" Language="tr_TR">
+      <Text>Fikirlerin iyi niyetli ama yanlış yönlendirilmiş.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAIN_CHAR_SELECT_LEADER_BOLIVAR_ANY" Language="tr_TR">
+      <Text>Özgürlüğün dengesini korumak, tiranlığın ağırlığına katlanmaktan daha zordur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BOLIVAR_NAME" Language="tr_TR">
+      <Text>Simón Bolívar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220B_NAME" Language="tr_TR">
+      <Text>Bu topraklar sadece başlangıç.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220C_NAME" Language="tr_TR">
+      <Text>Korunmaları gerekiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220D_NAME" Language="tr_TR">
+      <Text>Yeterliler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221B_NAME" Language="tr_TR">
+      <Text>Çiftçiyi, madenciyi, seyisi hatırla.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221C_NAME" Language="tr_TR">
+      <Text>Onlar için iyi.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222B_NAME" Language="tr_TR">
+      <Text>Sonraki savaşa.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222C_NAME" Language="tr_TR">
+      <Text>Yeterince kan döküldü.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223B_NAME" Language="tr_TR">
+      <Text>Gelişen bir imparatorluk tehdit edilemez.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223C_NAME" Language="tr_TR">
+      <Text>En kötüsüne hazırlıklı olunmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224B_NAME" Language="tr_TR">
+      <Text>Bulmanın tek bir yolu var.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224C_NAME" Language="tr_TR">
+      <Text>Hiçbiri.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225B_NAME" Language="tr_TR">
+      <Text>Düşman olmadan önce arkadaş olmalarına izin ver.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226B_NAME" Language="tr_TR">
+      <Text>İtaat kazanılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226C_NAME" Language="tr_TR">
+      <Text>Askerler kendi başlarına düşünmeyi öğrenmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227B_NAME" Language="tr_TR">
+      <Text>Düşmanın başına saldır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228B_NAME" Language="tr_TR">
+      <Text>Modernitenin vaadi herkese aittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228C_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228D_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229B_NAME" Language="tr_TR">
+      <Text>Ona karşı duran düşer.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229C_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229D_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_10030A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, kütüphane görevlilerinin bu zamanların toplanmış bilgeliğini ne kadar özenle ele aldığını görmüştür, yine de onun soğuk mahzenlerde çürüyüp gitmemesini sağlamak istemektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10030A_STORYTITLE" Language="tr_TR">
+      <Text>Amaçlı Bilgi</Text>
+    </Replace>
+    <Replace Tag="LOC_10030B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Askeri Binalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_10030B_NAME" Language="tr_TR">
+      <Text>Subaylarla paylaşın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10030C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Askeri Binalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_10030C_NAME" Language="tr_TR">
+      <Text>Askerlerle paylaşın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10031A_COMPLETION" Language="tr_TR">
+      <Text>Kendisine hayranlıkla bakan tebaanın kalabalığıyla çevrili olan Bolívar, kendini anın coşkusuna kaptırmaktan alıkoyamaz. Başına yeni bir taç takılmış, İmparator Napolyon'un görüntüsü Bolívar'ın hafızasına kazınmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10031A_STORYTITLE" Language="tr_TR">
+      <Text>Örnek Alınacak Biri</Text>
+    </Replace>
+    <Replace Tag="LOC_10031B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} {2_capital} içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_10031B_NAME" Language="tr_TR">
+      <Text>O örnek bir devlet adamıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10031C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} {2_capital} içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_10031C_NAME" Language="tr_TR">
+      <Text>Askeri dehasının eşi benzeri yoktur.</Text>
+    </Replace>
+    <Replace Tag="LOC_10032A_COMPLETION" Language="tr_TR">
+      <Text>Bu, Bolívar'ın o kader taç giyme gününde gördüğü görkemli imparatorla aynı değil. Hepsi sadece bir gösteri miydi?</Text>
+    </Replace>
+    <Replace Tag="LOC_10032A_STORYTITLE" Language="tr_TR">
+      <Text>Aşağılanacak Biri</Text>
+    </Replace>
+    <Replace Tag="LOC_10032B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10032B_NAME" Language="tr_TR">
+      <Text>Napolyon'un halkına merhamet gösterin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10032C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +1 Savaş Desteği.</Text>
+    </Replace>
+    <Replace Tag="LOC_10032C_NAME" Language="tr_TR">
+      <Text>Devam edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10033A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın komutanları, cesaretlerinin, özgürlük davasına adanmışlıklarının bir nişanesi olarak birer birer nişan takarlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10033A_STORYTITLE" Language="tr_TR">
+      <Text>Saflar Arasından</Text>
+    </Replace>
+    <Replace Tag="LOC_10033B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10033B_NAME" Language="tr_TR">
+      <Text>Diğer askerler için bir ilham kaynağıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10033C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10033C_NAME" Language="tr_TR">
+      <Text>Herkes için bir ilham kaynağıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10034A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, {1_Independent}'i tanır ve özgür, bağımsız bir halk görür. Ama kimin özgürlüğü daha önemli?</Text>
+    </Replace>
+    <Replace Tag="LOC_10034A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Özgürlük Sorusu</Text>
+    </Replace>
+    <Replace Tag="LOC_10034B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Piyade üzerine, ama {2_reward} {3_capital} içinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_10034B_NAME" Language="tr_TR">
+      <Text>İspanya'nınki, fethetmek için.</Text>
+    </Replace>
+    <Replace Tag="LOC_10034C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward} tüm Yerleşimlerde.</Text>
+    </Replace>
+    <Replace Tag="LOC_10034C_NAME" Language="tr_TR">
+      <Text>{1_Independent}'inki, direnmek için.</Text>
+    </Replace>
+    <Replace Tag="LOC_10035A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, {1_Independent}'i tanır ve özgür, bağımsız bir halk görür. İlk izlenimler çok önemlidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10035A_STORYTITLE" Language="tr_TR">
+      <Text>Özerklik</Text>
+    </Replace>
+    <Replace Tag="LOC_10035B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10035B_NAME" Language="tr_TR">
+      <Text>Göçmenleri hoş karşılayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10035C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10035C_NAME" Language="tr_TR">
+      <Text>Liderlerle anlaşın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10036A_COMPLETION" Language="tr_TR">
+      <Text>Zorlu ve kanlı bir savaştan sonra, Bolívar'ın birlikleri {1_STORY_CITY}'yi geri alır, {2_civilization_adj} vatandaşlar İspanyol fatihler esir alınırken tezahürat yapar. Güzel bir gün.</Text>
+    </Replace>
+    <Replace Tag="LOC_10036A_STORYTITLE" Language="tr_TR">
+      <Text>Yeminli Düşmanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_10036B_DESCRIPTION" Language="tr_TR">
+      <Text>En Yüksek Seviyeli Komutanda Ücretsiz Terfi.</Text>
+    </Replace>
+    <Replace Tag="LOC_10036B_NAME" Language="tr_TR">
+      <Text>Başarıyı ödüllendirin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10036C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10036C_NAME" Language="tr_TR">
+      <Text>Her şeye hazır olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_10037A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar {1_capital}'e kaçmak zorunda kalır, ülkesinin kaderi pamuk ipliğine bağlıdır. Ölümle yüzleşirken doğru tepkiyi arar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10037A_STORYTITLE" Language="tr_TR">
+      <Text>Umutsuz Zamanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_10037B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} but {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10037B_NAME" Language="tr_TR">
+      <Text>Umutsuzca savaşın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10037C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +1 Savaş Desteği ama {1_capital} içinde bir Bina Yağmalanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10037C_NAME" Language="tr_TR">
+      <Text>Cesur fikirlerin etrafında toplanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10038A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, {1_capital}'e muzaffer dönüşünü yaparken kalabalıklara başıyla selam verir. Onlar bir kez daha — hayır, her zaman — {2_civilization_adj} halkıydılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10038A_STORYTITLE" Language="tr_TR">
+      <Text>Eski Formuna Dönüş</Text>
+    </Replace>
+    <Replace Tag="LOC_10038B_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kutlamaya Girin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10038B_NAME" Language="tr_TR">
+      <Text>Bu bir kutlama sebebidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10038C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10038C_NAME" Language="tr_TR">
+      <Text>Bu bir daha asla yaşanmasın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10039A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, reddedilme karşısında soğukkanlılığını korumaya çalışır — bu tür hakaretler hem kendisine hem de halkına yansır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10039A_STORYTITLE" Language="tr_TR">
+      <Text>Reddedildi</Text>
+    </Replace>
+    <Replace Tag="LOC_10039B_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +1 Savaş Desteği.</Text>
+    </Replace>
+    <Replace Tag="LOC_10039B_NAME" Language="tr_TR">
+      <Text>Unutulmayacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_10039C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10039C_NAME" Language="tr_TR">
+      <Text>Çoktan unutuldu.</Text>
+    </Replace>
+    <Replace Tag="LOC_10040A_COMPLETION" Language="tr_TR">
+      <Text>Liderlik her zaman Bolívar'a doğal gelmişti. Karşılaştığı zorluklar için donanımsız gördüğü başkalarına güvenmekte isteksiz bulur kendini.</Text>
+    </Replace>
+    <Replace Tag="LOC_10040A_STORYTITLE" Language="tr_TR">
+      <Text>Bir İkilem</Text>
+    </Replace>
+    <Replace Tag="LOC_10040B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10040B_NAME" Language="tr_TR">
+      <Text>Elitlerimizin olmasının bir nedeni var.</Text>
+    </Replace>
+    <Replace Tag="LOC_10040C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10040C_NAME" Language="tr_TR">
+      <Text>Ödenen güven, ödüllendirilen güvendir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10042A_COMPLETION" Language="tr_TR">
+      <Text>Ne kadar uğraşırsa uğraşsın, Simón Bolívar kılıcını bırakamaz. Belki de özgürlüğe ancak onu bahşeden kişi olduğu sürece inanıyordur.</Text>
+    </Replace>
+    <Replace Tag="LOC_10042A_STORYTITLE" Language="tr_TR">
+      <Text>Silah Başına</Text>
+    </Replace>
+    <Replace Tag="LOC_10042B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Birimlerde ama tüm Yerleşimlerde 1 Bina Yağmalanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_10042B_NAME" Language="tr_TR">
+      <Text>Halk fedakarlık yapmak zorunda kalacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_10042C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm savaşlarda +3 Savaş Desteği ama tüm Birimlere 50 Hasar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10042C_NAME" Language="tr_TR">
+      <Text>Birlikler fedakarlık yapmak zorunda kalacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_10043A_COMPLETION" Language="tr_TR">
+      <Text>Bu kadar basit bir şeydi ve yine de Bolívar'dan bu kadar uzun süre kaçmıştı — kendi halklarının ve birbirlerinin iyiliği için verimli ilişkiler içinde olan iki ulus.</Text>
+    </Replace>
+    <Replace Tag="LOC_10043A_STORYTITLE" Language="tr_TR">
+      <Text>Sağlam Bir El Sıkışma</Text>
+    </Replace>
+    <Replace Tag="LOC_10043B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10043B_NAME" Language="tr_TR">
+      <Text>Fikirlerin ve sermayenin serbest değişimini hoş karşılayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10043C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10043C_NAME" Language="tr_TR">
+      <Text>Tetikte kalın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10046A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, kendi başına savaşmanın çaresizliğini çok iyi bilir. Bu yüzden bir yardım çağrısı geldiğinde cevap vermekte tereddüt etmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_10046A_STORYTITLE" Language="tr_TR">
+      <Text>Birleşik</Text>
+    </Replace>
+    <Replace Tag="LOC_10046B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10046B_NAME" Language="tr_TR">
+      <Text>Dünyaya Bolívar'ın geldiğini söyleyin.</Text>
+    </Replace>
+    <Replace Tag="LOC_10046C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10046C_NAME" Language="tr_TR">
+      <Text>Takviye kuvvetleri toplayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_10047A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın diğer liderler nezdindeki popülaritesi onların halklarına da uzanır — belki de bu onun kelimelerle arası iyi olmasından, belki de sırf kişiliğinin gücündendir.</Text>
+    </Replace>
+    <Replace Tag="LOC_10047A_STORYTITLE" Language="tr_TR">
+      <Text>Karizmatik Lider</Text>
+    </Replace>
+    <Replace Tag="LOC_10047B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10047B_NAME" Language="tr_TR">
+      <Text>Onun topraklarını kendileri görmek istiyorlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10047C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10047C_NAME" Language="tr_TR">
+      <Text>Hayatlarını onun davasına adıyorlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_10048A_COMPLETION" Language="tr_TR">
+      <Text>{1_STORY_CITY} halkı, kahraman bir zamanlar savaşla yıpranmış sokaklarından geçerken Simón Bolívar'a tezahürat yapar. Düşmanınızın halkının hayranlığını kazanmak neredeyse imkansız bir başarıdır — el Libertador değilseniz.</Text>
+    </Replace>
+    <Replace Tag="LOC_10048A_STORYTITLE" Language="tr_TR">
+      <Text>Hoş Bir Manzara</Text>
+    </Replace>
+    <Replace Tag="LOC_10048B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10048B_NAME" Language="tr_TR">
+      <Text>Tüccarlar daha büyük bir refah hayal ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_10048C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10048C_NAME" Language="tr_TR">
+      <Text>Zanaatkarlar en iddialı projelerini planlıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_10049A_COMPLETION" Language="tr_TR">
+      <Text>Refah, Meksika'ya altın nehirleri üzerinde akar, halkının dayanıklılığının ve iradesinin bir kanıtı olarak — ve Simón Bolívar'ın hayata geçirilen en çılgın hayalleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_10049A_STORYTITLE" Language="tr_TR">
+      <Text>Yaşasın Devrim</Text>
+    </Replace>
+    <Replace Tag="LOC_10049B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10049B_NAME" Language="tr_TR">
+      <Text>Bu sadece başlangıç.</Text>
+    </Replace>
+    <Replace Tag="LOC_10049C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_10049C_NAME" Language="tr_TR">
+      <Text>Dünya hazır değil.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220A_COMPLETION" Language="tr_TR">
+      <Text>Simón Bolívar, topraklarını kaplayan ve halkını besleyen, yakın zamanda yağan bir yağmurdan parlayan tahıl tarlalarının arasında durur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220A_STORYTITLE" Language="tr_TR">
+      <Text>Bu Topraklar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220B_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın teşvikiyle halkı yerleşmek ve çalışmak için yeni topraklar arar. Zamanla, hayat veren yağmurlar onlara da lütfedecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220B_IMPERATIVE" Language="tr_TR">
+      <Text>2 Yerleşim daha Kur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220B_STORYTITLE" Language="tr_TR">
+      <Text>Bu Topraklar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220C_COMPLETION" Language="tr_TR">
+      <Text>Bolívar surların uzunluğunu yürür, imparatorluğuna yeni bir bakış açısı kazandırır. Toprakları hala görebildiği kadar uzanır, ancak şimdi kalbi savunulur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220C_IMPERATIVE" Language="tr_TR">
+      <Text>4 Antik Duvar daha İnşa Et</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220C_STORYTITLE" Language="tr_TR">
+      <Text>Bu Topraklar</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1220D_DESCRIPTION" Language="tr_TR">
+      <Text>{2_capital}'de {1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın tüccarları komşularıyla pazarlık masasında buluşur, ceplerini altınla dolduracak bir anlaşma ararlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221B_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın imparatorluğu bir yer değil, bir halktır – tüccar, asker, işçi hepsi birdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221B_IMPERATIVE" Language="tr_TR">
+      <Text>10 Kırsal Nüfusa sahip bir Yerleşime sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221B_STORYTITLE" Language="tr_TR">
+      <Text>Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1221C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222A_COMPLETION" Language="tr_TR">
+      <Text>Savaşın tozu diner, hem mağlup olanların hem de galiplerin üzerine çöker. Bolívar'ın askerleri silahlarını kaldırır ve onları tekrar çekmek için emrini bekler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222A_STORYTITLE" Language="tr_TR">
+      <Text>Her Şeye Hazır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222B_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, {1_STORY_CITY}'nin teğmenlerinin sağlam kontrolü altında kan dökülmesine son verilmesi çağrısında bulunur. Düşmanlarına daha net bir mesaj gönderemez.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir Yerleşim Ele Geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222B_STORYTITLE" Language="tr_TR">
+      <Text>Her Şeye Hazır</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1222C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223A_COMPLETION" Language="tr_TR">
+      <Text>Günde binlerce kez, Bolívar'ın yardımcıları ona rehberlik ve talimat için gelir, ister imparatorluğunun sıradan yönetimi ister uzaktan gelen tehditler olsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223A_STORYTITLE" Language="tr_TR">
+      <Text>Asla Bitmez</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1223C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, bir amiralin tehlikeli okyanuslarda gezinmeyi sağlayan hassas aletleri sallamasını boş boş izler. Bolívar her zaman halkının ihtiyaçlarını ilk sıraya koymuştur – dünyanın yarısı kadar uzakta olan topraklardan onlara ne fayda gelir?</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224A_STORYTITLE" Language="tr_TR">
+      <Text>Gerekirse</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224B_COMPLETION" Language="tr_TR">
+      <Text>Bu yeni topraklar ne kadar tanıdık olmasa da, {1_STORY_CITY} şimdiden potansiyelle çiçek açıyor. Belki de yerliler arasında akraba ruhlar vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224B_IMPERATIVE" Language="tr_TR">
+      <Text>Uzak Topraklarda bir Yerleşime sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224B_STORYTITLE" Language="tr_TR">
+      <Text>Gerekirse</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1224C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, danışmanları birbirleriyle didişirken volta atar. Yeni tanışılan liderle yapılan toplantı bir felaket değildi, ancak bazıları engin okyanusların ötesinden gelenlerin güdülerini sorguluyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225A_STORYTITLE" Language="tr_TR">
+      <Text>Ziyaretçiler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225B_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, muhatabının elini onaylayarak sıkarken mürekkep sözleşmenin üzerinde kurur. Bu dünyada yalnız olmadığını bilmek göz ardı edilemeyecek kadar büyüktür.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225B_DESCRIPTION" Language="tr_TR">
+      <Text>Altın Binalarda {1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225B_IMPERATIVE" Language="tr_TR">
+      <Text>Uzak Topraklarda bir Medeniyetle İttifak Kur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1225B_STORYTITLE" Language="tr_TR">
+      <Text>Ziyaretçiler</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226A_COMPLETION" Language="tr_TR">
+      <Text>Bir kışlayı ziyaret eden Bolívar, kıdemli askerlerin yeni acemilere itaatin yaşamla ölüm arasındaki fark olduğu konusunda uyardığını izler.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Demet Ok</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226B_COMPLETION" Language="tr_TR">
+      <Text>Bir zamanlar hedefsiz oklar gibi olan Bolívar'ın askerleri şimdi amaçlarını komutanlarından alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226B_IMPERATIVE" Language="tr_TR">
+      <Text>8 Terfisi olan bir Komutana sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226B_STORYTITLE" Language="tr_TR">
+      <Text>Bir Demet Ok</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1226C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227A_COMPLETION" Language="tr_TR">
+      <Text>Savaş Simón Bolívar'a geldi, ancak öngörülmemiş değildi. O ve halkı boyun eğmeye karşı tek vücut olarak durur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227A_STORYTITLE" Language="tr_TR">
+      <Text>Karşı Koymak</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227B_COMPLETION" Language="tr_TR">
+      <Text>Bolívar'ın birlikleri düşmanı geri çekilmeye zorlar, hoş bir zafer alameti. Savaş henüz bitmedi, ancak sonu şimdi daha erken gelebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227B_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227B_IMPERATIVE" Language="tr_TR">
+      <Text>Uzak Topraklarda bir Ordu Komutanını yen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1227B_STORYTITLE" Language="tr_TR">
+      <Text>Karşı Koymak</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228A_COMPLETION" Language="tr_TR">
+      <Text>Bolívar, {1_CAPITAL} sokaklarının hiç bu kadar canlı olmadığını fark eder. Burada bir fırsat var.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228A_STORYTITLE" Language="tr_TR">
+      <Text>Açık Bir Kapı</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228B_COMPLETION" Language="tr_TR">
+      <Text>Kuşkusuz {1_CIVILIZATION_ADJ} olan büyük bir enerji, Bolívar'ın imparatorluğunu kapsayan raylar boyunca ilerler. Halkı hiç bu kadar birleşmemişti.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228B_IMPERATIVE" Language="tr_TR">
+      <Text>5 Tren İstasyonuna sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228B_STORYTITLE" Language="tr_TR">
+      <Text>Açık Bir Kapı</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1228D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229A_COMPLETION" Language="tr_TR">
+      <Text>İlk günlerinden beri Bolívar inançlarının arkasında durmaya çalıştı. Şimdi halkından onunla birlikte durmasını istiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229A_STORYTITLE" Language="tr_TR">
+      <Text>Sarsılmaz Kararlılık</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229B_COMPLETION" Language="tr_TR">
+      <Text>Düşmanları birbiri ardına düşer. Başkaları ne derse desin, Simón Bolívar inançlarına sadık kalır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_child_reward}</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229B_IMPERATIVE" Language="tr_TR">
+      <Text>İdeoloji Miras Yolunda 6 Puana sahip ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229B_STORYTITLE" Language="tr_TR">
+      <Text>Sarsılmaz Kararlılık</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CHAIN_1229D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve bir Kutlamaya gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_BOLIVAR_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kasabayı Şehre dönüştürmeye yönelik +%50 Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_BOLIVAR_L1_NAME" Language="tr_TR">
+      <Text>Genişlemeci Nitelik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_BOLIVAR_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Birimler için Bölgelere karşı +5 Savaş Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_ATTRIBUTENODE_BOLIVAR_L2_NAME" Language="tr_TR">
+      <Text>Askeri Nitelik Düğümü</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_BOLIVAR_NAME" Language="tr_TR">
+      <Text>Bolivar Rozeti 1</Text>
+    </Replace>
+    <Replace Tag="LOC_BADGE_BOLIVAR_P_NAME" Language="tr_TR">
+      <Text>Bolivar Rozeti 2</Text>
+    </Replace>
+    <Replace Tag="LOC_BANNER_BOLIVAR_NAME" Language="tr_TR">
+      <Text>Bolivar Sancağı</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_BOLIVAR_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, -%10 Altın[icon:YIELD_GOLD] karşılığında +%15 Yiyecek[icon:YIELD_FOOD] kazanın</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_BOLIVAR_1_NAME" Language="tr_TR">
+      <Text>Bolivar Keşif Efsanesi Genişlemeci</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_BOLIVAR_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, Deniz Birimleriniz için -%10 Etki[icon:YIELD_DIPLOMACY] karşılığında +3 Savaş Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_EXP_LEGEND_BOLIVAR_2_NAME" Language="tr_TR">
+      <Text>Bolivar Keşif Efsanesi Askeri</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_BOLIVAR_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, -%10 Altın[icon:YIELD_GOLD] bedeliyle +%15 Yiyecek[icon:YIELD_FOOD] kazan</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_BOLIVAR_1_NAME" Language="tr_TR">
+      <Text>Bolivar Modern Çağ Efsanesi Yayılmacı</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_BOLIVAR_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bu Çağ için, -%10 Nüfuz[icon:YIELD_DIPLOMACY] bedeliyle Hava Birimlerin için +3 Muharebe Gücü</Text>
+    </Replace>
+    <Replace Tag="LOC_CARD_AT_MOD_LEGEND_BOLIVAR_2_NAME" Language="tr_TR">
+      <Text>Bolivar Modern Çağ Efsanesi Askeri</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_DESC" Language="tr_TR">
+      <Text>En az Mutsuz Yerleşime sahip Lideri sever. En çok Mutsuz Yerleşime sahip olanı sevmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_NAME" Language="tr_TR">
+      <Text>Özgürlüğün Temel Taşı</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BOLIVAR_DESCRIPTION" Language="tr_TR">
+      <Text>Gain 1 [icon:WAR_SUPPORT] War Support on all your wars. When you conquer a Settlement for the first time it can purchase 1 Constructible for free. [icon:YIELD_ANGRY] Unrest does not prevent Purchasing.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_LEADER_INTRO_TEXT_BOLIVAR" Language="tr_TR">
+      <Text>Napolyon Savaşları İspanya'nın Amerika'daki varlığını zayıflatırken, Simón Bolívar, "El Libertador," bölgeyi özgürleştirmek için güçlere liderlik etti. Azim ve karizmayla ordularını zafere, halkı ise bağımsızlığa taşıdı. Yeni keşfedilen özgürlüğün istikrarsızlığının üstesinden gelmek zor oldu. Önce Gran Kolombiya'nın başkanı, sonra diktatörü olan Bolívar, hırslarını tam olarak gerçekleştiremedi. Ancak Bolívar, Güney Amerika direnişinin kalıcı bir örneği olmaya devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_DESCRIPTION" Language="tr_TR">
+      <Text>Ayacucho mirası.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Askeri Binalarda Çağ başına +1[icon:YIELD_HAPPINESS] Mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_NAME" Language="tr_TR">
+      <Text>Davalos Madalyası</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Simón Bolívar seviye 5'te açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_DESCRIPTION" Language="tr_TR">
+      <Text>Bir kraliyetten hediye.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Sadece bir İttifaktayken +%20[icon:YIELD_FOOD] Yiyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_NAME" Language="tr_TR">
+      <Text>Altın Enfiye Kutusu</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Simón Bolívar seviye 2'de açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_DESCRIPTION" Language="tr_TR">
+      <Text>Geleceğin vizyonu.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_FUNCTIONAL_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Kutlama sırasında Birim satın almak için +%50[icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_NAME" Language="tr_TR">
+      <Text>Jamaika'ya Mektup</Text>
+    </Replace>
+    <Replace Tag="LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_UNLOCK_TITLE" Language="tr_TR">
+      <Text>Simón Bolívar seviye 9'da açılır</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Çağı iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Çağı üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Çağı bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Çağ Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Keşif Çağını iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Keşif Çağını üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Keşif Çağını bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Keşif Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Modern Çağı iki kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Modern Çağı üç kez bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_3_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Modern Çağı bitir.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_NAME" Language="tr_TR">
+      <Text>Modern Tamamlandı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Dünya Harikaları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Dünya Harikaları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Antik Dünya Harikaları Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Antik Dünya Harikaları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Toshakhana Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Toshakhana 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Toshakhana Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Toshakhana 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Toshakhana Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Toshakhana</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Coğrafya Topluluğu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Coğrafya Topluluğu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Coğrafya Topluluğu Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Coğrafya Topluluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İpek Yolları Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>İpek Yolları 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İpek Yolları Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>İpek Yolları 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İpek Yolları Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>İpek Yolları</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Hazine Filosu Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Hazine Filosu Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Hazine Filosu 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Hazine Filosu Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Hazine Filosu</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Demiryolu Kralı Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Demiryolu Kralı Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Demiryolu Kralı Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Demiryolu Kralı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak tek bir Antik Çağda 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Antik Çağ</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak tek bir Keşif Çağında 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Keşif</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak tek bir Modern Çağda 2 Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FLAWLESS_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Çifte Miraslar, Modern</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Pax Imperatoria Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Pax Imperatoria Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Pax Imperatoria Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Pax Imperatoria</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Non Sufficit Orbis Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Non Sufficit Orbis Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Non Sufficit Orbis Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Non Sufficit Orbis</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İdeoloji Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>İdeoloji 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İdeoloji Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>İdeoloji 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak İdeoloji Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>İdeoloji</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_1_DESC" Language="tr_TR">
+      <Text>Bolivar olarak en az 1 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_1_NAME" Language="tr_TR">
+      <Text>Oyun 1 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak en az 2 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_2_NAME" Language="tr_TR">
+      <Text>Oyun 2 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak en az 3 Miras Yolu Kilometre Taşına ulaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_3_NAME" Language="tr_TR">
+      <Text>Oyun 3 Oyna</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Simón Bolívar olarak, kırsal kesimdeki insanlara ulaşmak için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Bir Halk</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif döneminde Simón Bolívar olarak, tehlikeli okyanuslarda seyir yapmak için bir görevi tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Gerekirse</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_MODERN_DESC" Language="tr_TR">
+      <Text>Modern'de Simón Bolívar olarak, demiryolu ile imparatorluğu birleştirmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_A_MODERN_NAME" Language="tr_TR">
+      <Text>Açık Kapı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Antik Çağ'da Simón Bolívar olarak, savaşın tozunu dindirmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Her Şeye Hazır</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Keşif'te Simón Bolívar olarak, bir kıdemli askeri terfi ettirmek için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Bir Demet Ok</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_MODERN_DESC" Language="tr_TR">
+      <Text>Modern'da Simón Bolívar olarak, inançlarınız uğruna savaşmak için bir görevi tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_QUEST_B_MODERN_NAME" Language="tr_TR">
+      <Text>Sarsılmaz Kararlılık</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Büyük Kütüphane Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_2_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Büyük Kütüphane Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_3_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Büyük Kütüphane Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_ANTIQUITY_NAME" Language="tr_TR">
+      <Text>Büyük Kütüphane</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Aydınlanma Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Aydınlanma 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Aydınlanma Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_3_NAME" Language="tr_TR">
+      <Text>Aydınlanma 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Aydınlanma Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_EXPLORATION_NAME" Language="tr_TR">
+      <Text>Aydınlanma</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_2_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Uzay Yarışı Miras Yolunu iki kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_2_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 2</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_3_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Uzay Yarışı Miras Yolunu üç kez tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_3_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı 3</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_DESC" Language="tr_TR">
+      <Text>Bolivar olarak Uzay Yarışı Miras Yolunu tamamla.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_MODERN_NAME" Language="tr_TR">
+      <Text>Uzay Yarışı</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_BOLIVAR_L1_DESCRIPTION" Language="tr_TR">
+      <Text>Legend Unlock. +50% [icon:YIELD_GOLD] Gold towards converting a [icon:YIELD_TOWNS] Town to a [icon:YIELD_CITIES] City.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_DESCRIPTION" Language="tr_TR">
+      <Text>Legend Unlock. +5 [icon:NAR_REW_COMBAT] Combat Strength for all Units against [icon:CITY_FORTIFIED] Fortified Districts.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROFILE_TITLE_BOLIVAR" Language="tr_TR">
+      <Text>Kurtarıcı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bolivar olarak, yeni bir Keşif Mirası Kartına erişin:[n] +%15 Altın, -%10 Yiyecek</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_1_NAME" Language="tr_TR">
+      <Text>Keşif Yayılmacı Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bolivar olarak, yeni bir Keşif Mirası Kartına erişin:[n] Deniz Birimlerine yönelik +3 Savaş Gücü, -%10 Nüfuz</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_2_NAME" Language="tr_TR">
+      <Text>Keşif Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_MODERN_1_DESCRIPTION" Language="tr_TR">
+      <Text>Bolivar olarak, yeni bir Modern Miras Kartına erişin:[n] +%15 Yiyecek, -%10 Altın</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_MODERN_1_NAME" Language="tr_TR">
+      <Text>Modern Yayılmacı Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_MODERN_2_DESCRIPTION" Language="tr_TR">
+      <Text>Bolivar olarak, yeni bir Modern Miras Kartına erişin:[n] Hava Birimlerine yönelik +3 Savaş Gücü, -%10 Nüfuz</Text>
+    </Replace>
+    <Replace Tag="LOC_STRATEGYCARD_BOLIVAR_MODERN_2_NAME" Language="tr_TR">
+      <Text>Modern Askeri Miras Kartı</Text>
+    </Replace>
+    <Replace Tag="LOC_TITLE_BOLIVAR_NAME" Language="tr_TR">
+      <Text>Kurtarıcı</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BOLIVAR_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Gain [B]1 [icon:WAR_SUPPORT] War Support [/B]on all your wars.[LI]When you conquer a Settlement for the first time the Settlement can [B]purchase 1 Constructible for free[/B].[LI][icon:YIELD_ANGRY] [B]Unrest [/B]does not prevent Purchasing.[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BOLIVAR_ABILITY_NAME" Language="tr_TR">
+      <Text>Kurtarıcı</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Simón Bolívar[/B] olarak oyna.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_FRANCE_TOOLTIP" Language="tr_TR">
+      <Text>[B]Simón Bolívar[/B] [B]Fransız İmparatorluğu[/B]'ndan etkilendi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_INCA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Simón Bolivar[/B] Amerika kıtasındandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_MAYA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Simón Bolivar[/B] Amerika kıtasındandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_MEXICO_TOOLTIP" Language="tr_TR">
+      <Text>[B]Simón Bolivar[/B] Amerika kıtasındandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_ROME_TOOLTIP" Language="tr_TR">
+      <Text>[B]Roma[/B] [B]Simón Bolivar[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_BOLIVAR_SPAIN_TOOLTIP" Language="tr_TR">
+      <Text>[B]İspanya[/B] [B]Simón Bolivar[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Value} Efsanevi Askeri Nitelik</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

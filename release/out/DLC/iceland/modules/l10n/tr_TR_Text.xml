@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_ICELAND1" Language="tr_TR">
+      <Text>Skálaholt</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND10" Language="tr_TR">
+      <Text>Hjarðarholt</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND11" Language="tr_TR">
+      <Text>Laugar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND12" Language="tr_TR">
+      <Text>Höskuldsstaðir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND13" Language="tr_TR">
+      <Text>Bergþórshvoll</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND14" Language="tr_TR">
+      <Text>Hlíðarendi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND15" Language="tr_TR">
+      <Text>Glaumbær</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND16" Language="tr_TR">
+      <Text>Miklabær</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND17" Language="tr_TR">
+      <Text>Hagi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND18" Language="tr_TR">
+      <Text>Eiríksstaðir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND19" Language="tr_TR">
+      <Text>Hóll</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND2" Language="tr_TR">
+      <Text>Hólar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND20" Language="tr_TR">
+      <Text>Sæból</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND21" Language="tr_TR">
+      <Text>Hvammur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND22" Language="tr_TR">
+      <Text>Aðalból</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND23" Language="tr_TR">
+      <Text>Hrafnkelsstaðir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND24" Language="tr_TR">
+      <Text>Bjarg</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND25" Language="tr_TR">
+      <Text>Eyri</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND26" Language="tr_TR">
+      <Text>Kársstaðir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND27" Language="tr_TR">
+      <Text>Bakki</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND28" Language="tr_TR">
+      <Text>Másstaðir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND29" Language="tr_TR">
+      <Text>Mörk</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND3" Language="tr_TR">
+      <Text>Borg</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND30" Language="tr_TR">
+      <Text>Svínafell</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND4" Language="tr_TR">
+      <Text>Hof</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND5" Language="tr_TR">
+      <Text>Tunga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND6" Language="tr_TR">
+      <Text>Möðruvellir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND7" Language="tr_TR">
+      <Text>Oddi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND8" Language="tr_TR">
+      <Text>Mosfell</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICELAND9" Language="tr_TR">
+      <Text>Helgafell</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_1" Language="tr_TR">
+      <Text>Auð</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_10" Language="tr_TR">
+      <Text>Gunnhildr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_2" Language="tr_TR">
+      <Text>Vigdís</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_3" Language="tr_TR">
+      <Text>Hallgerðr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_4" Language="tr_TR">
+      <Text>Bergþora</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_5" Language="tr_TR">
+      <Text>Þordís</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_6" Language="tr_TR">
+      <Text>Hrefna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_7" Language="tr_TR">
+      <Text>Helga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_8" Language="tr_TR">
+      <Text>Þorgerðr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_FEMALE_9" Language="tr_TR">
+      <Text>Ásdís</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_1" Language="tr_TR">
+      <Text>Þorsteinn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_10" Language="tr_TR">
+      <Text>Gestr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_2" Language="tr_TR">
+      <Text>Guðmundr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_3" Language="tr_TR">
+      <Text>Óláfr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_4" Language="tr_TR">
+      <Text>Höskuldr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_5" Language="tr_TR">
+      <Text>Helgi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_6" Language="tr_TR">
+      <Text>Þórólfr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_7" Language="tr_TR">
+      <Text>Skarphéðinn</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_8" Language="tr_TR">
+      <Text>Hallfreðr</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ICELAND_MALE_9" Language="tr_TR">
+      <Text>Vesteinn</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ICELAND_ADJECTIVE" Language="tr_TR">
+      <Text>Icelandic</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ICELAND_FULLNAME" Language="tr_TR">
+      <Text>İzlanda İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ICELAND_NAME" Language="tr_TR">
+      <Text>Iceland</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>M.S. 874 yılında, Ingólfr Arnarson ailesini toplayarak Norveç’ten Kuzey Atlantik Okyanusu’nun ortasındaki ıssız bir adaya doğru yelken açtı. Bu topraklar birkaç yıl önce keşfedilmişti; ilk olarak Snæland (Kar Ülkesi), ardından Garðarshólmi (Garðr adlı bir adam tarafından Garðr’ın Adası) olarak adlandırılmış, sonunda da batısındaki devasa buzuldan esinlenerek Ísland (Buz Ülkesi) ismini almıştı. Ingólfr'ın uzun gemisi kıyıya yaklaşırken, salonundaki yüksek koltuğa ait sütunları çıkardı ve denize attı. Akıntılar, kader ve belki de tanrıların rehberliğinde, bu sütunlar bugün Reykjavík olarak bilinen yerin yakınlarına sürüklendi ve Ingólfr buraya çiftliğini kurdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Günümüzde ortaçağ İzlanda'sının ünü elbette Vikingler'den gelmektedir. Onlar hakkında birazdan konuşacağız, ancak İzlanda bir yağmacı toplumdan çok daha fazlasıydı. Küçük ve seyrek nüfuslu bir adaydı – kasaba ya da şehir yoktu, sadece kırsal çiftlikler ve daha sonra manastırlar vardı. Nüfusun çoğu çiftçi ve balıkçıydı ve ağaçların az olduğu, devasa buzulların ve aktif volkanların bulunduğu bir topraklarda zorlu bir yaşam sürüyorlardı. Evleri çim ve taştan yapılmıştı ve bu zorlu ortamda hayatta kalmak için ittifaklara güveniyorlardı. Ancak bu zorluklara rağmen İzlandalılar, son derece bağımsız ve son derece bilgili bir toplum olarak kaldılar. Topluluk olarak sosyal sorunları çözmek için bir hukuk sistemi ve benzersiz bir proto-parlamento geliştirdiler; Kuzey'in en büyük savaşçı ve kaşiflerinden bazılarını yetiştirdiler; en güzel ortaçağ şiir ve destanlarından bazılarını yazdılar; ve kıta krallıkları daha Avrupa tarzı güçlere dönüşürken bile geleneksel İskandinav toplumunu korudular ve sürdürdüler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>İzlanda'nın yönetim sistemi, adanın yerleşiminden itibaren nasıl işlediğini anlamak için kilit öneme sahiptir. Merkezi bir hükümetten kaçınan İzlandalılar, iktidarı bölgelerinde seküler ve dini liderler olarak görev yapan 39 goðar'a (tekil: goði) dağıttılar. Goðar'ların birçok görevi vardı: adaletin hakemleriydiler, davaları çözdüler veya takipçilerini mahkemede temsil ettiler; yerel dini törenlere öncülük ettiler ve tapınakları, daha sonra da kiliseleri idare ettiler; yerel meclislerini organize ettiler ve başkanlık ettiler; ve hasat kötü geçtiğinde çiftçileri desteklemek gibi ihtiyaç sahibi seçmenlere yardım ettiler. Hizmetlerinin karşılığında, goði'nin takipçileri meclislerde onu destekleyerek ona yasal yetki verdiler. Özellikle, İzlandalılar yerel goði'lerine bağlı değillerdi – bölgelerindeki goði'yi sevmezlerse, başka birine bağlılık yemini etmeyi veya hiç bağlılık yemini etmemeyi seçebilirlerdi. Bu şekilde, goði'nin gücü toprakla değil, nüfusla belirleniyordu ve İzlandalılar istedikleri herhangi bir lideri takip etmekte (veya takip etmemekte) özgürdü.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>İzlanda'nın yerleşim dönemine gelindiğinde, Viking Çağı tüm hızıyla devam ediyordu ve birçok erkek, yetişkinlik dönemini akıncı olarak geçiriyordu. İzlanda'nın ilk on yıllarında, adadan bağımsız akınlar düzenleniyordu, ancak bunların finansmanı zordu. Tüm akıncı gruplarının bir gemiye ihtiyacı vardı, ancak İzlanda'da ağaçlar az olduğundan (ve hala da öyle), bir gemi elde etmek için Norveç'ten kereste ithal etmek veya ikinci el bir gemi satın almak gerekiyordu. Viking olmak isteyenler bir araya gelerek bir gemi satın alır, her biri bir hisse satın alır ve sonunda geminin tamamı ortak mülkiyet haline gelirdi. Daha sonra, Norveç krallığı bir güç merkezine dönüşünce, İzlandalılar için Norveç'e yelken açıp birkaç yıl boyunca kralın maiyetine katılmak daha karlı hale geldi; burada kraliyet filosunun bir parçası olarak akınlar düzenler (veya Danimarka'ya savaş açarlardı). Bu baskınlarda, kişisel olarak ele geçirdiklerini kendilerine saklamazlardı, ancak yine de kral tarafından cömertçe ödüllendirilirlerdi. Destanlara göre, İzlandalılar mükemmel Vikingler olarak kabul ediliyordu ve Norveç kralları tarafından çok değer veriliyordu; ancak aynı zamanda yönetilmesi zor olabiliyorlardı, çünkü pişmanlık duymadan bağımsızdılar ve kraliyet törenlerine pek önem vermiyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Adalarının coğrafi izolasyonuna rağmen, İzlandalılar yağmacı, paralı asker, tüccar ve kaşif olarak bilinen dünyanın dört bir yanına ve ötesine seyahat ettiler. Doğuda, Baltık Denizi'nden Akdeniz'e kadar Avrupa'nın kıyılarını ve nehirlerini dolaştılar. Batıya doğru, Grönland'da birkaç yüz yıl süren (daha sonra gizemli bir şekilde ortadan kaybolan) bir koloni kurdular ve oradan Kuzey Amerika'ya ulaşan ilk Avrupalılar oldular. Avrupa'dan ithal edilmesi pahalı olan malları, özellikle de odunu temin etmek için doğu kıyısı boyunca birkaç geçici yerleşim yeri kurdular. Ancak, bu topraklar zaten Amerikan yerlileri tarafından yoğun bir şekilde iskan edilmişti ve İskandinavlar onlarla hem barışçıl hem de düşmanca ilişkiler kurmuştu. Hiçbir zaman kalıcı bir yerleşim yeri kurulmadı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>İzlanda, kendi ülkesinde her zaman bilgili bir toplumdu. Althing'de sözlü olarak aktarılan ve okunan kanun metinlerinin yanı sıra, ada en büyük skaldların (şairlerin) yetiştiği yer olarak da ünlüydü. Eski İskandinav şiiri, katı metrik kuralları, kendine özgü şiirsel dili ve mitoloji ile efsanelere yapılan derin göndermeleriyle oldukça karmaşıktır. İzlandalı skaldlar o kadar yetenekliydi ki, sık sık kıta kralları tarafından saray şairi olarak işe alınırlardı. İzlandalılar aynı zamanda ünlü saga bestecileriydi. Bu eserler başlangıçta sözlü olarak aktarıldı, ancak İzlanda'nın 1000 yılında Hıristiyanlığa geçmesinden sonra okuryazarlık hızla yayıldı ve 12. yüzyılın sonuna kadar saga yazımı tam hızıyla devam etti. Sonraki yüzyıllarda, Kuzey Atlantik'teki Viking ve Orta Çağ dönemindeki yaşam hakkında bize bilgi veren günümüze ulaşan metinlerin büyük çoğunluğu ortaya çıktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Çoğu yazıcı rahip veya rahibe olduğu için, en eski metinler Avrupa anakarasından gelen Latin metinlerin dini anlatıları, çevirileri veya uyarlamalarıydı. Ancak başka türler de yaygınlaşmaya başladı. Prose Edda, ortaçağ İzlanda'sından çıkan belki de en ünlü metindir; şiir dışında günümüze ulaşan İskandinav mitolojisinin tek kapsamlı özetini içeren bir şiir el kitabıdır; bu kitap olmasaydı, Hıristiyanlık öncesi inançlar hakkında çok az şey bilirdik. Kralların sagaları, büyük ölçüde Norveçli hükümdarların biyografilerini anlatan bir başka önemli türdür. Bu koleksiyonların en ünlüleri – Heimskringla, Morkinskinna, Flateyjarbók – kralların ana hikayelerini, yurtdışındaki İzlandalılar hakkındaki daha küçük hikayelerle harmanlamaktadır. Günümüzde en çok okunan tür aile destanlarıdır. Bu anlatılar, Viking Çağı İzlanda'sındaki önemli aileleri ve aktörleri anlatır; kan davaları, romantizm, kanun kaçakları ve karmaşık, akılda kalıcı karakterlerin dramatik öyküleri aracılığıyla adanın tarihini korur.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ICELAND_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>13. yüzyıla gelindiğinde, İzlanda'nın 39 goðar'dan oluşan sistemi nihayet çökmüştü – her ne kadar şefler yerlerinde kalsalar da, bunlar sadece üç aileden geliyordu ve bu aileler arasındaki çatışma, adanın dört bir yanında kan dökülmesine yol açtı (ve İzlanda topraklarında bugüne kadar meydana gelen en büyük savaşa neden oldu; bu savaşta yaklaşık 60 kişi öldü). Aynı zamanda, Norveç kralı Hákon Hákonarson, İzlanda'yı Norveç'in bir kolonisi haline getirmek amacıyla birkaç önde gelen İzlandalıya teklifte bulundu. 1262'de başarılı oldu ve İzlanda, 1918'e kadar önce Norveç'in, ardından Danimarka'nın kontrolü altında kaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_THING_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Orta Çağ İzlanda'sında, tüm siyasi ve hukuki işlemler, meclis alanında (þingstaðr, "thing-stathur") düzenlenen meclislerde (þing, "thing" olarak telaffuz edilir) toplu olarak yönetilirdi. Yıl boyunca bu tür birçok toplantı düzenlenirdi: yerel meclisler, üç aylık meclisler (İzlanda siyasi olarak dört bölgeye ayrılmıştı) ve yılda bir kez İzlanda'nın güneyinde düzenlenen, ada çapındaki büyük meclis olan Althing (Alþingi). Yerel meclislerin başkanlığını yerel şef veya goði yapardı; bu kişi, toprak mülkiyeti anlaşmazlıklarından boşanmaya, hırsızlıktan cinayete kadar takipçileri arasındaki şikayetleri ve sorunları dinler ve çözmeye çalışırdı. Bu toplantılar, kırsal toplulukların bir araya gelerek endişelerini dile getirmeleri, haberleri paylaşmaları ve dini ayinleri gerçekleştirmeleri için bir fırsattı. Verimli bir diyalogun sağlanabilmesi için, meclis alanında kan dökülmesine izin verilmezdi ve silahlar ya kabinlerde bırakılmalı ya da kılıçlar söz konusu olduğunda, çekilememeleri için özel kayışlarla (friðbönd, “barış kayışları”) kınına sabitlenmeliydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_THING_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Althing, İzlanda'nın en önemli yıllık etkinliğiydi; tüm goðar ve toplayabildikleri kadar çok takipçisi (ne kadar çok takipçisi olursa, davaları kazanma olasılıkları o kadar yüksek olurdu) katılırdı ve birkaç hafta sürerdi. Yıl boyunca ortaya çıkan sorunlar (yerel meclislerde ele alınamayacak kadar büyük olanlar), mümkün olduğunca az şiddetle çözülebilmesi için atanmış yargıçların önüne getirilirdi. Althing'in kilit figürü, üç yıllık bir dönem için seçilen eğitimli bir adam olan yasasöyleyiciydi. Onun rolü, sözlü yasa kodunu ezberlemek ve görev süresi boyunca her yıl bunun üçte birini herkesin duyabileceği şekilde okumaktı. Ülkenin dört bir yanından çok sayıda insan Althing'de toplandığı için, burası aynı zamanda pazar, evlilik düzenlemeleri ve haber paylaşımı gibi diğer işlerin de yapıldığı bir yerdi. Bu mirasın etkisi bugün de güçlüdür: İzlanda parlamentosu hâlâ Althing olarak adlandırılır ve Kuzey Amerika ile Avrasya tektonik plakalarının birbirinden uzaklaştığı muhteşem bir vadide bulunan ortaçağdan kalma bu yer, İzlanda'nın en önemli turistik cazibe merkezlerinden biridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>“Hugins drekka” (Huginn’in ziyafeti), Eski İskandinav ve Eski İngilizce şiirlerinde yaygın olarak kullanılan, tek bir kelimenin yerine çok kelimeli bir ifadenin geçtiği bir mecaz olan kenning’dir. Kenning’ler, basit olanlardan (“okyanus” için “balina yolu”) karmaşık olanlara (“düşünce” için “ay ayısının elverişli rüzgarı”) kadar çeşitlilik gösterir. Bunlar tamamen betimleyici olabilir veya yorumlanabilmesi için mitolojik bilgiye dayanabilir. “Huginn’in ziyafeti” ikinci kategoriye girer – Huginn, tanrı Óðinn’in kuzgun arkadaşıdır ve kuzgunlar, leş yiyiciler oldukları için (kartallar ve kurtlarla birlikte) “savaş hayvanları” olarak kabul edilir. Dolayısıyla bir kuzgunun ziyafeti, bir leştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Edebiyat külliyatında korunmuş olan şiir, İskandinav dünyasında çok değerli bir zanaattı ve eddic ve skaldic olmak üzere iki dalda varlığını sürdürmektedir. Eddic şiirinin kuralları daha azdı ve esas olarak mitolojik ve efsanevi eserler için kullanılırdı; bu şiir türü, neredeyse tamamen şu anda Poetic Edda olarak bilinen koleksiyonda bulunur. Skaldik şiir daha zorluydu; sadece karmaşık metrik, kafiye ve sözcük kurallarının ustaca kullanılması değil, aynı zamanda doğru referanslar yapılabilmesi için mitolojik ve efsanevi eserler hakkında kapsamlı bilgi de gerektiriyordu. Yaratıcılık kilit öneme sahipti – tekrarlar hoş görülmezdi ve günümüze ulaşan şiir eserlerinde, çoğu benzersiz olan yaklaşık 10.000 kenning (metaforik ifade) bulunmaktadır. Dróttkvætt (“saray ölçüsü”), özellikle kralların ve savaşçıların etkileyici başarılarını anlatan övgü şiirleri için en popüler ve saygı duyulan skaldik ölçüydü. İzlanda, yetenekli skaldların (şairlerin) sürekli kaynağı olarak biliniyordu ve bunlar genellikle yabancı krallar tarafından saray şairi olarak işe alınırdı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Şiir, Viking ve Orta Çağ boyunca mirasın korunmasında da önemli bir rol oynadı. Hristiyanlık öncesi dönemde ölümlü tanrılara ve bir gün kesin bir ateşli sonla bitecek bir dünyaya inanan bir toplum için, ölümlülük insan deneyiminin kabul edilen bir parçasıydı. Ölümsüzlük, hayat boyunca kazanılan itibarla elde edilirdi, tıpkı eddic şiir Hávamál’da açıklandığı gibi: “Sığırlar ölür, akrabalar ölür, benlik de ölür. Asla ölmeyen tek bir şey biliyorum: her iyi insanın itibarı.” Şiir, İskandinavların başarılarını kaydetmenin bir yoluydu ve bir kişinin anısı gelecek nesiller boyunca yaşayabilsin diye sözlü aktarım için korunurdu. Hıristiyanlığa geçildikten sonra, mitolojik ve efsanevi referanslar kaybolmaya başladı ve 13. yüzyılda İzlandalı bilgin Snorri Sturluson, azalan bu sanatı gelecek nesiller için korumak amacıyla bir şiir el kitabı hazırladı. Günümüzde Prose Edda olarak bilinen bu eser, unutulmakta olan mitlerin uzun bir özetiyle başlar ve istemeden de olsa günümüze kadar ulaşan İskandinav mitolojisi için en eksiksiz kaynak haline gelmiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_LANDNAMABOK_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>"Yerleşim Kitabı" anlamına gelen Landnámabók, adanın ilk yerleşim dönemini anlatan erken dönem İzlanda tarihi metinlerinden biridir. İzlanda'nın keşfini anlatır ve ilk yerleşimcileri, nereye yerleştiklerini ve kısa anekdotlarla serpiştirilmiş soy ağacını listeler. Toplamda, birkaç bin isim korunmuştur ve bunların çoğu, destan külliyatının başka yerlerinde çapraz referanslanabilir ve doğrulanabilir. Sonuç olarak, metin, yerleşim dönemi boyunca aile bağları için kritik bir kaynak olmaya devam etmekte ve sonraki İzlandalıların kendi tarihlerini ve atalarını nasıl algıladıklarına dair bir pencere sunmaktadır. Metin muhtemelen 12. yüzyılda, okuryazarlığın ilk dönemlerinde yazılmıştır, ancak günümüze ulaşan en eski el yazması 14. yüzyıldan kalmadır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_LANDNAMABOK_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Landnámabók, Norveç krallığının kurulmasını, yerleşimcileri İzlanda'ya göç etmeye teşvik eden bir baskı noktası olarak belirtir; bu olay, sonraki metinlerde yerleşimin başlıca nedeni olarak nitelendirilmiştir. İzlanda destan geleneğine göre, Haraldr hárfagri (Sarı Saçlı) gücünü pekiştirerek ülkenin ilk kralı olurken, düşmanları ya kaybedecekleri bir savaş ya da sürgüne maruz kalacaklardı ve birçoğu, hükümdarların ulaşamayacağı bir yer olarak İzlanda'yı yeni yuvaları olarak seçti. Ancak tarih, bu tekil anlatıya katılmamaktadır – Haraldr'ın birleşmesi bazılarını İzlanda'ya sürüklemiş olabilir, ancak ada aynı zamanda İskandinavya'da giderek artan kalabalıktan rahatsız olanlar için cazip olan geniş tarım arazileri sunuyordu ve ayrıca İzlanda'nın yerleşiminden kısa bir süre sonra İrlanda'dan kovulan Dublin İskandinavları için bir sığınak sağlıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_THJODVELDID_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İzlanda Cumhuriyeti (Þjóðveldið), 930'da Althing'in kurulmasından 1262'de adanın Norveç'e boyun eğmesine kadar geçen İzlanda tarihi dönemi için kullanılan modern terimdir. Bu yüzyıllar süren bağımsızlık, İzlanda'nın benzersiz siyasi ve hukuki sistemleri sayesinde mümkün olmuştur. Goðarların organizasyonu, gücün tek bir kişide toplanmasını engellerken, İzlanda hukuku toplumun anarşiden kaçınmasını sağlayan bir yapı sunmuştur. Bu hukuk kuralları hakkındaki başlıca kaynağımız, 13. yüzyıl kanunlarından oluşan ve tuhaf bir şekilde Grágás (“Gri Kaz”) olarak adlandırılan derlemedir; bu derleme, arazi mülkiyetinden meclis prosedürlerine ve cinayete kadar her konuyu içeren bölümler barındırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_THJODVELDID_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Hukuk sisteminin önemi, aile sagalarında yoğun bir şekilde ele alınmaktadır. Bu sagaların anlatıları, hukukun çatışmaları dizginleyememesi durumunda neler olabileceğine odaklanmaktadır – sorunlar derinleşir, bu da kan davalarına ve cinayetlere ya da aşırı durumlarda, içinde aileler varken uzun evlerin yakılmasına yol açar. Yine de tüm sagalar, karakterlerin sonunda hukuka geri döndüklerine, çatışmayı çözmek için kanunları uyguladıklarına ve İzlandalı halkın sisteme duyduğu güveni gösterdiklerine tanıklık eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_VAERINGJAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İskandinav savaşçılar sadece Viking akıncıları olarak faaliyet göstermiyorlardı; aynı zamanda Avrupa ve ötesinde paralı askerler olarak da çok değer görüyorlardı. Bunların en ünlüsü, 10. ve 11. yüzyıllarda Bizans imparatorlarına hizmet eden Varangian Muhafızları'nın üyeleri olan Væringjar'dı. Bu birim, 988 yılında İmparator II. Basil tarafından, Kiev Prensi I. Vladimir'in gönderdiği 2.000 İskandinav ve Slav savaşçıdan oluşturuldu. Büyük savaşçılar olarak büyük saygı gören bu askerler, önemli çatışmalarda genellikle ön saflarda yer alır ve imparatorun korumaları olarak görevlendirilirdi. En ünlü Varangian, daha sonra Norveç kralı olan ve harðráði lakaplı Haraldr Sigurðarson'du. Bizans kaynaklarında adı geçen tek İskandinav olan Haraldr, tahtını almak üzere kuzeye dönmeden önce Balkanlar'daki Bulgarlar ve Sicilya'daki Araplara karşı görevlendirildi. 11. yüzyılın ortalarına gelindiğinde, Muhafızların İskandinav birliği küçülmeye başladı ve yerini giderek Frank ve İngiliz savaşçılar aldı; birim, 1204'te Konstantinopolis'in düşüşü sırasında dağıldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_ICELAND_VAERINGJAR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Muazzam şöhretlerine rağmen, Varangianların tarihini ortaya çıkarmak zordur; çünkü faaliyetlerine dair kaynaklarımızın çoğu, altın çağlarından yüzyıllar sonra, bir Varangianla hiç tanışmamış veya Bizans'a gitmemiş yazarlardan gelmektedir. Yine de, kalıcı mirasları Orta Çağ'ın sonlarında İzlanda'daki hem yazarları hem de izleyicileri büyülemiştir. Haraldr ve iki İzlandalı yoldaşı Halldórr Snorrason ile Úlfr Óspaksson'un Akdeniz'deki kahramanlıkları, 13. yüzyıldan itibaren İzlanda'da yazılan krallar destanlarında büyük ilgi gördü. Gelecekteki kralın olağanüstü figürü, eserlerdeki diğer destan kahramanlarına, çoğunlukla İzlandalılara ilham vermiş gibi görünüyor. Yazarlar, bu kahramanları genellikle Bizans'ta hizmet etmenin sonuçlarını keşfetmek için kullanıyor – dünyanın en büyük şehirlerinden birinde şanlı bir gençlik geçirdikten sonra kırsal İzlanda'ya dönmek ne anlama gelir? Bazen kahramanca, bazen trajik olan bu hikayeler, savaş travması ve yurtdışındaki askerlik hizmetinden sonra eve dönmenin zorlukları konusunda İskandinav bakış açısına ilgi çekici bir bakış sunuyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SAGA_HERO_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sagalar, adanın Hıristiyanlığa geçmesinden sonraki yüzyıllarda yazılmış İzlanda'nın başlıca yerli yazılı eserleridir. Bu metinler birçok türde günümüze ulaşmıştır – krallar sagaları, efsanevi sagalar, azizler sagaları, piskoposlar sagaları, şövalye sagaları, çağdaş sagalar. Ancak en ünlüsü ve bugün en çok okunanı aile sagaları, yani Íslendingasögur'dur (İzlandalıların sagaları).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SAGA_HERO_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Aile sagaları, Viking Çağı İzlanda'sındaki büyük aileler arasındaki kan davalarını anlatan hikayelerdir ve el yazmalarına kaydedilmeden önce iki ila üç yüzyıl boyunca sözlü olarak aktarılan olayları anlatır. İzlanda'daki düzen ve şiddetin sınırlarını keşfederler ve genellikle ortak bir anlatı izlerler – kışkırtıcı bir olay, iki grup arasında gidip gelen bir çatışmayı tetikler; bu çatışma, artık kanunla kontrol edilemeyecek hale gelene kadar sürer ve kanlı bir doruk noktasında patlar; hayatta kalan karakterler daha sonra düşmanlıkları yatıştırmaya çalışır ve destan, denge ve barış yeniden sağlandığında sona erer. Şiddet, macera, romantizm ve doğaüstü unsurlarla zengin olan her bir destan, karakterleri, temaları ve olayları bakımından farklıdır ve Viking Çağı'nın önemli erkek ve kadınlarını ön plana çıkarır. Aile destanlarının en değerli parçası, muazzam Njáls destanıdır; diğer önemli eserler arasında Egils destanı, Laxdæla destanı, Gísla destanı ve İskandinavların Kuzey Amerika'ya yaptıkları yolculukları anlatan Vinland destanları sayılabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SAGA_HERO_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Günümüze ulaşan ortaçağ İskandinav el yazmalarının büyük çoğunluğu İzlandalıdır; Norveç, Danimarka ve İsveç'ten çok daha azı mevcuttur. Bu başarı oranı, 18. yüzyılda İzlanda'yı dolaşarak el yazmaları toplayan bir bilgin olan Árni Magnússon'un çalışmalarına bağlıdır. Mevcut tarihsel kaynaklarda İzlanda'nın ezici üstünlüğü nedeniyle, ortaçağ Kuzey Avrupa'sına dair anlayışımız büyük ölçüde İzlanda'nın bakış açısıyla şekillenmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_2_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İzlanda ve daha geniş anlamda İskandinav toplumunun en ünlü yönü elbette Viking fenomenidir. Vikingler (Eski İskandinavca víkingar), her bahar denize açılıp ağırlıklı olarak Avrupa'nın kıyılarını ve nehirlerini yağmalayan genç savaşçılardı. Saldırıları hızlı ve acımasızdı ve uzun gemilerinin teknolojisi sayesinde mümkün oluyordu. Bu gemiler alçaktı ve esnek bir omurga etrafında inşa edilmişti; böylece gemi nehirlerde seyredecek kadar sığ ve Kuzey Atlantik'in dalgalı sularına göğüs gerebilecek kadar esnekti. Uzun gemiler ortaya çıkmadan önce, Avrupa'da nehirlere girebilen savaş gemisi yoktu; bu nedenle bu su yolları iyi korunmuyordu ve doğal bariyerler olarak işlev görüyordu. Vikingler bu düşük güvenlik seviyesinden yararlandılar; şafak vakti gelip gemilerini kıyıya çektiler, yerel lordun karşılık olarak kuvvetlerini toplayabilmesinden daha hızlı bir şekilde, birkaç saat sonra ayrılmadan önce hızla baskınlar düzenleyip yağmaladılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_2_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Viking baskınları, İskandinav toplumunda iki temel işleve sahipti. Sosyal hareketlilik için gerekli olan birincil para birimi onurdu ve bu, savaşta başarı göstererek güvenilir bir şekilde kazanılabilirdi. On beş ile yirmi beş yaşları arasındaki genç erkekler, yaz aylarında düzenledikleri baskınlarla, özellikle savunmasız rahipler ve hazırlıksız yakalanan köylüler karşısında, bu süre zarfında birçok zafer kazanabilirdi. Bu, onur kazanmanın hızlı ve kolay bir yoluydu; ancak onur, paralı askerlik yapmak ya da evinden ayrılmayanlar için avukat olup davalardaki sözlü mücadeleleri kazanmak gibi başka yollarla da elde edilebilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_2_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Akınlar, Vikingleri sadece para yoluyla değil, daha da önemlisi, çok değerli nadir nesneler yoluyla da zenginleştiriyordu. Kuzey, çok değerli kaynaklara sahip değildi, ancak İskandinav toplumunun sosyal yapısı hediye vermeye dayanıyordu. Viking akınları, nadir ve sıra dışı nesnelerin kritik kaynaklarıydı ve emekli olduğunda, genç bir Viking ideal olarak, bir ittifak kurması veya güçlendirmesi gerektiğinde hayatının geri kalanında yararlanabileceği değerli hediyelerden oluşan bir stok oluşturmuş olurdu. Akına çıkmayanlar için diğer hediye türleri arasında birine ziyafet vermek, onun hakkında bir şiir yazmak veya kendi eliyle bir tür eşya yapmak yer alıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_3_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İzlanda ve daha geniş anlamda İskandinav toplumunun en ünlü yönü elbette Viking fenomenidir. Vikingler (Eski İskandinavca víkingar), her bahar denize açılıp ağırlıklı olarak Avrupa'nın kıyılarını ve nehirlerini yağmalayan genç savaşçılardı. Saldırıları hızlı ve acımasızdı ve uzun gemilerinin teknolojisi sayesinde mümkün oluyordu. Bu gemiler alçaktı ve esnek bir omurga etrafında inşa edilmişti; böylece gemi nehirlerde seyredecek kadar sığ ve Kuzey Atlantik'in dalgalı sularına göğüs gerebilecek kadar esnekti. Uzun gemiler ortaya çıkmadan önce, Avrupa'da nehirlere girebilen savaş gemisi yoktu; bu nedenle bu su yolları iyi korunmuyordu ve doğal bariyerler olarak işlev görüyordu. Vikingler bu düşük güvenlik seviyesinden yararlandılar; şafak vakti gelip gemilerini kıyıya çektiler, yerel lordun karşılık olarak kuvvetlerini toplayabilmesinden daha hızlı bir şekilde, birkaç saat sonra ayrılmadan önce hızla baskın yapıp yağmaladılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_3_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Viking baskınları, İskandinav toplumunda iki temel işleve sahipti. Sosyal hareketlilik için gerekli olan birincil para birimi onurdu ve bu, savaşta başarı göstererek güvenilir bir şekilde kazanılabilirdi. On beş ile yirmi beş yaşları arasındaki genç erkekler, yaz aylarında düzenledikleri baskınlarla, özellikle savunmasız rahipler ve hazırlıksız yakalanan köylüler karşısında, bu süre zarfında birçok zafer kazanabilirdi. Bu, onur kazanmanın hızlı ve kolay bir yoluydu, ancak onur başka yollarla da kazanılabilirdi; örneğin paralı askerlik yapmak ya da evinden ayrılmayanlar için avukat olup davalarda sözlü mücadeleleri kazanmak gibi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_3_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Yağma seferleri Vikingleri sadece maddi açıdan değil, daha da önemlisi büyük değeri olan nadir eşyalar sayesinde zenginleştirdi. Kuzey’de çok fazla değerli kaynak bulunmuyordu, ancak İskandinav toplumunun sosyal yapısı hediye verme geleneğine dayanıyordu. Viking akınları, nadir ve sıra dışı nesnelerin kritik kaynaklarıydı ve emekli olduğunda, genç bir Viking ideal olarak, bir ittifak kurması veya güçlendirmesi gerektiğinde hayatının geri kalanında yararlanabileceği değerli hediyelerden oluşan bir stok oluşturmuş olurdu. Akınlara katılmayanlar için diğer hediye türleri arasında birine ziyafet vermek, onun hakkında bir şiir yazmak veya kendi elleriyle bir tür eşya yapmak sayılabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>İzlanda ve daha geniş anlamda İskandinav toplumunun en ünlü yönü elbette Viking fenomenidir. Vikingler (Eski İskandinavca víkingar), her bahar denize açılıp ağırlıklı olarak Avrupa'nın kıyılarını ve nehirlerini yağmalayan genç savaşçılardı. Saldırıları hızlı ve acımasızdı ve uzun gemilerinin teknolojisi sayesinde mümkün oluyordu. Bu gemiler alçaktı ve esnek bir omurga etrafında inşa edilmişti; böylece gemi nehirlerde seyredecek kadar sığ ve Kuzey Atlantik'in dalgalı sularına göğüs gerebilecek kadar esnekti. Uzun gemiler ortaya çıkmadan önce, Avrupa'da nehirlere girebilen savaş gemisi yoktu; bu nedenle bu su yolları iyi korunmuyordu ve doğal bariyerler olarak işlev görüyordu. Vikingler bu düşük güvenlik seviyesinden yararlandılar; şafak vakti gelip gemilerini kıyıya çektiler, yerel lordun karşılık olarak kuvvetlerini toplayabilmesinden daha hızlı bir şekilde, birkaç saat sonra ayrılmadan önce hızla baskın yapıp yağmaladılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Viking baskınları, İskandinav toplumunda iki temel işleve sahipti. Sosyal hareketlilik için gerekli olan birincil para birimi onurdu ve bu, savaşta başarı göstererek güvenilir bir şekilde kazanılabilirdi. On beş ile yirmi beş yaşları arasındaki genç erkekler, yaz aylarında düzenledikleri baskınlarla, özellikle savunmasız rahipler ve hazırlıksız yakalanan köylüler karşısında, bu süre zarfında birçok zafer kazanabilirdi. Bu, onur kazanmanın hızlı ve kolay bir yoluydu; ancak onur, paralı askerlik yapmak ya da evinden ayrılmayanlar için avukat olup davalardaki sözlü mücadeleleri kazanmak gibi başka yollarla da elde edilebilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_VIKINGR_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Akınlar, Vikingleri sadece para yoluyla değil, daha da önemlisi, çok değerli nadir nesneler yoluyla da zenginleştiriyordu. Kuzey, çok değerli kaynaklara sahip bir bölge değildi, ancak İskandinav toplumunun sosyal yapısı hediye vermeye dayanıyordu. Viking akınları, nadir ve sıra dışı nesnelerin kritik kaynaklarıydı ve emekli olduğunda, genç bir Viking ideal olarak, bir ittifak kurması veya güçlendirmesi gerektiğinde hayatının geri kalanında yararlanabileceği değerli hediyelerden oluşan bir stok oluşturmuş olurdu. Akına çıkmayanlar için diğer hediye türleri arasında birine ziyafet vermek, onun hakkında bir şiir yazmak veya kendi eliyle bir tür eşya yapmak yer alıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_REYKHOLT_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Reykjaholt (günümüz adı Reykholt), ortaçağ İzlanda'sının en önde gelen figürlerinden biri olan şef ve bilgin Snorri Sturluson'un (1179-1241) çiftliğiydi. Hem yurtiçinde hem de yurtdışında aktif bir avukat ve politikacı olan Snorri, İzlanda'yı kendi krallığına katmaya kararlı olan Kral Hákon Hákonarson'un daveti üzerine Norveç'e gitmeden önce Althing'de yasa sözcüsü olarak görev yapmıştı. Snorri başlangıçta Hákon'un hareketini destekledi ve İzlanda'da bunu teşvik etti, ancak zamanla bu davaya ilgisini kaybetti, yasama meclisi başkanlığı görevine geri döndü ve İzlanda'nın en güçlü şefi haline geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_REYKHOLT_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Reykjaholt'un önemli bir eğitim merkezi haline geldiği dönem (1220-1223) budur ve buraya akın eden entelektüelleri barındırabilmek için tesis önemli ölçüde genişletilmiştir. Snorri'ye atfedilen iki önemli eser vardır: İskandinav mitolojisinin günümüze ulaşan en eksiksiz özetini içeren bir şiir kılavuzu olan Prose Edda ve Norveç hükümdarları hakkında kralların destanlarını içeren ve Norveç tarihi için önemli bir kaynak olan Heimskringla. (İsimsiz aile destanı Egil's Saga'nın da onun eseri olduğu düşünülmektedir). Snorri'nin bu metinleri kendi başına mı yazdığı yoksa yazmanlara yazdırdığı bilinmemektedir, ancak bu eserler onun şairlik yeteneğinden ve tarih ile bilime olan derin ilgisinden beslenmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_REYKHOLT_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Snorri'nin sorunları zamanla daha da büyüdü ve kendi akrabalarıyla yaşadığı çatışmalar, sonraki yıllarda otoritesini zedeledi. Norveç'e döndü, ancak bir iç savaşa karıştı ve ülkeden kaçtı. 1241'de, Hákon'un emriyle başka bir goði olan Gissur Þorvaldsson tarafından Reykjaholt'taki mahzeninde suikasta kurban gitti. Ünlü son sözleri "Eigi skal höggva!" (Vurmayın!) idi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_REYKHOLT_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Günümüzde Reykjaholt, Snorri’nin eserleri ve mirasına adanmış, ayrıca İzlanda Topluluğu üzerine genel araştırmalar yürüten bir araştırma ve kültür merkezi olan Snorrastofa’ya ev sahipliği yapmaktadır. Ortaçağ yerleşiminden geriye pek bir şey kalmamıştır, ancak bir jeotermal havuz olan Snorralaug (Snorri’nin Hamamı), manzarada dikkat çeken bir unsur olmaya devam etmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_THING_NAME" Language="tr_TR">
+      <Text>Þingstaðr</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_REYKHOLT_NAME" Language="tr_TR">
+      <Text>Reykjaholt</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_HVITA_NAME" Language="tr_TR">
+      <Text>Hvítá</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_JOKULSA_A_FJOLLUM_NAME" Language="tr_TR">
+      <Text>Jökulsá á Fjöllum</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_MARKARFLJOT_NAME" Language="tr_TR">
+      <Text>Markarfljót</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_OXARA_NAME" Language="tr_TR">
+      <Text>Öxará</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_THJORSA_NAME" Language="tr_TR">
+      <Text>Þjórsá</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_BARDARBUNGA_NAME" Language="tr_TR">
+      <Text>Bárðarbunga</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_ELDFELL_NAME" Language="tr_TR">
+      <Text>Eldfell</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_FAGRADALSFJALL_NAME" Language="tr_TR">
+      <Text>Fagradalsfjall</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_HEKLA_NAME" Language="tr_TR">
+      <Text>Hekla</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_LJOSUFJOLL_NAME" Language="tr_TR">
+      <Text>Ljósufjöll</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HUGINS_DREKKA_NAME" Language="tr_TR">
+      <Text>Hugins Drekka</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LANDNAMABOK_NAME" Language="tr_TR">
+      <Text>Landnámabók</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THJODVELDID_NAME" Language="tr_TR">
+      <Text>Þjóðveldið</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_VAERINGJAR_NAME" Language="tr_TR">
+      <Text>Væringjar</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RELIC_EGIL_SAGA_NAME" Language="tr_TR">
+      <Text>Egil'in Destanı</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RELIC_GRETTIR_SAGA_NAME" Language="tr_TR">
+      <Text>Grettir'in Destanı</Text>
+    </Replace>
+    <Replace Tag="LOC_11134A_COMPLETION" Language="tr_TR">
+      <Text>Sabah sisinde, víkingar ejderha başlı gemilerden atlayarak kan dökmeye hazır hale gelirler. Bağırışlar ve çığlıklar şafak havasını yırtar, alevler öfkeyle gökyüzünü sarar, kan kokusu rüzgarda yayılır. Ve sonra, geldikleri kadar çabuk, İzlandalılar giderler, gemileri ganimetle yüklü, geride sadece duman, ölüm ve sessizlik bırakırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11134A_STORYTITLE" Language="tr_TR">
+      <Text>İskandinavların Öfkesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11134B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11134B_NAME" Language="tr_TR">
+      <Text>Bu, Valhalla'ya giden yoldur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11134C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11134C_NAME" Language="tr_TR">
+      <Text>Ele geçirilen hazineler, eve götürülecek güzel hediyelerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11135A_COMPLETION" Language="tr_TR">
+      <Text>Savaşın kaosunda, İzlandalı vikingler şöhret ve savaşta onurlu bir ölüm yoluyla ölümsüzlüğü ararlar. Saldırıyı yöneten bir şef, baltasını vahşice sallayarak bir hedefi diğerinin ardından vurur, ta ki sonunda bir mızrak göğsünü delene kadar. "Bu aralar geniş mızraklar moda," der ve ölü olarak yere yığılır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11135A_STORYTITLE" Language="tr_TR">
+      <Text>Son Sözler</Text>
+    </Replace>
+    <Replace Tag="LOC_11135B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Wonders'da.</Text>
+    </Replace>
+    <Replace Tag="LOC_11135B_NAME" Language="tr_TR">
+      <Text>Bir run taşı onun adını yaşatacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11135C_DESCRIPTION" Language="tr_TR">
+      <Text>Her aktif Ticaret Yolu için +2[icon:YIELD_CULTURE] Kültür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11135C_NAME" Language="tr_TR">
+      <Text>Bir şiir, onun yaptıklarını yayacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11136A_COMPLETION" Language="tr_TR">
+      <Text>İzlandalı bir çiftçi, kucağında yaldızlı bir kılıçla bir tepenin üzerinde oturmuş, gençlik anılarına kendini kaptırmış durumda. Uzak diyarlardaki muhteşem bir şehir. Bira eşliğinde gülen paralı asker kardeşleri. Sayısız savaşın kanı ve çığlıkları. Artık evinde, ama yine de dalgaların ötesindeki o diğer evi özlüyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11136A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Varangian Gazisi</Text>
+    </Replace>
+    <Replace Tag="LOC_11136B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11136B_NAME" Language="tr_TR">
+      <Text>Savaşçılar dönüşlerinde desteklenmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11136C_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm Komutanlara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11136C_NAME" Language="tr_TR">
+      <Text>Efsaneler kendi ayakları üzerinde durur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11137A_COMPLETION" Language="tr_TR">
+      <Text>Bir keşiş, taze parşömene öfkeyle bir şeyler karalıyor, Cennet'i arayan efsanevi bir kral hakkında yeni bir destan yazıyor. Pek çok tehlike ve düşman bekliyor, ancak keşişin ilhamı tükenmek üzere. Yakındaki bir Roma hayvanlar ansiklopedisine göz atıyor ve eski bir şairden alıntılanan korkunç yılan listesine yakından bakıyor. Evet, evet, bu iş görür...</Text>
+    </Replace>
+    <Replace Tag="LOC_11137A_STORYTITLE" Language="tr_TR">
+      <Text>Jakúlus</Text>
+    </Replace>
+    <Replace Tag="LOC_11137B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11137B_NAME" Language="tr_TR">
+      <Text>Gerçek canavarlar, fantastik olanlardan daha etkileyicidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11137C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11137C_NAME" Language="tr_TR">
+      <Text>Ya bu yılanın kanatları olsaydı ve zehir kusuyorsa...?</Text>
+    </Replace>
+    <Replace Tag="LOC_11138A_COMPLETION" Language="tr_TR">
+      <Text>Hukuk Kayası'nın üzerinde duran genç hukuk sözcüsü, önünde toplanan büyük kalabalığı izlerken yerinde duramıyor. Önceki görevlisinin özenli eğitimi altında, aylarca hukuk kanunlarını ezberlemiştir. Okuması kesin ve doğru olmalıdır, çünkü hukukla İzlanda yükselir, hukuksuzlukla ise İzlanda çöker. Derin bir nefes alır ve performansına başlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11138A_STORYTITLE" Language="tr_TR">
+      <Text>Alþingi'de</Text>
+    </Replace>
+    <Replace Tag="LOC_11138B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11138B_NAME" Language="tr_TR">
+      <Text>Okuma, bu yasaları toplumsal hale getirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11138C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11138C_NAME" Language="tr_TR">
+      <Text>Kanunlar, özel danışma için yazılı hale getirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11139A_COMPLETION" Language="tr_TR">
+      <Text>Bir İzlanda çiftliğindeki işçiler, bir draugr tarafından terör estirildiğinden şikayet ederler. Çiftliğin eski sahibi, ölümünde mutfak kapısının altında ayakta gömülmeyi istemişti ve şimdi her gece uyanarak hizmetçileriyle güreşiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11139A_STORYTITLE" Language="tr_TR">
+      <Text>Hrappsstaðr'da Bir Hayalet</Text>
+    </Replace>
+    <Replace Tag="LOC_11139B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11139B_NAME" Language="tr_TR">
+      <Text>Çiftçi uygun şekilde yeniden gömülmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11139C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Saga Kahramanları.</Text>
+    </Replace>
+    <Replace Tag="LOC_11139C_NAME" Language="tr_TR">
+      <Text>Büyük bir savaşçı bu tehditle başa çıkabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140A_COMPLETION" Language="tr_TR">
+      <Text>Uzun evlerde, meclislerde, yurtdışındaki kraliyet saraylarında, İzlanda şiiri, kendine özgü kenning diliyle bolca bulunur. Bir zamanlar basit olan ikameler – gemi yerine "dalga atı", altın yerine "Sif'in saçı" – skaldlar sanatlarını yeni zirvelere taşırken karmaşıklıklarını artırır. Biri "eski duvarların orman ayısının karanlık haini" ifadesini kullandığında, dinleyiciler bunun şeye atıfta bulunduğunu düşünür...</Text>
+    </Replace>
+    <Replace Tag="LOC_11140A_STORYTITLE" Language="tr_TR">
+      <Text>Şiirin Bal Şarabı</Text>
+    </Replace>
+    <Replace Tag="LOC_11140B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140B_NAME" Language="tr_TR">
+      <Text>Time.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140C_NAME" Language="tr_TR">
+      <Text>Şeytan.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140D_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11140D_NAME" Language="tr_TR">
+      <Text>Bir kedi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11141A_COMPLETION" Language="tr_TR">
+      <Text>Skald, dinleyicilerinin kenningine hayranlıkla dinlediklerini duyunca başını sallar. “Ben zamandan bahsetmiyorum,” diye azarlar. “Sanatıma hiç saygınız yok mu?”</Text>
+    </Replace>
+    <Replace Tag="LOC_11141A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11141A_STORYTITLE" Language="tr_TR">
+      <Text>Şiir Bal Şarabı</Text>
+    </Replace>
+    <Replace Tag="LOC_11142A_COMPLETION" Language="tr_TR">
+      <Text>Dinleyiciler, şairin şeytanla ilgili kenningini övüyor. "Ama bu şeytanla ilgili değil," diyor şair şaşkın bir şekilde, ancak övgüler kabul ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11142A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11142A_STORYTITLE" Language="tr_TR">
+      <Text>Şiir Balı</Text>
+    </Replace>
+    <Replace Tag="LOC_11143A_COMPLETION" Language="tr_TR">
+      <Text>Skald, uzun kenningini bitirir bitirmez, konunun kahramanı olan büyük bir kedi önündeki masaya atlar, esner ve uzun, keskin pençesiyle kızarmış etin bir parçasını kapar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11143A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11143A_STORYTITLE" Language="tr_TR">
+      <Text>Şiirin Bal Şarabı</Text>
+    </Replace>
+    <Replace Tag="LOC_11144A_COMPLETION" Language="tr_TR">
+      <Text>Reykjaholt'un jeotermal havuzundan yükselen buhar bulutlarının arasında, bilgin geriye yaslanarak gökyüzünü seyretmektedir. Eski mitler ve efsaneler, yeni inançların karşısında kaybolmaktadır ve onlarla birlikte şiir dili de. Ama denizin ötesindeki kralların ne kadar ilginç bir soyağacı var... Bir sıçrayışla doğrulur ve yazmanlarına seslenirken bir sonraki el yazmasını şimdiden kafasında oluşturmaya başlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144A_STORYTITLE" Language="tr_TR">
+      <Text>Snorri'nin Mirası</Text>
+    </Replace>
+    <Replace Tag="LOC_11144B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144B_NAME" Language="tr_TR">
+      <Text>Bu muhteşem sanatı korumak için bir şiir kılavuzu.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144C_NAME" Language="tr_TR">
+      <Text>Macera ve siyasetle dolu bir krallar tarihi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144D_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11144D_NAME" Language="tr_TR">
+      <Text>Kahraman Egill Skallagrímsson'un destansı serüveni.</Text>
+    </Replace>
+    <Replace Tag="LOC_11145A_COMPLETION" Language="tr_TR">
+      <Text>Eski İzlanda el yazmaları koleksiyonunda, bir akademisyen uzun zamandır kayıp olan bir şiir geleneğine ait bir el kitabı keşfeder. Sayfalarını incelerken, kitabın ortaçağ İskandinav mitolojisinin bir özetini içerdiğini fark eder. Başlangıçta şairler için şiirsel referans kaynağı olarak tasarlanan kitap, artık yok olmuş bir dine açılan değerli bir pencere sunuyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11145A_STORYTITLE" Language="tr_TR">
+      <Text>Prose Edda</Text>
+    </Replace>
+    <Replace Tag="LOC_11145B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11145B_NAME" Language="tr_TR">
+      <Text>Modern okuyucular bu mitlere büyük değer vereceklerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11145C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11145C_NAME" Language="tr_TR">
+      <Text>Skald şiirinin geri dönüşünün zamanı geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11146A_COMPLETION" Language="tr_TR">
+      <Text>Akademisyenler, ortaçağ İzlanda krallarının destanlarından oluşan bir koleksiyonun yeni baskısını dikkatle inceliyorlar. Metin, uzak hükümdarların hikayelerini anlatıyor, ancak İzlanda bakış açısı her zaman ön planda ve yetenekli skaldlar ile küstah ama cesur kahramanlar, kraliyet ihtişamının ortasında okuyucuların dikkatini çekiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11146A_STORYTITLE" Language="tr_TR">
+      <Text>Heimskringla</Text>
+    </Replace>
+    <Replace Tag="LOC_11146B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11146B_NAME" Language="tr_TR">
+      <Text>Bu destanlar, diğer ülkelerin tarihleri hakkında pek çok bilgiyi muhafaza etmektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11146C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11146C_NAME" Language="tr_TR">
+      <Text>Bu öyküler, İzlandalıların kendilerini nasıl gördüklerini yansıtıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11147A_COMPLETION" Language="tr_TR">
+      <Text>Uzun evin içinde ocak parlak bir şekilde yanıyor, dumanla birlikte kahkahalar yükseliyor ve bira bolca akıyor. Bir içki boynuzu Egill'in iri eline uzanıyor ve o, kadının baş sallamasını fark ediyor – bu bir hediye. Ancak bir terslik var. Bu kaptaki biradan daha fazlası var. Egill bıçağını boynuzun üzerinde gezdirerek üzerine runik harfler kazıyor ve boynuz parçalanıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11147A_STORYTITLE" Language="tr_TR">
+      <Text>En Kötü Ev Sahibi</Text>
+    </Replace>
+    <Replace Tag="LOC_11147B_DESCRIPTION" Language="tr_TR">
+      <Text>Deniz Birimlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11147B_NAME" Language="tr_TR">
+      <Text>Zehir, kanla ödenmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11147C_DESCRIPTION" Language="tr_TR">
+      <Text>Víkingar üzerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11147C_NAME" Language="tr_TR">
+      <Text>Önce kaç, intikam sonra.</Text>
+    </Replace>
+    <Replace Tag="LOC_11148A_COMPLETION" Language="tr_TR">
+      <Text>Egill pencerenin önünde oturmuş, kaderini düşünmektedir. Lordun oğlu onun elinden öldü ve şimdi Egill'in kendi başı da tehlikede, tabii ki lordu savaşta gösterdiği başarıları ve kahramanlıklarını anlatan, yüzyıllar boyunca hatırlanacak dizelerden oluşan muhteşem bir şiir yazabilirse durum farklı. Keşke bu kuş dikkatini dağıtmayı bıraksaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11148A_STORYTITLE" Language="tr_TR">
+      <Text>Höfuðlausn</Text>
+    </Replace>
+    <Replace Tag="LOC_11148B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11148B_NAME" Language="tr_TR">
+      <Text>Yaratıcılık, şekil değiştirenler tarafından engellenemez.</Text>
+    </Replace>
+    <Replace Tag="LOC_11148C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11148C_NAME" Language="tr_TR">
+      <Text>Belki bir arkadaşı bu yaratığı uzaklaştırabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11149A_COMPLETION" Language="tr_TR">
+      <Text>Karanlık gecenin ortasında, Gísli uyuyan uzun evin kapısında durmaktadır. Bir eliyle, kayınbiraderinin cesedinden az önce çıkardığı mızrağı sıkıca tutmaktadır. Yerden sazları toplayarak, salon karanlığa gömülene kadar titrek meşalelere sessizce tek tek fırlatır. Gísli, ocak başındaki yatağa sessizce yaklaşır ve tek bir hareketle mızrağı aşağıya, intikam için saplar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11149A_STORYTITLE" Language="tr_TR">
+      <Text>Grásiða'nın Isırığı</Text>
+    </Replace>
+    <Replace Tag="LOC_11149B_DESCRIPTION" Language="tr_TR">
+      <Text>Piyade Birimlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11149B_NAME" Language="tr_TR">
+      <Text>Kan karşılığında kan.</Text>
+    </Replace>
+    <Replace Tag="LOC_11149C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11149C_NAME" Language="tr_TR">
+      <Text>Cinayet, sadece kanun kaçağı olmaya yol açar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11150A_COMPLETION" Language="tr_TR">
+      <Text>Kanun kaçağı Gísli'yi takip eden adamlar, onu küçük bir çiftliğe kadar izlerler. Avlarını ararken, çiftçinin karısı yatağından onlara, muhtemelen asla unutamayacakları kadar küfürlü sözlerle bağırır. Kadının hakaretleriyle dikkatleri dağılan adamlar, planladıkları kadar dikkatli arama yapamazlar ve eli boş ve iyice azarlanmış olarak oradan ayrılırlar. Kadın yataktan kalkar ve yorganı kaldırır; Gísli gülümseyerek yatağın dışına yuvarlanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11150A_STORYTITLE" Language="tr_TR">
+      <Text>Takip</Text>
+    </Replace>
+    <Replace Tag="LOC_11150B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Komutanlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11150B_NAME" Language="tr_TR">
+      <Text>Hile, bir kanun kaçağının hayatta kalması için hayati önem taşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11150C_DESCRIPTION" Language="tr_TR">
+      <Text>Piyade Birimlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11150C_NAME" Language="tr_TR">
+      <Text>Büyük savaşçılar aldatmacaya başvurmaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_11151A_COMPLETION" Language="tr_TR">
+      <Text>Karanlık salonda Grettir, hayatı için savaşıyor. İki figür öfkeyle boğuşurken kirişler çatlıyor ve banklar parçalanıyor. Grettir güçlü düşmanını itip ikisini de kapıdan dışarı fırlatırken, ölülerin kokusu her yeri kaplıyor. Ay bulutların arasından çıkarken, parıldayan gözlere bakıyor ve bir an için titriyor. Bu gece zafer onun olmalı – ama ne pahasına?</Text>
+    </Replace>
+    <Replace Tag="LOC_11151A_STORYTITLE" Language="tr_TR">
+      <Text>Glámr'ın Gözleri</Text>
+    </Replace>
+    <Replace Tag="LOC_11151B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Víkingar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11151B_NAME" Language="tr_TR">
+      <Text>Grettir'in gücü eşsizdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11151C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Víkingar'da.</Text>
+    </Replace>
+    <Replace Tag="LOC_11151C_NAME" Language="tr_TR">
+      <Text>Draugarlarla savaşmanın bedeli, zamanla ölümcül olur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11152A_COMPLETION" Language="tr_TR">
+      <Text>Soğuk bir adaya yağmur yağıyor, kanun kaçağı Grettir yaralı bacağına bakıyor. Yıllar önce draugr'u yendikten sonra talihsizlikler peşini bırakmadı ve bir cadının işi olan bu yaralanma, onun sonu olabilir. Gücü azalıyor ve gece çöktükçe yaklaşan karanlığa olan korkusu artıyor. Kanun kaçağı olmasının sona ermesine sadece bir yıl kaldı... tabii hayatta kalırsa.</Text>
+    </Replace>
+    <Replace Tag="LOC_11152A_STORYTITLE" Language="tr_TR">
+      <Text>Kanun Kaçağı</Text>
+    </Replace>
+    <Replace Tag="LOC_11152B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Menzilli Birimler üzerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11152B_NAME" Language="tr_TR">
+      <Text>Son bir direniş için hâlâ zaman var.</Text>
+    </Replace>
+    <Replace Tag="LOC_11152C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11152C_NAME" Language="tr_TR">
+      <Text>Kahramanların çağı sona eriyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11153A_COMPLETION" Language="tr_TR">
+      <Text>Nehrin sakin yüzeyinin altında, iki adam güreşiyor, her biri diğerini su altında tutmaya çalışıyor. Sonunda ikisi de pes ediyor ve birlikte su yüzüne çıkarak yarışmanın berabere bittiğini ilan ediyorlar. Kjartan rakibine bakıyor – kraliyet havası taşıyan bir yabancı, saygı göstergesi olarak kendi güzel pelerinini sunuyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11153A_STORYTITLE" Language="tr_TR">
+      <Text>Yüzme Yarışması</Text>
+    </Replace>
+    <Replace Tag="LOC_11153B_DESCRIPTION" Language="tr_TR">
+      <Text>Şehirlerde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11153B_NAME" Language="tr_TR">
+      <Text>Bu hediye, evdekileri etkileyecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11153C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11153C_NAME" Language="tr_TR">
+      <Text>Bir kralın borcuna girmek uğursuzluk getirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11154A_COMPLETION" Language="tr_TR">
+      <Text>Kjartan’ın zihni karışık. Malikanesinden değerli eşyalar kaybolmuş ve şüpheleri üvey kardeşine – daha doğrusu, Kjartan’ın eski aşkına olan karısına – yöneliyor. Gerginlik doruk noktasına ulaşmış ve adamları yaklaşan ölümü hayal ediyor. Ancak bozkırda at sürerken, kışkırtılmadığı sürece üvey kardeşinden korkacak hiçbir şeyi olmadığını biliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11154A_STORYTITLE" Language="tr_TR">
+      <Text>Tehlikeli Bir Yolculuk</Text>
+    </Replace>
+    <Replace Tag="LOC_11154B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşim Yerlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11154B_NAME" Language="tr_TR">
+      <Text>Sonunda kardeş sevgisi galip gelecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11154C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11154C_NAME" Language="tr_TR">
+      <Text>Bir pusu, yenilmesi kolay olacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11155A_COMPLETION" Language="tr_TR">
+      <Text>Guðrún, şafak vakti loş ışığında, uzun evdeki uyuyanlarla çevrili olarak aniden uyanır. Bir kez daha rüyaları onu rahatsız etmiştir. Bir dereye düşen bir başlık; bir gölde kaybolan gümüş bir yüzük; kırılmış ve kanayan altın bir yüzük; denize batan altın bir miğfer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11155A_STORYTITLE" Language="tr_TR">
+      <Text>Rüya Gören</Text>
+    </Replace>
+    <Replace Tag="LOC_11155B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11155B_NAME" Language="tr_TR">
+      <Text>Bunlar gelecekteki evliliklerin alametleridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11155C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11155C_NAME" Language="tr_TR">
+      <Text>Bunlar uyarıdır, başka bir şey değil.</Text>
+    </Replace>
+    <Replace Tag="LOC_11156A_COMPLETION" Language="tr_TR">
+      <Text>Guðrún pırasa bahçesinde durmaktadır. Etrafındaki yere, kocasının öldürüldüğü sırada giydiği giysiler özenle serilmiştir. Genç oğulları yaklaşır ve o, lekeli giysileri işaret eder. "Bu giysiler, harekete geçmemenizi kınıyor," der onlara. "Babanızın intikamını almaktan çok at dövüşlerini önemsiyorsunuz."</Text>
+    </Replace>
+    <Replace Tag="LOC_11156A_STORYTITLE" Language="tr_TR">
+      <Text>Puan Tutucu</Text>
+    </Replace>
+    <Replace Tag="LOC_11156B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Süvari Birimlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11156B_NAME" Language="tr_TR">
+      <Text>Çocuklar hatırlatılmadan görevlerini bilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11156C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11156C_NAME" Language="tr_TR">
+      <Text>Puanları tutmak bir kadının görevidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11157A_COMPLETION" Language="tr_TR">
+      <Text>Hrafnkell, çiftlikte yankılanan yüksek bir kişneme sesiyle yemeğinden başını kaldırır. Bu sesin, kutsal bir yeminle tanrısına adadığı ve ölüm cezası altında asla binilmeyecek olan atı Freyfaxi'nin çağrısı olduğunu anlar. Ama hayvan, ter ve çamurla kaplı bir halde karşısındadır. Biri ona binmiştir. Tanrı kızacaktır. Hrafnkell baltasını alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11157A_STORYTITLE" Language="tr_TR">
+      <Text>Kutsal Yemin</Text>
+    </Replace>
+    <Replace Tag="LOC_11157B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11157B_NAME" Language="tr_TR">
+      <Text>Yeminler, toplumu bir arada tutan sözleşmelerdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11157C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11157C_NAME" Language="tr_TR">
+      <Text>Belki tanrı merhametli davranır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11158A_COMPLETION" Language="tr_TR">
+      <Text>Bir zamanlar Hrafnkell, fiyortunun efendisi olan güçlü bir adamdı. Şimdi ise mahkemede aldatılarak evinden, malından ve itibarından mahrum bırakılmış olarak yeniden başlamak zorundadır. Bir gün intikamını alacaktır, ancak bunu tanrısının gücüyle değil, kendi gücüyle yapacaktır. Kutsal yeminine sadık kalmak ona acıdan başka bir şey getirmedi ve kutsal atının öldüğü haberi geldiğinde, tanrılardan sonsuza dek vazgeçti.</Text>
+    </Replace>
+    <Replace Tag="LOC_11158A_STORYTITLE" Language="tr_TR">
+      <Text>Freyfaxahamar</Text>
+    </Replace>
+    <Replace Tag="LOC_11158B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11158B_NAME" Language="tr_TR">
+      <Text>Tanrılara tapınmak bir kibir eylemidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11158C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11158C_NAME" Language="tr_TR">
+      <Text>Tanrılar vefasızdır, ama bağlılık karşılığını verir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11159A_COMPLETION" Language="tr_TR">
+      <Text>Njáll, gecenin bir yarısı metalin sürtünme sesiyle uyanır. Yatak odasından dışarı bakarak oğullarının silahlandığını görür ve bu saatte nereye gittiklerini sorar. "Koyun avına çıkıyoruz," der en büyüğü kurt gibi sırıtarak. "Bunu bana daha önce de söylemiştin," diye yanıtlar Njáll, "ama o zaman insan avına çıkıyordun."</Text>
+    </Replace>
+    <Replace Tag="LOC_11159A_STORYTITLE" Language="tr_TR">
+      <Text>Çobanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11159B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11159B_NAME" Language="tr_TR">
+      <Text>Barış her şeyden önce gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11159C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11159C_NAME" Language="tr_TR">
+      <Text>Bazı meseleler ancak şiddetle çözülebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11160A_COMPLETION" Language="tr_TR">
+      <Text>Njáll yatağında hareketsiz yatmaktadır, karısı yanında, torunları ikisinin arasında. Ağır öküz derisinin altında sadece karanlık görmektedir. Ancak duman kokusu çok yoğundur. Alevlerin uğultusu arasında oğullarının birbirlerine bağırdıklarını, dışarıdaki saldırganlara kılıç ve mızraklarını sapladıklarını, birer birer sessizliğe büründüklerini, asla intikamını alamayacağı ölümleri duymaktadır. Sevdiklerini kendine yaklaştırarak gözlerini kapatır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11160A_STORYTITLE" Language="tr_TR">
+      <Text>Kaderine Boyun Eğen Adam</Text>
+    </Replace>
+    <Replace Tag="LOC_11160B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11160B_NAME" Language="tr_TR">
+      <Text>Bir uzun evi yakmanın onuru yoktur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11160C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11160C_NAME" Language="tr_TR">
+      <Text>Yasa işlevini yitirdiğinde, kaos hüküm sürer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11161A_COMPLETION" Language="tr_TR">
+      <Text>İzlanda'nın en büyük savaşçısı olarak kazandığı şöhrete rağmen, Gunnarr huzurlu bir hayat özlemektedir. O, kışkırtıcı komşularının hakaretlerini önemsemez ve tuzağa düşmeyi reddeder. Ancak bu hakaretler yalanlara dönüşüp itibarını tehdit etmeye başladığında, yaklaşan kan dökülüşünü müjdeleyen halberdini eline alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11161A_STORYTITLE" Language="tr_TR">
+      <Text>Yalanlar Ekimek</Text>
+    </Replace>
+    <Replace Tag="LOC_11161B_DESCRIPTION" Language="tr_TR">
+      <Text>Piyade Birimlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11161B_NAME" Language="tr_TR">
+      <Text>Hakaretler bir adamın mirasını yok edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11161C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11161C_NAME" Language="tr_TR">
+      <Text>Gunnarr'ın eylemleri mahkemede karara bağlanmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11162A_COMPLETION" Language="tr_TR">
+      <Text>Gunnarr, uzun gemisine doğru yola çıkarken ailesi onu uğurlar. Hafif bir kaçaklık cezası, üç yıl yurtdışında kalması ve ancak üç yıl sonra eve dönebilmesi anlamına gelir. Ancak atı tökezlerken, Gunnarr çiftliğini son bir kez görür. "Bu tepe ne kadar da güzel," diye düşünür. "Hiç bu kadar güzel görünmemişti." Arkasını döner, eve ve ölüme doğru yola çıkar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11162A_STORYTITLE" Language="tr_TR">
+      <Text>Soluk Tarlalar</Text>
+    </Replace>
+    <Replace Tag="LOC_11162B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşim Yerlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11162B_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_11163A_COMPLETION" Language="tr_TR">
+      <Text>İskandinav çiftçileri zor zamanlar geçiriyor ve birçoğu bunun nedenini öğrenmeye çalışıyor. Bir kahin çağırılır; pirinç başlı bir asa taşıyan, siyah bir pelerin ve beyaz kedi derisi eldivenlerle sarılmış yaşlı bir kadın. Guðríðr eski koruma ilahilerini bilir, ancak yeni bir tanrıya yemin etmiştir ve ayinlere katılmakta tereddüt eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11163A_STORYTITLE" Language="tr_TR">
+      <Text>Kahin</Text>
+    </Replace>
+    <Replace Tag="LOC_11163B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşim Yerlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11163B_NAME" Language="tr_TR">
+      <Text>İnsanlar tanıdık bir rahatlığa ihtiyaç duyar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11163C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} tüm Yerleşim Yerlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11163C_NAME" Language="tr_TR">
+      <Text>Eski gelenekler artık rafa kaldırılmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11164A_COMPLETION" Language="tr_TR">
+      <Text>İzlanda'dan uzak bir ülkede, Guðríðr, kocası ve takipçileri yerlilerle yiyecek takası yaparken, küçük oğlunun yanında oturmaktadır. Aniden, kısa boylu ve kocaman gözlü garip bir kadın eve sızar. "Benim adım Guðríðr, seninki ne?" der Guðríðr. "Benim adım da Guðríðr," diye cevaplar kadın. Aniden dışarıdan bir gürültü gelir ve kadın ortadan kaybolur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11164A_STORYTITLE" Language="tr_TR">
+      <Text>Bir Fetch</Text>
+    </Replace>
+    <Replace Tag="LOC_11164B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Uzak Topraklar Yerleşimlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11164B_NAME" Language="tr_TR">
+      <Text>Garip bir ülkede garip bir dost.</Text>
+    </Replace>
+    <Replace Tag="LOC_11164C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Uzak Topraklar Yerleşimlerinde tüm Birimler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11164C_NAME" Language="tr_TR">
+      <Text>Kötü alametin habercisi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11165A_COMPLETION" Language="tr_TR">
+      <Text>Freydís iskelede durmuş, uzun gemilerin yükleme işlemlerini yönetiyor. Denizciler, uzak kıyılara yapılacak uzun yolculuk için yiyecek ve erzak taşıyarak, onun yüksek sesli emirleri altında koşturuyorlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11165A_STORYTITLE" Language="tr_TR">
+      <Text>Hedef: Vinland</Text>
+    </Replace>
+    <Replace Tag="LOC_11165B_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11165B_NAME" Language="tr_TR">
+      <Text>Bu bir macera fırsatı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11165C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11165C_NAME" Language="tr_TR">
+      <Text>Bu bir yağma seferi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11166A_COMPLETION" Language="tr_TR">
+      <Text>Uzak bir diyarda, Freydís kaçan arkadaşlarının peşinden sendeleyerek ilerliyor, karnı oldukça büyük ve onların korkaklığını lanetliyor. Saldırganlar yaklaşırken, yere düşmüş bir İskandinav'ın yanına eğiliyor, kılıcını kapıyor ve arkasını dönüyor. Hızlı bir hareketle göğsünü açığa çıkarıyor ve çıplak kılıçla göğsüne vuruyor. Dehşete kapılan düşmanları hemen geri dönüp kaçıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11166A_STORYTITLE" Language="tr_TR">
+      <Text>Eiríks Saga Rauða</Text>
+    </Replace>
+    <Replace Tag="LOC_11166B_DESCRIPTION" Language="tr_TR">
+      <Text>Víkingar'da{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11166B_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_11167A_COMPLETION" Language="tr_TR">
+      <Text>Sabahın erken saatlerinde, uzun evlerinden bağlanıp dışarı atılan İskandinav kaşiflerin çıplak ayakları çiy ile ıslanmıştır. Bir zamanlar uzak diyarlara seyahat eden yoldaşları olan bu insanlar, Freydís'in emriyle tek tek öldürülür... Artık, onun keyfine göre, kurbanlarıdırlar. Sonunda geriye sadece kadınlar kalır. Freydís baltasını kaldırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11167A_STORYTITLE" Language="tr_TR">
+      <Text>Grœnlendinga Saga</Text>
+    </Replace>
+    <Replace Tag="LOC_11167B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak {2_reward} Uzak Topraklar Yerleşimlerinde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11167B_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_11168A_COMPLETION" Language="tr_TR">
+      <Text>Saygıdeğer hükümdar: Geçen bir hacıdan, Cennet'in Hindistan'da bulunduğuna dair bir söylenti duydum! Eğer bu hikaye doğruysa, bu kutsal yerden öğrenilecek çok şey var... ama aynı zamanda Cennet'in insan gözleri için uygun olmadığı konusunda da endişeliyim. Saygılarımla, Eirekr</Text>
+    </Replace>
+    <Replace Tag="LOC_11168A_STORYTITLE" Language="tr_TR">
+      <Text>Uzaklardan Gelen Bir Söylenti</Text>
+    </Replace>
+    <Replace Tag="LOC_11168B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11168B_NAME" Language="tr_TR">
+      <Text>Eirekr'ı Cennet'i bulması için gönder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11168C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11168C_NAME" Language="tr_TR">
+      <Text>Ütopyanın gizemine saygı gösterin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11169A_COMPLETION" Language="tr_TR">
+      <Text>Saygıdeğer hükümdar: Topraklar büyük ölçüde değişti ve görülecek pek çok harikalar var. Bunların en büyüğü bir ejderha! Yolumun üzerinde oturmuş, rüzgara karşı hırıldıyor ve kükrediyor. Yolculuğum beni çağırıyor… ama ona yaklaşmaktan korkuyorum. Saygılarımla, Gezgin Eirekr</Text>
+    </Replace>
+    <Replace Tag="LOC_11169A_STORYTITLE" Language="tr_TR">
+      <Text>Büyük Yılan</Text>
+    </Replace>
+    <Replace Tag="LOC_11169B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11169B_NAME" Language="tr_TR">
+      <Text>Ejderhaya yaklaş.</Text>
+    </Replace>
+    <Replace Tag="LOC_11169C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11169C_NAME" Language="tr_TR">
+      <Text>Eve dön.</Text>
+    </Replace>
+    <Replace Tag="LOC_11170A_COMPLETION" Language="tr_TR">
+      <Text>Saygıdeğer hükümdar: Ejderhaya yaklaştığımda, çok garip bir şey oldu – ağzını sonuna kadar açtı ve ben de süt ve bal diyarına adım attım. Orada, koruyucu meleğim tarafından karşılandım; bu tuhaf varlık bana birçok yaşam boyu yetecek manevi öğütler verdi. Bu öğretileri paylaşmak için sabırsızlıkla eve dönüyorum. Saygılarımla, Uzak Gezgin Eirekr</Text>
+    </Replace>
+    <Replace Tag="LOC_11170A_STORYTITLE" Language="tr_TR">
+      <Text>Beklenmedik Bir Ruh</Text>
+    </Replace>
+    <Replace Tag="LOC_11170B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11170B_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_11171A_COMPLETION" Language="tr_TR">
+      <Text>Saygıdeğer hükümdar: Ejderhadan ve yolumdan uzaklaşmış olsam da, yolculuğumdan edindiğim bilgilerle eve dönüyorum. Umarım bu içgörüler halkı zenginleştirir ve ruhani bilgelik arayışlarının devam etmesini sağlar. İnançla, Uzak Yolcu Eirekr</Text>
+    </Replace>
+    <Replace Tag="LOC_11171A_STORYTITLE" Language="tr_TR">
+      <Text>Bilgelik Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_11171B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11171B_NAME" Language="tr_TR">
+      <Text>Close.</Text>
+    </Replace>
+    <Replace Tag="LOC_12014A_COMPLETION" Language="tr_TR">
+      <Text>Dr. Rizal, yasaların kabul edildiği ve anlaşmazlıkların çözüldüğü yaz meclisinde yerini alır. Bugün, bir kabile reisi rakibinden uzun süredir devam eden kan davasını sona erdirmesini talep etmiştir. Ancak rakip kabile reisi, ilk yapılan haksızlığın henüz telafi edilmediğini ısrarla savunur.</Text>
+    </Replace>
+    <Replace Tag="LOC_12014A_STORYTITLE" Language="tr_TR">
+      <Text>Althing'de Dr. Rizal</Text>
+    </Replace>
+    <Replace Tag="LOC_12014B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Cogs'da.</Text>
+    </Replace>
+    <Replace Tag="LOC_12014B_NAME" Language="tr_TR">
+      <Text>Haksızlıklar düzeltilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12014C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12014C_NAME" Language="tr_TR">
+      <Text>Kan dökmek çok pahalı bir çözümdür.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_VIKINGR_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_SCIENCE] Bilim, [icon:Action_Pillage] Yağma Veriminin ve [icon:Action_Heal] İyileştirmenin %25'i kadar verilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HUGINS_DREKKA_AUTHOR" Language="tr_TR">
+      <Text>Sigvatr Þórðarson</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_HUGINS_DREKKA_QUOTE" Language="tr_TR">
+      <Text>"Savaşçı Njǫrðr, kılıcını hevesle kabul ettim ve daha sonra ona hiçbir kusur bulmayacağım. Bu benim dileğimdir – övgüye değer bir çabadır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LANDNAMABOK_AUTHOR" Language="tr_TR">
+      <Text>Njáls saga</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LANDNAMABOK_QUOTE" Language="tr_TR">
+      <Text>"Hukukla ülkemiz yükselecek, kanunsuzlukla ise yok olacak."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THJODVELDID_AUTHOR" Language="tr_TR">
+      <Text>Egill Skallagrímsson</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_THJODVELDID_QUOTE" Language="tr_TR">
+      <Text>"Savaşta sertleşmiş kurt düşmanı bana kusursuz şiir sanatını öğretti."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_VAERINGJAR_AUTHOR" Language="tr_TR">
+      <Text>Flateyjarbók</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_VAERINGJAR_QUOTE" Language="tr_TR">
+      <Text>"Gemi, su üstünde altınla kaplıydı; üzerinde muhteşem ejderha başları ve en değerli kumaştan yapılmış çift taraflı bir yelken vardı."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ICELAND_DESCRIPTION" Language="tr_TR">
+      <Text>Uzak Topraklarda bir [icon:NOTIFICATION_DISCOVER_NATURAL_WONDER] Doğal Harika keşfettiğinizde [icon:YIELD_CULTURE] 500 Kültür kazanın. [icon:RADIAL_CIVICS] Landnámabók Sivil Yeteneğini tamamladıktan sonra her [icon:RADIAL_CIVICS] Sivil Yeteneği incelediğinizde bir [icon:NAR_REW_GREATWORK] Kalıntı kazanırsınız. [icon:UNIT_MISSIONARY] Misyonerlerin maliyeti %100 daha fazladır.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_EGILL_SKALLAGRIMSSON_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Filo Komutanı üzerinde etkinleştirin. Komuta Yarıçapı içindeki bir düşman Birimini yendiğinizde, yenilen Birimin gücünün %25'i kadar [icon:YIELD_CULTURE] Kültür kazanırsınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_EGILL_SKALLAGRIMSSON_NAME" Language="tr_TR">
+      <Text>Egill Skallagrímsson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_FREYDIS_EIRIKSDOTTIR_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Deniz Birimi üzerinde etkinleştirin. Bu turda, Deniz Birimleri [icon:Action_Pillage] Kıyı Baskını'nı [icon:Action_Move] Hareket maliyeti olmadan gerçekleştirebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_FREYDIS_EIRIKSDOTTIR_NAME" Language="tr_TR">
+      <Text>Freydís Eiríksdóttir</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GISLI_SURSSON_DESCIPTION" Language="tr_TR">
+      <Text>Bir Askeri Birim üzerinde etkinleştirin. Bu Birim Gizlilik Yeteneği kazanır ve bitişik karede olmayan Birimler için görünmez hale gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GISLI_SURSSON_NAME" Language="tr_TR">
+      <Text>Gísli Sursson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GRETTIR_ASMUNDARSON_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Ordu Komutanı üzerinde etkinleştirin. Yakındaki Piyade Birimleri, Etki Alanı yeteneği kazanır; hedefin bitişiğindeki karelerdeki düşman birimleri %25 hasar alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GRETTIR_ASMUNDARSON_NAME" Language="tr_TR">
+      <Text>Grettir Ásmundarson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUDRIDR_THORBJARNARDOTTIR_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Deniz Biriminde etkinleştirin. Bu Birim +1 [icon:Action_Move] Hareket ve +1 [icon:Action_Showall] Görüş kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUDRIDR_THORBJARNARDOTTIR_NAME" Language="tr_TR">
+      <Text>Guðríðr Þorbjarnardóttir</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUDRUN_OSVIFRSDOTTIR_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Komutan üzerinde etkinleştir. Komuta Yarıçapı içindeki kendi etki alanına ait tüm Birimler [icon:Action_Heal] tamamen iyileştirilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUDRUN_OSVIFRSDOTTIR_NAME" Language="tr_TR">
+      <Text>Guðrún Ósvífrsdóttir</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUNNAR_HAMUNDARSON_DESCRIPTION" Language="tr_TR">
+      <Text>Aynı karede bir Askeri Birim bulunan bir Ordu veya Filo Komutanı üzerinde etkinleştirin. Bu Komutan, Emir Övgüsü kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_GUNNAR_HAMUNDARSON_NAME" Language="tr_TR">
+      <Text>Gunnarr Hámundarson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_HRAFNKELL_HALLFREDSSON_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Tapınakta etkinleştirin. Ne zaman bir Kıyı Baskını yapsanız, [icon:NAR_REW_RELIGION] Din, Kıyı Baskını yapılan Yerleşime yayılır. Baskın yapılan karo bir İyileştirme ise Kırsal Din değişir, karo bir Kentsel karo ise Kentsel Din değişir.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_HRAFNKELL_HALLFREDSSON_NAME" Language="tr_TR">
+      <Text>Hrafnkell Hallfreðsson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_KJARTAN_OLAFSSON_DESCRIPTION" Language="tr_TR">
+      <Text>Yabancı bir Yağmalanmış karede etkinleştirin. 1 [icon:NAR_REW_GREATWORK] Kalıntı kazanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_KJARTAN_OLAFSSON_NAME" Language="tr_TR">
+      <Text>Kjartan Óláfsson</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_NJALL_THORGEIRSSON_DESCRIPTION" Language="tr_TR">
+      <Text>Bir þingstaðr üzerinde etkinleştirin. Her kutlama için bu yerleşim yerindeki þingstaðr'da +2 [icon:YIELD_CULTURE] Kültür kazanırsınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAGA_HERO_NJALL_THORGEIRSSON_NAME" Language="tr_TR">
+      <Text>Njáll Þorgeirsson</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_THING_DESCRIPTION" Language="tr_TR">
+      <Text>İzlanda [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Eşsiz İyileştirme[/TIP]. +4[icon:YIELD_HAPPINESS] Mutluluk. +1[icon:YIELD_CULTURE] Kültür Islak, [TIP:LOC_PEDIA_CONCEPTS_FLOODPLAINS_TOOLTIP]Taşkın Yatağı[/TIP], Volkan ve [TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]Bitki Örtülü[/TIP] karolar için komşuluk. Bu [icon:UNIT_SAGA_HERO] Saga Kahramanı'nı bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] yerinde eğitmeye izin verir. Başka bir Þingstaðr'a bitişik olmayan Tundra veya Çayır üzerine yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_THING_TOOLTIP" Language="tr_TR">
+      <Text>Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] yerinde [icon:UNIT_SAGA_HERO] Saga Kahramanı'nı eğitmeye izin verir. Başka bir Þingstaðr'a bitişik olmayan Tundra veya Çayır üzerine yerleştirilmelidir.[n]İzlandalı [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Eşsiz Geliştirme[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_ICELAND" Language="tr_TR">
+      <Text>Engebeli kuzeyden, İzlandalılar Óðinn'in desteğiyle ejderha başlı gemilerle ortaya çıkıyor. Hiçbir kıyı, İskandinav savaşçılarının öfkesinden kurtulamaz. Bol ganimetleri uzun evlerin duvarlarını süsler, kahramanlıkları destan yazarları ve skaldlar tarafından ölümsüzleştirilir. Baltanızı hazırlayın ve küreklerinizi kaldırın – Viking Çağı başlıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_ICELAND" Language="tr_TR">
+      <Text>Hugins Drekka Sivil Yeteneği, Víkingr Benzersiz Birimini Uzak Topraklarda Kıyı Akınlarında mükemmel hale getirir. Denizleri keşfederek Doğal Harikaları keşfedin ve yol boyunca bazı topraklara akın yapın!</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ICELAND_COMPLETE_REYKJAHOLT_DESC" Language="tr_TR">
+      <Text>İzlanda olarak, Reykjaholt'u tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ICELAND_COMPLETE_REYKJAHOLT_NAME" Language="tr_TR">
+      <Text>Reykjaholt</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ICELAND_LEGACY_PATH_CULTURAL_DESC" Language="tr_TR">
+      <Text>İzlanda olarak, bir Kültürel Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ICELAND_LEGACY_PATH_CULTURAL_NAME" Language="tr_TR">
+      <Text>İzlanda Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_ICELAND_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] İzlanda'nın ilişkili [icon:YIELD_TOWNS] Harikası olmasından elde edilen üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_HUGINS_DREKKA_PILLAGE_ONE_MOVE_DESCRIPTION" Language="tr_TR">
+      <Text>Víkingr, [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP]'da 1 [icon:Action_Move] Hareket için [icon:Action_Pillage] Kıyı Baskını yapabilir. Keşifler için geçerli değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_HUGINS_DREKKA_RANGE_PILLAGE_DESCRIPTION" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] 2 karo içinde [icon:Action_Pillage] Kıyı Baskını yapabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_LANDNAMBOK_KILN_WAREHOUSE_THING_DESCRIPTION" Language="tr_TR">
+      <Text>Fırın bulunan [icon:CITY_RURAL] Þingstaðr'da [icon:YIELD_GOLD] Altın artışı.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_LANDNAMBOK_RELIC_CIVIC_MASTERY_DESCRIPTION" Language="tr_TR">
+      <Text>Her [icon:RADIAL_CIVICS] [TIP:LOC_PEDIA_CONCEPTS_CIVIC_TOOLTIP]Yurttaşlık Ustalığı[/TIP] çalıştığınızda bir [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Kutsal Eser[/TIP] kazanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_THJODVELDID_RELIC_DESCRIPTION" Language="tr_TR">
+      <Text>2 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_RELIC_TOOLTIP]Kalıntı[/TIP] kazan.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_VAERINGJAR_EMBARKED_MOVEMENT_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] ve [icon:Action_Move] Hareket için +1 [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]Gemiye Binen[/TIP] Birimler için.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_REYKHOLT" Language="tr_TR">
+      <Text>Íslendinga saga</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_REYKHOLT" Language="tr_TR">
+      <Text>Sturla sık sık Reykjaholt'ta bulunur ve Snorri'nin yazdığı o destan kitaplarının kopyalarının yapılmasını çok düşünürdü.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DREKAHOFUD_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP] eğitmek, birimin temel [icon:YIELD_Production] Üretim maliyetinin %25'ine eşit [icon:YIELD_CULTURE] Kültür kazandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DROTTKVAETT_DESCRIPTION" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP], [icon:YIELD_CULTURE] Yağma Veriminin ve [icon:Action_Pillage] İyileştirmenin %50'si kadar Kültür sağlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_LYFSTEINN_DESCRIPTION" Language="tr_TR">
+      <Text>+10 [icon:Action_Heal] Dost toprakları dışındaki [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] için İyileştirme.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_REIDI_GUDANNA_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Bina[/TIP] volkanlardan ve [icon:NOTIFICATION_DISCOVER_NATURAL_WONDER]Doğal Harikalardan +1 [icon:YIELD_CULTURE] Kültür ve [icon:YIELD_PRODUCTION] Üretim Komşuluğu kazanır. (Doğal Harika Volkanlar iki kez sayılmaz) Onarım satın almak için %25 [icon:YIELD_GOLD] Altın.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_ICELAND_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI][B]Uzak Topraklar[/B]'da bir [icon:NOTIFICATION_DISCOVER_NATURAL_WONDER] [B]Doğal Harika[/B] keşfettiğinizde [B]500 [icon:YIELD_CULTURE] Kültür[/B] kazanırsınız (Standart Hızda). [LI][B][icon:RADIAL_CIVICS] Landnámabók Civic[/B]'i tamamladıktan sonra her [B][icon:RADIAL_CIVICS] Civic Mastery[/B]'i incelediğinizde bir [B][icon:NAR_REW_GREATWORK] Relic[/B] kazanın.[LI][icon:UNIT_MISSIONARY] [B]Misyonerler[/B] [B]%100[/B] daha pahalıdır.[LI][B]Reykjaholt[/B]'un inşası için [B]%30[/B] [icon:YIELD_PRODUCTION] Üretim artışı. [/B][/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_ICELAND_ABILITY_NAME" Language="tr_TR">
+      <Text>Kringla Heimsins</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_EX_ICELAND_NAME" Language="tr_TR">
+      <Text>İzlanda Siyaset Bilimi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SAGA_HERO_DESCRIPTION" Language="tr_TR">
+      <Text>Tek şarjla elde edilebilen bir Büyük Kişi. Yalnızca [icon:CITY_RURAL] Þingstaðr yerleşimlerinde eğitilebilir ve elde edilecek Saga Kahramanı rastgele belirlenir. Her bir Saga Kahramanı yalnızca bir kez elde edilebilir. Eğitilen her Saga Kahramanı için maliyet artar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIKINGR_2_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye İzlanda'ya Özgü Ağır [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:YIELD_SCIENCE] Yağma Veriminin %25'i kadar Bilim ve [icon:Action_Pillage] İyileştirme sağlar. 3 [icon:Action_Heal] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP] değerine sahiptir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIKINGR_3_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye İzlanda'ya Özgü Ağır [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:YIELD_SCIENCE] Yağma Veriminin ve [icon:Action_Pillage] İyileştirmenin %25'i kadar Bilim sağlar. 3 [icon:Action_Heal] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP]'e sahiptir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIKINGR_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>İzlanda'ya özgü Ağır [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:YIELD_SCIENCE] Yağma Veriminin ve [icon:Action_Pillage] İyileştirmenin %25'i kadar Bilim sağlar. 3 [icon:Action_Heal] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP]'e sahiptir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIKINGR_DESCRIPTION" Language="tr_TR">
+      <Text>Seviye 1 İzlanda'ya Özgü Ağır [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:YIELD_SCIENCE] Yağma Veriminin ve [icon:Action_Pillage] İyileştirmenin %25'i kadar Bilim sağlar. 3 [icon:Action_Heal] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Görüş[/TIP]'e sahiptir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_COASTAL_RAID_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Kıyı Baskını[/B] 5 kez.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_COASTAL_RAID_ICELAND_TOOLTIP" Language="tr_TR">
+      <Text>[B]Akıncılık[/B], [B]İzlanda'nın[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_NATURAL_WONDERS_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [B]Doğa Harikası[/B]'nı ilk keşfeden siz olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_NATURAL_WONDERS_ICELAND_TOOLTIP" Language="tr_TR">
+      <Text>[B]Keşif[/B], [B]İzlanda'nın[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ICELAND_DESCRIPTION" Language="tr_TR">
+      <Text>[B]İzlanda[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ISABELLA_ICELAND_TOOLTIP" Language="tr_TR">
+      <Text>[B]İzlanda[/B], [B]Isabella[/B]'yı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_ICELAND_TOOLTIP" Language="tr_TR">
+      <Text>[B]İzlanda[/B], [B]José Rizal[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_REYKHOLT_DESCRIPTION" Language="tr_TR">
+      <Text>+3[icon:YIELD_CULTURE] Kültür. Bu [icon:YIELD_PRODUCTION] [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Şehir[/TIP]'de her [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Büyük Eser[/TIP] için bu [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehir[/TIP]'de. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Zamansız[/TIP]. Tundra Arazisi üzerine yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_REYKHOLT_TOOLTIP" Language="tr_TR">
+      <Text>Bu [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Şehir[/TIP]'deki her [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Harika Eser[/TIP] için [icon:YIELD_PRODUCTION] Üretim [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Askeri Birimler[/TIP]'in eğitimi için %25 artış.Şehir[/TIP]'de her [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eser[/TIP] için. [N]Tundra Arazisine yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_VAERINGJAR_EMBARKED_NAVAL_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_amount} Væringjar</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_COASTAL_RAID_ICELAND_NARRATIVE" Language="tr_TR">
+      <Text>Akıncılar {1_Civilization_Adj} kıyılarına dönerken, altın yüklü gemiler suda alçak bir şekilde süzülür. Muhteşem ganimetleri, aileleri klanlara, klanları ise... daha fazlasına birleştiren değerli hediyeler olur. Bu takasların önemi arttıkça ve zenginlik talebi büyüdükçe, akıncılar gemilerini bir kez daha hazırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_NATURAL_WONDERS_ICELAND_NARRATIVE" Language="tr_TR">
+      <Text>Dünyanın ucunda, yeryüzü daha önce görülen her şeyden daha güzel bir manzaraya yol açar. Keşfedilmemiş topraklarda başka hangi harikalar bekliyor? {1_Civilization_Adj} kaşifleri, macera ve daha geniş bir dünyanın rehberliğinde yeni bir yol arayışında, bu sırlara tanık olmak için birleşir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DREKAHOFUD_NAME" Language="tr_TR">
+      <Text>Drekahöfuð</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DROTTKVAETT_NAME" Language="tr_TR">
+      <Text>Dróttkvætt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_LYFSTEINN_NAME" Language="tr_TR">
+      <Text>Lyfsteinn</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_REIDI_GUDANNA_NAME" Language="tr_TR">
+      <Text>Reiði Guðanna</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SAGA_HERO_NAME" Language="tr_TR">
+      <Text>Saga Kahramanı</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_VIKINGR_NAME" Language="tr_TR">
+      <Text>Víkingr</Text>
+    </Replace>
+  </LocalizedText>
+</Database>
