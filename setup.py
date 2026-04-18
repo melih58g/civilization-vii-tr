@@ -265,10 +265,12 @@ def detect_game_version(game_path: str) -> Optional[str]:
 
 
 def detect_game_path() -> Optional[str]:
-    """Oyun yolunu otomatik tespit et."""
+    """Oyun yolunu otomatik tespit et — Steam, Epic, Xbox/MS Store, manuel."""
+    # 1) Varsayılan yol
     if os.path.isdir(DEFAULT_GAME_PATH):
         return DEFAULT_GAME_PATH
 
+    # 2) Steam
     if winreg:
         steam_paths = []
         try:
@@ -299,10 +301,66 @@ def detect_game_path() -> Optional[str]:
                 if os.path.isdir(candidate):
                     return candidate
 
+    # 3) Epic Games
+    if winreg:
+        try:
+            key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE,
+                                 r"SOFTWARE\WOW6432Node\Epic Games\EpicGamesLauncher")
+            epic_path, _ = winreg.QueryValueEx(key, "AppDataPath")
+            winreg.CloseKey(key)
+        except (OSError, FileNotFoundError):
+            epic_path = None
+
+        epic_dirs = []
+        if epic_path:
+            manifests = os.path.join(epic_path, "..", "Manifests")
+            if os.path.isdir(manifests):
+                epic_dirs.append(manifests)
+
+        # Yaygın Epic yolları
+        for drv in "CDEFG":
+            for edir in (
+                f"{drv}:\\Program Files\\Epic Games",
+                f"{drv}:\\Epic Games",
+            ):
+                for name in ("CivilizationVII", "Civilization VII", "Sid Meier's Civilization VII"):
+                    candidate = os.path.join(edir, name)
+                    if os.path.isdir(candidate):
+                        return candidate
+
+    # 4) Xbox / Microsoft Store (PC Game Pass)
     for drv in "CDEFG":
-        p = f"{drv}:\\Games\\Civilization VII"
-        if os.path.isdir(p):
-            return p
+        xbox_paths = [
+            f"{drv}:\\XboxGames\\Sid Meier's Civilization VII\\Content",
+            f"{drv}:\\XboxGames\\Civilization VII\\Content",
+            f"{drv}:\\XboxGames\\Sid Meier's Civilization VII",
+        ]
+        for xp in xbox_paths:
+            if os.path.isdir(xp):
+                return xp
+
+    # WindowsApps (MS Store modifiable path)
+    local_app = os.environ.get("LOCALAPPDATA", "")
+    if local_app:
+        ms_path = os.path.join(local_app, "Packages")
+        if os.path.isdir(ms_path):
+            for d in os.listdir(ms_path):
+                if "civilization" in d.lower() or "firaxis" in d.lower():
+                    candidate = os.path.join(ms_path, d, "LocalCache", "Local")
+                    if os.path.isdir(candidate):
+                        return candidate
+
+    # 5) Yaygın manuel kurulum yolları
+    for drv in "CDEFG":
+        for p in (
+            f"{drv}:\\Games\\Civilization VII",
+            f"{drv}:\\Games\\Sid Meier's Civilization VII",
+            f"{drv}:\\Program Files\\Civilization VII",
+            f"{drv}:\\Program Files (x86)\\Civilization VII",
+            f"{drv}:\\Program Files\\2K Games\\Civilization VII",
+        ):
+            if os.path.isdir(p):
+                return p
 
     return None
 
