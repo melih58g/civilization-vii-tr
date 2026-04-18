@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA1" Language="tr_TR">
+      <Text>Nineveh</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA10" Language="tr_TR">
+      <Text>Nuhadra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA11" Language="tr_TR">
+      <Text>Arbi-Ilu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA12" Language="tr_TR">
+      <Text>Khilakku</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA13" Language="tr_TR">
+      <Text>Huzirina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA14" Language="tr_TR">
+      <Text>Kaneš</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA15" Language="tr_TR">
+      <Text>Mardama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA16" Language="tr_TR">
+      <Text>Šinahuttum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA17" Language="tr_TR">
+      <Text>Mansuate</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA18" Language="tr_TR">
+      <Text>Rapiqu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA19" Language="tr_TR">
+      <Text>Shareisha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA2" Language="tr_TR">
+      <Text>Kalhu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA20" Language="tr_TR">
+      <Text>Kahat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA21" Language="tr_TR">
+      <Text>Sittake</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA22" Language="tr_TR">
+      <Text>Kar-Šulmānu-Ašarēdu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA23" Language="tr_TR">
+      <Text>Hadātu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA24" Language="tr_TR">
+      <Text>Tušhan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA25" Language="tr_TR">
+      <Text>Kar-Sipar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA26" Language="tr_TR">
+      <Text>Hana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA27" Language="tr_TR">
+      <Text>Mari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA28" Language="tr_TR">
+      <Text>Kiššaššu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA29" Language="tr_TR">
+      <Text>Arinnu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA3" Language="tr_TR">
+      <Text>Aššur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA30" Language="tr_TR">
+      <Text>Sam'al</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA4" Language="tr_TR">
+      <Text>Arrapkha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA5" Language="tr_TR">
+      <Text>Karkemiš</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA6" Language="tr_TR">
+      <Text>Dur-Katlimmu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA7" Language="tr_TR">
+      <Text>Kar-Tukulti-Ninurta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA8" Language="tr_TR">
+      <Text>Imgur-Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ASSYRIA9" Language="tr_TR">
+      <Text>Amida</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_1" Language="tr_TR">
+      <Text>Šadditu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_10" Language="tr_TR">
+      <Text>Muballitat-Sherua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_2" Language="tr_TR">
+      <Text>Libbāli-šarrat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_3" Language="tr_TR">
+      <Text>Tašmetu-šarrat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_4" Language="tr_TR">
+      <Text>Sammu-rāmat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_5" Language="tr_TR">
+      <Text>Ahat-Abiša</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_6" Language="tr_TR">
+      <Text>Zakûtu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_7" Language="tr_TR">
+      <Text>Šeruʾa-eṭirat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_8" Language="tr_TR">
+      <Text>Ešarra-ḫammat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_FEMALE_9" Language="tr_TR">
+      <Text>Ra'īmâ</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_1" Language="tr_TR">
+      <Text>Arda-Mulišši</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_10" Language="tr_TR">
+      <Text>Aššur-etil-ilāni</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_2" Language="tr_TR">
+      <Text>Sîn-ahu-usur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_3" Language="tr_TR">
+      <Text>Mutakkil-Nusku</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_4" Language="tr_TR">
+      <Text>Tukultī-Ninurta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_5" Language="tr_TR">
+      <Text>Aššur-rabi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_6" Language="tr_TR">
+      <Text>Šamši-ilu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_7" Language="tr_TR">
+      <Text>Adad-nīrārī</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_8" Language="tr_TR">
+      <Text>Sîn-nadin-apli</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ASSYRIA_MALE_9" Language="tr_TR">
+      <Text>Aššur-dān</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ASSYRIA_ADJECTIVE" Language="tr_TR">
+      <Text>Assyrian</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ASSYRIA_FULLNAME" Language="tr_TR">
+      <Text>Asur İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ASSYRIA_NAME" Language="tr_TR">
+      <Text>Assyria</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_35_MAJOR_ASSYRIA_NAME" Language="tr_TR">
+      <Text>Waššukanni</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_ANTIQUITY_35_MINOR_ASSYRIA_NAME" Language="tr_TR">
+      <Text>Mitanni</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_CITADEL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Asur İmparatorluğu'nun gücü, tarihte daha önce görülmemiş bir ölçekte gerçekleşen merkezileşmesinde yatıyordu. Yönetim sistemi, sözü kanun olan tek bir krala dayanıyordu – en güçlü valilere bile gönderilen kraliyet taleplerinin, istenen tarihte yerine getirilmemesi halinde valinin ve belki de ailesinin ölüm tehdidiyle sonuçlanması olağandışı bir durum değildi. Bu tür sıkı kontrol, iletişim altyapısı, yüksek eğitimli bir daimi ordu, nüfus yer değiştirme yoluyla muhalefetin dağıtılması ve eyalet otoritesinin dağıtımı gibi çeşitli organizasyon faktörleri sayesinde mümkün olmuştu. Ancak bunların hepsi, başkentin kalbindeki kralın kalesinden yönetilen merkezden kaynaklanıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_ROYAL_LIBRARY_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Yeni Asur kralı Ashurbanipal, savaştaki acımasızlığıyla tanınır; ancak aynı zamanda edebiyatın toplanması ve korunmasına da büyük önem vermiştir. Eski Mezopotamya dilleri çivi yazısı ile yazılırdı ve karakterler kamış kalemle kil tabletlere kazınırdı. Kabartmalarında genellikle bir kalemle tasvir edilen Ashurbanipal, bu tabletleri sarayında topladı ve komşu krallıklara daha fazlasını istemek için talepler gönderdi. Günümüze ulaşan eserler arasında en ünlüsü Gılgamış Destanı olmakla birlikte, mektuplar, siyasi belgeler, tıp el kitapları, dini ritüeller için talimatlar ve daha fazlası da bulunmaktadır; bunların tümü, Asurluların kendi sesleri aracılığıyla Asur'un iç işleyişine dair bir fikir vermektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_ROYAL_LIBRARY_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Günümüzde Asurbanipal Kraliyet Kütüphanesi olarak adlandırılan 30.000'den fazla tabletten oluşan koleksiyon, ilk olarak 19. yüzyılda keşfedilmiştir. Tabletler, Ninova'da ortaya çıkarılan miktarda olmasa da, başka saraylarda da bulunmuş ve bu da başka kraliyet kütüphanelerinin varlığını göstermektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Aşur, bir tanrı, bir ülke ve bir şehir; hepsi bir arada – "Asur" adı, "mat Aşur"un, yani "Aşur'un [the god-city of] ülkesi"nin Yunanca versiyonudur. Antik dünyanın en önemli ve ileri görüşlü imparatorluklarından biriydi. Yayılımı, (daha sonra Pers olacak) ve (zaten var olan) Mısır'daki kısa süreli fetihler de dahil olmak üzere Mezopotamya'ya kadar uzanıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_10" Language="tr_TR">
+      <Text>Yeniden yerleşim de Asur'un fetihleri için hayati öneme sahipti ve kültürel değişimin tohumlarını attı. Aramice konuşanlar imparatorluğun dört bir yanına yerleştirildikçe, Aramice yeni bir ortak dil haline geldi; imparatorluk yok olduğunda da varlığını sürdürecek bir dil.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_11" Language="tr_TR">
+      <Text>Asur, Ashurbanipal'ın hükümdarlığından kısa bir süre sonra çöktü, ancak bunun kesin nedenleri belirsizdir – işaretler hem çevresel hem de sosyal çöküşe işaret etmektedir ve küllerinden yeni bir Babil yükseldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Başlangıç olarak Sümer tarihine bakmalıyız. Sümerler, muhtemelen Hint yarımadasından gelen ve şehirlerin doğuşunda ortaya çıkan oldukça gizemli bir halktı. Bugün Irak olarak bilinen bölgede en eski şehirlerden bazılarını inşa ettiler. Zamanla, Sargon önderliğindeki Akadlılar isyan etti ve eski Sümer toprakları üzerinde bir imparatorluk kurdu, ancak MÖ 2150 civarında zayıflayıp çöktü. Bu çöküşü izleyen yüzyıllar karanlıktı; şehir devletleri (Aşur dahil) üstünlük için savaşıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Asur iki kez yükselişe geçecekti: ilki MÖ 1300'lerin ortalarında, ikincisi ise MÖ 900 civarında (referans olarak, bu tarih Mısır'dan daha geç, ancak Yunanistan'dan çok daha eskidir; Çin'de Şang hanedanlığının sonları ve Zhou hanedanlığının yükselişine denk gelir). Burada, daha sonraki Yeni Asur İmparatorluğu'na odaklanacağız.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Sargon II, Sennacherib, Ashurbanipal ve diğer Asur krallarının isimleri haklı bir nedenden ötürü efsanevidir – bunlar, bölgedeki gücün anlamını genişleten hükümdarlardı. Bu başarı kısmen ekonomide yapılan birkaç yenilikçi denemeye borçluydu – Asur erken dönemde bir tür serbest ticareti benimsemişti (buna karşılık Sümer'de ticaret tapınaklar aracılığıyla yönetiliyordu), ancak en önemlisi daimi bir ordunun kurulmasıydı. Şunu bir düşünün: Askerler artık hasat zamanı tarlalarına dönmeyi düşünmek zorunda değildi… yani düşman tarlalarının dışında oturup rakiplerinin yorulmasını bekleyebiliyorlardı. Dahası, Asurlular mühendislerdi; orduda, antik surları kısa sürede yıkmak için kuşatma silahları, devasa rampalar veya diğer makineler inşa edebilen özel bir mühendislik birliği vardı. Son olarak, Asurlular bir Demir Çağı imparatorluğuydu – demir, bronzdan daha zayıftır (çelik içeriğine bağlı olarak), ancak seri üretilebilir (ve ticaretin dalgalanmalarına karşı savunmasız değildir; eski Asur İmparatorluğu, Geç Bronz Çağı çöküşünün yol açtığı bazı aksaklıkların kurbanı olmuştu). Savaş botu gibi küçük yenilikler bile Asur'dan gelmektedir – kısacası, Asur ordusu bir savaş makinesiydi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Ve bu korkunçtu. Asur kayıtları, önlerine çıkanlara uygulanan dehşeti anlatmaktan özel bir zevk alır – derilerinin yüzülmesi, katliamlar ve kendilerine direnen şehirlerin tamamen yıkılması. Sennacherib’in Yahuda’yı fethi Eski Ahit’e girmiştir – Yahuda Mısır’ın desteğiyle isyan edince, Sennacherib acımasızca karşılık vermiş, tüm nüfusu ortadan kaldırmış ve liderleri işkenceyle öldürmüştür. Esirler Babil'e götürülürken, kayıtlara göre Asur orduları onları neşe şarkıları söylemeye zorladı. İncil'deki anlatıma göre, ardından gelen Kudüs kuşatmasında, işgalci Asurluların üzerine ilahi intikam indi; ancak işgalcilerin geri çekilmesine neden olan şey, sadece Babil'in isyan ettiği haberleri olabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Sennacherib'in ülkesindeki bahçeleri ünlüydü; bu bahçeler, muhtemelen "asma bahçeler"e ilham kaynağı olan hidrolik mühendislik harikalarıydı. Bu da yine güçle ilgiliydi – Asur bahçeleri, fetihlerin modelleriydi; peyzaj, fethedilen topraklarınkini yansıtacak şekilde şekillendirilmiş ve bitki örtüsü seçilmişti. Kişi "evinde" Lübnan sedirlerinin arasında yürüyebilir ve bu toprakların boyun eğdirilmesinin anısını keyifle yaşayabilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Ashurbanipal, Asur krallığının en üst düzey kralıydı – bu, "en büyük" (tartışmalı olarak) anlamına geliyordu, ama aynı zamanda son kraldı (neredeyse). Babası, krallığı iki oğlu için Ashur ve Babil arasında bölmüştü, ancak Ashurbanipal'ın kardeşi (Babil kısmını alan) bunun yerine Elamlılarla ittifak kurup her şeyi ele geçirmeyi amaçladı. Bu plan iyi sonuçlanmadı – Ashurbanipal hem kardeşini hem de Elam'ı yok etti (ayrıca Mısır'ı da fethetti). Fetihleri, suda yüzen cesetlerin resimleriyle tamamlanan kabartmalarda tasvir edildi. Zalimliği de aslan avı kabartmalarında tasvir edildi; bu o kadar acımasız bir başarıydı ki, sanatçı hayvanları en şiddetli acı çekme anlarında oydu ve gururlu fatih kralın imajını tersine çevirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Ancak Asurbanipal sadece bir fatih değildi – okuryazardı ve kütüphanesi onun gurur kaynağıydı. Kendi döneminin bilgisini korumak için, her tür ve türden bulabildiği tüm metinleri topladı. Koleksiyonundaki on binlerce kil tablet, Ninova harabelerinde günümüze ulaşmıştır. Nitekim, Gılgamış Destanı’nı bulduğumuz yer de onun kütüphanesidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ASSYRIA_CHAPTER_HISTORY_PARA_9" Language="tr_TR">
+      <Text>Asur toplumu çok dilli bir toplumdu; Akadca ve Sümerce çeşitli biçimlerde mevcuttu. Her şehrin kendi koruyucu tanrısı vardı ve savaşın sadece krallar arasında değil, bu tanrılar arasında da yürütüldüğü düşünülüyordu. Bir şehir ele geçirildiğinde, koruyucu tanrısını (örneğin Babil'in Marduk'u) teslim ederdi ve fatih tanrı, fethedilenleri bir tür ritüel aşağılama işlemine tabi tutabilir ya da o tanrıyı panteonun daha alt düzey bir üyesi olarak bünyesine katabilirdi. Vasallar da kalabilir ya da kendilerini Asur soylularının yerine geçmiş bulabilirlerdi – bu da fethedilen halklar arasında kin doğmasına neden olurdu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ASSYRIA_BIRTUTU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Asur ordusu, dünyadaki en etkili askeri güçtü ve kuşatma savaşında son derece yetenekliydi. Fetihleri, iyi eğitilmiş birlikleri ve verimli taktiklerinin yanı sıra kuşatma silahları, toprak rampalar ve psikolojik savaşın kullanımıyla gerçekleşti. Bu nedenle Asurlular, kendi surlu şehirlerini (birtūtu) inşa etme konusunda oldukça bilgiliydi. Kuleler ve kalın mazgallı surların birleşimi içeridekilere koruma sağlarken, hendekler ve rampalar yukarıdan etkili bir şekilde savunulabilirdi. Bir kalenin her zaman en zayıf noktaları olan kapılar, sadece fiziksel olarak sağlam olmakla kalmaz, aynı zamanda işgalcileri ve ziyaretçileri caydırmak için mitolojik yaratıklar ve savaş sahneleriyle zengin bir şekilde süslenmişti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ASSYRIA_KIBRAT_ARBA_I_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Eski Mezopotamya hükümdarlarının kraliyet yazıtları genellikle unvanların bir listesiyle başlar ve Yeni Asur kralları arasında en güçlü olanlardan biri "dört bölgenin kralı"dır. Dört bölge, "kibrāt arba’i", ana yönlerle uyumlu eski coğrafi konumları (Sümer, Martu, Elam ve Subartu) ifade eder, ancak ima edilen anlam "tüm dünya"dır.  Bu unvan her kral tarafından kullanılmaz; askeri seferlerin yokluğuyla birlikte kullanımı azalır, bu nedenle bu unvanı almak için belirli askeri başarılar gerekmiş olabilir. Bu unvanın gücü Asurluların kendilerinden daha uzun ömürlüdür; bu unvanı kullanan son hükümdar Büyük Kiros'tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ASSYRIA_TUPSARRUTU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Asur İmparatorluğu’nda, yazman olmak isteyen çocuklar için eğitim erken yaşlarda başlardı. 12 yıl boyunca, erkek ve kız çocuklar çivi yazısı konusunda sıkı bir eğitimden geçiyordu; ayrıca tarih ve dinden tıp ve tarıma kadar çeşitli konuları da inceliyorlardı. Bu tür bir yazmanlık eğitimi – tupšarrūtu – öğrenciler için yoğun ve zorluydu. Ancak mezun olduklarında, becerileri nedeniyle çok rağbet görüyorlardı ve yazmanlar, doktorlar, astronomlar, müzisyenler ve mimarlar dahil olmak üzere okuryazarlık ve eğitim gerektiren her türlü pozisyona uygun hale geliyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_EKALLU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Asur ekallu'su, yani saray, hem kraliyet ikametgahı hem de siyasi işlev için bir kompleksti. Bunlar, kamusal ve özel alanlar arasında denge kuran heybetli merkezlerdi; ziyaretçiler için kabul salonları ve taht odası, memurlar için idari ofisler ile kral ve ailesi için bahçeler ve konutlar içeriyordu. Binalar, her mekanın hedef kitlesine göre zengin bir şekilde dekore edilmişti. Aslanlar ve insan-hayvan melezleri gibi yaratıkların heykelleri kapıların ve girişlerin iki yanını süslerken, duvarları ise boyalı kabartmalar süslüyordu. Diplomatik mekanlarda, saray sahneleri ve aslan avları gibi kraliyet temalı motifler kullanılırken, özel mekanlarda ise mitolojik veya dini sahneler ön plana çıkıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_MAGARRU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>"Magarru", Yeni Asur ordusunun önemli bir silahı olan savaş arabası anlamına gelir. Atlar, en azından Akad İmparatorluğu döneminden beri Mezopotamya'da kullanılsa da, eyer, üzengi ve diğer ekipmanların eksikliği, savaşta etkili bir şekilde binilmesini zorlaştırıyordu. Atlar, savaş arabalarına koşuldığında daha kolay kontrol edilebiliyordu. Bu araçlar küçük ve hafifti, iki tekerleğe sahipti ve sürücü ile okçu olmak üzere iki yolcu taşıyordu. Atlar doğal olarak asker saflarına hücum etmekten hoşlanmadıkları için, düşman kaçmaya başlayana veya kaçmaya yaklaşana kadar saklanıyorlardı; ardından savaş arabaları, okçuyu avına hızla ulaştırmak için devreye sokuluyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_MAGARRU_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Savaş arabalarının dezavantajı, üretim maliyetlerinin yüksek olmasıydı; bu nedenle savaş alanında kullanılması mali bir risk oluşturuyordu. Ancak MÖ 8. yüzyılda Sargon II’nin hükümdarlığı döneminde at teçhizatı ve binicilik becerileri gelişmeye başladı ve kısa sürede süvariler, ordunun hareketli birliği olarak savaş arabalarının yerini aldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_TURTANU_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bir turtānu, savaş zamanlarında kralın yerine Asur ordusuna komuta eden yüksek rütbeli bir askeri yetkiliydi. Bu, hükümdarın konumundan sonra gelen, son derece güçlü bir pozisyondu. MÖ 8. yüzyılın bir noktasında, bu pozisyon ikiye bölünmüş gibi görünüyor; biri "sağ" için, diğeri "sol" için bir turtānu, muhtemelen kral dışında tek bir kişinin elinde bulunan gücü azaltmak amacıyla. Zamanla görevleri, tamamen askeri olmaktan çıkıp bölgesel toprakların sivil yönetimini de içerecek şekilde değişmiştir.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CITADEL_NAME" Language="tr_TR">
+      <Text>Citadel</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_LIBRARY_NAME" Language="tr_TR">
+      <Text>Kraliyet Kütüphanesi</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_EKALLU_NAME" Language="tr_TR">
+      <Text>Ekallu</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BALIKH_RIVER_NAME" Language="tr_TR">
+      <Text>Balikh Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BATMAN_RIVER_NAME" Language="tr_TR">
+      <Text>Batman Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_DIYALA_RIVER_NAME" Language="tr_TR">
+      <Text>Diyala Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_KHABUR_RIVER_NAME" Language="tr_TR">
+      <Text>Khabur Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SAJUR_RIVER_NAME" Language="tr_TR">
+      <Text>Sajur Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_GIREKOL_NAME" Language="tr_TR">
+      <Text>Girekol</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_HASANDAGI_NAME" Language="tr_TR">
+      <Text>Hasandağı</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KARACA_DAG_NAME" Language="tr_TR">
+      <Text>Karaca Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KAUKAB_NAME" Language="tr_TR">
+      <Text>Kaukab</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MOUNT_ARARAT_NAME" Language="tr_TR">
+      <Text>Ararat Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_BIRTUTU_NAME" Language="tr_TR">
+      <Text>Birtūtu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KIBRAT_ARBA_I_NAME" Language="tr_TR">
+      <Text>Kibrāt Arba’i</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TUPSARRUTU_NAME" Language="tr_TR">
+      <Text>Tupšarrūtu</Text>
+    </Replace>
+    <Replace Tag="LOC_11071A_COMPLETION" Language="tr_TR">
+      <Text>Asur habercileri, šar kibrāt arba’i – dünyanın dört bir yanının efendileri – olarak yönetme haklarını ilan ederler. Ancak bunun anlamı yoruma açıktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11071A_STORYTITLE" Language="tr_TR">
+      <Text>Dört Köşe</Text>
+    </Replace>
+    <Replace Tag="LOC_11071B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11071B_NAME" Language="tr_TR">
+      <Text>Bu kelimenin tam anlamıyla. Fetih için çabala.</Text>
+    </Replace>
+    <Replace Tag="LOC_11071C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11071C_NAME" Language="tr_TR">
+      <Text>Bu mecazidir. Bilgiye ulaşmak için çabalamak.</Text>
+    </Replace>
+    <Replace Tag="LOC_11072A_COMPLETION" Language="tr_TR">
+      <Text>Bir dükkan sahibi, rahiplerin gözetiminde güvenli bir şekilde saklanan mallarına ulaşmak için tapınaktaki kalabalığın arasından sıkışarak ilerler. Etrafını saran diğer tüccarlar, işlemlerinin kaydedilmesini isteyen hizmetçilerin ellerine paralar sıkıştırır. Burada, ruhani ve mali meseleler tek bir yerde halledilebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11072A_STORYTITLE" Language="tr_TR">
+      <Text>Ticaret Tapınağı</Text>
+    </Replace>
+    <Replace Tag="LOC_11072B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11072B_NAME" Language="tr_TR">
+      <Text>Altar depolarını genişletin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11072C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11072C_NAME" Language="tr_TR">
+      <Text>Rahipler kendi ticaret girişimlerini finanse etmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11073A_COMPLETION" Language="tr_TR">
+      <Text>Asurlu istihkamcılar, çekiç ve kazmalarla duvardan tuğlaları sökerek savaş makinelerine yardım eder. Toz dindiğinde, hem makine ekipleri hem de komutanları duvarın yıkılmasından kendilerine pay çıkarmaya çalışır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11073A_STORYTITLE" Language="tr_TR">
+      <Text>Kuşatma ve Fetih</Text>
+    </Replace>
+    <Replace Tag="LOC_11073B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kuşatma Birimleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_11073B_NAME" Language="tr_TR">
+      <Text>Bu, Asur mühendisliğinin bir sonucudur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11073C_DESCRIPTION" Language="tr_TR">
+      <Text>Mevcut Komutanlara{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11073C_NAME" Language="tr_TR">
+      <Text>Bu, Asur komutanları için bir ders olsun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11074A_COMPLETION" Language="tr_TR">
+      <Text>Tanrı Aşur'a adak sunma töreni, yeni fethedilen şehirde başlar ve sığır ve tahıl hediyeleriyle sunak önüne uzanan kederli kuyruklar oluşur. Eski inancın bir rahibi, Asurlu bir komutanın gözleri önünde, bu yeni ilahi düzeni tanımayı reddederek geride kalır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11074A_STORYTITLE" Language="tr_TR">
+      <Text>Ashur'un Beslenmesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11074B_DESCRIPTION" Language="tr_TR">
+      <Text>Ek bir Panteon seçin, ancak tüm Yerleşim Yerlerinde {1_reward} elde edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11074B_NAME" Language="tr_TR">
+      <Text>Rahibi görmezden gelin. Merhamet zamanı geldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11074C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak tüm Yerleşim Yerlerinde {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11074C_NAME" Language="tr_TR">
+      <Text>Silahlarınızı çekin. Teslimiyet mutlak olmalıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11075A_COMPLETION" Language="tr_TR">
+      <Text>Ordu askerleri ahırlarda uyur, komutanlar ise açık havada toplantı yapar. Asker sayısı çok fazla, kalacak yer ise çok azdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11075A_STORYTITLE" Language="tr_TR">
+      <Text>Aşur'un Ordusu</Text>
+    </Replace>
+    <Replace Tag="LOC_11075B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11075B_NAME" Language="tr_TR">
+      <Text>Mevcut kaleleri genişletin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11075C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11075C_NAME" Language="tr_TR">
+      <Text>Bir askerin hayatı zordur. Uyum sağlamaları gerekir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11076A_COMPLETION" Language="tr_TR">
+      <Text>Komutan ayrıldığında kimse konuşmaz. Yükselen dalga Ashur'u ve tüm ihtişamını boğmaya hazır gibi göründüğünde sözlerin pek bir anlamı kalmaz. Son yenilginin haberi yakında Asur halkının geri kalanına da ulaşacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11076A_STORYTITLE" Language="tr_TR">
+      <Text>Düşüş</Text>
+    </Replace>
+    <Replace Tag="LOC_11076B_DESCRIPTION" Language="tr_TR">
+      <Text>Bir kutlamaya katıl.</Text>
+    </Replace>
+    <Replace Tag="LOC_11076B_NAME" Language="tr_TR">
+      <Text>Umudu yeniden alevlendirin. Durum henüz tersine dönebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11076C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Askeri Birimler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11076C_NAME" Language="tr_TR">
+      <Text>Daha fazla asker yetiştirin. Durum henüz tersine dönebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077A_COMPLETION" Language="tr_TR">
+      <Text>Genç bir kadın, yumuşak kile adını yazmayı deniyor. Okunaklı olmasa da, bu yazı, daha iyi bir hayat arayışında kendini geçici bir sözleşmeye bağlayacak mühür görevi görecek. Kölelik dolu bir hayat, ama yiyecek, giyecek ve sıcaklıkla dolu.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077A_STORYTITLE" Language="tr_TR">
+      <Text>Araç Olarak Vücut</Text>
+    </Replace>
+    <Replace Tag="LOC_11077B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Üretim Binalarında.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077B_NAME" Language="tr_TR">
+      <Text>Orduda hizmet edin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077C_NAME" Language="tr_TR">
+      <Text>Tapınakta çalışın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077D_DESCRIPTION" Language="tr_TR">
+      <Text>Gıda Binalarında{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11077D_NAME" Language="tr_TR">
+      <Text>Tableti yok et ve eve dön. Kölelik bir seçenek değildir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078A_COMPLETION" Language="tr_TR">
+      <Text>Kütüphane yükselir, ihtişamı içindeki yazılarda barındırılan dünyaların yanında sönük kalır. Ama çok fazla boş raf vardır, kile kazınacak daha fazla rüya için çok fazla boşluk vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078A_STORYTITLE" Language="tr_TR">
+      <Text>Kraliyet Kütüphanesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11078B_COMPLETION" Language="tr_TR">
+      <Text>Kütüphaneci eseri onur koltuğuna yerleştirir. Küçük bir bez alır ve küçük bir lekeyi siler. Mürekkep olabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078B_DESCRIPTION" Language="tr_TR">
+      <Text>+1 Ek Kodeks.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078B_IMPERATIVE" Language="tr_TR">
+      <Text>Bir yerleşim yerini ele geçir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078B_NAME" Language="tr_TR">
+      <Text>Her yerdeki tüm metinler Asur'a aittir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078B_STORYTITLE" Language="tr_TR">
+      <Text>Kraliyet Kütüphanesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11078C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11078C_NAME" Language="tr_TR">
+      <Text>Bu boş alanın bir kısmını yerel tüccarlar için kullanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11079A_COMPLETION" Language="tr_TR">
+      <Text>Arena aslan avı resimleriyle süslenmiştir ve kalabalık da aslanları izlemeye gelmiştir. Aslan serbest bırakıldığında kalabalık sevinçle kükreder. Ancak gösteri sona erdiğinde, yaralı hayvanın kederli ulumaları sempati dolu mırıldanmalara neden olur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11079A_STORYTITLE" Language="tr_TR">
+      <Text>En Önemli Olay</Text>
+    </Replace>
+    <Replace Tag="LOC_11079B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11079B_NAME" Language="tr_TR">
+      <Text>Aslanları bağışlayın. Askerler dövüşsün.</Text>
+    </Replace>
+    <Replace Tag="LOC_11079C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11079C_NAME" Language="tr_TR">
+      <Text>Canavarları öldürün!</Text>
+    </Replace>
+    <Replace Tag="LOC_11080A_COMPLETION" Language="tr_TR">
+      <Text>Yakalanan bir düşman komutanı, Asurlu askerler bir savaş arabası getirirken diz çökmeye zorlanır. Savaş alanında yaşanan aşağılanmanın ardından, biraz daha gösteri yapılması gerekir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11080A_STORYTITLE" Language="tr_TR">
+      <Text>En Büyük Hakaret</Text>
+    </Replace>
+    <Replace Tag="LOC_11080B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11080B_NAME" Language="tr_TR">
+      <Text>Esir, savaş arabasını şehir boyunca çekecek!</Text>
+    </Replace>
+    <Replace Tag="LOC_11080C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11080C_NAME" Language="tr_TR">
+      <Text>Esir, gerçek bir at gibi kişneyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_12010A_COMPLETION" Language="tr_TR">
+      <Text>Dr. Rizal, Asur garnizonunun duvarının arkasında tepesi zar zor görünen devasa bir kuşatma kulesine bakıyor ve omurgasından bir ürperti geçiyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_12010A_STORYTITLE" Language="tr_TR">
+      <Text>Kralların Ülkesindeki İyi Doktor</Text>
+    </Replace>
+    <Replace Tag="LOC_12010B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Savaşçılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_12010B_NAME" Language="tr_TR">
+      <Text>Atlattığı savaşlar...</Text>
+    </Replace>
+    <Replace Tag="LOC_12010C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12010C_NAME" Language="tr_TR">
+      <Text>Onun acımasız zarafeti...</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MAGARRU_DESCRIPTION" Language="tr_TR">
+      <Text>Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TURTANU_COMBAT_DESCRIPTION" Language="tr_TR">
+      <Text>+5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Tahkimatlı Bölgelere[/TIP] karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TURTANU_DESCRIPTION" Language="tr_TR">
+      <Text>[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari birimleri[/TIP] [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içindeki [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CITADEL_DESCRIPTION" Language="tr_TR">
+      <Text>Asur [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Özel Üretim ve Tahkimat Binası[/TIP]. +3 [icon:YIELD_PRODUCTION] Üretim. [icon:CITY_UNIMPROVED] üzerine yerleştirildiğinde +2 [icon:YIELD_PRODUCTION] Mutluluk [TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]Düz Araziye[/TIP] yerleştirilirse +2 [icon:YIELD_HAPPINESS] Mutluluk. [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalara[/TIP] bitişiklik için +1 [icon:YIELD_PRODUCTION] Üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_CITADEL_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:YIELD_HAPPINESS] [icon:CITY_UNIMPROVED] üzerine yerleştirildiğinde [TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]Düz Arazi[/TIP].[N][B]Etki:[/B] [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Müstahkem Bölge[/TIP] gibi davranır.[N]Asur [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_LIBRARY_DESCRIPTION" Language="tr_TR">
+      <Text>Asur [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bilim Binası[/TIP]. +3 [icon:YIELD_SCIENCE] Bilim. 2 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeks[/TIP] yuvası vardır. Nehirler ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için +1 [icon:YIELD_SCIENCE] Bilim Komşuluğu.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ROYAL_LIBRARY_TOOLTIP" Language="tr_TR">
+      <Text>[B]Etki:[/B] 2 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeks[/TIP] yuvası vardır.[n]Asur [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bilim Binası[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_BIRTUTU_AUTHOR" Language="tr_TR">
+      <Text>Sargon II</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_BIRTUTU_QUOTE" Language="tr_TR">
+      <Text>"Şehrin surlarını dağlar kadar sağlam yaptım ve ellerimle fethettiğim topraklardaki halkları oraya yerleştirdim."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KIBRAT_ARBA_I_AUTHOR" Language="tr_TR">
+      <Text>Sennacherib</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_KIBRAT_ARBA_I_QUOTE" Language="tr_TR">
+      <Text>"Ordularımı dünyanın bir ucundan diğer ucuna götürdüm ve dört bir yanın tüm prenslerini boyun eğdirdim."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TUPSARRUTU_AUTHOR" Language="tr_TR">
+      <Text>Ashurbanipal</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_TUPSARRUTU_QUOTE" Language="tr_TR">
+      <Text>"Ey Ashur, sen eski geçmişten uzak geleceğe kadar tüm bilgiyi elinde tutuyorsun."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ASSYRIA_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:RADIAL_TECH] [TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]Teknoloji[/TIP]'yi ilk kez ele geçirdiğinizde [icon:RADIAL_TECH] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'i ele geçirin.[icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeksler[/TIP], [TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]Teknolojiler[/TIP]'den kazanılmaz. [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeksler[/TIP] üretebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_INTRO_ASSYRIA" Language="tr_TR">
+      <Text>Halk, çalışıp refah içinde yaşayacakları bu merkez topraklara çağrılıyor. Ve Ashur'un takdiriyle adları Asur olacak.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_ASSYRIA" Language="tr_TR">
+      <Text>Asur savaş makinesi titreyerek harekete geçerken, kuşatma kuleleri gürlüyor ve demir kılıçlar biliniyor. Aşur’un dikkatli gözetiminde, güneşin kavurduğu topraklar üzerinde yeni bir düzen ortaya çıkıyor: planlı şehirler, yetenekli mühendisler ve durdurulamaz bir asker yürüyüşü. Dünyaya yayılın ve hiçbir rakibe müsamaha göstermeyin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_ASSYRIA" Language="tr_TR">
+      <Text>Teknoloji Ustalıkları Asur Kodeksleri sağlamayabilir, ancak Birtūtu Sivil Yetkisiyle Kültür kazandırır. Bunun yerine, fethettiğiniz Yerleşim Yerlerinden Kodeksler elde etmek için Tupšarrūtu Sivil Yetkisini hızlıca açın!</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ASSYRIA_COMPLETE_DUR_SHARRUKIN_DESC" Language="tr_TR">
+      <Text>Asur olarak, Dur-Sharrukin'i tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ASSYRIA_COMPLETE_DUR_SHARRUKIN_NAME" Language="tr_TR">
+      <Text>Dur-Sharrukin</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ASSYRIA_LEGACY_PATH_SCIENTIFIC_DESC" Language="tr_TR">
+      <Text>Asur olarak, Bilimsel Miras Yolunu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_ASSYRIA_LEGACY_PATH_SCIENTIFIC_NAME" Language="tr_TR">
+      <Text>Asur Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_BIRTUTU_COMBAT_DEFENDING_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'ne +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]Askeri Birimlere[/TIP] karşı savunma yaparken [TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]Menzilli Birimler[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_BIRTUTU_TECH_MASTERY_CULTURE_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:NOTIFICATION_SELECT_CAPITAL] Başkent, her [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]Teknoloji Ustalığı[/TIP] için 2 [icon:YIELD_CULTURE] Kültür alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_ASSYRIA_DESCRIPTION" Language="tr_TR">
+      <Text>Asur'un ilişkili [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikası[/TIP] olması nedeniyle +30% [icon:YIELD_PRODUCTION] Üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KIBRAT_ARBA_I_CAPTURE_SCIENCE_DESCRIPTION" Language="tr_TR">
+      <Text>+20% [icon:YIELD_SCIENCE] Sizin tarafınızdan kurulmamış [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]Şehirler[/TIP]'de Bilim.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KIBRAT_ARBA_I_COMBAT_MAGARRU_DESCRIPTION" Language="tr_TR">
+      <Text>Magarru'ya [icon:UNIT_MAGARRU] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] +5 [icon:NAR_REW_COMBAT] [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içindeyse.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TUPSARRUTU_GREATWORK_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeks[/TIP] kazanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_TUPSARRUTU_HAPPINNESS_SCIENCE_BUILDING_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_HAPPINESS] Bilim [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] üzerinde +2 [icon:YIELD_HAPPINESS] Mutluluk.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_EKALLU_DESCRIPTION" Language="tr_TR">
+      <Text>Asur [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Eşsiz Mahalle[/TIP]. Aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde Kraliyet Kütüphanesi ve Kale inşa edilerek oluşturulur. Her [icon:YIELD_PRODUCTION] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eser[/TIP] için +2 [icon:YIELD_PRODUCTION] Üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_EKALLU_TOOLTIP" Language="tr_TR">
+      <Text>+2 [icon:YIELD_PRODUCTION] Bu [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Büyük Eser[/TIP]'de sergilenen her [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP] için üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DURANI_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_SCIENCE] Bilim [icon:Action_Fortify] Tahkimat [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] üzerinde +1.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_GIRRU_DESCRIPTION" Language="tr_TR">
+      <Text>Sizin tarafınızdan kurulmamış [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim Yerleri[/TIP]'nde +3 [icon:YIELD_PRODUCTION] Üretim ve [icon:YIELD_FOOD] Gıda.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MIHISTU_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_PRODUCTION] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] inşa etmek için %25 [icon:YIELD_PRODUCTION]Üretim maliyeti.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_ASSYRIA_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Bir [icon:RADIAL_TECH] [TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]Teknoloji[/TIP]'yi, bir [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP]'i ilk kez ele geçirdiğinizde kazanın.[LI][icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeksler[/TIP], [TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]Teknolojiler[/TIP]'den kazanılmaz. [LI][icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]Kodeksler[/TIP] üretebilir.[LI]Dur-Sharrukin'in inşası için %30[icon:YIELD_PRODUCTION] üretim artışı.[/BLIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_ASSYRIA_ABILITY_NAME" Language="tr_TR">
+      <Text>Ninova'nın Hazineleri</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_AQ_ASSYRIA_NAME" Language="tr_TR">
+      <Text>Asur Sivil Toplumu</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAGARRU_2_DESCRIPTION" Language="tr_TR">
+      <Text>3. Seviye Asur Özel [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. Ek [icon:Action_Move] Hareket gücüne sahiptir. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAGARRU_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Asur Özel [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. Ek [icon:Action_Move] Hareket kabiliyetine sahiptir. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAGARRU_DESCRIPTION" Language="tr_TR">
+      <Text>2. Seviye Asur Özel [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari Birimi[/TIP]. Ek [icon:Action_Move] Hareket kabiliyetine sahiptir. Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TURTANU_DESCRIPTION" Language="tr_TR">
+      <Text>Asur'a Özgü Ordu Komutanı. [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Piyade[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]Süvari birimleri[/TIP] [icon:COMMANDER_RADIUS] [TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]Komuta Yarıçapı[/TIP] içindeki [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP] kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ASSYRIA_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Asur[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_ASSYRIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Asur[/B], [B]Cengiz Han[/B]'ı stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_ASSYRIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Lakshmibai[/B], [B]Asur[/B] ile aynı kıtadandı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_XERXES_ASSYRIA_TOOLTIP" Language="tr_TR">
+      <Text>[B]Xerxes[/B], bir zamanlar [B]Asur[/B] olan bölgeyi yönetti.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_BIRTUTU_COMBAT_DEFENDING_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Birtūtu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_KIBRAT_ARBA_I_COMBAT_MAGARRU_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Kibrāt Arba’i</Text>
+    </Replace>
+    <Replace Tag="LOC_TURTANU_COMMAND_RADIUS_COMBAT_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Turtanu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_DURANI_NAME" Language="tr_TR">
+      <Text>Dūrāni</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_GIRRU_NAME" Language="tr_TR">
+      <Text>Girru</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MIHISTU_NAME" Language="tr_TR">
+      <Text>Miḫiṣtu</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_1_ACCEPTED_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Dünya, keşfedilmeyi bekleyen sayısız gizem barındırır, ancak bunların çoğu Asur'un düşmanları tarafından bencilce saklanmaktadır. Mütevazı Bilim Danışmanınız olarak, bilginin peşinde hiçbir bedel çok büyük değildir. Kendi gücümüzü öğrenerek başlayalım.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_1_ACCEPTED_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Hedef: [icon:NOTIFICATION_CULTURE_TREE_REVEALED] [b] {LOC_CIVIC_BIRTUTU_NAME} ve {LOC_CIVIC_DISCIPLINE_NAME} 'i inceleyin[/b], bu, [b][icon:NOTIFICATION_TEAM_VICTORIOUS] {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} 'i kurmanın ilk adımıdır [/b][icon:YIELD_SCIENCE] Antik Çağ'ın Bilim Mirası.             [n][n]Unutma: [icon:NOTIFICATION_TEAM_VICTORIOUS] [b]Miraslar [/b]ilerleyen Çağlarda performansını artırır, ancak [b]birini, birkaçını ya da hiçbiri seçmemeyi tercih edebilirsin[/b].</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_1_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Çalışma: [icon:NOTIFICATION_CULTURE_TREE_REVEALED] {LOC_CIVIC_BIRTUTU_NAME} {1_itemComplete}            [n]Çalışma: [icon:NOTIFICATION_CULTURE_TREE_REVEALED] {LOC_CIVIC_DISCIPLINE_NAME} {2_itemComplete}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_2_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Ben bir savaşçı değilim, ancak Asur'un bir aslan sürüsü kadar vahşi olduğu açıktır. Dünyanın sırlarını başkalarının açgözlü ellerinden kurtarmak için en güçlü adamlarımıza ihtiyacımız olacak. Askerlerinizi toplayın ve savaşa hazırlanın.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_2_BODY_ASSYRIA" Language="tr_TR">
+      <Text>[b]Asur[/b] olarak, Kodeksleri yalnızca [b]Yerleşim ele geçirme[/b] yoluyla ve [b]Asur [icon:NOTIFICATION_CULTURE_TREE_REVEALED] Medeniyet Ağacı[/b] üzerinden elde edebilirsiniz. Diğer Medeniyetlerin aksine, bu Miras Yolunda ilerlemek için güçlü bir ordu kurmanız gerekecektir.             [n]Sonraki Hedef: [icon:NOTIFICATION_CULTURE_TREE_REVEALED] [b]{LOC_CIVIC_TUPSARRUTU_NAME}[/b]'yi inceleyin; bu, bir Yerleşim Yerini ele geçirdiğinizde bir [b]Kodeks [/b]elde etmenizi sağlayacaktır. Ardından, bir {1_ArmyCommanderIcon} [b]{2_ArmyCommanderName} birimlerle donatın [/b]ve bir askeri güç oluşturun.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_2_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Araştırma: [icon:NOTIFICATION_CULTURE_TREE_REVEALED] {LOC_CIVIC_TUPSARRUTU_NAME} {1_itemComplete}            [n]Eğitim: {2_UnitsTarget} Askeri Birimler: {3_UnitsCurrent}/{2_UnitsTarget} 			[n]Tam Ordu Topla: {4_PackedCurrent}/{2_UnitsTarget}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_3_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Gerçekten de bir aslan sürüsü. Şimdi, söylediklerimi unutma – bilgiyi elde etmek için hiçbir bedel çok büyük değildir. Düşmanlarımızın yanına git ve hak ettiğimiz ganimeti geri getir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_3_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Sonraki Hedef: [b]Herhangi bir Yerleşim Yerini Ele Geçir[/b] ve [b]Kodeks[/b] oluştur: Antik Çağ'ın Büyük Eseri.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_3_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Herhangi bir Yerleşim Yerini Ele Geçir: {1_CapturedCurrent}/{2_CapturedTarget}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_4_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Savaşın ateşinden, halkımızı ileriye taşıyacak ışık doğar.             [n]Ama bence bu sadece başlangıç. Bilgi için mücadelemizi sürdürün ve onu muhafaza edecek bir yer hazırlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_4_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Kodekslerin [b]sergilenmesi [/b]gerekir ki [icon:NOTIFICATION_TEAM_VICTORIOUS] [b]{LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} [/b][icon:YIELD_SCIENCE] Bilim Mirası Yolu'nda, Asur [icon:BUILDING_ROYAL_LIBRARY] [b]{LOC_BUILDING_ROYAL_LIBRARY_NAME} [/b]herhangi bir Şehirde inşa edilebilir ve Kodekslerinizi [b]sergilemek [/b]için yuvalara sahiptir.  			[n]Sonraki Hedef: Bir [icon:BUILDING_ROYAL_LIBRARY] [b]{LOC_BUILDING_ROYAL_LIBRARY_NAME} [/b]inşa edin, ardından [b]{1_CodexGoalNum} Kodeks[/b] kazanın ve sergileyin.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_4_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>İnşa Et: [icon:BUILDING_ROYAL_LIBRARY] {LOC_BUILDING_ROYAL_LIBRARY_NAME} {1_itemComplete}            [n]Kodeksleri Topla ve Sergile: {2_CodexCurrent}/{3_CodexTarget}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_5_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Assur halkının birikmiş bilgilerini içeren{1_CodexCount} Kodeks artık öğrenim salonlarımızı süslüyor. Hala bizden kaçan sırlar neler?</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_5_BODY_ASSYRIA" Language="tr_TR">
+      <Text>[b]{LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} Miras Yolu[/b]'ndaki ilk [b]Milestone [/b]'u tamamladınız!  			[n]Sonraki Hedef: daha fazla Kodeksi barındıracak ikinci bir [icon:BUILDING_ROYAL_LIBRARY] [b]{LOC_BUILDING_ROYAL_LIBRARY_NAME} [/b]inşa et, ardından [b] {1_CodexGoalNum} Kodeksi sergile[/b]; bu, bu Miras Yolu'ndaki ikinci Kilometre Taşıdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_5_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>İnşa Et: ikinci bir [icon:BUILDING_ROYAL_LIBRARY] {LOC_BUILDING_ROYAL_LIBRARY_NAME} {1_itemComplete}            [n]Kodeksleri Topla ve Sergile: {2_CodexCurrent}/{3_CodexTarget}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_6_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Artık {1_CodexCount} Kodeks'e sahibiz. Asur bilgeliği her geçen gün artıyor ve cehaletin karanlığı giderek daha da uzaklaşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_6_BODY_ASSYRIA" Language="tr_TR">
+      <Text>[b]{LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} Miras Yolu[/b]'ndaki ikinci büyük [b]Dönüm Noktası'na [/b]ulaştınız! Son ödül grubunu kazanmak için [b]El Yazmaları'nı [/b]toplamaya devam edin. 			[n]Sonraki Hedef: [b] {1_CodexGoalNum} Kodeksi sergileyin[/b] ve {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} Miras Yolu'ndaki üçüncü ve [b]son [/b]Dönüm Noktasını tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_6_TRACKING_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Kodeksleri Topla ve Sergile: {1_CodexCurrent}/{2_CodexTarget}</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_LINE_COMPLETED_ADVISOR_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Kodeks koleksiyonumuz dünyanın gıpta ettiği, gelecek nesillere meyve verecek gerçek bir bilgi bahçesidir. Evrenin gizemleri sayısızdır, ancak çalışmalarımızla gurur duymalıyız.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_SCIENCE_QUEST_LINE_COMPLETED_BODY_ASSYRIA" Language="tr_TR">
+      <Text>Tebrikler! [b] {1_CodexCount} Kodeksi sergilediniz [/b]ve Antik Çağ'ın [b][icon:NOTIFICATION_TEAM_VICTORIOUS] {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME} [/b][icon:YIELD_SCIENCE] Bilim Miras Yolu'nu başarıyla tamamladınız. [n][b]Miras Yolu Ekranını [/b]ziyaret ederek takip edebileceğiniz diğer Miras Yollarını görebilir veya kendi yolunuzu oluşturabilirsiniz.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAGARRU_NAME" Language="tr_TR">
+      <Text>Magarru</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TURTANU_NAME" Language="tr_TR">
+      <Text>Turtanu</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

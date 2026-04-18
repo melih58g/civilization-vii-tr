@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_NEPAL1" Language="tr_TR">
+      <Text>Katmandu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL10" Language="tr_TR">
+      <Text>Canakpurdham</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL11" Language="tr_TR">
+      <Text>Cumla</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL12" Language="tr_TR">
+      <Text>Biratnagar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL13" Language="tr_TR">
+      <Text>Tulsipur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL14" Language="tr_TR">
+      <Text>Butval</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL15" Language="tr_TR">
+      <Text>Godavari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL16" Language="tr_TR">
+      <Text>Nepalgunc</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL17" Language="tr_TR">
+      <Text>Gorahi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL18" Language="tr_TR">
+      <Text>Lumbini</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL19" Language="tr_TR">
+      <Text>Nagarkot</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL2" Language="tr_TR">
+      <Text>Pokhara</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL20" Language="tr_TR">
+      <Text>Dhulikhel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL21" Language="tr_TR">
+      <Text>Kalaiya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL22" Language="tr_TR">
+      <Text>Damak</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL23" Language="tr_TR">
+      <Text>Mustang</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL24" Language="tr_TR">
+      <Text>Gaygat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL25" Language="tr_TR">
+      <Text>Birgunc</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL26" Language="tr_TR">
+      <Text>Sankhu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL27" Language="tr_TR">
+      <Text>Dhangadhi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL28" Language="tr_TR">
+      <Text>Inarvasira</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL29" Language="tr_TR">
+      <Text>Amlekhganc</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL3" Language="tr_TR">
+      <Text>Lalitpur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL30" Language="tr_TR">
+      <Text>Tarakeşvar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL4" Language="tr_TR">
+      <Text>Bharatpur</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL5" Language="tr_TR">
+      <Text>Gahava</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL6" Language="tr_TR">
+      <Text>Dharan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL7" Language="tr_TR">
+      <Text>Hetauda</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL8" Language="tr_TR">
+      <Text>Birendranagar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEPAL9" Language="tr_TR">
+      <Text>İtahari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_1" Language="tr_TR">
+      <Text>Şambav</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_10" Language="tr_TR">
+      <Text>Anuşka</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_2" Language="tr_TR">
+      <Text>Sneha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_3" Language="tr_TR">
+      <Text>Sarita</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_4" Language="tr_TR">
+      <Text>Amita</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_5" Language="tr_TR">
+      <Text>Alina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_6" Language="tr_TR">
+      <Text>Tanişa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_7" Language="tr_TR">
+      <Text>Reşma</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_8" Language="tr_TR">
+      <Text>Şrica</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_FEMALE_9" Language="tr_TR">
+      <Text>Soniya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_1" Language="tr_TR">
+      <Text>Bibek</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_10" Language="tr_TR">
+      <Text>Udgam</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_2" Language="tr_TR">
+      <Text>Krişna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_3" Language="tr_TR">
+      <Text>Kamal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_4" Language="tr_TR">
+      <Text>Prasad</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_5" Language="tr_TR">
+      <Text>Gagan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_6" Language="tr_TR">
+      <Text>Ram</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_7" Language="tr_TR">
+      <Text>Bişal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_8" Language="tr_TR">
+      <Text>Amir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_NEPAL_MALE_9" Language="tr_TR">
+      <Text>Roşan</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NEPAL_ADJECTIVE" Language="tr_TR">
+      <Text>Nepalli</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NEPAL_FULLNAME" Language="tr_TR">
+      <Text>Nepal İmparatorluğu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NEPAL_NAME" Language="tr_TR">
+      <Text>Nepal</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_MODERN_23_MAJOR_NEPAL_NAME" Language="tr_TR">
+      <Text>Punakha</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_MODERN_23_MINOR_NEPAL_NAME" Language="tr_TR">
+      <Text>Butan</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Nepal dünyanın hem kenarında hem de merkezinde yer alır: Dünya'nın en yüksek yerlerinden bazılarının vadilerinde yuvalanmış ve aynı zamanda dünyanın en büyük iki ulusu arasında sıkışıp kalmıştır: jeopolitik yakınlık onun ticaret ve kaynak kaynağı olmasına olanak tanırken, coğrafi istikrarsızlık hayatta kalmasına olanak tanımıştır. İçeride Nepal, büyük ölçüde Budist yayla halklarının ve büyük ölçüde Hindu ova çoğunluğunun bir karışımıdır. İkincisinde, yaylalarla çeşitli derecelerde etkileşimde bulunan devletler ortaya çıktı ve kontrol kadar bir arada yaşama da dayanan bir güç dengesi yarattı: ovalardaki Hindu Nevvarlar ve Çhatriler devletlerin çekirdeğini oluşturuyordu, ancak Tamang ve Şerpa yaylacılarının ulaşım ve kaynak ağlarına güveniyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Hindistan'ın kuzey sınırında ve yüksek dağ vadileri arasında, Nepal krallıkları MS birinci binyıldan beri haraçgüzar devletler olarak varlığını sürdürüyordu; burada "Nepala" adı Guptalar gibi devletlerin yazıtlarında bir görünüp bir kayboluyordu. MS 10. yüzyılda Katmandu'nun kurulmasıyla güçlenerek ortaya çıkarlar, ancak önemli bir gücün ortaya çıkması – Gorkha Hanedanlığı ve kurucusu Prithvi Narayan Şah – 18. yüzyıla kadar gerçekleşmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Bu, Hindistan'da Müslüman egemenliğindeki Babür yönetimi zamanıydı, ancak at, deve veya fil süvarilerine dayanan Babür birlikleri, dik ve soğuk vadileri kontrol etmeyi zor buldu ve Çin'e giden yayla tedarik hatlarını kuşatmayı imkansız buldu. Böylece Nepal, güneyinde Müslüman sultanlıklar ve imparatorluklar savaşırken bir Hindu kalesi haline geldi. İngilizler Hindistan'da sahneye çıktığında, onlar da bölgeyi ellerinde tutamayacaklarını anladılar, ancak Anglo-Nepal Savaşı'nda (1814-1816) daha zayıf silahlı Nepallilerden toprak tavizleri aldılar ve Nepal'i bir himaye olarak kurdular.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Bu koruma, Hint İsyanı'ndan II. Dünya Savaşı'na kadar uzanan çatışmalarda İngilizlerle yakın ittifak kuran sonraki Rana hanedanı döneminde izolasyonizme yol açtı. Rana dönemi Nepal, becerikli ittifakları, sert coğrafyası ve stratejik jeopolitik konumu sayesinde bağımsızlığını koruyan otokratik ve izolasyonist bir krallıktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>Ranalar, darbeler ve suikastlar temelinde iktidara geldi, monarşiyi Başbakanlık makamı aracılığıyla kontrol etti ve zaman zaman bu gücü hedefli saray cinayetleriyle uyguladı. Ranaların İngiltere'ye olan sadakati de stratejik bir konumlandırmaydı – kurucusu Jung Bahadur, İngiltere'deki İngiliz askeri tesislerini gezdi ve İngilizlerin başa çıkılamayacak kadar güçlü olduğuna karar verdi. Bunun yerine Ranalar, 1857 Hint İsyanı sırasında ve ayrıca Afganistan ve iki Dünya Savaşı'nda İngilizlerle birlikte savaşan seçkin Gurkha birliklerine İngilizlere destek verdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_NEPAL_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Bu rejim sonunda 1950'lerin sonlarında, Ranaların anayasal monarşi ve monarşik diktatörlüğün birbiriyle yarıştığı, aynı zamanda hayal kırıklığının bir Komünist isyana yol açtığı bir istikrarsızlık dönemine yol açmasıyla yıkılacaktı. Monarşi daha sonra 2001'de kraliyet sarayındaki dramatik bir katliamın ardından sona erdi; 2008'de Nepal'in monarşisi resmen lağvedildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_IMPROVEMENT_HIGHLAND_POWER_STATION_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>1911'de Nepal ilk hidroelektrik santralini açtı – Amerika Birleşik Devletleri ve Hindistan'da hidroelektrik ortaya çıktıktan kısa bir süre sonra. Ülke, dramatik yükseklik farklılıkları ve Himalaya yamaçlarından akan bol su ile buna uygun görünüyor, ancak bu ilk projeden bu yana yenileri yavaş ortaya çıktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_NEPAL_GORKHAPATRA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Ulusal bir bilincin oluşmasında medya kilit rol oynar. "Nepali postası" anlamına gelen Gorkhapatra, büyük ölçüde Başbakanlık ofisi tarafından yönetiliyordu ve bu nedenle, yayın hayatının büyük bir bölümünde ağır bir şekilde sansürlenmiş bir hükümet yayın organı olarak hizmet ediyordu. Bugün hala yayın hayatına devam etmektedir ve hükümete çok yakın olduğu iddiaları devam etse de, kurucu rejiminden daha uzun yaşamayı başarmıştır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_NEPAL_JYUMDO_BAGHA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Nepal'in "Yaşayan Kaplanı" (Jyumdo Bagha) olarak adlandırılan Amar Singh Thapa, Anglo-Nepal Savaşı sırasında İngiliz kuvvetlerine karşı Nepal Ordusu'nun komutanıydı. Bu, 19. yüzyılın başlarında İngiliz Doğu Hindistan Şirketi'nin Nepal'i bir zenginlik ve kaynak merkezi olarak kontrol etmeye çalıştığı bir çatışmaydı. Savaş devam etti, daha donanımlı İngilizler arazi ve sıtma konusundaki sürekli endişeler nedeniyle yine de engellendi. İngilizler galip gelse de, Nepal'deki yönetimleri sınırlıydı ve sıkı kontrol altındaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_NEPAL_SAGARMATHA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Tibetçe "Dünyanın Anası" anlamına gelen Çomolungma'nın Nepalce adı Sagarmatha, "Gökyüzü Tanrıçası"dır. İngilizce ve belki de daha tanıdık olan adı Everest Dağı'dır.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_NEPAL_SAGARMATHA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Nepal büyük dağların gölgesinde var olur; göklerden nemi kazıyan ve bunu yaparken gezegenin ekolojisini ve jeolojisini şekillendiren zirveler. Hint altkıtası boyunca sıcak ve nemli esen rüzgarlar nemlerini burada bırakır, zirvelerin güney tarafında yoğun ve verimli vadiler ve kuzey tarafında Tibet'in kuru yaylalarını oluşturur. Bu, toplumu da şekillendiren bir ayrımdır – ova ve yayla, nehirler ve yukarı çöl, Hindu Nepalliler ve Budist Tibetliler.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_MO_NEPAL_SINGHA_DURBAR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Modern dönemdeki Nepal, devletin sağlam kontrolüne dayanan bir devlettir – bir paradoks, çünkü Nepal'in toprağı herhangi bir devlete meydan okuyacak kadar etnik ve coğrafi olarak parçalanmıştır. Aslan sarayı olan Singha Durbar 1908'de açıldı ve Rana Hanedanlığı'nın demir yumruğunu simgeliyordu. Bunlar, monarşiyi etkili bir şekilde kontrol eden ve hem içeride hem de dışarıda sıkı bir yönetimle hüküm süren bir dizi başbakan ve üst düzey yetkiliydi. Singha Durbar'dan modern Nepal yaşamındaki en önemli gelişmelerden bazıları geldi – köleliğin kaldırılması ve Nepal bağımsızlığının tanınması.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_GURKHA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>"Gurkha" adı kökeninde basitçe, modern Nepal devletinin öncüllerinden biri olan Gorkha Krallığı'nı ifade eder, ancak 19. yüzyılın sonlarında ve 20. yüzyılın başlarında bu terim, diğer devletler için savaşmak üzere sözleşmeli Nepal savaşçılarını ifade etmeye başlamıştır. En önemlisi, bu İngilizlerdi – Anglo-Nepal savaşından sonra İngilizler Nepal savaşçılarının sadakatini ve vahşiliğini fark etti ve İngilizler için savaşmaya istekli Gurkha taburları kurdu. Ve savaştılar da – Gurkhalar 1857 Hint İsyanı'nda, I. Dünya Savaşı'nda ve II. Dünya Savaşı'nda İngilizler için savaştı. Hint bağımsızlığından sonra Gurkhalar İngilizler için savaşmaya devam etti, ancak birçoğu Hint hizmetine girdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_GURKHA_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Gurkha'nın en ikonik sembolü kukri bıçağıdır – hem pala hem de silah olarak hizmet eden ağır, öne doğru kavisli bir bıçak.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SHERPA_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Şerpalar, Nepal, Hindistan ve Butan'ın dağlık bölgelerine özgü Budist ve Tibetli bir etnik azınlıktır. Burada, tarihsel olarak en yüksek rakımlarda hayatta kalmayı başarmışlardır. Kısa sürede toprağın en yüksek zirvelerine cesurca tırmanabilme ününü kazandılar ve bu isim, en ünlülerinden biri Everest Dağı'nın zirvesine ilk ulaşan iki kişiden biri olan Tenzing Norgay olan gözüpek dağ kaşifleriyle eşanlamlı hale geldi. Bugün Şerpalar, Nepal'in turizm endüstrisinde, özellikle ülkenin en yüksek zirveleri etrafında yürüyüşçülere rehberlik etmede derinden yer almaktadırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_BOUDHANATH_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Boudhanath, Nepal'in merkezi Budist anıtı olan Boudha Stupası'nı çevreleyen bölgeyi ifade eder (aksi takdirde ağırlıklı olarak Hindu bir ülkedir). Şehirde bir Budist yerleşim bölgesidir, bir manastırlar ve ibadet yerleri topluluğuna ev sahipliği yapar ve beyaz kubbesi ve ikiz gözleriyle merkezi stupası şehrin ve genel olarak Nepal'in bir sembolüdür.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_BOUDHANATH_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Efsaneye göre stupa, cennetlerden kovulduktan sonra kendi erdem deposunu yenilemek için bir anıt inşa etmeye çalışan İndra'nın bir kızı tarafından inşa edildi. Buradan efsaneye göre, Budist misyonerler kuzeye ve yukarıya, buzlu zirvelere ve Tibet platosuna doğru dharma'yı öğretmek için yola çıktılar; gerçekten de Nepal'in Budistlerinin çoğu şimdi orada yaşıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIGHLAND_POWER_STATION_NAME" Language="tr_TR">
+      <Text>Yayla Güç Santrali</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BOUDHANATH_NAME" Language="tr_TR">
+      <Text>Boudhanath</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BAGMATI_NAME" Language="tr_TR">
+      <Text>Bagmati Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_BHERI_NAME" Language="tr_TR">
+      <Text>Bheri Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_GANDAKI_NAME" Language="tr_TR">
+      <Text>Gandaki Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_GHAGHARA_NAME" Language="tr_TR">
+      <Text>Ghaghara Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_KOSI_NAME" Language="tr_TR">
+      <Text>Kosi Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_DAHEI_SHAN_NAME" Language="tr_TR">
+      <Text>Dahei Shan</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_DHOSI_HILL_NAME" Language="tr_TR">
+      <Text>Dhosi Tepesi</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KA_ER_DAXI_NAME" Language="tr_TR">
+      <Text>Ka-er-daxi</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_POPA_NAME" Language="tr_TR">
+      <Text>Popa</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_TOSHAM_HILL_NAME" Language="tr_TR">
+      <Text>Tosham Tepesi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_GORKHAPATRA_NAME" Language="tr_TR">
+      <Text>Gorkhapatra</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JYUMDO_BAGHA_NAME" Language="tr_TR">
+      <Text>Jyumdo Bagha</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAGARMATHA_NAME" Language="tr_TR">
+      <Text>Sagarmatha</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SINGHA_DURBAR_NAME" Language="tr_TR">
+      <Text>Singha Durbar</Text>
+    </Replace>
+    <Replace Tag="LOC_11030A_COMPLETION" Language="tr_TR">
+      <Text>Yüksek zirvelerdeki topluluklar Nepal vadilerine iner, omuzlarında yığılı mallarla zorlu bir yolculuk yaparlar. Dağlar Nepal'e sığınak sağlarken, bu eski İnkalar yüksekliklerin gerçek çocuklarıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11030A_STORYTITLE" Language="tr_TR">
+      <Text>Gökyüzünün Çocukları</Text>
+    </Replace>
+    <Replace Tag="LOC_11030B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Dağlar üzerine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11030B_NAME" Language="tr_TR">
+      <Text>Geleneklerini sürdürmelerine izin ver.</Text>
+    </Replace>
+    <Replace Tag="LOC_11031A_COMPLETION" Language="tr_TR">
+      <Text>Yavaş yavaş İnka dili yerini Nepalceye bırakır ve eski gelenekler solar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11031A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11031A_IMPERATIVE" Language="tr_TR">
+      <Text>Dağlara bitişik 3 Okul Evine Sahip Ol.</Text>
+    </Replace>
+    <Replace Tag="LOC_11031A_NAME" Language="tr_TR">
+      <Text>Okullara ihtiyaçları var, böylece Nepalli olabilirler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11031A_STORYTITLE" Language="tr_TR">
+      <Text>Gökyüzünün Çocukları</Text>
+    </Replace>
+    <Replace Tag="LOC_11032A_COMPLETION" Language="tr_TR">
+      <Text>Dağ sarsılır ve kar ve buz tıslayan buharla ateşe dönüşür. Mücadele eden şerpa, her şey alevler içinde kalırken dağda bir tutunacak yer bulmaya çalışır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11032A_STORYTITLE" Language="tr_TR">
+      <Text>Jwalamukhi'nin Gazabı</Text>
+    </Replace>
+    <Replace Tag="LOC_11032B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11032B_NAME" Language="tr_TR">
+      <Text>Kal, yeryüzünün kanının açığa çıktığını gör.</Text>
+    </Replace>
+    <Replace Tag="LOC_11032C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11032C_NAME" Language="tr_TR">
+      <Text>Kaç!</Text>
+    </Replace>
+    <Replace Tag="LOC_11033A_COMPLETION" Language="tr_TR">
+      <Text>Büyük çift zirveli kar başlığı dağ zincirlerinin üzerinde yükselir, gökyüzü üzerindeki hakimiyetini ilan ediyor gibi görünür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11033A_STORYTITLE" Language="tr_TR">
+      <Text>Machapuchare</Text>
+    </Replace>
+    <Replace Tag="LOC_11033B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11033B_NAME" Language="tr_TR">
+      <Text>Görkem içinde kalsın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11034A_COMPLETION" Language="tr_TR">
+      <Text>Keşif gezisi bir felakettir ve başarısızlıkla – ve ölümle – sonuçlanır. Dağ rehberleri buranın tanrıların evi olduğu ve kimsenin ona meydan okumaması gerektiği konusunda uyarır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11034A_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ve hikaye devam eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11034A_NAME" Language="tr_TR">
+      <Text>Tırmanmak için bir keşif gezisi düzenle.</Text>
+    </Replace>
+    <Replace Tag="LOC_11034A_STORYTITLE" Language="tr_TR">
+      <Text>Machapuchare</Text>
+    </Replace>
+    <Replace Tag="LOC_11034B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11034B_NAME" Language="tr_TR">
+      <Text>Kapat.</Text>
+    </Replace>
+    <Replace Tag="LOC_11035A_COMPLETION" Language="tr_TR">
+      <Text>Savaş alanında Gurkha Gurkha ile karşılaşır. Sonrasında, düşman ölüleri arasında Nepalli yüzler vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11035A_STORYTITLE" Language="tr_TR">
+      <Text>Kardeş Kardeşe Karşı</Text>
+    </Replace>
+    <Replace Tag="LOC_11035B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kültür Binalarında.</Text>
+    </Replace>
+    <Replace Tag="LOC_11035B_NAME" Language="tr_TR">
+      <Text>Onlar hala Nepalli. Onlara uygun bir cenaze töreni yapın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11035C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Üretim Binalarında.</Text>
+    </Replace>
+    <Replace Tag="LOC_11035C_NAME" Language="tr_TR">
+      <Text>Nepallilerle savaştıklarında yabancı olurlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11036A_COMPLETION" Language="tr_TR">
+      <Text>Nepal bağımsız kalır, başkaları savaşırken arabulucu bir güçtür. Savaş halindeki bir dünyada insanlar hala alışveriş yapar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11036A_STORYTITLE" Language="tr_TR">
+      <Text>İki Kaya Arasında Bir Yam</Text>
+    </Replace>
+    <Replace Tag="LOC_11036B_DESCRIPTION" Language="tr_TR">
+      <Text>Ticaret Rotalarında +2 [icon:YIELD_DIPLOMACY] Etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_11036B_NAME" Language="tr_TR">
+      <Text>Sakin bir güç olarak kal.</Text>
+    </Replace>
+    <Replace Tag="LOC_11036C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama tüm Medeniyetlerle -15 İlişki.</Text>
+    </Replace>
+    <Replace Tag="LOC_11036C_NAME" Language="tr_TR">
+      <Text>Silah ticaretine gir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11037A_COMPLETION" Language="tr_TR">
+      <Text>Medeniyetler ilerlemenin ateşlerini körüklemek için kaynakları talep etmek için yarışır. Kasabalar kurulur, demiryolları inşa edilir. Ancak Nepal sınırında, yalnız bir şerpa yere bir kazık çakar ve yoluna devam eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11037A_STORYTITLE" Language="tr_TR">
+      <Text>Yüksek Ülkenin Maden Arayıcıları</Text>
+    </Replace>
+    <Replace Tag="LOC_11037B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11037B_NAME" Language="tr_TR">
+      <Text>Nepal alçakgönüllülükle genişler, ama genişler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11038A_COMPLETION" Language="tr_TR">
+      <Text>Nepallilerin tarafsızlığı ve sağduyulu tavsiyeleri konusundaki itibarı, Nepalli müzakerecileri neredeyse tüm uluslararası anlaşmazlıklarda bir zorunluluk haline getirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11038A_STORYTITLE" Language="tr_TR">
+      <Text>Danışmanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11038B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11038B_NAME" Language="tr_TR">
+      <Text>Öyle olmalı.</Text>
+    </Replace>
+    <Replace Tag="LOC_11038C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11038C_NAME" Language="tr_TR">
+      <Text>Elbette bu hizmet için biraz ödeme yapılabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11039A_COMPLETION" Language="tr_TR">
+      <Text>Buzul nehirleri uzun süredir Nepal vadilerinden akmaktadır, ancak şimdi dağ zirvelerinden berrak suyun yanı sıra elektrik de akmaktadır. İşte bir dağ ütopyası vizyonu — temiz, berrak, modern yüzeyler ve engebeli zirveler uyum içinde harmanlanıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11039A_STORYTITLE" Language="tr_TR">
+      <Text>Dağ Kalesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11039B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11039B_NAME" Language="tr_TR">
+      <Text>Dağlar bir kaynaktır; vadiler evdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11039C_DESCRIPTION" Language="tr_TR">
+      <Text>Dağlara Bitişik Savunurken +2 Savaş Gücü.</Text>
+    </Replace>
+    <Replace Tag="LOC_11039C_NAME" Language="tr_TR">
+      <Text>Dağlar bizim siperimizdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11040A_COMPLETION" Language="tr_TR">
+      <Text>İngiliz Ordusu'nda hizmet etmek hem Nepalli hem de yabancı taraflarca saygı duyulan bir onurdur. Yeni askerler gururla, yabancı gözlerin altında, uzak kıyılara doğru yürürler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11040A_STORYTITLE" Language="tr_TR">
+      <Text>Gurkha Tugayı</Text>
+    </Replace>
+    <Replace Tag="LOC_11040B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Askeri Binalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_11040B_NAME" Language="tr_TR">
+      <Text>İsimleri evde de kaydedilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11040C_DESCRIPTION" Language="tr_TR">
+      <Text>Gurkha Hediye Etme Eylemini başlatmak için +%15[icon:YIELD_DIPLOMACY] Etki.</Text>
+    </Replace>
+    <Replace Tag="LOC_11040C_NAME" Language="tr_TR">
+      <Text>Havale paralarını eve gönderirler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11041A_COMPLETION" Language="tr_TR">
+      <Text>Singha Durbar — aslan sarayı — gücünü Nepal geneline yansıtır. Ancak başkentte homurdanmalar başlar: eski aileler geleneksel alanlarının gölgede kaldığını hissederler. Hükümet yetkilileri haraç ve gözdağı bildirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11041A_STORYTITLE" Language="tr_TR">
+      <Text>Eski Aileler</Text>
+    </Replace>
+    <Replace Tag="LOC_11041B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Şehirlerde.</Text>
+    </Replace>
+    <Replace Tag="LOC_11041B_NAME" Language="tr_TR">
+      <Text>Ailelere haklarını verin.</Text>
+    </Replace>
+    <Replace Tag="LOC_11041C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Kasabalarda.</Text>
+    </Replace>
+    <Replace Tag="LOC_11041C_NAME" Language="tr_TR">
+      <Text>Aslan sarayı hükmeder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11069A_COMPLETION" Language="tr_TR">
+      <Text>Şafak Singha Durbar üzerinde sökerken, Nepalli yetkililerin sırası şehir boyunca uzanır. Burada, dünyaya bir Nepal damgası vuracak yeni bir Nepal düzeni tasarlanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11069A_STORYTITLE" Language="tr_TR">
+      <Text>Ekata Ka Prateek</Text>
+    </Replace>
+    <Replace Tag="LOC_11069B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11069B_NAME" Language="tr_TR">
+      <Text>Nepal'in dünya meselelerinde oynayacağı bir rol var.</Text>
+    </Replace>
+    <Replace Tag="LOC_11069C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11069C_NAME" Language="tr_TR">
+      <Text>Nepal öncelikle içsel mükemmelliği arar.</Text>
+    </Replace>
+    <Replace Tag="LOC_12007A_COMPLETION" Language="tr_TR">
+      <Text>Şerpa'yı dik bir yokuş yukarı takip eden Dr. Rizal, Nepal'in yaylalarının ve ovalarının görkemine geri bakar.</Text>
+    </Replace>
+    <Replace Tag="LOC_12007A_STORYTITLE" Language="tr_TR">
+      <Text>İyi Doktor, Yüksek ve Alçak</Text>
+    </Replace>
+    <Replace Tag="LOC_12007B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12007B_NAME" Language="tr_TR">
+      <Text>Yaylacılar şiddetle bağımsızdır.</Text>
+    </Replace>
+    <Replace Tag="LOC_12007C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12007C_NAME" Language="tr_TR">
+      <Text>Ovalılar sıcakkanlı ve misafirperverdir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SHERPA_UNLOCK_DESCRIPTION" Language="tr_TR">
+      <Text>Activate on a [icon:CITY_UNIMPROVED] Mountain Terrain within 5 tiles of one of your [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement's[/TIP] City Centers. The Mountain is [icon:CITY_RURAL] Improved immediately with a Highland Power Station. If the Mountain is outside your borders, a path of tiles is claimed back to the [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SHERPA_UNLOCK_NAME" Language="tr_TR">
+      <Text>Dağ Talep Et</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_GORKHAPATRA_AUTHOR" Language="tr_TR">
+      <Text>Kral Birendra</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_GORKHAPATRA_QUOTE" Language="tr_TR">
+      <Text>"Bir ülkenin kültürü ile izlediği ideoloji arasında ayrılmaz bir ilişki vardır."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JYUMDO_BAGHA_AUTHOR" Language="tr_TR">
+      <Text>Gurkha Mottosu</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_JYUMDO_BAGHA_QUOTE" Language="tr_TR">
+      <Text>"Korkak olmaktansa ölmek daha iyidir."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAGARMATHA_AUTHOR" Language="tr_TR">
+      <Text>Rudyard Kipling</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SAGARMATHA_QUOTE" Language="tr_TR">
+      <Text>"Bir kez ve herkes için dağlara kaçın – sakin, serin yağmurlara ve sürüklenen sise."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SINGHA_DURBAR_AUTHOR" Language="tr_TR">
+      <Text>Gurkha Savaş Narası</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_SINGHA_DURBAR_QUOTE" Language="tr_TR">
+      <Text>"Ayo gorkhali! Gurkhalar üzerinize geliyor!"</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NEPAL_DESCRIPTION" Language="tr_TR">
+      <Text>All [icon:YIELD_WAREHOUSE] Warehouse Buildings apply to [icon:CITY_UNIMPROVED] Mountain Terrain, but they cost +1 [icon:YIELD_GOLD] Gold and [icon:YIELD_HAPPINESS] Happiness Maintenance.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_ACTION_GIFT_GURKHA_NAME" Language="tr_TR">
+      <Text>Gurkha Hediye Et</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_PROJECT_GIFT_GURKHA_ACCEPT" Language="tr_TR">
+      <Text>Başkentinde bir Gurkha Birimi alacaksın.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_PROJECT_GIFT_GURKHA_DESCRIPTION" Language="tr_TR">
+      <Text>Bir Gurkha verir.[n]Kabul Edildi: Onlarla +10 İlişki ve mevcut İlişki Seviyesi için Standart Hızda 5 [icon:YIELD_CULTURE] Kültür alırsın. Diğer Lider Başkentinde bir Gurkha Birimi alır. Sadece Dost veya Yardımsever Medeniyetlerle yapılabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIGHLAND_POWER_STATION_DESCRIPTION" Language="tr_TR">
+      <Text>Nepalese [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP]. +3 [icon:YIELD_PRODUCTION] Production and +3 [icon:YIELD_CULTURE] Culture. Must be placed on a featureless [icon:CITY_UNIMPROVED] Mountain Terrain and is constructed by the [icon:UNIT_SHERPA] Sherpa.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HIGHLAND_POWER_STATION_TOOLTIP" Language="tr_TR">
+      <Text>Must be placed on a featureless [icon:CITY_UNIMPROVED] Mountain Terrain and is constructed by the [icon:UNIT_SHERPA] Sherpa.[n]Nepalese [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]Unique Improvement[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_NEPAL" Language="tr_TR">
+      <Text>Himalayalar'ın yükseklerine sıkışmış ve hem dağlık Budist hem de ovalık Hindu nüfuslarını içeren Nepal, tehlikeli konumuna rağmen egemenliğine tutundu. 19. yüzyıl Nepal'i otokratik bir aile grubu tarafından yönetiliyordu ve vahşi Gurkha savaşçıları tarafından korunuyordu. İngilizlerle yapılan bir anlaşmanın ardından, dünyanın tacında bir dereceye kadar bağımsızlıklarını korudular.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_NEPAL" Language="tr_TR">
+      <Text>Şerpalar, dağlarınızda veya şehir merkezlerinizin 5 karo mesafesi içindeki sahipsiz dağ arazilerinde Highland Power Stations oluşturabilir. Yürüyüşlerinizi buna göre planlayın!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INTRO_NEPAL" Language="tr_TR">
+      <Text>Nepal komşularının üzerine yükselir, bir dünya gücü olmayı hedefler.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_NEPAL_COMPLETE_BOUDHANATH_DESC" Language="tr_TR">
+      <Text>Nepal olarak, Boudhanath'ı tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_NEPAL_COMPLETE_BOUDHANATH_NAME" Language="tr_TR">
+      <Text>Boudhanath</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_NEPAL_LEGACY_PATH_CULTURAL_DESC" Language="tr_TR">
+      <Text>Nepal olarak, bir Kültürel Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_NEPAL_LEGACY_PATH_CULTURAL_NAME" Language="tr_TR">
+      <Text>Nepal Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_NEPAL_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Production from being Nepal's associated [icon:WONDER] Wonder.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_GIFT_GURKHA_DESCRIPTION" Language="tr_TR">
+      <Text>Unlocks the [icon:DIPLOMATIC_ACTION] Gift Gurkha Action which grants a Gurkha Unit to another Civilization. Nepal receives a +10 [icon:RELATIONSHIP] Relationship with them and 5 [icon:YIELD_CULTURE] Culture (Scales by Gamespeed) for the current Relationship Level with them. Can only be done with [icon:PLAYER_RELATIONSHIP_FRIENDLY] Friendly or [icon:PLAYER_RELATIONSHIP_HELPFUL] Helpful Civilizations.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_GORKHAPATRA_MUSEUM_SLOTS_DESCRIPTION" Language="tr_TR">
+      <Text>+2 [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]Great Work[/TIP] Slots on Museums.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_JYUMDO_BAGHA_FORTIFICATION_DESCRIPTION" Language="tr_TR">
+      <Text>Units complete [icon:Action_Fortify] Fortifications in 1 turn if adjacent to a [icon:CITY_UNIMPROVED] Mountain.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_JYUMDO_BAGHA_MOUNTAIN_WALLS_DESCRIPTION" Language="tr_TR">
+      <Text>All [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Districts[/TIP] adjacent to [icon:CITY_UNIMPROVED] Mountains receive [icon:Action_Fortify] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]Defensive Fortifications[/TIP], one time effect. Follows normal [TIP:LOC_PEDIA_CONCEPTS_WALL_TOOLTIP]Walls[/TIP] placement rules.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SAGARMATHA_BUILDINGS_MOUNTAIN_ADJACENCY_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_FOOD] Food and [icon:YIELD_SCIENCE] Science [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP] receive an Adjacency from [icon:CITY_UNIMPROVED] Mountains.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SHERPA_MOUNTAIN_CLAIM_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_SHERPA] Sherpas can activate on a [icon:CITY_UNIMPROVED] Mountain Te within 5 tiles of one of your [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlements'[/TIP] Palace or City Hall once every 5 turns. A path of tiles is claimed back to the [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP] and the [icon:CITY_UNIMPROVED] Mountain Terrain is [icon:CITY_RURAL] Improved immediately with a Highland Power Station.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_SINGHA_DURBAR_INFLUENCE_CULTURE_BUILDING_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:YIELD_DIPLOMACY] Influence on [icon:YIELD_CULTURE] Culture [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Buildings[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_BOUDHANATH" Language="tr_TR">
+      <Text>Bhadrakalpika Sūtra</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_BOUDHANATH" Language="tr_TR">
+      <Text>Bu bilgelik okyanusunu öğretenler, şeylerin anlık doğasını idrak ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_HIMAL_DESCRIPTION" Language="tr_TR">
+      <Text>+4 [icon:YIELD_CULTURE] Culture on [icon:CITY_UNIMPROVED] Mountain Terrain in your [icon:NOTIFICATION_SELECT_CAPITAL] Capital, +2 [icon:YIELD_CULTURE] Culture on [icon:CITY_UNIMPROVED] Mountain Terrain in other [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlements[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MAITRI_SANADHI_DESCRIPTION" Language="tr_TR">
+      <Text>+50% [icon:YIELD_DIPLOMACY] Influence towards initiating [icon:ENDEAVOR] [TIP:LOC_PEDIA_CONCEPTS_ENDEAVOR_TOOLTIP]Endeavors[/TIP] if you have the least amount of [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlements[/TIP], +20% otherwise.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TUNDIKHEL_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] for all Units adjacent to [icon:CITY_UNIMPROVED] Mountains. This is doubled if the Unit is also in your territory.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NEPAL_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]All [icon:YIELD_WAREHOUSE] [B]Warehouse Buildings[/B] apply to [icon:CITY_UNIMPROVED] [B]Mountain Terrain[/B], but they cost [B]+1 [icon:YIELD_GOLD] Gold and[icon:YIELD_HAPPINESS] Happiness Maintenance[/B].[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Boudhanath[/B].[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NEPAL_ABILITY_NAME" Language="tr_TR">
+      <Text>Dünyanın Çatısı</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_MO_NEPAL_NAME" Language="tr_TR">
+      <Text>Nepal Yurttaşlıkları</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GURKHA_2_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 2 Nepalese Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:Action_Move] Movement. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. More expensive than the Rifle Infantry.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GURKHA_3_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 3 Nepalese Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:Action_Move] Movement. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. More expensive than the Infantry Company.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GURKHA_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Nepalese Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. Stronger, faster, and more expensive.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GURKHA_DESCRIPTION" Language="tr_TR">
+      <Text>Tier 1 Nepalese Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +1 [icon:Action_Move] Movement. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP]. More expensive than the Line Infantry.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHERPA_DESCRIPTION" Language="tr_TR">
+      <Text>Nepalese Unique Scout. Ignores [icon:CITY_UNIMPROVED] Mountains and [TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]Rough Terrain[/TIP] for [icon:Action_Showall] [TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]Sight[/TIP]. Ignores featureless [icon:CITY_UNIMPROVED] Mountains for [icon:Action_Move] Movement. Can move on Mount Everest.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITCOMMAND_CLAIM_MOUNTAIN_DESCRIPTION" Language="tr_TR">
+      <Text>Sahipsiz bir Dağ üzerinde etkinleştirin. Yerleşime geri dönen bir karo yolu talep edilir ve Dağ hemen bir Yayla Güç İstasyonu ile geliştirilir. Sherpa'yı tüketir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITCOMMAND_CLAIM_MOUNTAIN_NAME" Language="tr_TR">
+      <Text>Dağı Talep Et</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITCOMMAND_CLAIM_MOUNTAIN_REQUIRES_UNOWNED_MOUNTAIN" Language="tr_TR">
+      <Text>Yerleşimlerinizden birinin Sarayı veya Belediye Binasının 5 karo içinde sahipsiz bir Dağ gerektirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_MOUNTAIN_5_SETTLEMENTS_DESCRIPTION" Language="tr_TR">
+      <Text>En az beş [B]Dağ[/B] içeren üç Yerleşime sahip olun.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_NEPAL_TOOLTIP" Language="tr_TR">
+      <Text>[B]Dağlar[/B] [B]Nepal'in[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ASHOKA_NEPAL_TOOLTIP" Language="tr_TR">
+      <Text>[B]Aşoka[/B] [B]Nepal[/B] ile aynı kıtadaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_NEPAL_TOOLTIP" Language="tr_TR">
+      <Text>[B]Lakshmibai[/B] [B]Nepal[/B] ile aynı kıtadaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_PACHACUTI_NEPAL_TOOLTIP" Language="tr_TR">
+      <Text>[B]Nepal[/B] [B]Paçakuti[/B]'yi stratejik olarak tamamlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BOUDHANATH_DESCRIPTION" Language="tr_TR">
+      <Text>+6 [icon:YIELD_DIPLOMACY] Influence. +20 [icon:RELATIONSHIP] Relationship with all other Leaders. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Ageless[/TIP]. Must be built in Grassland or Tropical adjacent to a Mountain.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_BOUDHANATH_TOOLTIP" Language="tr_TR">
+      <Text>+20 [icon:RELATIONSHIP] Relationship with all other Leaders.[N]Must be built in Grassland or Tropical adjacent to a Mountain.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_PROJECT_GIFT_GURKHA_REJECT" Language="tr_TR">
+      <Text>Diplomatik Eylemi iptal eder.[n]{1_initialName}'in [icon:YIELD_DIPLOMACY] Nüfuzu iade edilir.[n]{2_cooldown} tur boyunca Liderler arasında yeni Girişim yapılamaz.[n]İlişkiler kötüleşir.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLOMACY_PROJECT_GIFT_GURKHA_REQUEST" Language="tr_TR">
+      <Text>{1_leaderName} sana bir Gurkha birimi teklif ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_NEPAL_NARRATIVE" Language="tr_TR">
+      <Text>Yüksek ülkeyi, {1_Civilization_Adj} topraklarının çatısını işaretleyen kanyon ve vadiler labirentinde, {1_Civilization_Adj} devletinin erişimi zayıflar. Vergi tahsildarları ve nüfus sayım memurları yollarını kaybeder ve oradaki insanlar özgür ve gururlu kalır.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_HIMAL_NAME" Language="tr_TR">
+      <Text>Himāl</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MAITRI_SANADHI_NAME" Language="tr_TR">
+      <Text>Maitri Sanadhi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_TUNDIKHEL_NAME" Language="tr_TR">
+      <Text>Tundikhel</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GURKHA_NAME" Language="tr_TR">
+      <Text>Gurka</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHERPA_NAME" Language="tr_TR">
+      <Text>Şerpa</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC1" Language="tr_TR">
+      <Text>Nassau</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC10" Language="tr_TR">
+      <Text>Santo Domingo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC11" Language="tr_TR">
+      <Text>Road Town</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC12" Language="tr_TR">
+      <Text>New Haven</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC13" Language="tr_TR">
+      <Text>Petit-Goâve</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC14" Language="tr_TR">
+      <Text>Île Sainte-Marie</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC15" Language="tr_TR">
+      <Text>Umhaill</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC16" Language="tr_TR">
+      <Text>Fort Saint Louis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC17" Language="tr_TR">
+      <Text>Bridgetown</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC18" Language="tr_TR">
+      <Text>Île-à-Vache</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC19" Language="tr_TR">
+      <Text>Ocracoke</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC2" Language="tr_TR">
+      <Text>Port Royal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC20" Language="tr_TR">
+      <Text>Eleuthera</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC21" Language="tr_TR">
+      <Text>St. John's</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC22" Language="tr_TR">
+      <Text>Portobelo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC23" Language="tr_TR">
+      <Text>Campeche</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC24" Language="tr_TR">
+      <Text>St. George's</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC25" Language="tr_TR">
+      <Text>Charles Town</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC26" Language="tr_TR">
+      <Text>Cartagena</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC27" Language="tr_TR">
+      <Text>Christiansted</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC28" Language="tr_TR">
+      <Text>Acapulco</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC29" Language="tr_TR">
+      <Text>Veracruz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC3" Language="tr_TR">
+      <Text>Tortuga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC30" Language="tr_TR">
+      <Text>Negril</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC4" Language="tr_TR">
+      <Text>Providence</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC5" Language="tr_TR">
+      <Text>Port-au-Prince</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC6" Language="tr_TR">
+      <Text>Charlotte Amalie</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC7" Language="tr_TR">
+      <Text>Newport</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC8" Language="tr_TR">
+      <Text>Havana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PIRATE_REPUBLIC9" Language="tr_TR">
+      <Text>San Juan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_1" Language="tr_TR">
+      <Text>Grace</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_10" Language="tr_TR">
+      <Text>Christina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_2" Language="tr_TR">
+      <Text>Mary</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_3" Language="tr_TR">
+      <Text>Anne</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_4" Language="tr_TR">
+      <Text>Charlotte</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_5" Language="tr_TR">
+      <Text>Rachel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_6" Language="tr_TR">
+      <Text>Jacquotte</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_7" Language="tr_TR">
+      <Text>Flora</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_8" Language="tr_TR">
+      <Text>Martha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_FEMALE_9" Language="tr_TR">
+      <Text>Sarah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_1" Language="tr_TR">
+      <Text>Edward</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_10" Language="tr_TR">
+      <Text>Francis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_2" Language="tr_TR">
+      <Text>Bartholomew</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_3" Language="tr_TR">
+      <Text>William</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_4" Language="tr_TR">
+      <Text>Henry</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_5" Language="tr_TR">
+      <Text>Charles</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_6" Language="tr_TR">
+      <Text>Stede</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_7" Language="tr_TR">
+      <Text>John</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_8" Language="tr_TR">
+      <Text>Samuel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_PIRATE_REPUBLIC_MALE_9" Language="tr_TR">
+      <Text>Benjamin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATE_REPUBLIC_ADJECTIVE" Language="tr_TR">
+      <Text>Pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATE_REPUBLIC_FULLNAME" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATE_REPUBLIC_NAME" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_47_MAJOR_PIRATES_NAME" Language="tr_TR">
+      <Text>Hippo Regius</Text>
+    </Replace>
+    <Replace Tag="LOC_INDEPENDENT_EXPLORATION_47_MINOR_PIRATES_NAME" Language="tr_TR">
+      <Text>Vandal</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_NAVAL_ARSENAL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Bir deniz tersanesi, deniz araçlarının onarımı ve inşası için kullanılan bir yapıdır ve denizci uluslar için deniz gücünün önemli bir karakoludur. Ancak Korsan Cumhuriyeti böyle bir ulus değildi. Tarihsel olarak, Cumhuriyet, küçük bir sömürge karakolunun kısa ömürlü bir ele geçirilmesiydi. Donanması – eğer böyle dağınık ve bağımsız aktörlerden oluşan bir kitleye bu terim uygulanabilirse – düzinelerce ulustan insanlardan oluşan mürettebatla çalınan gemilerden oluşuyordu. Bu nedenle, bir deniz cephaneliğine sahip değildi; gemi inşası (çalmak yerine) New Providence'ın bir özelliği değildi ve onarımlar limandaki sığ sularda yapılıyordu. Ancak Cumhuriyet büyüyüp genişleseydi, kendi cephaneliğini kurabilir ve denizci ulusların güçlerine karşı hayati bir meydan okuma oluşturabilirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_NAVAL_STATION_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Eğer tersane gemilerin inşası için kullanılan bir tesis ise, istasyon (ya da kısaca deniz üssü) gemilerin ikmal ve tedarik ihtiyaçlarının karşılandığı bir tesistir. Bunlar, gemilere yolculuklarında destek sağlamak üzere kurulmuş büyük tesisler ya da daha küçük karakollar olabilir. Gemi ne kadar sağlam olursa olsun, barut ne kadar güvenli ve kuru bir şekilde saklanırsa saklansın, mürettebatın kendi bakım ihtiyaçları vardı – deniz suyu içilemez ve erzak stoklanması gerekiyordu. Dahası, 1747'den önce, iskorbüt belası, denizde çok uzun süre kalan ve zaman zaman limana uğramayan herkesi vuruyor gibi görünüyordu (iskorbütün çözümü elbette C vitamini eksikliğiydi – gemideki kurutulmuş et ve ekmekten oluşan beslenme düzeninde taze meyve veya sebze yoktu), bu da donanma gücünün sürdürülmesi için iyi stoklanmış deniz üslerini hayati hale getiriyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>17. ve 18. yüzyılın başlarında ticaret, kontrolsüz ve öngörülemez bölgelerden muazzam miktarda servet aktardı. Galyonlar, ne kadar korkutucu olsalar da, rüzgârın ve suyun insafına kalmıştı… ve onları ele geçirmeye cesaret edenlerin de. Bu durum korsanlığı teşvik etmeseydi bile, dönemin güçleri rakiplerinin gelirlerini kesmek için bağımsız akıncıları – korsanları – destekledi. Ancak bu korsanlar, fırsatını bulduklarında bir anda korsanlara dönüşebiliyorlardı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>1694 yılında, Charles II gemisi İspanya'nın Corunna kentindeki limanda bekliyordu ve mürettebatı homurdanıyordu. İspanyol krallığı, Charles II'nin İspanya'nın rakiplerine saldırıp yağmalamasına izin veren bir korsanlık ruhsatı sözü vermişti, ancak ruhsat henüz gelmemişti. Mürettebatın maaşları da ödenmeyince, mürettebat isyan çıkardı ve eski birinci zabit Henry Every'nin önderliğinde gemiyi ele geçirip, ruhsat olsun ya da olmasın saldırı ve yağma amacıyla denize açıldı. Başka bir deyişle, "kendi hesabına" hareket ettiler, korsan oldular.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Charles II'nin adı Fancy olarak değiştirildikten sonra, gemi Hint Okyanusu'na yelken açtı ve etkileyici bir ganimet ele geçirdi: Ganj-i-Sawai ve Fateh Muhammad, altın ve mücevherlerle dolu bir servet taşıyan Babür gemileriydi. Every bu serveti alıp Nassau'ya (bugünkü Bahamalar) yelken açtı ve burada İngiliz valisine rüşvet vererek korsanlara göz yummasını sağladı. Valinin pek bir seçeneği yoktu zaten; o, (o dönemde) önemsiz bir Avrupa gücünün uzak bir kolonisinin yöneticisiydi ve karşısındaki Every, savaşta sertleşmiş, tepeden tırnağa silahlı bir güçtü ve ona hiçbir şey yapmaması karşılığında bir servet teklif ediyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Ancak bu yeni anlaşma ile korsanlar Nassau'ya akın etti ve sivil nüfus azaldıkça Nassau (daha çok Providence olarak anılırdı) bir korsan kasabası haline geldi. İngiliz korsan Benjamin Hornigold, şehirden faaliyet gösteren ve ölüm kafası bayrağını dalgalandıran "Flying Gang" adlı bir korsan çetesini kurdu. Çetenin üyeleri arasında Edward "Kara Sakal" Teach, "Calico" Jack Rackham, Anne Bonny, Henry Jennings, Mary Read ve cumhuriyetin kendi kendini atayan valisi Thomas Barrow gibi isimler yer alıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_5" Language="tr_TR">
+      <Text>"Cumhuriyet" (adı tarihçi Colin Woodard'ın 2007 tarihli kitabından geliyor; üyeleri şehirlerine Providence, gemilerine ise Flying Gang diyorlardı) o dönemde denizde birçok kişi tarafından paylaşılan belirli bir kural sistemine göre faaliyet gösteriyordu. Bu, rızaya dayalı bir otokrasi sistemiydi: kaptan, geminin tek diktatörüydü, ancak mürettebat adayları, gemiye katıldıklarında belirli şartları kabul ediyor ve bunlara uymayı taahhüt ediyorlardı: tüm ganimetin paylaşılması, savaşta yaralananlar için bir sigorta sistemi, önemli konularda oylama, yiyecek ve içeceğe eşit erişim. Ancak bazı sınırlamalar da vardı: gemideki ışıklar saat 20:00'de söndürülmeliydi, kumar oynamak ve gemiye kadın getirmek yasaktı (ancak Bonny ve Read'in varlığı, bunun evrensel bir kural olmadığını göstermektedir) ve pazar günleri müzik çalmak yasaktı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_6" Language="tr_TR">
+      <Text>Cumhuriyet'in korsanları çoğunlukla İngiliz gemilerinden geliyordu ve Hornigold'un İngiliz gemilerine saldırmayı reddetmesi, emrindeki birçok korsanın sıkça şikayet ettiği bir konuydu. Ancak, İngilizler (ve birkaç kadın) dışında, Amerika Birleşik Devletleri'nden, Karayip yerleşimlerinden veya Avrupa'dan, hatta Doğu Hint Adaları'ndan gelen önemli sayıda korsan da vardı. Korsan mürettebatının yapısı, o dönemin donanmalarından daha çeşitlilik gösteriyordu; tahminlere göre korsanların yaklaşık yüzde 25-30'u Afrika kökenliydi ve korsanlar, gemilerin ambarlarında bulunan köleleri çalınabilecek ve satılabilecek bir yük olarak görseler de, özgür siyahi mürettebat üyelerine nispeten eşit muamele edildiği anlaşılıyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_7" Language="tr_TR">
+      <Text>Providence, İngiltere için bir utanç kaynağı ve bölgedeki tüm yasal ticarete bir tehdit oluşturdu. Kral I. George, gemiyi iki yolla yok etmeye çalıştı: teslim olan herkese af ve teslim olmayanlara karşı acımasız bir karşı saldırı. Bunu duyan korsanların yaklaşık yarısı teslim oldu; aralarında Hornigold da vardı ve o, hemen eski çıraklarını avlamakla görevlendirildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_PIRATE_REPUBLIC_CHAPTER_HISTORY_PARA_8" Language="tr_TR">
+      <Text>Cumhuriyetin parçalanması, Karayipler'de korsanlığın "Altın Çağı"na yol açtı; artık merkezi olmayan korsanlar, denizin her köşesinde servet kazanmak için dağıldılar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_PIRATE_REPUBLIC_ARTICLES_OF_AGREEMENT_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>18. yüzyılın başlarında korsan jargonunda "to go on account" (hesaba geçmek), korsan olmak için kayıt olmak anlamına geliyordu. Ve imzalanan belge, Anlaşma Maddeleri olacaktı. Genellikle "korsan kanunu" olarak da adlandırılan bu belge, gemi denizdeyken mürettebatı ve kaptanı bir tür sınırlı otokrasiye bağlayan, ulusa veya toprağa bağlı olmayan alternatif bir yönetim baloncuğunu oluşturan bir kurallar listesiydi. Anlaşmayı imzalamak, o dönemin imparatorluk güçlerinin gözünde kişinin bir korsan olduğunu da gösterirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_PIRATE_REPUBLIC_ARTICLES_OF_AGREEMENT_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu kurallar gemiden gemiye değişmekle birlikte, genellikle belirli hakları içeriyordu. Anlaşmayı imzalayan korsanlar, önemli kararlar için oy kullanabilir ve ganimetten pay alacağından emin olabilirdi, ancak gemideyken kurallara uymak zorundaydı: güverte altında pipo içmek yasaktı, pazar günleri müzik çalmak yasaktı, gemiye kadın alınmazdı, kavga etmek yasaktı. Bazen, Anayasa'daki demokratik hükümler o dönemin imparatorluk donanmalarındakinden çok daha özgürdü ve bu bağımsızlık ve garantili haklar fikri, İngiliz veya Fransız donanma kaptanlarının elinde istismara uğramış birçok kişi için cazipti.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_PIRATE_REPUBLIC_ENEMY_OF_ALL_NATIONS_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sömürgecilik, deniz yollarına ihtiyaç duyuyordu. Sömürgelerde çıkarılan, yetiştirilen ya da yağmalanan zenginlikler toplanır, gemilere yüklenir ve binlerce mil uzunluğundaki yol gösterici olmayan denizleri aşarak ana vatanına gönderilirdi (ya da Manila ticareti örneğinde olduğu gibi, Çin ile ticaret yapmak üzere gönderilirdi). Sömürge sistemini egemenlik altına almaya çalışan rakip güçlerin aksine ve kendi sistemlerini kurmaya çalışan bağımsızlık hareketlerinin aksine, korsanlık bu sistemin varlığının kendisini hedef alıyordu. Bu nedenle, korsanlar eski çağlardan beri devletler tarafından Latince'de "hostis humani generis", yani herkesin düşmanı olarak sınıflandırılmış ve bu da korsanları herhangi bir gücün saldırısına ve intikamına açık hale getirmiştir. Korsanlar elbette kendilerini farklı görüyordu – bazen özgürlük severler olarak, bazen de (Henry Avery'nin ifadesiyle) "şanslı, (kendi) şansını aramak zorunda olan" adamlar olarak.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_PIRATE_REPUBLIC_PORTS_OF_CALL_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Deniz düşmanca bir yer olabilir. Savaş veya fırtınalar nedeniyle hasar gören ya da erzakları tükenmek üzere olan gemiler, güvenli bir şekilde dinlenebilecekleri, erzaklarını yenileyebilecekleri ve onarım yapabilecekleri yerlere ihtiyaç duyuyordu. Korsanlar için riskler daha da artıyordu, çünkü böyle bir yerin deniz devriyelerinden gizli ve imparatorluk güçlerinin bürokratik erişiminden uzak olması gerekiyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_PIRATE_REPUBLIC_PORTS_OF_CALL_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Ancak böyle yerler vardı. Korsan suları özellikle coğrafyanın zorlaştığı yerlerde, dar kanalların ve tehlikeli adaların oluşturduğu labirentlerin çevresinde, ana deniz ticaret yollarının yakınında bulunuyordu. Örneğin, günümüz Endonezyası'ndaki Sulu Takımadaları; gemilerin Ümit Burnu'nu dönüp kuzeye, Asya'ya doğru yol aldıkları yerin yakınındaki Madagaskar; ve elbette Karayipler. Port Royal veya New Providence gibi bazı yerlerde korsanlar, kolonyal yetkililere rüşvet vererek faaliyetlerine göz yumulmasını sağlayabilirdi; diğer yerlerde ise büyük Avrupa ticaret ağlarına direnen yerel güçler korsan faaliyetlerini teşvik edebilirdi. Her biri, dinlenmek ve ikmal yapmak isteyen korsanlar için değerli bir uğrak limanı sağlıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_HAVEN_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Sömürge şehirlerinin valileri zorluklarla karşı karşıya kalıyordu. Okyanuslar ötesindeki güçlerin korumasına muhtaçtılar; çoğu zaman kısmen rakip ulusların kontrolündeki toprakların ortasında ve varlıklarından hoşnutsuz yerli halkın arasında bulunuyorlardı – tüm bunlar olurken de muazzam bir potansiyel servetin üzerinde oturuyorlardı. Birçoğunun koruma, erzak ya da sadece servet için korsanlarla anlaşma yapması şaşırtıcı mı?</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_HAVEN_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Karayipler'de Tortuga, New Providence ve Port Royal ünlü sığınaklardı. Afrika'da St. Mary's Adası, Hint Okyanusu ticaretinde faaliyet gösteren korsanlara kaynak sağlıyordu ve Endonezya'da Sulawesi ve Sulu adaları da aynı şekilde korsan sığınaklarıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_BUCCANEER_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Korsan, korsanların genel adıdır, ancak kelimenin kökeni bunun ötesine uzanır. 17. yüzyılda, sömürge yerleşimlerinden kaçan ve yabanilaşan çiftlik hayvanları nedeniyle Hispaniola'da yaban domuzları çoğaldı; bazı yerleşimciler de kaçarak yabani bir yaşam sürmeye başladı. Bu kanun kaçaklarına, Arawak dilinde et ızgara standı anlamına gelen "buccan" kelimesinden esinlenerek "korsan" adı verildi. Bölgeye daha fazla Avrupalı geldiğinde, bu kelime haydutluk ve korsanlıkla geçinen herkesi ifade etmeye başlamıştı – özellikle de sömürge yetkilileri bu kanunsuz bireyleri ve vahşi avlarını ortadan kaldırmaya çalışırken, birçok kişi yağmalayarak iş ve kazanç arıyordu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_SLOOP_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Ufukta bir sloop hemen fark edilir – üçgen şeklindeki yelkenleri, altındaki ince, bıçak gibi gövdeyi neredeyse tamamen gizler. Çoğunlukla donanımıyla tanımlanan sloop – ana yelkenli tek bir direk ve pruvada bir veya birkaç yelken – hız için inşa edilmiştir. Sığ su çekimi, daha ağır yapılı gemilerin batabileceği tehlikeli sularda seyredebilmesini sağlarken, geniş yelkenleri de son derece hızlı olmasını sağlıyordu. Daha büyük bir geminin ağır kargo ambarları veya ateş gücünden yoksun olabilirdi, ancak sloop hızlı baskınlar ve hızlı kaçışlar için mükemmeldi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_HAVANA_HARBOR_CHAPTER_HISTORY_PARA_1" Language="tr_TR">
+      <Text>Havana, sömürge dönemi Karayipler'indeki en önemli yerleşim yerlerinden biriydi ve bölgedeki İspanyol gücünün merkezlerinden biriydi. Gulf Stream'in başlangıç noktasında yer alan mükemmel bir liman – Avrupa'ya geri dönen bir otoyol görevi gören o sıcak su akıntısı (Avrupa'nın aynı enlemdeki diğer yerlere göre sıcak ikliminin nedeni de cabası), Havana limanı coğrafi olarak bölgenin büyük ve küçük adalarına ve ötesine gücü yayacak bir konumdaydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_HAVANA_HARBOR_CHAPTER_HISTORY_PARA_2" Language="tr_TR">
+      <Text>Bu nedenle, hazine filolarının İspanya'ya geri dönmek üzere tehlikeli yolculuğa çıkmadan önce toplandıkları yerdi. Kraliyet, 16. yüzyılda bile bölgeyi rahatsız etmeye başlayan korsanlara karşı, müstahkem bir filonun daha iyi koruma sağlayacağını düşünüyordu. Bu hesap doğru çıktı… ancak aynı zamanda filoyu ele geçirebilecek herkes için cazip bir ganimet haline getirdi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_HAVANA_HARBOR_CHAPTER_HISTORY_PARA_3" Language="tr_TR">
+      <Text>Limanın tahkimatı 1553'te başladı ve bölgedeki İngiliz, Fransız ve Hollanda varlığının artmasıyla genişletildi. Kale, 1762'de İngiliz kuşatmasına yenik düştü, ancak yelkenli gemilerin çağında ve sonrasında da korkutucu bir güç olarak kaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_WONDER_HAVANA_HARBOR_CHAPTER_HISTORY_PARA_4" Language="tr_TR">
+      <Text>Havana, 1902'de bağımsız Küba'nın başkenti oldu, ancak deniz kalelerinin kullanımı, seyir füzeleri ve hayalet bombardıman uçaklarının olduğu bir çağda azaldı.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_ARSENAL_NAME" Language="tr_TR">
+      <Text>Deniz Harb İmalathanesi</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_STATION_NAME" Language="tr_TR">
+      <Text>Donanma Üssü</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_HAVEN_NAME" Language="tr_TR">
+      <Text>Haven</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_HAVANA_HARBOR_NAME" Language="tr_TR">
+      <Text>Havana Limanı</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_CAUTO_RIVER_NAME" Language="tr_TR">
+      <Text>Cauto Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_GOOSE_RIVER_NAME" Language="tr_TR">
+      <Text>Goose Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_OZAMA_RIVER_NAME" Language="tr_TR">
+      <Text>Ozama Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_RIO_GRANDE_DE_LOIZA_NAME" Language="tr_TR">
+      <Text>Río Grande de Loíza</Text>
+    </Replace>
+    <Replace Tag="LOC_RIVER_SALT_RIVER_NAME" Language="tr_TR">
+      <Text>Salt Nehri</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_CITERNE_NAME" Language="tr_TR">
+      <Text>Citerne</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_KICK_EM_JENNY_NAME" Language="tr_TR">
+      <Text>Kick 'em Jenny</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MORNE_AUX_DIABLES_NAME" Language="tr_TR">
+      <Text>Morne aux Diables</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_MOUNT_LIAMUIGA_NAME" Language="tr_TR">
+      <Text>Liamuiga Dağı</Text>
+    </Replace>
+    <Replace Tag="LOC_VOLCANO_THE_QUILL_NAME" Language="tr_TR">
+      <Text>Quill</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ARTICLES_OF_AGREEMENT_NAME" Language="tr_TR">
+      <Text>Anlaşma Maddeleri</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ENEMY_OF_ALL_NATIONS_NAME" Language="tr_TR">
+      <Text>Tüm Ulusların Düşmanı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PORTS_OF_CALL_NAME" Language="tr_TR">
+      <Text>Uğranılan Limanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_ARTIFACT_ILLGOTTEN_BOOTY_NAME" Language="tr_TR">
+      <Text>Haksız Kazanılmış Ganimet</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_ARTIFACT_PIRATE_BOOTY_NAME" Language="tr_TR">
+      <Text>Korsan Ganimeti</Text>
+    </Replace>
+    <Replace Tag="LOC_11111A_COMPLETION" Language="tr_TR">
+      <Text>Bir korsan davranış kuralları belgesi çelişkili görünebilir, ancak işte burada, taslak halinde, korsan konseyinin onayına hazır bir şekilde duruyor. "Biraz yetersiz," diyor bitkin görünümlü yaşlı bir denizci. "Biraz daha not eklenebilir," diyor bir diğeri.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111A_STORYTITLE" Language="tr_TR">
+      <Text>Madde</Text>
+    </Replace>
+    <Replace Tag="LOC_11111B_COMPLETION" Language="tr_TR">
+      <Text>Yazmanlar, Kuralları iyileştirmek için yıllarca çalıştı. Şimdi buruşuk parşömen üzerinde duruyor – korsan dayanışmasının bir anıtı. "Biraz kalın," diyor yaşlı denizci. "Okumak için çok uzun," diyor bir diğeri.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111B_IMPERATIVE" Language="tr_TR">
+      <Text>2 tane daha Politika Yeri aç.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111B_NAME" Language="tr_TR">
+      <Text>Biraz daha ağırlık katın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111B_STORYTITLE" Language="tr_TR">
+      <Text>Madde</Text>
+    </Replace>
+    <Replace Tag="LOC_11111C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11111C_NAME" Language="tr_TR">
+      <Text>Olduğu gibi gayet iyi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112A_COMPLETION" Language="tr_TR">
+      <Text>Norman denizcileri kendilerini deniz kurtları, suların belası olarak görürler. Korsanlar, başka kimsenin kendi bölgelerine hak iddia etmesine tahammül edemezler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112A_STORYTITLE" Language="tr_TR">
+      <Text>Deniz Kurtları</Text>
+    </Replace>
+    <Replace Tag="LOC_11112B_COMPLETION" Language="tr_TR">
+      <Text>Deniz kurtları istedikleri kadar havlayabilirler, ama karada kalırlar.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112B_DESCRIPTION" Language="tr_TR">
+      <Text>Deniz Birimlerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112B_IMPERATIVE" Language="tr_TR">
+      <Text>3 Norman Kıyı Karosunu Yağmalayın</Text>
+    </Replace>
+    <Replace Tag="LOC_11112B_NAME" Language="tr_TR">
+      <Text>Denizlerin kara bayrak altında kalmasını sağlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112B_STORYTITLE" Language="tr_TR">
+      <Text>Deniz Köpekleri</Text>
+    </Replace>
+    <Replace Tag="LOC_11112C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11112C_NAME" Language="tr_TR">
+      <Text>Bırakın köpekler havlasın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11113A_COMPLETION" Language="tr_TR">
+      <Text>Chola İmparatorluğu'nun Beş Yüz Lordu, altın ve mücevherlerle süslenmiş tüccar krallarıdır; isimleri zenginlik ve lüksün eş anlamlısıdır. Bugün, biri gemiden atıldı. Kaç Lord kaldı?</Text>
+    </Replace>
+    <Replace Tag="LOC_11113A_STORYTITLE" Language="tr_TR">
+      <Text>Korsan Matematiği</Text>
+    </Replace>
+    <Replace Tag="LOC_11113B_COMPLETION" Language="tr_TR">
+      <Text>Dört Yüz Doksan Dokuz Lord, Dört Yüz Doksan Dokuz Kılıç ile karşılaşır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11113B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} 1 puan değerindedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11113B_IMPERATIVE" Language="tr_TR">
+      <Text>Chola'ya karşı bir korsanın "Akın Grubu" eylemini kullan.</Text>
+    </Replace>
+    <Replace Tag="LOC_11113B_NAME" Language="tr_TR">
+      <Text>"Dört Yüz Doksan Dokuz."</Text>
+    </Replace>
+    <Replace Tag="LOC_11113B_STORYTITLE" Language="tr_TR">
+      <Text>Korsan Matematiği</Text>
+    </Replace>
+    <Replace Tag="LOC_11113C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} Deniz Birimleri.</Text>
+    </Replace>
+    <Replace Tag="LOC_11113C_NAME" Language="tr_TR">
+      <Text>"Arr ile bölmeliyiz!"</Text>
+    </Replace>
+    <Replace Tag="LOC_11114A_COMPLETION" Language="tr_TR">
+      <Text>Gemi muhasebecisi, ele geçirilen Ming gemisinin boyunu bir uçtan diğer uca yürür. Rakamları defalarca gözden geçirdikten sonra bir sonuca varır: hazinenin önemli bir kısmı kaybolmuştur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11114A_STORYTITLE" Language="tr_TR">
+      <Text>Ming'in Kayıp Hazinesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11114B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward} ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11114B_NAME" Language="tr_TR">
+      <Text>Bu, kaptanın payından kesilecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11114C_DESCRIPTION" Language="tr_TR">
+      <Text>Hikaye devam ediyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11114C_NAME" Language="tr_TR">
+      <Text>Böyle şeyler olur.</Text>
+    </Replace>
+    <Replace Tag="LOC_11115A_COMPLETION" Language="tr_TR">
+      <Text>İşçiler eski bir korsan hanının kalıntılarını yıkarken, döşeme tahtalarının altında yağmalanmış Ming hazineleri keşfederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11115A_STORYTITLE" Language="tr_TR">
+      <Text>Ming Hanedanlığı'nın Bulunan Hazinesi</Text>
+    </Replace>
+    <Replace Tag="LOC_11115B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11115B_NAME" Language="tr_TR">
+      <Text>Hazineler, korsan çağının müzesini süsleyecek.</Text>
+    </Replace>
+    <Replace Tag="LOC_11115C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11115C_NAME" Language="tr_TR">
+      <Text>Hazineler moda ikonları haline gelir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11116A_COMPLETION" Language="tr_TR">
+      <Text>İlk raporlar gelir: korsan limanlarına doğru yol alan, hazinelerle dolu bir gemi. Ancak haftalar aylara dönüşürken gemi ortada yoktur ve bu hazineleri harcama planları homurdanmalara dönüşür. Sonunda bir kaptan geri döner – geminin başkasının elinde olduğunu iddia eder.</Text>
+    </Replace>
+    <Replace Tag="LOC_11116A_STORYTITLE" Language="tr_TR">
+      <Text>Kaybolan Ganimet</Text>
+    </Replace>
+    <Replace Tag="LOC_11116B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11116B_NAME" Language="tr_TR">
+      <Text>Gemiyi geri alın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11116C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11116C_NAME" Language="tr_TR">
+      <Text>Kaptanın parasını alın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11117A_COMPLETION" Language="tr_TR">
+      <Text>Hazine filosunun başçarkçısı, mürettebatın geri kalanıyla birlikte teslim olur. Sinirli bir iç çekişle, korsan bayrağının direğe çekilmesini işaret eder. Yine.</Text>
+    </Replace>
+    <Replace Tag="LOC_11117A_STORYTITLE" Language="tr_TR">
+      <Text>Ganimet Geri Alındı</Text>
+    </Replace>
+    <Replace Tag="LOC_11117B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11117B_NAME" Language="tr_TR">
+      <Text>Her şey affedildi.</Text>
+    </Replace>
+    <Replace Tag="LOC_11117C_DESCRIPTION" Language="tr_TR">
+      <Text>Deniz Birimlerinde{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11117C_NAME" Language="tr_TR">
+      <Text>İyi bir kırbaçlama, bunun bir daha olmaması için yeterli olacaktır.</Text>
+    </Replace>
+    <Replace Tag="LOC_11118A_COMPLETION" Language="tr_TR">
+      <Text>Bir hazine filosu daha kayboldu, amirallik karargahında yine bir sürü mazeret sunuldu. Amiral, kaptana şüpheyle bakar. "Beni bir kez kandırırsan, utanç sana aittir. Beni iki kez kandırırsan..."</Text>
+    </Replace>
+    <Replace Tag="LOC_11118A_STORYTITLE" Language="tr_TR">
+      <Text>Beni Bir Kez Kandırırsan...</Text>
+    </Replace>
+    <Replace Tag="LOC_11118B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11118B_NAME" Language="tr_TR">
+      <Text>"Utanç bana." Kaptanın mal varlıklarına el koyun.</Text>
+    </Replace>
+    <Replace Tag="LOC_11118C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ancak {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11118C_NAME" Language="tr_TR">
+      <Text>"Bir daha kandırılmayacağım!" Bir tane daha yakala.</Text>
+    </Replace>
+    <Replace Tag="LOC_11119A_COMPLETION" Language="tr_TR">
+      <Text>Eski bir iskelenin altında, inşaat işçileri eski Korsan Cumhuriyeti'nden çalınan devasa bir altın zulası bulur. Ganimet tarihi öneme sahiptir, ama aynı zamanda {1_Civilization_Adj} hazinesini doldurabilecek ham altın külçeleridir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11119A_STORYTITLE" Language="tr_TR">
+      <Text>Korsan Korsanlar</Text>
+    </Replace>
+    <Replace Tag="LOC_11119B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11119B_NAME" Language="tr_TR">
+      <Text>Satın ve gelirini hazineye aktarın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11119C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11119C_NAME" Language="tr_TR">
+      <Text>Bu, korsanların altın çağına açılan bir pencere!</Text>
+    </Replace>
+    <Replace Tag="LOC_11120A_COMPLETION" Language="tr_TR">
+      <Text>Denizlerde korsanlar hüküm sürüyor. Dünyanın dört bir yanından gelen, insanlığın bildiği her dili konuşan bu korsanların tek bir ortak hedefi var:</Text>
+    </Replace>
+    <Replace Tag="LOC_11120A_STORYTITLE" Language="tr_TR">
+      <Text>Açık Denizlerdeki Kara Yelkenler</Text>
+    </Replace>
+    <Replace Tag="LOC_11120B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11120B_NAME" Language="tr_TR">
+      <Text>Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_11120C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11120C_NAME" Language="tr_TR">
+      <Text>Freedom.</Text>
+    </Replace>
+    <Replace Tag="LOC_11121A_COMPLETION" Language="tr_TR">
+      <Text>Uzak bölgelerdeki işçiler güneşin altında yorulmadan çalışıyor, topraktan hazineleri topluyor, bu hazineler çalınıyor, alınarak anavatanlarına giden gemilere yükleniyor. Buna karşılık, bu hazine gemileri durduruluyor, gemilere çıkılıyor, malları alınarak Korsan Cumhuriyeti'ne gönderiliyor.</Text>
+    </Replace>
+    <Replace Tag="LOC_11121A_STORYTITLE" Language="tr_TR">
+      <Text>Sömürülen Zenginliğin Döngüsü</Text>
+    </Replace>
+    <Replace Tag="LOC_11121B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11121B_NAME" Language="tr_TR">
+      <Text>Kârlar yeni mürettebatları cesaretlendirecektir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11121C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}, ama {2_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11121C_NAME" Language="tr_TR">
+      <Text>İşçiler, denizciler gibi, paylarını hak ederler.</Text>
+    </Replace>
+    <Replace Tag="LOC_11122A_COMPLETION" Language="tr_TR">
+      <Text>Antik Çağ'ın Cumhuriyetini hatırlayan korsanlar, yeni ve uzak yerleşim yerinde yeni bir güç merkezi oluşturdu. Burasının diğerlerinden farklı bir şehir olacağını ilan ediyorlar – hem zihin hem de beden için zincirlerden ve prangalardan tamamen arınmış bir yer.</Text>
+    </Replace>
+    <Replace Tag="LOC_11122A_STORYTITLE" Language="tr_TR">
+      <Text>Libertatia</Text>
+    </Replace>
+    <Replace Tag="LOC_11122B_DESCRIPTION" Language="tr_TR">
+      <Text>Kasabalarda{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11122B_NAME" Language="tr_TR">
+      <Text>Onu özgürlerin adası ilan edin!</Text>
+    </Replace>
+    <Replace Tag="LOC_11122C_DESCRIPTION" Language="tr_TR">
+      <Text>Şehirlerde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11122C_NAME" Language="tr_TR">
+      <Text>Onları tutuklayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_11123A_COMPLETION" Language="tr_TR">
+      <Text>Bir zamanlar Majapahit İmparatorluğu'nun bir parçası olan ve şimdi Korsanlar Cumhuriyeti'ne bağlı olan Orang Laut, tüm hayatlarını denizde geçirir. Evleri dalgalarla sallanır, sakinleri rıhtımlarından balık tutar ve çocuklar karada olduğu kadar denizde de rahat görünür.</Text>
+    </Replace>
+    <Replace Tag="LOC_11123A_STORYTITLE" Language="tr_TR">
+      <Text>Orang Laut</Text>
+    </Replace>
+    <Replace Tag="LOC_11123B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11123B_NAME" Language="tr_TR">
+      <Text>Bunlar iyi casuslar olabilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_11123C_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_11123C_NAME" Language="tr_TR">
+      <Text>Balıkçı filosunu yönetecekler.</Text>
+    </Replace>
+    <Replace Tag="LOC_12012A_COMPLETION" Language="tr_TR">
+      <Text>Gemilere yabancı olmasa da, Dr. Rizal korsan teknesinin güvertesinde kendini rahatsız hisseder. Şiddet, yüzeyin altında kaynıyor gibidir ve bu denizcilerin her birini, yabancı bir limanda bir darağacı beklemektedir.</Text>
+    </Replace>
+    <Replace Tag="LOC_12012A_STORYTITLE" Language="tr_TR">
+      <Text>Açık Denizde Dr. Rizal</Text>
+    </Replace>
+    <Replace Tag="LOC_12012B_DESCRIPTION" Language="tr_TR">
+      <Text>{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12012B_NAME" Language="tr_TR">
+      <Text>Biriyle arkadaş ol. Doktoru ganimetten paylandırabilirler.</Text>
+    </Replace>
+    <Replace Tag="LOC_12012C_DESCRIPTION" Language="tr_TR">
+      <Text>Cog gemilerinde{1_reward}.</Text>
+    </Replace>
+    <Replace Tag="LOC_12012C_NAME" Language="tr_TR">
+      <Text>Onları iş başında görmek için nadir bir fırsat!</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SLOOP_DESCRIPTION" Language="tr_TR">
+      <Text>Saldırıdan sonra hareket edebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ARTICLES_OF_AGREEMENTS_MOD_BUCCANEER_LOOTING_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_BUCCANEER] Korsanlar, [icon:NAR_REW_PROMOTION] Yağma [TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]Terfi[/TIP]'ni ücretsiz olarak kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_ARSENAL_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Altın Bina[/TIP]. +4[icon:YIELD_GOLD] Altın. +1[icon:YIELD_GOLD] Altın [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]Kaynaklar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP] için. Kıyıya yerleştirilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_ARSENAL_TOOLTIP" Language="tr_TR">
+      <Text>Kıyıya yerleştirilmelidir.[n]Korsanlar Cumhuriyeti [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_STATION_DESCRIPTION" Language="tr_TR">
+      <Text>Korsan Cumhuriyeti [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Üretim Binası[/TIP]. +5[icon:YIELD_PRODUCTION] Üretim. +1[icon:YIELD_PRODUCTION] Askeri [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP], Altın [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]Binalar[/TIP] ve [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Harikalar[/TIP]. Kıyıya yerleştirilmelidir. [icon:YIELD_GOLD] Altın [TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]bakım[/TIP] gerektirmez.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_NAVAL_STATION_TOOLTIP" Language="tr_TR">
+      <Text>Kıyıya yerleştirilmelidir.[n]Korsanlar Cumhuriyeti [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Eşsiz Bina[/TIP].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ARTICLES_OF_AGREEMENT_AUTHOR" Language="tr_TR">
+      <Text>Anonim Korsan</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ARTICLES_OF_AGREEMENT_QUOTE" Language="tr_TR">
+      <Text>"Evet, içtenlikle pişmanım. Daha fazla kötülük yapmadığım için pişmanım."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ENEMY_OF_ALL_NATIONS_AUTHOR" Language="tr_TR">
+      <Text>Henry Avery</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ENEMY_OF_ALL_NATIONS_QUOTE" Language="tr_TR">
+      <Text>"Ben şanslı bir adamım ve şansımı aramalıyım."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PORTS_OF_CALL_AUTHOR" Language="tr_TR">
+      <Text>Korsan, Black Bart'ın mürettebatı</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_PORTS_OF_CALL_QUOTE" Language="tr_TR">
+      <Text>"Cennet mi, seni aptal? Oraya giden bir korsan duydun mu hiç? Bana cehennemi ver, orası daha neşeli bir yer."</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATE_REPUBLIC_DESCRIPTION" Language="tr_TR">
+      <Text>Deniz Birimleri [B]+100% [icon:Action_Pillage] Yağma Verimi ve [icon:Action_Heal] İyileştirme[/B] alır. [icon:UNIT_SETTLER] Yerleşimciler eğitilemez veya satın alınamaz, ancak diğer Medeniyetlerin [icon:UNIT_SETTLER] Yerleşimcilerini ele geçirebilirsiniz. Deniz, Hazine Konvoyu ve Korsan Birimleri, [icon:WAR] Savaş halinde olmadan veya Sınırları Açık olmadan diğer Medeniyetlerin sınırlarına girebilir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ENEMY_OF_ALL_NATIONS_MOD_TREASURE_FLEET_CS_DESCRIPTION" Language="tr_TR">
+      <Text>Tüm [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Askeri Birim[/TIP] için [icon:UNIT_TREASURE_FLEET] [TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]Hazine Konvoyları[/TIP]'na karşı.</Text>
+    </Replace>
+    <Replace Tag="LOC_ENEMY_OF_ALL_NATIONS_MOD_TREASURE_FLEET_EXTRA_VP_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [icon:UNIT_TREASURE_FLEET] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_CONVOY_TOOLTIP]Hazine Konvoyu[/TIP] birimini ele geçirdiğinizde, bu birim size ek bir Hazine Filosu Puanı kazandırır.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_PIRATE_REPUBLIC" Language="tr_TR">
+      <Text>Selam, dostum! Deniz ve tuzdan başka efendisi olmayanlarla hesaplaşmaya gittin. Öyleyse demir al ve iskelenin sonunda altın mı yoksa Jack Ketch mi olduğunu gör. Ferman imzalandı ve şeytan iş başında.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_CIV_TIPS_TEXT_PIRATE_REPUBLIC" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti Yerleşimcileri eğitemediğinden, Limanlara Uğrama Sivil Yeteneğini açarak Korsan Benzersiz Komutanına yeni bir Kasaba kurma yetkisi verin.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_PIRATE_REPUBLIC_COMPLETE_HAVANA_HARBOR_DESC" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti olarak, Havana Limanı'nı tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_PIRATE_REPUBLIC_COMPLETE_HAVANA_HARBOR_NAME" Language="tr_TR">
+      <Text>Havana Limanı</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_PIRATE_REPUBLIC_LEGACY_PATH_ECONOMIC_ACHIEVED_DESC" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti olarak, bir Ekonomik Miras Yolu'nu tamamlayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_METAPROGRESSION_CHALLENGE_PIRATE_REPUBLIC_LEGACY_PATH_ECONOMIC_ACHIEVED_NAME" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti Miras Yolu</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_PIRATE_REPUBLIC_DESCRIPTION" Language="tr_TR">
+      <Text>+30% [icon:YIELD_PRODUCTION] Korsanlar Cumhuriyeti'nin ilişkili [icon:WONDER] Harikası olmaktan elde edilen üretim.</Text>
+    </Replace>
+    <Replace Tag="LOC_PORTS_OF_CALL_BUCCANEER_SETTLER_CHARGE_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:UNIT_BUCCANEER] Korsanlar, yeni bir [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Kasaba[/TIP] oluşturmak için 1 şarj kazanır.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_HAVEN_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Eşsiz Bölge[/TIP]. Aynı [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]Bölge[/TIP] içinde Deniz Üssü ve Deniz Cephaneliği inşa ederek oluşturulur. Havuzunuzdaki her [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_RESOURCES_TOOLTIP]Hazine Kaynağı[/TIP] için +1 [icon:YIELD_GOLD] Altın. Dost [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] bu karede +50 [icon:Action_Heal] İyileştirme alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_HAVEN_TOOLTIP" Language="tr_TR">
+      <Text>Havuzunuzdaki her [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_RESOURCES_TOOLTIP]Hazine Kaynağı[/TIP] için +1 [icon:YIELD_GOLD] Altın. Dost [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] bu karede +50 [icon:Action_Heal] İyileştirme alır.</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_AUTHOR_WONDER_HAVANA_HARBOR" Language="tr_TR">
+      <Text>Robert Louis Stevenson</Text>
+    </Replace>
+    <Replace Tag="LOC_QUOTE_WONDER_HAVANA_HARBOR" Language="tr_TR">
+      <Text>Altının hemen yakınında, diğer her şey unutulmuştu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BLACK_FLAG_DESCRIPTION" Language="tr_TR">
+      <Text>[icon:YIELD_GOLD] Altın [icon:Action_Pillage] Yağmalama [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Ticaret Yolları[/TIP]'ndan %100.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MERRY_LIFE_AND_A_SHORT_ONE_DESCRIPTION" Language="tr_TR">
+      <Text>Bir [TIP:LOC_PEDIA_CONCEPTS_SUPPORT_UNIT_TOOLTIP]Destek Birimi[/TIP]'ni yendiğinizde, birimin [icon:YIELD_PRODUCTION] Üretim maliyetine eşit miktarda [icon:YIELD_GOLD] Altın kazanırsınız. Bir [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]'ni yendiğinizde, birimin [icon:YIELD_PRODUCTION] Üretim maliyetinin %25'i kadar [icon:YIELD_GOLD] Altın kazanırsınız.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_PRESS_GANGS_DESCRIPTION" Language="tr_TR">
+      <Text>+50%[icon:YIELD_PRODUCTION] Sahip olduğunuz her [icon:UNIT_FLEET_COMMANDER] Filo Komutanı için [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimleri[/TIP] üretimi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_PIRATE_REPUBLIC_ABILITY_DESCRIPTION" Language="tr_TR">
+      <Text>[BLIST][LI]Deniz Birimleri [B]+100% [icon:Action_Pillage] Yağma Verimi ve [icon:Action_Heal] İyileştirme[/B] alır. [LI][icon:UNIT_SETTLER] [B]Yerleşimciler[/B] eğitilemez veya satın alınamaz, ancak diğer Medeniyetlerin [icon:UNIT_SETTLER] [B]Yerleşimcileri[/B] ele geçirebilirsiniz.[LI][B]Deniz, Hazine Konvoyu ve Korsan Birimleri[/B], [icon:WAR] [B]Savaş[/B] halinde olmadan veya [B]Açık Sınırlar[/B] olmadan diğer [B]Medeniyetlerin[/B] sınırlarına girebilir.[LI][B]+30%[icon:YIELD_PRODUCTION] Üretim [/B][B]Havana Limanı[/B]'nın inşası için. [/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_PIRATE_REPUBLIC_ABILITY_NAME" Language="tr_TR">
+      <Text>Uçan Çete</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_CIVICS_EX_PIRATE_REPUBLIC_NAME" Language="tr_TR">
+      <Text>Korsan Sivil Bilgisi</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BUCCANEER_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti'ne özgü Filo Komutanı. Sahip olduğu her 2 [icon:NAR_REW_PROMOTION] Seviye için Yağma Grubu Eylemini kullanmak üzere 1 şarj kazanır. Yağma Grubu: [TIP:LOC_PEDIA_CONCEPTS_TREASURE_RESOURCES_TOOLTIP]Hazine Kaynağı[/TIP] hedefler. Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP], anında bir [icon:UNIT_TREASURE_FLEET] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Hazine Konvoyu[/TIP] oluşturur. Bu, başka bir [icon:UNIT_TREASURE_FLEET] [TIP:LOC_PEDIA_CONCEPTS_TREASURE_CONVOY_TOOLTIP]Hazine Konvoyu[/TIP] ortaya çıkana kadar tur sayısını sıfırlamaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_2_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti Seviye 2 Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:UNIT_CAUTION] [TIP:LOC_PEDIA_CONCEPTS_PIRATE_TOOLTIP]Korsan[/TIP] Yeteneğine sahiptir. Sloop ile bir birimi yenmek, o birimin [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nin %100'üne eşit Altın kazandırır. Saldırıdan sonra hareket edebilir ve 5 [icon:Action_Move] Hareket puanı vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_3_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti Seviye 3 Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:UNIT_CAUTION] [TIP:LOC_PEDIA_CONCEPTS_PIRATE_TOOLTIP]Korsan[/TIP] Yeteneğine sahiptir. Sloop ile bir birimi yenmek, o birimin [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nin %100'üne eşit Altın kazandırır. Saldırıdan sonra hareket edebilir ve 5 [icon:Action_Move] Hareket puanı vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_BASE_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti'ne özgü Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:UNIT_CAUTION] [TIP:LOC_PEDIA_CONCEPTS_PIRATE_TOOLTIP]Korsan[/TIP] Yeteneğine sahiptir. Sloop ile bir birimi yenmek, o birimin [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nin %100'üne eşit Altın kazandırır. Saldırıdan sonra hareket edebilir ve 5 [icon:Action_Move] Hareket puanı vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_DESCRIPTION" Language="tr_TR">
+      <Text>Korsanlar Cumhuriyeti 1. Seviye Hafif [TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]Deniz Birimi[/TIP]. [icon:UNIT_CAUTION] [TIP:LOC_PEDIA_CONCEPTS_PIRATE_TOOLTIP]Korsan[/TIP] Yeteneğine sahiptir. Sloop ile bir birimi yenmek, o birimin [icon:YIELD_GOLD] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Savaş Gücü[/TIP]'nin %100'üne eşit Altın kazandırır. Saldırıdan sonra hareket edebilir ve 5 [icon:Action_Move] Hareket puanı vardır.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_RAIDING_PARTY_DESCRIPTION" Language="tr_TR">
+      <Text>Uzak Topraklarda farklı bir Medeniyete ait bir Hazine Kaynağına bitişik boş bir karede etkinleştirin. Bu Yerleşim, kontrolünüz altındaki bir Hazine Konvoyunu anında oluşturur; bu, başka bir Hazine Konvoyu oluşana kadar turları sıfırlamaz.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_RAIDING_PARTY_NAME" Language="tr_TR">
+      <Text>Akıncı Grubu</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_RAIDING_PARTY_REQUIRES_VALID_TILE" Language="tr_TR">
+      <Text>Uzak Topraklarda farklı bir Medeniyete ait, bitişik ve boş bir Hazine Kaynağı karesi gerektirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_AMINA_PIRATE_REPUBLIC_TOOLTIP" Language="tr_TR">
+      <Text>[B]Amina[/B] ve [B]Korsanlar Cumhuriyeti[/B] ikisi de Altın ve Kaynakları sever.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_PIRATE_REPUBLIC_TOOLTIP" Language="tr_TR">
+      <Text>[B]Edward Teach[/B], [B]Korsanlar Cumhuriyeti[/B]'nin en korkulan korsanıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_PIRATE_REPUBLIC_DESCRIPTION" Language="tr_TR">
+      <Text>[B]Korsanlar Cumhuriyeti[/B] olarak oynayın.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLUNDERS_DESCRIPTION" Language="tr_TR">
+      <Text>İki [B]Ticaret Yolu[/B]'nu yağmalayın</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLUNDERS_PIRATE_REPUBLIC_NARRATIVE" Language="tr_TR">
+      <Text>Kimse tüm denizi gözetleyemez. Ticaret büyüdükçe, yağma şansı da artar. Korsanlar giderek daha organize ve cesur hale gelir. Daha büyük bir şey için hamle yapmaları sadece an meselesidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLUNDERS_PIRATE_REPUBLIC_TOOLTIP" Language="tr_TR">
+      <Text>[B]Yağma[/B], [B]Korsanlar Cumhuriyeti'nin[/B] kimliğinin önemli bir parçasıydı.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_HAVANA_HARBOR_DESCRIPTION" Language="tr_TR">
+      <Text>+3 [icon:YIELD_GOLD] Altın. Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP], [TIP:LOC_PEDIA_CONCEPTS_TREASURE_CONVOY_TOOLTIP]Hazine Konvoyları[/TIP] üretir. +1 [icon:ATTRIBUTE_ECONOMIC] Ekonomik [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Özellik[/TIP] Puanı. [TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]Yaşlanmaz[/TIP]. Göl olmayan bir Kara'ya bitişik [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP] Kıyısında inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_WONDER_HAVANA_HARBOR_TOOLTIP" Language="tr_TR">
+      <Text>Bu [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Yerleşim[/TIP], [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Keşif Çağı[/TIP]'nda 3 Hazine Filosu puanı değerinde [icon:UNIT_TREASURE_FLEET] [TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]Hazine Konvoyları[/TIP] üretir. +1 [icon:ATTRIBUTE_ECONOMIC] Ekonomik [TIP:LOC_PEDIA_CONCEPTS_ATTRIBUTE_TOOLTIP]Özellik[/TIP] Puanı.[N]Göl olmayan bir Kara'ya bitişik [TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]Uzak Topraklar[/TIP] kıyısında inşa edilmelidir.</Text>
+    </Replace>
+    <Replace Tag="LOC_ENEMY_OF_ALL_NATIONS_MOD_TREASURE_FLEET_CS_PREVIEW" Language="tr_TR">
+      <Text>+{1_Amount} Tüm Ulusların Düşmanı</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_BLACK_FLAG_NAME" Language="tr_TR">
+      <Text>Kara Bayrak</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_MERRY_LIFE_AND_A_SHORT_ONE_NAME" Language="tr_TR">
+      <Text>Mutlu ve Kısa Bir Hayat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_PRESS_GANGS_NAME" Language="tr_TR">
+      <Text>Zorla Asker Alımı</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BUCCANEER_NAME" Language="tr_TR">
+      <Text>Buccaneer</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_NAME" Language="tr_TR">
+      <Text>Sloop</Text>
+    </Replace>
+  </LocalizedText>
+</Database>
