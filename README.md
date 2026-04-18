@@ -80,6 +80,16 @@ EXE dosyası Nuitka ile derlenmiştir ve imzasız olduğu için bazı antivirüs
 
 **Windows Defender uyarısı alırsanız:** Daha fazla bilgi → Yine de çalıştır
 
+<details>
+<summary>İmzasız ne demek? Neden imzasız?</summary>
+
+Büyük yazılım şirketleri, programlarının güvenilir olduğunu kanıtlamak için "kod imzalama sertifikası" (code signing certificate) kullanır. Bu sertifika, bir sertifika otoritesinden (CA) yıllık 200-400$ ödenerek alınır ve programın kim tarafından yapıldığını doğrular.
+
+Bu proje bireysel bir topluluk çalışmasıdır ve yapay zeka destekli araçlarla kodlanmıştır. Herhangi bir şirket veya kuruluş tarafından desteklenmediği için kod imzalama sertifikası maliyeti karşılanamamaktadır.
+
+İmzasız olması programın zararlı olduğu anlamına gelmez — sadece Windows'un "bu programı tanımıyorum" demesidir. Kaynak kodumuz tamamen açıktır, `setup.py` dosyasını inceleyerek programın ne yaptığını satır satır görebilirsiniz. İmza sahibi olmak istemiyorsanız, Python ile doğrudan `setup.py` dosyasını çalıştırabilir veya manuel kurulum yapabilirsiniz.
+</details>
+
 ## 🤝 Katkıda Bulunma
 
 - Çeviri hataları için [Issues](https://github.com/melih58g/civilization-vii-tr/issues) açın

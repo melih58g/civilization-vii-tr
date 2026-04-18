@@ -197,8 +197,15 @@ C = {
 
 # ─── Yardımcı Fonksiyonlar ──────────────────────────────────────────────────
 def get_script_dir() -> str:
-    if getattr(sys, 'frozen', False):
-        return os.path.dirname(sys.executable)
+    """EXE veya .py fark etmeksizin çalışma dizinini döndür."""
+    # Nuitka onefile veya PyInstaller: EXE'nin bulunduğu dizin
+    if getattr(sys, 'frozen', False) or getattr(sys, '_MEIPASS', None):
+        return os.path.dirname(os.path.abspath(sys.executable))
+    # Nuitka standalone (frozen olmayabilir): argv[0] kullan
+    exe_path = os.path.abspath(sys.argv[0])
+    if exe_path.endswith('.exe'):
+        return os.path.dirname(exe_path)
+    # Normal Python
     return os.path.dirname(os.path.abspath(__file__))
 
 
