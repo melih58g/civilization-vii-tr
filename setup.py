@@ -197,14 +197,23 @@ C = {
 
 # ─── Yardımcı Fonksiyonlar ──────────────────────────────────────────────────
 def get_script_dir() -> str:
-    """EXE veya .py fark etmeksizin çalışma dizinini döndür."""
-    # Nuitka onefile veya PyInstaller: EXE'nin bulunduğu dizin
-    if getattr(sys, 'frozen', False) or getattr(sys, '_MEIPASS', None):
+    """EXE veya .py fark etmeksizin, dosyanın GERÇEK bulunduğu dizini döndür."""
+    # Nuitka onefile: __nuitka_binary_dir global olarak tanımlı
+    nuitka_dir = globals().get("__nuitka_binary_dir")
+    if nuitka_dir:
+        return nuitka_dir
+    # Nuitka onefile alternatif: NUITKA_ONEFILE_PARENT env var
+    nuitka_parent = os.environ.get("NUITKA_ONEFILE_PARENT")
+    if nuitka_parent:
+        # Bu PID, ondan exe yolunu bulmak zor — CWD kullan
+        pass
+    # EXE olarak çalışıyorsa (argv[0] .exe ile bitiyorsa)
+    argv0 = os.path.abspath(sys.argv[0])
+    if argv0.lower().endswith('.exe'):
+        return os.path.dirname(argv0)
+    # PyInstaller
+    if getattr(sys, 'frozen', False):
         return os.path.dirname(os.path.abspath(sys.executable))
-    # Nuitka standalone (frozen olmayabilir): argv[0] kullan
-    exe_path = os.path.abspath(sys.argv[0])
-    if exe_path.endswith('.exe'):
-        return os.path.dirname(exe_path)
     # Normal Python
     return os.path.dirname(os.path.abspath(__file__))
 
